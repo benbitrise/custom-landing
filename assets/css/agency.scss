@@ -6,12 +6,17 @@
 @import "base/mixins.scss";
 
 // Custom colors
-$primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
-$white: {{ site.data.style.white | default: "#fff" }} !default;
-$black: {{ site.data.style.black | default: "#000" }} !default;
+
+$white: #fff !default;
+$black: #000 !default;
+$purple: #6A3C98;
+$dark-purple: #500E82;
+$pink: #DEB4FF;
+$teal: #10C0C0;
+$light-teal: #95FFEC;
+$primary: $teal;
 
 // Custom Images
-$header-image: "{{ site.data.style.header-image }}";
 $contact-image: "{{ site.data.style.contact-image }}";
 
 // Global CSS

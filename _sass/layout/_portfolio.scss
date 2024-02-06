@@ -138,3 +138,17 @@
     }
   }
 }
+
+.bg-purp {
+  background-color: $purple;
+  border-color: $purple;
+  &:hover {
+    background-color: $pink !important;
+    border-color: $pink !important;
+  }
+}
+
+.padd-row {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}

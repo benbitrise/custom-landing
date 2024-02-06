@@ -1,0 +1,15 @@
+---
+id: "3d94f3f4a4d7fcffd1dbacd9f6f5a6df13b441d8cd5ca3991c48eaba5abb4c04"
+category: "Navigation"
+app_name: "Waze Navigation & Live Traffic"
+app_id: 323229106
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/63/bb/e663bbc3-657e-2ca5-b4fe-5fe7d308c56b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5b/c9/a9/5bc9a9bc-a950-2318-c5f0-cde4e336b4bc/8a99ba1c-50e1-4521-bef6-8140db5a9936_Screen_01_Pothole_English_5.5.png/1242x2208bb.png
+publisher_id: 323229109
+publisher_name: "Waze Inc."
+rank: 2
+most_recent_release: 2024-02-02 00:00:00
+release_count_in_past_year: 15
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 21
+---

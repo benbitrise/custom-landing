@@ -19,6 +19,10 @@ a {
   color: $primary !important;
 }
 
+.text-purple {
+  color: $purple !important;
+}
+
 h1,
 h2,
 h3,
@@ -43,6 +47,12 @@ h6 {
     margin-bottom: 75px;
     text-transform: none;
     @include serif-font;
+  }
+  h3.non-italic {
+    font-style: normal !important;
+  }
+  div.boom{
+    padding-bottom: 30px;
   }
 }
 @media (min-width: 768px) {

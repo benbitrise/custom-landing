@@ -11,31 +11,33 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: What is your release performance vs your peers?
+    text:  A message for
+    button: Let's have a look
+    buttonlink: "#your-app"
 
-  services:
-    title: "Services"
+  your-app:
+    title: "Your App"
     text: "Lorem ipsum"
-    section: services
+    section: your-app
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Your rankings"
+        desc: "Your average store ranking (iOS & Android). How can you improve it?"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Release Frequency"
+        desc: "Your apps are released, on average, <> times a year. Top rated apps release >50 times per year."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Increase Release Frequency"
+        desc: "Bitrise is a platform that speeds your release cadence. Let's see how."
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  release_strategies:
+    - Automate all aspects of the release process
+    - Shorten developer feedback loops with faster CI
+    - Speed up your local environment with remote build cache
+    - Identify test suite flakiness and eliminate it
+    - Use analytics to pinpoint bottlenecks in the build process
+    - Unblock developers faster with mobile-tailored tools
 
   timeline:
     title: "Timeline"
@@ -69,9 +71,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "Bitrise can help"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Bitrise is the leading managed CI/CD designed specifically for mobile developers. More than 6000 teams are using Bitrise to build, test, and release faster. We have a suite of tools that will boost your team."
     section: about
 
   clients:
@@ -130,7 +132,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Interested?"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
@@ -190,11 +192,10 @@ es: &DEFAULT_ES
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+  release_strategies:
+    - Automate release-related toil
+    - Speed developer feedback loops
+    - aa
 
   timeline:
     title: "Cronología"
@@ -345,11 +346,10 @@ de: &DEFAULT_DE
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: Portfolio
-    closebutton: "Schließen"
+  release_strategies:
+    - Automate release-related toil
+    - Speed developer feedback loops
+    - aa
 
   timeline:
     title: "Geschichte"

@@ -4,28 +4,24 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
+          <h2 class="section-heading">How to increase your release frequency</h2>
+        <h3 class="section-subheading non-italic">The data tells us that higher ranking apps release new versions with a high frequency. It makes sense that this benefits these apps' rankings because they deliver more features, faster. So how does your team deliver more features more quickly???</h3>
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
-            </div>
+
+      {% for strategy in site.data.sitetext[site.locale].release_strategies %}
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="portfolio-caption">
+            <h4>{{ strategy }}</h4>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
-      </div>
-	{% endfor %}
+      {% endfor %}
+	
     </div>
+  </div>
+  <div class="col text-center">
+    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Interested in a tool to help with this?</a>
   </div>
 </section>
 {% else %}
@@ -57,5 +53,6 @@
     </div>
   </div>
 </section>
+<p>b</p>
 {% endif %}
 {% include modals.html %}
