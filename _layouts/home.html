@@ -1,9 +1,43 @@
 ---
-layout: default
+layout: home_wrapper
 ---
-{% include navheader.html %}
+    <h1>The Bitrise Landing Page Machine</h1>
+    <input type="text" id="searchInput" placeholder="Start typing a publisher name..." autocomplete="off">
+    <div id="results"></div>
 
-{% include your-app.html %}
-{% include portfolio_grid.html %}
-{% include about.html %}
-{% include contact.html %}
+    <script>
+        // Example data - replace this with your actual data
+        const publisherData = [
+
+        {% for publisher in site.app_publishers %}
+        { 
+            "name": "{{ publisher.publisher_name | escape }}",
+            "app": "{{ publisher.app_name | escape }}",
+            "url": "{{ publisher.url | escape }}"
+            }{{ ',' if forloop.last == false }}
+            {% endfor %}
+        ];
+
+        // Fuse.js options
+        const options = {
+            keys: ["name"],
+            includeScore: true
+        };
+
+        // Initialize Fuse with the publisher data
+        const fuse = new Fuse(publisherData, options);
+
+        // Function to perform the search and update the results
+        function searchPublishers() {
+            const searchQuery = document.getElementById('searchInput').value;
+            const results = fuse.search(searchQuery, { limit: 12 });
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = results.map(result => {
+                const publisher = result.item;
+                return `<div><a href="${publisher.url}">${publisher.name}-${publisher.app}</a></div>`;
+            }).join('');
+        }
+
+        // Event listener to perform search on input
+        document.getElementById('searchInput').addEventListener('input', searchPublishers);
+    </script>

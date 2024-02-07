@@ -22,9 +22,14 @@ collections:
 
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
-      layout: 'home'
+      layout: "home"
+  -
+    scope:
+      type: "app_publishers"
+    values:
+      layout: "publisher" # overrides previous default layout
 
 markdown: kramdown
 
