@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: What is your release performance vs your peers?
+    title: is ranked
     text:  A message for
-    button: Let's have a look
+    button: Click to learn how to make it higher
     buttonlink: "#your-app"
 
   your-app:

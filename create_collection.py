@@ -82,7 +82,7 @@ with open(csv_file, newline='', encoding='utf-8') as csvfile:
     idx=0
     for row in reader:
         idx +=1
-        # if idx > 10:
+        # if idx > 1000:
         #     break
         
         unique_id=hash_integer(row['app_id'])
