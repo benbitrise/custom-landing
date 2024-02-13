@@ -1,4 +1,5 @@
 import os
+import argparse
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -45,13 +46,13 @@ def get_Store_categories(token, store):
     id_map = {item['id']: item for item in store_categories}
     return id_map
 
-def get_top_apps(token, store, category_id):
+def get_top_apps(token, store, country, category_id):
     url = f"{API_BASE_URL}/{store}/rank_lists"
     current_date = (date.today() - timedelta(days=7)).isoformat()
     params = {
         "id": category_id,
         "kind": "free",
-        "country_iso": "US",
+        "country_iso": country,
         "date": current_date
     }
     headers = {
@@ -65,14 +66,14 @@ def get_root_category(store):
     if store == "itunes_connect":
         return 36
     if store == "google_play":
-        return 98
+        return 39
     raise f"invalid store name {store}"
 
-def get_all_top_apps(token, store, categories):
+def get_all_top_apps(token, store, country, categories):
     root_category = get_root_category(store)
     return {
         key: {
-            "apps": get_top_apps(token, store, key),
+            "apps": get_top_apps(token, store, country, key),
             "name": value["name"],
             "id": key
         }
@@ -100,17 +101,19 @@ def get_app_details(token, store, app_id):
         print(response)
         return None
 
-def create_rankings(token, store, top_charts, filename):
-    fieldnames = ['category', 'rank', 'app_id', 'app_name', 'publisher_id', 'publisher_name', 'icon', 'screenshot', 'most_recent_release', 'release_count_in_past_year']
+def create_rankings(token, store, country, top_charts, filename):
+    fieldnames = ['country', 'store', 'category', 'rank', 'app_id', 'app_name', 'publisher_id', 'publisher_name', 'icon', 'screenshot', 'most_recent_release', 'release_count_in_past_year']
     with open(filename, 'w', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for value in top_charts.values():
             for idx, app_id in enumerate(value['apps'][0]["app_ids"], start=1):
                 app_details = get_app_details(token, store, app_id)
-                version_info = get_releases(token, store, app_id) if app_details else None
+                version_info = get_releases(token, store, country, app_id) if app_details else None
                 if app_details and version_info:
                     writer.writerow({
+                        'country': country,
+                        'store': store,
                         'category': value['name'],
                         'rank': idx,
                         'app_id': app_details['id'],
@@ -123,9 +126,9 @@ def create_rankings(token, store, top_charts, filename):
                         'release_count_in_past_year': version_info[1]
                     })
 
-def get_releases(token, store, app_id):
+def get_releases(token, store, country, app_id):
     url = f"{API_BASE_URL}/{store}/app_versions"
-    params = {"id": app_id, "country_iso": "US"}
+    params = {"id": app_id, "country_iso": country}
     headers = {
         "User-Agent": USER_AGENT,
         "Authorization": token
@@ -149,7 +152,55 @@ def process_versions(versions_data):
 
     return most_recent_date, versions_in_past_year
 
-token = get_auth_token(client, secret)
-categories = get_Store_categories(token, "itunes_connect")
-top_charts = get_all_top_apps(token, "itunes_connect", categories)
-create_rankings(token, "itunes_connect", top_charts, 'app_data/top_apps.csv')
+
+
+countries = [
+    {"country": "United States", "code": "US"},
+    {"country": "Mexico", "code": "MX"},
+    {"country": "Brazil", "code": "BR"},
+    {"country": "Canada", "code": "CA"},
+    {"country": "France", "code": "FR"},
+    {"country": "Germany", "code": "DE"},
+    {"country": "Austria", "code": "AT"},
+    {"country": "Italy", "code": "IT"},
+    {"country": "Belgium", "code": "BE"},
+    {"country": "Spain", "code": "ES"},
+    {"country": "Portugal", "code": "PT"},
+    {"country": "Indonesia", "code": "ID"},
+    {"country": "Singapore", "code": "SG"},
+    {"country": "Qatar", "code": "QA"},
+    {"country": "United Arab Emirates", "code": "AE"},
+    {"country": "Jordan", "code": "JO"},
+    {"country": "Israel", "code": "IL"},
+    {"country": "Poland", "code": "PL"},
+    {"country": "Turkey", "code": "TR"},
+    {"country": "Australia", "code": "AU"},
+    {"country": "New Zealand", "code": "NZ"},
+    {"country": "Japan", "code": "JP"},
+    {"country": "India", "code": "IN"}
+]
+
+
+# example usage python get_data.py --country US --store itunes_connect
+parser = argparse.ArgumentParser(description='Get top app charts for a given country and store.')
+parser.add_argument('--country', type=str, required=True, help='ISO country code')
+parser.add_argument('--store', type=str, required=True, choices=['itunes_connect', 'google_play'], help='Store name (itunes_connect or google_play)')
+args = parser.parse_args()
+
+if __name__ == "__main__":
+    if not client or not secret:
+        raise ValueError("Please set APPTOPIA_CLIENT and APPTOPIA_SECRET environment variables.")
+    
+    country_code = args.country.upper() 
+    store_name = args.store.lower()
+
+    # Validate if the country code is in the supported list
+    supported_country_codes = {c["code"] for c in countries}
+    if country_code not in supported_country_codes:
+        raise ValueError(f"Country code {country_code} is not supported.")
+
+    token = get_auth_token(client, secret)
+    categories = get_Store_categories(token, store_name)
+    top_charts = get_all_top_apps(token, store_name, country_code, categories)
+    filename = f'app_data/top_apps_{store_name}_{country_code}.csv'
+    create_rankings(token, store_name, country_code, top_charts, filename)
