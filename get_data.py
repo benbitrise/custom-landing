@@ -6,6 +6,8 @@ from urllib3.util.retry import Retry
 from datetime import date, datetime, timedelta
 import json
 import csv
+import sys
+import io
 
 API_BASE_URL = "https://integrations.apptopia.com/api"
 USER_AGENT = "insomnia/8.6.0"
@@ -111,7 +113,7 @@ def create_rankings(token, store, country, top_charts, filename):
                 app_details = get_app_details(token, store, app_id)
                 version_info = get_releases(token, store, country, app_id) if app_details else None
                 if app_details and version_info:
-                    writer.writerow({
+                    row = {
                         'country': country,
                         'store': store,
                         'category': value['name'],
@@ -124,7 +126,14 @@ def create_rankings(token, store, country, top_charts, filename):
                         'screenshot': app_details['screenshot_urls'][0] if app_details['screenshot_urls'] else None,
                         'most_recent_release': version_info[0].isoformat() if version_info[0] else None,
                         'release_count_in_past_year': version_info[1]
-                    })
+                    }
+                    writer.writerow(row)
+                    line_buffer = io.StringIO()
+                    temp_writer = csv.DictWriter(line_buffer, fieldnames=fieldnames)
+                    temp_writer.writerow(row)
+                    sys.stdout.write(line_buffer.getvalue().strip() + '\n')
+                    line_buffer.seek(0)
+                    line_buffer.truncate()
 
 def get_releases(token, store, country, app_id):
     url = f"{API_BASE_URL}/{store}/app_versions"
