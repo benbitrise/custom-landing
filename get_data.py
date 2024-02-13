@@ -2,32 +2,48 @@ import os
 import argparse
 import requests
 from requests.adapters import HTTPAdapter
+from requests.exceptions import RetryError
 from urllib3.util.retry import Retry
 from datetime import date, datetime, timedelta
 import json
 import csv
 import sys
 import io
+import time
 
 API_BASE_URL = "https://integrations.apptopia.com/api"
 USER_AGENT = "insomnia/8.6.0"
 client = os.environ.get('APPTOPIA_CLIENT')
 secret = os.environ.get('APPTOPIA_SECRET')
 
-def requests_retry_session(retries=5, backoff_factor=1, status_forcelist=(429, 500, 502, 504), session=None):
+def requests_retry_session(retries=100, backoff_factor=1, status_forcelist=(429, 500, 502, 504), session=None):
     session = session or requests.Session()
     retry = Retry(
         total=retries,
         read=retries,
         connect=retries,
         backoff_factor=backoff_factor,
-        status_forcelist=status_forcelist,
-        allowed_methods=frozenset(['GET', 'POST'])
+        status_forcelist=status_forcelist
     )
     adapter = HTTPAdapter(max_retries=retry)
     session.mount('http://', adapter)
     session.mount('https://', adapter)
     return session
+
+def safe_request(url, method='GET', **kwargs):
+    try:
+        session = requests_retry_session()
+        response = session.request(method, url, **kwargs)
+        response.raise_for_status()
+        return response
+    except RetryError as e:
+        if e.last_response is not None and e.last_response.status_code == 429:
+            retry_after = int(e.last_response.headers.get('retry-after', 60))
+            print(f"Rate limit exceeded. Retrying after {retry_after} seconds.")
+            time.sleep(retry_after)
+            return safe_request(url, method, **kwargs)
+        else:
+            raise
 
 def get_auth_token(client, secret):
     url = f"{API_BASE_URL}/login"
@@ -44,7 +60,8 @@ def get_Store_categories(token, store):
         "User-Agent": USER_AGENT,
         "Authorization": token
     }
-    store_categories = requests_retry_session().get(url, headers=headers).json()
+    
+    store_categories = safe_request(url, headers=headers).json()  # Parse the JSON response
     id_map = {item['id']: item for item in store_categories}
     return id_map
 
@@ -61,7 +78,7 @@ def get_top_apps(token, store, country, category_id):
         "User-Agent": USER_AGENT,
         "Authorization": token
     }
-    response = requests_retry_session().get(url, headers=headers, params=params).json()
+    response = safe_request(url, headers=headers, params=params).json()
     return response
 
 def get_root_category(store):
@@ -93,7 +110,7 @@ def get_app_details(token, store, app_id):
         "User-Agent": USER_AGENT,
         "Authorization": token
     }
-    response = requests_retry_session().get(url, headers=headers, params=params).json()
+    response = safe_request(url, headers=headers, params=params).json()
     try:
         details = response[0]
         keys_to_keep = {'screenshot_urls', 'publisher_id', 'publisher_name', 'icon_url', 'name', 'current_version', 'id'}
@@ -142,7 +159,7 @@ def get_releases(token, store, country, app_id):
         "User-Agent": USER_AGENT,
         "Authorization": token
     }
-    response = requests_retry_session().get(url, headers=headers, params=params).json()
+    response = safe_request(url, headers=headers, params=params).json()
     most_recent_date, versions_in_past_year = process_versions(response)
     return (most_recent_date, versions_in_past_year)
 
