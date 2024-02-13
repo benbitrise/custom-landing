@@ -80,6 +80,7 @@ pp.pprint(average_releases)
 with open(csv_file, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     idx=0
+    apps_and_releases={}
     for row in reader:
         idx +=1
         # if idx > 1000:
@@ -91,6 +92,9 @@ with open(csv_file, newline='', encoding='utf-8') as csvfile:
         subdir = os.path.join(companies_dir, subdir_name)
         os.makedirs(subdir, exist_ok=True)
         filepath = os.path.join(subdir, filename)
+
+
+        apps_and_releases[row['app_name']] = row['release_count_in_past_year'];
 
         # Check if the markdown file already exists
         if not os.path.isfile(filepath):
@@ -119,4 +123,6 @@ with open(csv_file, newline='', encoding='utf-8') as csvfile:
         else:
             print(f"File {filepath} already exists, skipping...")
 
+    top_10 = sorted(apps_and_releases.items(), key=lambda item: item[1], reverse=True)[:10]
+    print(top_10)
 print("Markdown files have been created in the _companies directory.")
