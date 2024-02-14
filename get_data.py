@@ -147,8 +147,8 @@ def create_rankings(token, store, country, top_charts, filename):
                     writer.writerow(row)
                     print(' '.join(str(value) for value in row.values()))
 
-            if os.getenv("TEST") == "true":
-                break
+                if os.getenv("TEST") == "true":
+                    break
 
 def get_releases(token, store, country, app_id):
     url = f"{API_BASE_URL}/{store}/app_versions"
