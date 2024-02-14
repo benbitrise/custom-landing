@@ -201,7 +201,12 @@ countries = [
     {"country": "Australia", "code": "AU"},
     {"country": "New Zealand", "code": "NZ"},
     {"country": "Japan", "code": "JP"},
-    {"country": "India", "code": "IN"}
+    {"country": "India", "code": "IN"},
+    {"country": "Norway", "code": "NO"},
+    {"country": "Sweden", "code": "SE"},
+    {"country": "United Kingdom", "code": "GB"},
+    {"country": "Holland", "code": "NL"},
+    {"country": "Denmark", "code": "DK"}
 ]
 
 
