@@ -1,0 +1,17 @@
+---
+id: "amogtPc66dwk"
+category: "Games"
+country: "PL"
+store: "itunes_connect"
+app_name: "Brawl Stars"
+app_id: 1229016807
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/01/01/350101a0-caca-3cd8-ff90-8892731976f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1024x1024bb.png
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/1a/eb/4c1aebc5-42c9-0b27-cdc3-e69c6940e723/5f9514b9-2bfc-4528-8b1b-c937a3cb7624_Rank_Up_and_Customize_2778x1284_EN.png/2778x1284bb.png
+publisher_id: 488106216
+publisher_name: "Supercell"
+rank: 1
+most_recent_release: 2023-12-18T00:00:00
+release_count_in_past_year: 13
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 13
+---

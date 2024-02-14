@@ -1,0 +1,17 @@
+---
+id: "9F4uC6lWRLd_"
+category: "Shopping"
+country: "NO"
+store: "google_play"
+app_name: "Temu: Shop Like a Billionaire"
+app_id: com.einnovation.temu
+app_icon: https://play-lh.googleusercontent.com/9v08ai07I8aoFLj5M-90nzWPpvyNzOVgA2ZWF9avdW7oS8L9YqF9trVI44SUn2qGTA0
+app_screenshot: https://play-lh.googleusercontent.com/EhMa5p0DLlBNfc7Sbadvs8Rc5eb0N1bGuvBJkrKg0AaeHGSUjljsqS_U0HivrEry0g
+publisher_id: 2812161
+publisher_name: "Temu"
+rank: 1
+most_recent_release: 2024-02-05T00:00:00
+release_count_in_past_year: 88
+release_count_in_past_year_category: 88
+release_count_in_past_year_top_in_category: 88
+---
