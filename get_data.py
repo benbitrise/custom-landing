@@ -16,7 +16,7 @@ USER_AGENT = "insomnia/8.6.0"
 client = os.environ.get('APPTOPIA_CLIENT')
 secret = os.environ.get('APPTOPIA_SECRET')
 
-def requests_retry_session(retries=100, backoff_factor=1, status_forcelist=(429, 500, 502, 504), session=None):
+def requests_retry_session(retries=10, backoff_factor=1, status_forcelist=(429, 500, 502, 504), session=None):
     session = session or requests.Session()
     retry = Retry(
         total=retries,
@@ -145,12 +145,10 @@ def create_rankings(token, store, country, top_charts, filename):
                         'release_count_in_past_year': version_info[1]
                     }
                     writer.writerow(row)
-                    line_buffer = io.StringIO()
-                    temp_writer = csv.DictWriter(line_buffer, fieldnames=fieldnames)
-                    temp_writer.writerow(row)
-                    sys.stdout.write(line_buffer.getvalue().strip() + '\n')
-                    line_buffer.seek(0)
-                    line_buffer.truncate()
+                    print(' '.join(str(value) for value in row.values()))
+
+            if os.getenv("TEST") == "true":
+                break
 
 def get_releases(token, store, country, app_id):
     url = f"{API_BASE_URL}/{store}/app_versions"
@@ -229,4 +227,5 @@ if __name__ == "__main__":
     categories = get_Store_categories(token, store_name)
     top_charts = get_all_top_apps(token, store_name, country_code, categories)
     filename = f'app_data/top_apps_{store_name}_{country_code}.csv'
+    print(f"saving to {filename}")
     create_rankings(token, store_name, country_code, top_charts, filename)
