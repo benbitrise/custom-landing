@@ -134,3 +134,4 @@ if __name__ == "__main__":
         print(f"{country_code}, {store} from {filename}")
         averages = create_averages(country_code, store, filename)
         create_page(country_code, store, filename, averages, companies_dir)
+        
