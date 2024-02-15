@@ -231,6 +231,7 @@ if __name__ == "__main__":
     token = get_auth_token(client, secret)
     categories = get_Store_categories(token, store_name)
     top_charts = get_all_top_apps(token, store_name, country_code, categories)
-    filename = f'app_data/top_apps_{store_name}_{country_code}.csv'
+    filename = f'top_apps_{store_name}_{country_code}.csv'
+    file_path = os.path.join("app_data", filename)
     print(f"saving to {filename}")
-    create_rankings(token, store_name, country_code, top_charts, filename)
+    create_rankings(token, store_name, country_code, top_charts, file_path)
