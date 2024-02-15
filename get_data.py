@@ -125,7 +125,9 @@ def create_rankings(token, store, country, top_charts, filename):
     with open(filename, 'w', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
+        test_ctr=0
         for value in top_charts.values():
+            test_ctr+=1
             for idx, app_id in enumerate(value['apps'][0]["app_ids"], start=1):
                 app_details = get_app_details(token, store, app_id)
                 version_info = get_releases(token, store, country, app_id) if app_details else None
@@ -147,7 +149,7 @@ def create_rankings(token, store, country, top_charts, filename):
                     writer.writerow(row)
                     print(' '.join(str(value) for value in row.values()))
 
-                if os.getenv("TEST") == "true":
+                if os.getenv("TEST") == "true" and test_ctr>4:
                     break
 
 def get_releases(token, store, country, app_id):
