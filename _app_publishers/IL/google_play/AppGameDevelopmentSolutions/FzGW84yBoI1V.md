@@ -9,9 +9,9 @@ app_icon: https://play-lh.googleusercontent.com/ZbRdR_HgafCFT-n9UrXVcbvkhdmpvwZ7
 app_screenshot: https://play-lh.googleusercontent.com/dOEKUop_Gfi-GdtNgrKCCd9Vpy4pew6fKumGlKmgifOcu5E56f827gNVh3ZcGo0BpQ
 publisher_id: 2384086
 publisher_name: "App Game Development Solutions"
-rank: 8
+rank: 9
 most_recent_release: 2024-01-21T00:00:00
 release_count_in_past_year: 2
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

@@ -9,9 +9,9 @@ app_icon: https://play-lh.googleusercontent.com/NWUTqLGsHEkrMKSpQIu-g2MC2G9WzM_h
 app_screenshot: https://play-lh.googleusercontent.com/McbYoa7GZMgWGUEwXtRtpjKTKPumb5DrQOUTcRtCL868JiRdY1yMT7q4-MEhScmuAg
 publisher_id: 871346
 publisher_name: "CHP Group Israel"
-rank: 4
+rank: 3
 most_recent_release: 2023-12-09T00:00:00
 release_count_in_past_year: 4
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

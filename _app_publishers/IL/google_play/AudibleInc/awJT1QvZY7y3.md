@@ -9,9 +9,9 @@ app_icon: https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89r
 app_screenshot: https://play-lh.googleusercontent.com/URitgigypiky_VPRhm3kEcc7VLiF27uMX3oZmggjDvj9v5Qcg2m8BUkl5ZF3NBAq8g
 publisher_id: 2921053
 publisher_name: "Audible, Inc."
-rank: 21
-most_recent_release: 2024-02-06T00:00:00
-release_count_in_past_year: 56
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+rank: 24
+most_recent_release: 2024-02-13T00:00:00
+release_count_in_past_year: 57
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

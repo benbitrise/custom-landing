@@ -12,6 +12,6 @@ publisher_name: "yit"
 rank: 6
 most_recent_release: 2023-08-28T00:00:00
 release_count_in_past_year: 7
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

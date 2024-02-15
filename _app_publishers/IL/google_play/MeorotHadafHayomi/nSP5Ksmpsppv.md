@@ -12,6 +12,6 @@ publisher_name: "Meorot Hadaf Hayomi"
 rank: 1
 most_recent_release: 2024-01-22T00:00:00
 release_count_in_past_year: 11
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

@@ -9,9 +9,9 @@ app_icon: https://play-lh.googleusercontent.com/48wwD4kfFSStoxwuwCIu6RdM2IeZmZKf
 app_screenshot: https://play-lh.googleusercontent.com/Ndh73BS4q_NVq3y-Y7ojnLosdXLfM5gtOWbU8qdZF_CHBchYBT4jxlUSbjhw4Jx8ZiE
 publisher_id: 371
 publisher_name: "Amazon Mobile LLC"
-rank: 15
+rank: 16
 most_recent_release: 2024-02-12T00:00:00
 release_count_in_past_year: 23
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---

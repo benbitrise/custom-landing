@@ -11,7 +11,7 @@ publisher_id: 2296664
 publisher_name: "MuslimOn"
 rank: 2
 most_recent_release: 2024-02-05T00:00:00
-release_count_in_past_year: 20
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year: 21
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 12
 ---
