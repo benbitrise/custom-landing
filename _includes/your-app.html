@@ -2,13 +2,13 @@
 <!-- your-app -->
 
 
-  <section class="page-section" id="{{ site.data.sitetext[site.locale].your-app.section | default: "your-app" }}">
+  <section class="page-section" id="{{ site.data.sitetext[page.language].your-app.section | default: "your-app" }}">
     <div class="container">
-	
+
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading">{{ "Let's look at your release performance" }}</h2>
-		      <h3 class="section-subheading text-muted text-lowercase">{{ "vs the " | append: page.category | append: " category" }}</h3>
+          <h2 class="section-heading">{{ site.data.sitetext[page.language].your-app.subtitle }}</h2>
+		      <h3 class="section-subheading text-muted text-lowercase">{{ site.data.sitetext[page.language].your-app.versus | append: page.category | append: site.data.sitetext[page.language].your-app.category }}</h3>
         </div>
       </div>
 
@@ -19,7 +19,7 @@
             <i class="{{ service.icon | default: "fas fa-upload" }} fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">{{ page.release_count_in_past_year_top_in_category }}</h4>
-          <div class="text-muted">{{ "The top 20 ranked apps in the " | append: page.category | append: " category released " | append: page.release_count_in_past_year_top_in_category | append: " versions in the past year, on average."}}</div>
+          <div class="text-muted">{{  site.data.sitetext[page.language].your-app.top_20 | append: page.category | append: site.data.sitetext[page.language].your-app.category_released | append: page.release_count_in_past_year_top_in_category | append: site.data.sitetext[page.language].your-app.versions_average }}</div>
         </div>
 
         <div class="col-md-4 boom">
@@ -28,7 +28,7 @@
             <i class="{{ service.icon | default: "fas fa-industry" }} fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">{{ page.release_count_in_past_year_category }}</h4>
-          <div class="text-muted">{{ "The top 500 apps in the " | append: page.category | append: " category released " | append: page.release_count_in_past_year_category | append: " versions in the past year, on average."}}</div>
+          <div class="text-muted">{{  site.data.sitetext[page.language].your-app.all | append: page.category | append: site.data.sitetext[page.language].your-app.category_released | append: page.release_count_in_past_year_category | append: site.data.sitetext[page.language].your-app.versions_average }}</div>
         </div>
 
         <div class="col-md-4 boom">
@@ -37,12 +37,12 @@
             <i class="{{ service.icon | default: "fas fa-mobile" }} fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">{{ page.release_count_in_past_year }}</h4>
-          <div class="text-muted">{{ page.app_name | append: " released " | append: page.release_count_in_past_year | append: " versions in the past year."}}</div>
+          <div class="text-muted">{{ page.app_name | append: site.data.sitetext[page.language].your-app.released | append: page.release_count_in_past_year | append: site.data.sitetext[page.language].your-app.versions }}</div>
         </div>
 	  
       </div>
       <div class="col text-center">
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger bg-purp" href="#portfolio">How can you improve it?</a>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger bg-purp" href="#portfolio">{{ site.data.sitetext[page.language].your-app.improve }}</a>
     </div>
     </div>
   </section>
