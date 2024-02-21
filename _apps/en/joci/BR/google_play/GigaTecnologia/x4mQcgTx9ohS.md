@@ -1,25 +1,25 @@
 ---
-id: "x4mQcgTx9ohS"
-category: "Personalization"
-country: "BR"
-store: "google_play"
-app_name: "Giganima : Animes HD"
-app_id: com.giga.appanimesz
 app_icon: https://play-lh.googleusercontent.com/NmYYZKrN3en1bg5C-awoLofEx35BpSqrLEvKmU8hijbrfzE1p3H64-PPtOVoq5PoHFaK
+app_id: com.giga.appanimesz
+app_name: 'Giganima : Animes HD'
 app_screenshot: https://play-lh.googleusercontent.com/NDKfsZ9Y5RA8XDQ3WIUgdzUSbK0Wqw4bhNRVfq0NzabVevwVrmatdIjH6TaagYfF-50
-publisher_id: 2687724
-publisher_name: "Giga Tecnologia"
-rank: 1
-most_recent_release: 2024-01-26T00:00:00
-release_count_in_past_year: 1
+category: Personalization
+country: BR
+id: x4mQcgTx9ohS
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '2687724'
+publisher_name: Giga Tecnologia
+rank: '1'
+release_count_in_past_year: '1'
 release_count_in_past_year_category: 1
 release_count_in_past_year_top_in_category: 1
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
 rep_full_name: Joe Cillis
 rep_linkedin: https://www.linkedin.com/in/joecillis
 rep_phone: +1 518-258-1902
-rep_email: joseph.cillis@bitrise.io
-rep_title: Account Manager
-rep_first_name: Joe
 rep_photo: joe.jpg
-language: en
+rep_title: Account Manager
+store: google_play
 ---

@@ -1,25 +1,25 @@
 ---
-id: "igGRj54JTeyv"
-category: "Books & Reference"
-country: "IL"
-store: "google_play"
-app_name: "MuslimOn: دعاء القرآن الآلي"
-app_id: org.quickquran.arabic
 app_icon: https://play-lh.googleusercontent.com/qxbJfcxkhaC1dTVBJM0YMKIhEdx4y5-_F5clyJie3hPlzd4cUcq5bmqzEiRABH6l_eir
+app_id: org.quickquran.arabic
+app_name: 'MuslimOn: دعاء القرآن الآلي'
 app_screenshot: https://play-lh.googleusercontent.com/wllNyImJipEpmnyBq_Tae8Vz0ATmi99Iakr-FYUKym6A6vfCSYO4GD5gn_Qu5lfAc4w
-publisher_id: 2296664
-publisher_name: "MuslimOn"
-rank: 2
-most_recent_release: 2024-02-05T00:00:00
-release_count_in_past_year: 21
+category: Books & Reference
+country: IL
+id: igGRj54JTeyv
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '2296664'
+publisher_name: MuslimOn
+rank: '2'
+release_count_in_past_year: '21'
 release_count_in_past_year_category: 15
 release_count_in_past_year_top_in_category: 12
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
 rep_full_name: Gonzalo Gomez-Ilera
 rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
 rep_phone: +353 838374524
-rep_email: gonzalo.gomez-llera@bitrise.io
-rep_title: Business Development Rep
-rep_first_name: Gonzalo
 rep_photo: gonzalo.jpg
-language: en
+rep_title: Business Development Rep
+store: google_play
 ---

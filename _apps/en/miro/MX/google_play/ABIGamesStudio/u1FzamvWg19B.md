@@ -1,25 +1,25 @@
 ---
-id: "u1FzamvWg19B"
-category: "Tools"
-country: "MX"
-store: "google_play"
-app_name: "AR Drawing: Paint & Sketch"
-app_id: com.wedraw.aidraw
 app_icon: https://play-lh.googleusercontent.com/hz1_4Wp4J_6x1Q-NfhUQNCFfcQlH9cH5GXp54EsaxUoL8T2qRuI9jIG_gr9EWhipVFE
+app_id: com.wedraw.aidraw
+app_name: 'AR Drawing: Paint & Sketch'
 app_screenshot: https://play-lh.googleusercontent.com/_8WPin8DOIL562YZ_ymgmipxHh6g4NzcCGW-3bJt61BcCArzDpYN5rHYbOslmwqDs2E
-publisher_id: 1833204
-publisher_name: "ABI Games Studio"
-rank: 1
-most_recent_release: 2024-01-31T00:00:00
-release_count_in_past_year: 7
+category: Tools
+country: MX
+id: u1FzamvWg19B
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '1833204'
+publisher_name: ABI Games Studio
+rank: '1'
+release_count_in_past_year: '7'
 release_count_in_past_year_category: 7
 release_count_in_past_year_top_in_category: 7
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
 rep_full_name: Michael Roguly
 rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
 rep_phone: +1 949-233-3404
-rep_email: michael.roguly@bitrise.io
-rep_title: Account Manager
-rep_first_name: Michael
 rep_photo: michael.jpg
-language: en
+rep_title: Account Manager
+store: google_play
 ---
