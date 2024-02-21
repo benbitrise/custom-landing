@@ -1,0 +1,25 @@
+---
+id: "LWOlb5UvpOZj"
+category: "Books & Reference"
+country: "US"
+store: "google_play"
+app_name: "KJV Bible Now: Audio+Verse"
+app_id: com.kjv.bible.now
+app_icon: https://play-lh.googleusercontent.com/Yhg5o7ddSVYkKUKSc00RV-O7dGXjxG6p-3ehMTk7M0iF_VMsAX63FPgUBoaXmU36Yuo
+app_screenshot: https://play-lh.googleusercontent.com/m6YrvYiYDCMJNOluQTWk_lQjlr4lkeGt2KnqgF1wMLsJknz-HO-kRKKceqvdntRJ95jk
+publisher_id: 2787228
+publisher_name: "Bible Now Group"
+rank: 1
+most_recent_release: 2023-12-18T00:00:00
+release_count_in_past_year: 17
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 17
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_email: nehemoyia.young@bitrise.io
+rep_title: Business Development Rep
+rep_first_name: Nehemoyiah
+rep_photo: nehemoyiah.jpg
+language: en
+---

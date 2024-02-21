@@ -7,6 +7,75 @@ import hashlib
 import re
 import base64
 
+reps=[
+    {
+        "full_name": "Lionel Lejeune",
+        "linkedin": "https://www.linkedin.com/in/lionelbitrise/",
+        "phone": "0044 73 918 00286",
+        "email": "lionel.lejeune@bitrise.io",
+        "title": "Account Manager",
+        "first_name": "Lio",
+        "photo": "lio.jpg",
+        "ref": "lile",
+        "languages": ['en', 'fr']
+    },
+    {
+        "full_name": "Joe Cillis",
+        "linkedin": "https://www.linkedin.com/in/joecillis",
+        "phone": "+1 518-258-1902",
+        "email": "joseph.cillis@bitrise.io",
+        "title": "Account Manager",
+        "first_name": "Joe",
+        "photo": "joe.jpg",
+        "ref": "joci",
+        "languages": ['en']
+    },
+    {
+        "full_name": "Michael Roguly",
+        "linkedin": "https://www.linkedin.com/in/michael-roguly-77376710",
+        "phone": "+1 949-233-3404",
+        "email": "michael.roguly@bitrise.io",
+        "title": "Account Manager",
+        "first_name": "Michael",
+        "photo": "michael.jpg",
+        "ref": "miro",
+        "languages": ['en']
+    },
+    {
+        "full_name": "Anna Magnussen",
+        "linkedin": "https://uk.linkedin.com/in/anna-magnussen-0977131b",
+        "phone": "0044 73 918 00286",
+        "email": "anna.magnussen@bitrise.io",
+        "title": "Account Manager",
+        "first_name": "Anna",
+        "photo": "anna.jpg",
+        "ref": "anma",
+        "languages": ['en']
+    },
+    {
+        "full_name": "Nehemoyiah Young",
+        "linkedin": "https://uk.linkedin.com/in/anna-magnussen-0977131b",
+        "phone": "+1 512-577-4531",
+        "email": "nehemoyia.young@bitrise.io",
+        "title": "Business Development Rep",
+        "first_name": "Nehemoyiah",
+        "photo": "nehemoyiah.jpg",
+        "ref": "neyo",
+        "languages": ['en']
+    },
+    {
+        "full_name": "Gonzalo Gomez-Ilera",
+        "linkedin": "https://uk.linkedin.com/in/anna-magnussen-0977131b",
+        "phone": "+353 838374524",
+        "email": "gonzalo.gomez-llera@bitrise.io",
+        "title": "Business Development Rep",
+        "first_name": "Gonzalo",
+        "photo": "gonzalo.jpg",
+        "ref": "gogo",
+        "languages": ['en', 'es']
+    },
+]
+
 def sanitize_string_for_directory_name(input_string):
     # Use a regular expression to remove non-alphanumeric characters
     sanitized_string = re.sub(r'[^A-Za-z0-9]+', '', input_string)
@@ -79,7 +148,7 @@ def create_averages(country, store, filename):
 
     return average_releases
 
-def create_page(country, store, filename, average_releases, companies_dir):
+def create_page(rep, country_code, store, filename, average_releases, companies_dir):
     # Read the CSV file and skip the header line
     with open(filename, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -89,49 +158,56 @@ def create_page(country, store, filename, average_releases, companies_dir):
             idx +=1
             # if idx > 1000:
             #     break
-            
-            unique_id=hash(row['app_id'], store)
-            filename = f"{unique_id}.md"
-            subdir_name = sanitize_string_for_directory_name(row['publisher_name'])
-            subdir = os.path.join(companies_dir, country_code, store, subdir_name)
-            os.makedirs(subdir, exist_ok=True)
-            filepath = os.path.join(subdir, filename)
+            for language in rep['languages']:
+                unique_id=hash(row['app_id'], store)
+                filename = f"{unique_id}.md"
+                subdir_name = sanitize_string_for_directory_name(row['publisher_name'])
+                subdir = os.path.join(companies_dir, language, rep['ref'], country_code, store, subdir_name)
+                os.makedirs(subdir, exist_ok=True)
+                filepath = os.path.join(subdir, filename)
 
-            apps_and_releases[row['app_name']] = row['release_count_in_past_year'];
+                apps_and_releases[row['app_name']] = row['release_count_in_past_year'];
 
-            # Check if the markdown file already exists
-            if not os.path.isfile(filepath):
-                # Create the markdown file with the proper values
-                with open(filepath, 'w', encoding='utf-8') as mdfile:
-                    mdfile.write(
-                        f"---\n"
-                        f"id: \"{unique_id}\"\n"
-                        f"category: \"{row['category']}\"\n"
-                        f"country: \"{country_code}\"\n"
-                        f"store: \"{store}\"\n"
-                        f"app_name: \"{row['app_name']}\"\n"
-                        f"app_id: {row['app_id']}\n"
-                        f"app_icon: {row['icon']}\n"
-                        f"app_screenshot: {row['screenshot']}\n"
-                        f"publisher_id: {row['publisher_id']}\n"
-                        f"publisher_name: \"{row['publisher_name']}\"\n"
-                        f"rank: {row['rank']}\n"
-                        f"most_recent_release: {row['most_recent_release']}\n"
-                        f"release_count_in_past_year: {row['release_count_in_past_year']}\n"
-                        f"release_count_in_past_year_category: {average_releases[row['category']]['all']}\n"
-                        f"release_count_in_past_year_top_in_category: {average_releases[row['category']]['top']}\n"
-                        f"---\n"
-                    )
-            else:
-                print(f"File {filepath} already exists, skipping...")
-
-        top_10 = sorted(apps_and_releases.items(), key=lambda item: item[1], reverse=True)[:10]
+                # Check if the markdown file already exists
+                if not os.path.isfile(filepath):
+                    # Create the markdown file with the proper values
+                    with open(filepath, 'w', encoding='utf-8') as mdfile:
+                        mdfile.write(
+                            f"---\n"
+                            f"id: \"{unique_id}\"\n"
+                            f"category: \"{row['category']}\"\n"
+                            f"country: \"{country_code}\"\n"
+                            f"store: \"{store}\"\n"
+                            f"app_name: \"{row['app_name']}\"\n"
+                            f"app_id: {row['app_id']}\n"
+                            f"app_icon: {row['icon']}\n"
+                            f"app_screenshot: {row['screenshot']}\n"
+                            f"publisher_id: {row['publisher_id']}\n"
+                            f"publisher_name: \"{row['publisher_name']}\"\n"
+                            f"rank: {row['rank']}\n"
+                            f"most_recent_release: {row['most_recent_release']}\n"
+                            f"release_count_in_past_year: {row['release_count_in_past_year']}\n"
+                            f"release_count_in_past_year_category: {average_releases[row['category']]['all']}\n"
+                            f"release_count_in_past_year_top_in_category: {average_releases[row['category']]['top']}\n"
+                            f"rep_full_name: {rep['full_name']}\n"
+                            f"rep_linkedin: {rep['linkedin']}\n"
+                            f"rep_phone: {rep['phone']}\n"
+                            f"rep_email: {rep['email']}\n"
+                            f"rep_title: {rep['title']}\n"
+                            f"rep_first_name: {rep['first_name']}\n"
+                            f"rep_photo: {rep['photo']}\n"
+                            f"language: {language}\n"
+                            f"---\n"
+                        )
+                else:
+                    print(f"File {filepath} already exists, skipping...")
 
 if __name__ == "__main__":
-    companies_dir = '_app_publishers'
+    companies_dir = '_apps'
     create_collections_dir(companies_dir)
     for (country_code, store, filename) in list_file_info():
-        print(f"{country_code}, {store} from {filename}")
         averages = create_averages(country_code, store, filename)
-        create_page(country_code, store, filename, averages, companies_dir)
+        print(f"{country_code}, {store} from {filename}")
+        for rep in reps:
+            create_page(rep, country_code, store, filename, averages, companies_dir)
         

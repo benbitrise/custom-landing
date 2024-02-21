@@ -9,7 +9,7 @@ layout: home_wrapper
         // Example data - replace this with your actual data
         const publisherData = [
 
-        {% for publisher in site.app_publishers %}
+        {% for publisher in site.apps %}
         { 
             "name": "{{ publisher.publisher_name | escape }}",
             "app": "{{ publisher.app_name | escape }}",

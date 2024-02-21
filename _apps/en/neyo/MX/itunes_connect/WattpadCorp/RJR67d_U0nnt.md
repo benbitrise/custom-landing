@@ -1,0 +1,25 @@
+---
+id: "RJR67d_U0nnt"
+category: "Book"
+country: "MX"
+store: "itunes_connect"
+app_name: "Wattpad - Read & Write Stories"
+app_id: 306310789
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/75/13/ec751361-e9ba-1c3d-c46a-60f011e30c42/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/10/48/94/10489403-e456-57b5-d4e8-a28ac5bff04f/1de43280-5144-48d0-b204-4a6b1f408edd_Artboard_1.jpg/1242x2688bb.png
+publisher_id: 306310792
+publisher_name: "Wattpad Corp"
+rank: 1
+most_recent_release: 2024-02-14T00:00:00
+release_count_in_past_year: 69
+release_count_in_past_year_category: 69
+release_count_in_past_year_top_in_category: 69
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_email: nehemoyia.young@bitrise.io
+rep_title: Business Development Rep
+rep_first_name: Nehemoyiah
+rep_photo: nehemoyiah.jpg
+language: en
+---

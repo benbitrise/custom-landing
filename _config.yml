@@ -17,7 +17,7 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  app_publishers: 
+  apps: 
     output: true
 
 defaults:
@@ -27,7 +27,7 @@ defaults:
       layout: "home"
   -
     scope:
-      type: "app_publishers"
+      type: "apps"
     values:
       layout: "publisher" # overrides previous default layout
 

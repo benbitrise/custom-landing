@@ -1,0 +1,25 @@
+---
+id: "x-6O1jI3qc4A"
+category: "Finance"
+country: "BR"
+store: "itunes_connect"
+app_name: "Nubank - Conta e Cartão"
+app_id: 814456780
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/0e/26/8c0e2637-31c2-500b-eec7-7ef8085233b5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/49/8f/2d498fa0-d1e7-c808-c128-63b717e94cb4/1633381c-b966-48ce-8a8d-da6008e7a443_IphoneX-1.jpg/1242x2688bb.png
+publisher_id: 814456783
+publisher_name: "Nu Pagamentos S.A."
+rank: 1
+most_recent_release: 2024-02-12T00:00:00
+release_count_in_past_year: 45
+release_count_in_past_year_category: 45
+release_count_in_past_year_top_in_category: 45
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_email: joseph.cillis@bitrise.io
+rep_title: Account Manager
+rep_first_name: Joe
+rep_photo: joe.jpg
+language: en
+---

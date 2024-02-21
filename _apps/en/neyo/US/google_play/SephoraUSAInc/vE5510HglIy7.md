@@ -1,0 +1,25 @@
+---
+id: "vE5510HglIy7"
+category: "Beauty"
+country: "US"
+store: "google_play"
+app_name: "Sephora: Buy Makeup & Skincare"
+app_id: com.sephora
+app_icon: https://play-lh.googleusercontent.com/B1v-qLNcvcD0mDyPqzCRTrru2l1QzgIssUYSWcYWhfCmp0jYW8IFp58MO-WZo3atZG_Q
+app_screenshot: https://play-lh.googleusercontent.com/jmeowoG4385nzSWxpKC9uw5azgM-Bn_eAVQykeKZ3MGeO-NgLTZILJ1TklJ15-PK3j0
+publisher_id: 286860
+publisher_name: "Sephora USA, Inc."
+rank: 1
+most_recent_release: 2024-02-13T00:00:00
+release_count_in_past_year: 20
+release_count_in_past_year_category: 20
+release_count_in_past_year_top_in_category: 20
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_email: nehemoyia.young@bitrise.io
+rep_title: Business Development Rep
+rep_first_name: Nehemoyiah
+rep_photo: nehemoyiah.jpg
+language: en
+---
