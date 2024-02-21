@@ -3,37 +3,19 @@
   <!-- End Navigation -->
   
   <!-- Header -->
-  {% if site.locale and site.locale != "" and site.locale != nil %}
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
-	  {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.text | append: " " | append: page.publisher_name | markdownify }}</div>
+	  {%- if site.data.sitetext[page.language].header.title -%}
+        <div class="intro-lead-in">{{ site.data.sitetext[page.language].header.text | append: " " | append: page.publisher_name | markdownify }}</div>
 	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.text -%}
+	  {%- if site.data.sitetext[page.language].header.text -%}
         <div class="intro-heading">{{ page.app_name | append: " is ranked " | append: page.rank | append: " in " | append: page.category | append: "." | markdownify }}</div>
 	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+	  {%- if site.data.sitetext[page.language].header.button -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[page.language].header.button }}</a>
 	  {%- endif -%}
       </div>
     </div>
   </header>
-  {% else %}
-  <header class="masthead">
-    <div class="container">
-      <div class="intro-text">
-	  {%- if site.data.sitetext.header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext.header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext.header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
-	  {%- endif -%}
-      </div>
-    </div>
-  </header>
-  {% endif %}
   <!-- End Header -->

@@ -2,7 +2,7 @@ import csv
 import os
 import shutil
 from collections import defaultdict
-import pprint
+import yaml
 import hashlib
 import re
 import base64
@@ -170,35 +170,36 @@ def create_page(rep, country_code, store, filename, average_releases, companies_
 
                 # Check if the markdown file already exists
                 if not os.path.isfile(filepath):
-                    # Create the markdown file with the proper values
+                    data = {
+                        'id': unique_id,
+                        'category': row['category'],
+                        'country': country_code,
+                        'store': store,
+                        'app_name': row['app_name'],
+                        'app_id': row['app_id'],
+                        'app_icon': row['icon'],
+                        'app_screenshot': row['screenshot'],
+                        'publisher_id': row['publisher_id'],
+                        'publisher_name': row['publisher_name'],
+                        'rank': row['rank'],
+                        'most_recent_release': row['most_recent_release'],
+                        'release_count_in_past_year': row['release_count_in_past_year'],
+                        'release_count_in_past_year_category': average_releases[row['category']]['all'],
+                        'release_count_in_past_year_top_in_category': average_releases[row['category']]['top'],
+                        'rep_full_name': rep['full_name'],
+                        'rep_linkedin': rep['linkedin'],
+                        'rep_phone': rep['phone'],
+                        'rep_email': rep['email'],
+                        'rep_title': rep['title'],
+                        'rep_first_name': rep['first_name'],
+                        'rep_photo': rep['photo'],
+                        'language': language,
+                    }
+
                     with open(filepath, 'w', encoding='utf-8') as mdfile:
-                        mdfile.write(
-                            f"---\n"
-                            f"id: \"{unique_id}\"\n"
-                            f"category: \"{row['category']}\"\n"
-                            f"country: \"{country_code}\"\n"
-                            f"store: \"{store}\"\n"
-                            f"app_name: \"{row['app_name']}\"\n"
-                            f"app_id: {row['app_id']}\n"
-                            f"app_icon: {row['icon']}\n"
-                            f"app_screenshot: {row['screenshot']}\n"
-                            f"publisher_id: {row['publisher_id']}\n"
-                            f"publisher_name: \"{row['publisher_name']}\"\n"
-                            f"rank: {row['rank']}\n"
-                            f"most_recent_release: {row['most_recent_release']}\n"
-                            f"release_count_in_past_year: {row['release_count_in_past_year']}\n"
-                            f"release_count_in_past_year_category: {average_releases[row['category']]['all']}\n"
-                            f"release_count_in_past_year_top_in_category: {average_releases[row['category']]['top']}\n"
-                            f"rep_full_name: {rep['full_name']}\n"
-                            f"rep_linkedin: {rep['linkedin']}\n"
-                            f"rep_phone: {rep['phone']}\n"
-                            f"rep_email: {rep['email']}\n"
-                            f"rep_title: {rep['title']}\n"
-                            f"rep_first_name: {rep['first_name']}\n"
-                            f"rep_photo: {rep['photo']}\n"
-                            f"language: {language}\n"
-                            f"---\n"
-                        )
+                        mdfile.write('---\n')
+                        yaml.dump(data, mdfile, default_flow_style=False, allow_unicode=True)
+                        mdfile.write('---\n')
                 else:
                     print(f"File {filepath} already exists, skipping...")
 
