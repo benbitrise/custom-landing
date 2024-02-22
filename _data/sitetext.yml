@@ -11,465 +11,143 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: is ranked
-    text:  A message for
+    is_ranked: is ranked
+    in_category: in
+    a_message_for: A message for
     button: Click to learn how to make it higher
     buttonlink: "#your-app"
 
   your-app:
     title: "Your App"
-    text: "Lorem ipsum"
+    subtitle: "Let's look at your release performance"
+    versus: "versus the "
+    category: " category"
     section: your-app
-    list:
-      - title: "Your rankings"
-        desc: "Your average store ranking (iOS & Android). How can you improve it?"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Release Frequency"
-        desc: "Your apps are released, on average, <> times a year. Top rated apps release >50 times per year."
-        icon: fas fa-laptop
-      - title: "Increase Release Frequency"
-        desc: "Bitrise is a platform that speeds your release cadence. Let's see how."
-        icon: fab fa-markdown
+    top_20: "The top 20 ranked apps in the "
+    all: "The top 500 ranked apps in the "
+    category_released: " category released "
+    released: " released "
+    versions_average: " versions in the past year, on average."
+    versions: " versions in the past year."
+    improve: "How can you improve it?"
 
-  release_strategies:
-    - Automate all aspects of the release process
-    - Shorten developer feedback loops with faster CI
-    - Speed up your local environment with remote build cache
-    - Identify test suite flakiness and eliminate it
-    - Use analytics to pinpoint bottlenecks in the build process
-    - Unblock developers faster with mobile-tailored tools
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  portfolio:
+    section: portfolio
+    title: How to increase your release frequency (and why)
+    description: The data tell us that higher ranking apps release new versions with a higher frequency. It makes sense that they rank higher because they are delivering more features, faster. So how can your team deliver more features more quickly?
+    button: Interested in a tool to help with this?
+    release_strategies:
+      - Automate all aspects of the release process
+      - Shorten developer feedback loops with faster CI
+      - Speed up your local environment with remote build cache
+      - Identify test suite flakiness and eliminate it
+      - Use analytics to pinpoint bottlenecks in the build process
+      - Unblock developers faster with mobile-tailored tools
 
   about:
     title: "Bitrise can help"
     text: "our story"
     body: "Bitrise is the leading managed CI/CD designed specifically for mobile developers. More than 6000 teams are using Bitrise to build, test, and release faster. We have a suite of tools that will boost your team."
+    button: Want for info?
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
-    title: "Interested?"
-    text: "Lorem ipsum or call 123456789"
+    introduce: Let me introduce myself
+    my_name: "My name is "
+    here: ", and I am here to support. Contact me using the info below."
+    title: "Bitrise Account Manager for "
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
-
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
 
 # Spanish
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
-
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
-    list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
-
-  release_strategies:
-    - Automate release-related toil
-    - Speed developer feedback loops
-    - aa
-
-  timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
-
+    is_ranked: ocupa en el puesto
+    in_category: en
+    a_message_for: Un mensaje para
+    button: Haz clic para aprender cómo hacerlo más alto
+    buttonlink: "#your-app"
+  your-app:
+    title: "Tu Aplicación"
+    subtitle: "Veamos el rendimiento de tu lanzamiento"
+    versus: "versus la "
+    category: " categoría"
+    section: your-app
+    top_20: "Las 20 aplicaciones mejor clasificadas en la "
+    all: "Las 500 aplicaciones mejor clasificadas en la "
+    category_released: " categoría lanzadas "
+    released: " lanzadas "
+    versions_average: " versiones en el último año, en promedio."
+    versions: " versiones en el último año."
+    improve: "¿Cómo puedes mejorarlo?"
+  portfolio:
+    section: portfolio
+    title: Cómo aumentar la frecuencia de tus lanzamientos (y por qué)
+    description: Los datos nos dicen que las aplicaciones con mejor clasificación lanzan nuevas versiones con mayor frecuencia. Tiene sentido que estén mejor clasificadas porque están entregando más funciones, más rápido. Entonces, ¿cómo puede tu equipo entregar más funciones más rápidamente?
+    button: ¿Interesado en una herramienta para ayudar con esto?
+    release_strategies:
+      - Automatizar todos los aspectos del proceso de lanzamiento
+      - Acortar los ciclos de retroalimentación de los desarrolladores con una CI más rápida
+      - Acelerar tu entorno local con caché de compilación remota
+      - Identificar la inestabilidad del conjunto de pruebas y eliminarla
+      - Usar análisis para identificar cuellos de botella en el proceso de compilación
+      - Desbloquear a los desarrolladores más rápido con herramientas adaptadas para móviles
   about:
-    title: "Sobre nosotros"
+    title: "Bitrise puede ayudar"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+    body: "Bitrise es el CI/CD gestionado líder diseñado específicamente para desarrolladores móviles. Más de 6000 equipos están utilizando Bitrise para construir, probar y lanzar más rápido. Contamos con un conjunto de herramientas que impulsarán a tu equipo."
+    button: ¿Quieres más información?
+    section: about
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
+    introduce: Permíteme presentarme
+    my_name: "Mi nombre es "
+    here: ", y estoy aquí para apoyar. Contáctame usando la información a continuación."
+    title: "Gerente de Cuenta de Bitrise para "
+    section: contact
 
-  footer:
-    legal: "Política de Privacidad"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
-
-# Deutsch
+# French
 # -----------------
-de: &DEFAULT_DE
+fr:
   header:
-    title: Willkommen auf unserer Webseite!
-    text: Schön das Sie hier sind!
-    button: Mehr erfahren
-    buttonlink: "#Angebote"
-
-  services:
-    title: "Leistungen"
-    text: "Was wir anbieten."
-    section: Leistungen
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        icon: fab fa-markdown
-
-  release_strategies:
-    - Automate release-related toil
-    - Speed developer feedback loops
-    - aa
-
-  timeline:
-    title: "Geschichte"
-    text: "Lorem ipsum timeline"
-    section: Geschichte
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Unsere Anfänge"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Gründung der Firma"
-        year: "März 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Das Jekyll-Thema wurde erstellt"
-        year: "2019"
-        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
-        image: assets/img/timeline/3.jpg
-        alt: Bildbeschreibung
-      - title: "Titel"
-        year: "2009-2011"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
-
+    is_ranked: est classé numéro
+    in_category: dans
+    a_message_for: Un message pour
+    button: Cliquez pour apprendre comment le rendre plus haut
+    buttonlink: "#your-app"
+  your-app:
+    title: "Votre Appli"
+    subtitle: "Examinons la performance de votre sortie"
+    versus: "versus la "
+    category: " catégorie"
+    section: your-app
+    top_20: "Les 20 meilleures applications classées dans la "
+    all: "Les 500 meilleures applications classées dans la "
+    category_released: " catégorie lancées "
+    released: " lancées "
+    versions_average: " versions au cours de l'année passée, en moyenne."
+    versions: " versions au cours de l'année passée."
+    improve: "Comment pouvez-vous l'améliorer ?"
+  portfolio:
+    section: portfolio
+    title: Comment augmenter la fréquence de vos sorties (et pourquoi)
+    description: Les données nous indiquent que les applications mieux classées sortent de nouvelles versions plus fréquemment. C'est logique qu'elles soient mieux classées car elles livrent plus de fonctionnalités, plus rapidement. Alors, comment votre équipe peut-elle livrer plus de fonctionnalités plus rapidement ?
+    button: Intéressé par un outil pour aider avec cela ?
+    release_strategies:
+      - Automatiser tous les aspects du processus de sortie
+      - Raccourcir les boucles de rétroaction des développeurs avec une CI plus rapide
+      - Accélérer votre environnement local avec un cache de build distant
+      - Identifier la volatilité de la suite de tests et l'éliminer
+      - Utiliser des analyses pour repérer les goulets d'étranglement dans le processus de build
+      - Débloquer les développeurs plus rapidement avec des outils adaptés aux mobiles
   about:
-    title: "Über uns"
-    text: "Unsere Geschichte."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: Ueber
-
-  clients:
-    section: Kunden
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "Unser großartiges Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: Team
-    people:
-      - name: "Kay Garland"
-        role: "Chef-Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Chef der Werbeabteilung"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Chef-Programmiererin"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+    title: "Bitrise peut aider"
+    text: "notre histoire"
+    body: "Bitrise est le CI/CD géré leader conçu spécifiquement pour les développeurs mobiles. Plus de 6000 équipes utilisent Bitrise pour construire, tester et sortir plus rapidement. Nous avons une suite d'outils qui stimulera votre équipe."
+    button: Vous voulez plus d'infos ?
+    section: about
   contact:
-    title: "Kontakt"
-    text: "Kontaktieren Sie uns."
-    section: Kontakt
-    name: "Name*"
-    name-validation: "Geben Sie einen Namen ein."
-    email: "E-Mail*"
-    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
-    phone: "Telefonnummer*"
-    phone-validation: "Geben Sie Ihre Telefonnummer ein."
-    message: "Nachricht*"
-    message-validation: "Schreiben Sie etwas..."
-    subject: "Kontakt-Formular Bestätigung"
-    submit: "Nachricht absenden"
-
-  footer:
-    legal: "Datenschutzerklärung"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-de-DE:
-  <<: *DEFAULT_DE
+    introduce: Permettez-moi de me présenter
+    my_name: "Je m'appelle "
+    here: ", et je suis ici pour vous soutenir. Contactez-moi en utilisant les informations ci-dessous."
+    title: "Gestionnaire de Compte Bitrise pour "
+    section: contact

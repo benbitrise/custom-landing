@@ -5,9 +5,17 @@
 
   <body id="page-top">
 
-      {{ content }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M4C0L437EL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	  
+  gtag('config', 'G-M4C0L437EL');
+</script>
+
+      {{ content }}
 
 	  <!-- Bootstrap core JavaScript -->
 	  <script src="/assets/js/jquery.min.js"></script>
@@ -18,7 +26,7 @@
 
 	  <!-- Contact form JavaScript -->
 	  <script src="/assets/js/jqBootstrapValidation.js"></script>
-	  <script src="/assets/js/contact_me.js"></script>
+	  
 
 	  <!-- Custom scripts for this template -->
 	  <script src="/assets/js/agency.min.js"></script>
