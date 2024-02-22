@@ -148,7 +148,7 @@ def create_rankings(token, store, country, top_charts, filename):
                     }
                     writer.writerow(row)
                     print(' '.join(str(value) for value in row.values()))
-                print(f"Test: {os.getenv("TEST")} ctr: {test_ctr}")
+                print(f"Test: {os.getenv('TEST')} ctr: {test_ctr}")
                 if os.getenv("TEST") == "true" and test_ctr>4:
                     break
 
