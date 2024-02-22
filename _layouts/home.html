@@ -2,21 +2,74 @@
 layout: home_wrapper
 ---
     <h1>The Bitrise Landing Page Machine</h1>
+    <!-- Additional filters for language and representative full name -->
+    <select id="languageFilter">
+        <option value="en">English</option>
+        <option value="es">Español</option>
+        <option value="fr">French</option>
+    </select>
+
+    <select id="repFirstNameFilter">
+        <option value="Anna">Anna</option>
+        <option value="Joe">Joe</option>
+        <option value="Lio">Lio</option>
+        <option value="Michael">Michael</option>
+    </select>
+
+    <select id="storeFilter">
+        <option value="google_play">Google Play</option>
+        <option value="itunes_connect">App Store</option>
+    </select>
+
+    <select id="countryFilter">
+        <option value="US">US</option>
+        <option value="MX">MX</option>
+        <option value="BR">BR</option>
+        <option value="CA">CA</option>
+        <option value="AU">AU</option>
+        <option value="NZ">NZ</option>
+        <option value="JP">JP</option>
+        <option value="IN">IN</option>
+        <option value="ID">ID</option>
+        <option value="SG">SG</option>
+        <option value="FR">FR</option>
+        <option value="DE">DE</option>
+        <option value="AT">AT</option>
+        <option value="IT">IT</option>
+        <option value="BE">BE</option>
+        <option value="ES">ES</option>
+        <option value="PT">PT</option>
+        <option value="NO">NO</option>
+        <option value="DK">DK</option>
+        <option value="SE">SE</option>
+        <option value="GB">GB</option>
+        <option value="NL">NL</option>
+        <option value="PL">PL</option>
+        <option value="QA">QA</option>
+        <option value="AE">AE</option>
+        <option value="JO">JO</option>
+        <option value="IL">IL</option>
+        <option value="TR">TR</option>
+    </select>
+
     <input type="text" id="searchInput" placeholder="Start typing a publisher name..." autocomplete="off">
     <div id="results"></div>
 
     <script>
         // Example data - replace this with your actual data
         const publisherData = [
-
-        {% for publisher in site.app_publishers %}
-        { 
-            "name": "{{ publisher.publisher_name | escape }}",
-            "app": "{{ publisher.app_name | escape }}",
-            "url": "{{ publisher.url | escape }}"
+        {% for publisher in site.apps %}
+            {
+                "name": "{{ publisher.publisher_name | escape }}",
+                "app": "{{ publisher.app_name | escape }}",
+                "url": "{{ publisher.url | escape }}",
+                "language": "{{ publisher.language | escape }}",
+                "store": "{{ publisher.store | escape }}",
+                "country": "{{ publisher.country | escape }}",
+                "rep_first_name": "{{ publisher.rep_first_name | escape }}"
             }{{ ',' if forloop.last == false }}
-            {% endfor %}
-        ];
+        {% endfor %}
+    ];
 
         // Fuse.js options
         const options = {
@@ -27,11 +80,38 @@ layout: home_wrapper
         // Initialize Fuse with the publisher data
         const fuse = new Fuse(publisherData, options);
 
-        // Function to perform the search and update the results
         function searchPublishers() {
             const searchQuery = document.getElementById('searchInput').value;
-            const results = fuse.search(searchQuery, { limit: 12 });
+            const selectedLanguage = document.getElementById('languageFilter').value;
+            const selectedRepFirstName = document.getElementById('repFirstNameFilter').value;
+            const selectedCountry = document.getElementById('countryFilter').value;
+            const selectedStore = document.getElementById('storeFilter').value;
             const resultsContainer = document.getElementById('results');
+
+            // Perform the search with Fuse.js
+            let results = fuse.search(searchQuery);
+
+            // Additional filtering by language and representative name
+            if (selectedLanguage !== '') {
+                results = results.filter(result => result.item.language == selectedLanguage);
+            }
+            if (selectedRepFirstName !== '') {
+                results = results.filter(result => result.item.rep_first_name == selectedRepFirstName);
+            }
+            
+            if (selectedCountry !== '') {
+                results = results.filter(result => {
+                    return result.item.country == selectedCountry
+                });
+            }
+            console.log(results)
+            if (selectedStore !== '') {
+                results = results.filter(result => {
+                    return result.item.store == selectedStore
+                });
+            }
+
+            // Update the results container with the filtered results
             resultsContainer.innerHTML = results.map(result => {
                 const publisher = result.item;
                 return `<div><a href="${publisher.url}">${publisher.name}-${publisher.app}</a></div>`;
@@ -40,4 +120,10 @@ layout: home_wrapper
 
         // Event listener to perform search on input
         document.getElementById('searchInput').addEventListener('input', searchPublishers);
+        document.getElementById('languageFilter').addEventListener('change', searchPublishers);
+        document.getElementById('repFirstNameFilter').addEventListener('change', searchPublishers);
+        document.getElementById('storeFilter').addEventListener('change', searchPublishers);
+        document.getElementById('countryFilter').addEventListener('change', searchPublishers);
     </script>
+
+    
