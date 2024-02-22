@@ -6,6 +6,18 @@ import yaml
 import hashlib
 import re
 import base64
+import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s [%(levelname)s] %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S',
+    handlers=[
+        logging.FileHandler("app.log"),
+        logging.StreamHandler()
+    ]
+)
 
 reps=[
     {
@@ -200,15 +212,36 @@ def create_page(rep, country_code, store, filename, average_releases, companies_
                         mdfile.write('---\n')
                         yaml.dump(data, mdfile, default_flow_style=False, allow_unicode=True)
                         mdfile.write('---\n')
-                else:
-                    print(f"File {filepath} already exists, skipping...")
 
-if __name__ == "__main__":
+def worker_task(rep, country_code, store, filename, averages, companies_dir):
+    logging.info(f"START: {rep['first_name']}, {country_code}, {store} from {filename}")
+    create_page(rep, country_code, store, filename, averages, companies_dir)
+    logging.info(f"FINISH: {rep['first_name']}, {country_code}, {store} from {filename}")
+
+
+def main():
     companies_dir = '_apps'
     create_collections_dir(companies_dir)
-    for (country_code, store, filename) in list_file_info():
-        averages = create_averages(country_code, store, filename)
-        print(f"{country_code}, {store} from {filename}")
-        for rep in reps:
-            create_page(rep, country_code, store, filename, averages, companies_dir)
-        
+    
+    # Create a list to hold the futures
+    future_tasks = []
+
+    # Use ThreadPoolExecutor to handle file I/O-bound tasks
+    with ThreadPoolExecutor(max_workers=8) as executor:  # Adjust the number of workers as needed
+        for (country_code, store, filename) in list_file_info():
+            averages = create_averages(country_code, store, filename)
+            
+            # Submit tasks to the executor
+            for rep in reps:
+                future = executor.submit(worker_task, rep, country_code, store, filename, averages, companies_dir)
+                future_tasks.append(future)
+
+        # Wait for all tasks to complete
+        for future in as_completed(future_tasks):
+            try:
+                future.result()  # Retrieve the result to handle exceptions
+            except Exception as exc:
+                print(f'Generated an exception: {exc}')
+
+if __name__ == "__main__":
+    main()
