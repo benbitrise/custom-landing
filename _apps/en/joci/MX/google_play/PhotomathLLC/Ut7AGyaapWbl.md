@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA
+app_id: com.microblink.photomath
+app_name: Photomath
+app_screenshot: https://play-lh.googleusercontent.com/WZxzFFPlEOYSoH9NIllADXhS716Puxb3APrrJkLutT1MCAGDzoD8YO-pfaOigRt87oc
+category: Education
+country: MX
+id: Ut7AGyaapWbl
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '3027089'
+publisher_name: Photomath LLC
+rank: '4'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 31
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

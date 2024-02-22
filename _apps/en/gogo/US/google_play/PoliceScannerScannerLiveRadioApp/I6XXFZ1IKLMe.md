@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0PhFPF7GlTeqBtoKB5yfE3ZdizMdFkZJvkR5mjr8rmpYEp9I7U05sPnPRZni-_ksRGQ
+app_id: police.scanner.radio.broadcastify.citizen
+app_name: Police Scanner - Live Radio
+app_screenshot: https://play-lh.googleusercontent.com/6vheFy9z5fvtSRW_oXc_SwhUl6sC7Iunz7cBrGB7jXtQbf6ryBpuDeU8rgwL3C_zJE8
+category: News & Magazines
+country: US
+id: I6XXFZ1IKLMe
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2966537'
+publisher_name: Police Scanner, Scanner Live Radio App
+rank: '4'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

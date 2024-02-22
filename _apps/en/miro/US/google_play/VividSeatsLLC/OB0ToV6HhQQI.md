@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yLQXDzCEkHHS8-z1Yk4FsBclMzAV2WWaNmZ_2FtE1aJ9qJeT8AclkYwKPFPPUClwoE8
+app_id: com.vividseats.android
+app_name: Vivid Seats | Event Tickets
+app_screenshot: https://play-lh.googleusercontent.com/d-jALyQ9-wlZ3x6olPqp7WWnLtEbkoNZbT0pPOMxnD_EVXGEsMk0k4_AL6RzF6eifg
+category: Events
+country: US
+id: OB0ToV6HhQQI
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1081072'
+publisher_name: Vivid Seats LLC
+rank: '4'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 20
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

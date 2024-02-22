@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/GRLKJUqN3Th4EL0HbBskFp6uM5TLvNQ0zKUj75W2t2pmuSrUer3HtrZlHFEfinnAp2U
+app_id: com.newleaf.app.android.victor
+app_name: ReelShort
+app_screenshot: https://play-lh.googleusercontent.com/kkZGFVSkgf9-9GD9InTh3-p74FTKKO2uP0wd-O74_YY4zDLvyCaYeNq8r9GkfcRV2A
+category: Entertainment
+country: MX
+id: dMGFWQBIt2Mt
+language: es
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '2801474'
+publisher_name: NewLeaf Publishing
+rank: '3'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 26
+release_count_in_past_year_top_in_category: 26
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

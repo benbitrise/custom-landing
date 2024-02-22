@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bDCkDV64ZPT38q44KBEWgicFt2gDHdYPgCHbA3knlieeYpNqbliEqBI90Wr6Tu8YOw
+app_id: com.paypal.android.p2pmobile
+app_name: PayPal - Send, Shop, Manage
+app_screenshot: https://play-lh.googleusercontent.com/lIgt1pM6ZDhNPuS3n85D93yrMZKTmUtdk7EqE2_rZ3i6NlrTQ5-pnNnVSO95ooWP0AZf
+category: Finance
+country: US
+id: k4kYIQoNJVY_
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '17659'
+publisher_name: PayPal Mobile
+rank: '2'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 33
+release_count_in_past_year_top_in_category: 33
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

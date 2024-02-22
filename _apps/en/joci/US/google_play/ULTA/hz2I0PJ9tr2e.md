@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_TJTWJgxKdfMhv5SlUXqQY1CJwP3UTQfq11Wz6EJYM1c1f1wGlxYQQJTXfqTkzbmZM-x
+app_id: com.ulta
+app_name: 'Ulta Beauty: Makeup & Skincare'
+app_screenshot: https://play-lh.googleusercontent.com/Wz1bnciINXkr5DzRIdUN4qamD7nriuV1NIE9iRa9nn4zNuwsNExG_dHK41aUNRbAtQ
+category: Beauty
+country: US
+id: hz2I0PJ9tr2e
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2924'
+publisher_name: ULTA
+rank: '2'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 18
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/e8/c5/77e8c57b-ee47-6c06-a567-1f17ef97774c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/1024x1024bb.png
+app_id: '780125801'
+app_name: inDrive. Save on city rides
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/39/72/c6/3972c654-7c71-3b49-1a35-e29c3f2b0758/a878e979-5bae-44d6-9cf1-194c2f712bbc_1_IOS_1284x2778.jpg/1284x2778bb.png
+category: Travel
+country: MX
+id: 5BylDpLc6Frj
+language: es
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1232480544'
+publisher_name: SUOL INNOVATIONS LTD
+rank: '3'
+release_count_in_past_year: '60'
+release_count_in_past_year_category: 46
+release_count_in_past_year_top_in_category: 46
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

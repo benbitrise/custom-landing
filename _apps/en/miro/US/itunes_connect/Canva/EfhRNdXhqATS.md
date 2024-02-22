@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/27/ee/d7/27eed7f4-d7fe-85cc-85e8-8aea1124b73e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '897446215'
+app_name: 'Canva: Design, Photo & Video'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/72/cd/23/72cd2342-1584-aca9-872e-1492c5c47213/ceae7c58-08e5-41bd-ae83-def87ba4f26b_01_iphone65_01.png/1242x2688bb.png
+category: Photo & Video
+country: US
+id: EfhRNdXhqATS
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '897446218'
+publisher_name: Canva
+rank: '5'
+release_count_in_past_year: '52'
+release_count_in_past_year_category: 56
+release_count_in_past_year_top_in_category: 56
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

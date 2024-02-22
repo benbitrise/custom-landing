@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/eNa8H4rDdZr1d-ewYdzXMArAVRJTIh-JH56FaOaPBf9l-Ng2AiOSjUG9fypgFo0m6w
+app_id: com.fanduel.sportsbook
+app_name: FanDuel Sportsbook & Casino
+app_screenshot: https://play-lh.googleusercontent.com/Sb6FRDhL3mRMqSQvR-5JN6YFpwuo0MBqs-DnwCI1NZ_qrymbAAUl6eA0mLxNJnmhV-g
+category: Sports
+country: US
+id: X82mw-uHKPHh
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '598119'
+publisher_name: FanDuel
+rank: '1'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---
