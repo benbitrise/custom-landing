@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wyTn4yqr_kPsXznrL3UpX8sIwFQBiLQUn3DFBJrsUkIIr9DJKg71swhQWl4tYnJrbq8
+app_id: pl.pzu.moje
+app_name: mojePZU mobile
+app_screenshot: https://play-lh.googleusercontent.com/FRcJUopcwgQEb5cNQPmTeAVQYzIwiRfLLc-6JGBmEVVXqER6O9wONgiz0Ral_SRkE_YF
+category: Finance
+country: PL
+id: Ze7LkKvDcXQn
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '206711'
+publisher_name: PZU
+rank: '12'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

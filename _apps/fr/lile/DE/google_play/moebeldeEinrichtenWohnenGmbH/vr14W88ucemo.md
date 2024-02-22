@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/LgmbwHwmnsOrp2pM6qBM-LLF9YnD2b2W58cv7fVKk1AQqhR1xiSLpeejfrACYdWihg
+app_id: moebel.de
+app_name: 'moebel.de: Möbel, Deko, Lampen'
+app_screenshot: https://play-lh.googleusercontent.com/LyQdH61XKc13ERiQEFn8bLTFMnrjrSIYcXL6LFxvqVCsaw20OA0MDnMlI5K1lE3nBvg
+category: House & Home
+country: DE
+id: vr14W88ucemo
+language: fr
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2672761'
+publisher_name: moebel.de Einrichten & Wohnen GmbH
+rank: '1'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/09VjRnc-9R_KfXyFabV49nTtKu2x9W_HfHbBx1d88aI3glOYQl3tvulHsTe7XVgIzus
+app_id: com.my.epfonlinea2zsolutions
+app_name: Online PM Ayush Card Portal
+app_screenshot: https://play-lh.googleusercontent.com/zQKLNQrdK5FEsuVNqDyjmL1_i-ecu-2acwKhJwFz9gy5-1YM1WkgMsr5ORcZtz699MQQ
+category: Finance
+country: IN
+id: PjpD_BNuj35Q
+language: es
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '2449581'
+publisher_name: A2ZSolutions.Inc
+rank: '177'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

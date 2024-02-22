@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c20O1soq-sVjbp-Fo7h5EXLso_GfEB37BPqMcuK1xjST04JFAp7qenAxKvSAMrqTG_c
+app_id: com.dual.camerasid
+app_name: Dual Camera Sides
+app_screenshot: https://play-lh.googleusercontent.com/fXPW04iFpNdxsbNW3xshe-Y76Nftol9Z6AQEDDNtXiJzXwoD2z4BOw4Fo1N_ZFrRVE0
+category: Libraries & Demo
+country: AU
+id: wt9q_OpAKWFz
+language: fr
+most_recent_release: '2023-03-01T00:00:00'
+publisher_id: '2412111'
+publisher_name: kahlochSto
+rank: '48'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vGJwgOAp60oHVPQCTRtIACUhQIMsEm5mkdDPWuLtzBYzhirRZ9fiyHFl50HIvTSZ7yA
+app_id: com.mytrinetsocksapp.v2
+app_name: Trinet Socks VPN
+app_screenshot: https://play-lh.googleusercontent.com/1-4_cBRdEKrfiKn5XyP-EU9Bfj7koetPHQ6xP1X06mwOix0aXYXHcnY3ChHCv7gy-A
+category: Tools
+country: CA
+id: z2Y-ht9PV24Y
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '2891907'
+publisher_name: CNS Technologies Inc.
+rank: '117'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gumcVyk49pD2fNdYmOxkqgb8v93OTsWvjc_RE_mdCFYqh9GPVC89NJljXFWnjLJ_aA8
+app_id: com.garmin.android.driveapp.tread
+app_name: Tread®
+app_screenshot: https://play-lh.googleusercontent.com/kInZpr3nNj8evqGet-6SBKux28evSZgIxqaKcGv9ZCJtVfKLipzKqfr4M6F4uDSWWUrh
+category: Auto & Vehicles
+country: AU
+id: 6izErwWBd3Fy
+language: es
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2037'
+publisher_name: Garmin
+rank: '82'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Q1_JSCqdV6QgcTNJ9uaf_Qj-_oPEw1MrB5X5dvHWoHQQQbfs0Sc0Qg-8mswu_Pkbjhs
+app_id: id.bestworld.app.Best
+app_name: BESTCorp
+app_screenshot: https://play-lh.googleusercontent.com/o6FEcJd7mIkLCMtNmFOVd-ubm_ql7DoEwxwTCXOtSF9IkycNXrTZ4IMeXLlTSAIvt7s
+category: Business
+country: ID
+id: j8TnvRm59dgt
+language: es
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2687216'
+publisher_name: BEST World
+rank: '189'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

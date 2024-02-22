@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sYM9GPwvnF92GBADyNx_V2io07oRl8hwtxjda557bRj4gnXdK4QRv9FoVBTpF5b1JsM
+app_id: hilol.hyhkk.khgtf.hilol
+app_name: تعارف ارقام بنـات واتس اب
+app_screenshot: https://play-lh.googleusercontent.com/vQUKXtH3uiVC3dsXwwrn4oQ4LrzY6VfSlvDW33lKKAI4hUPlBN46zmk4PaJcYZfyJg
+category: Dating
+country: ES
+id: 2YhrO3Cgixea
+language: en
+most_recent_release: '2023-11-10T00:00:00'
+publisher_id: '2484757'
+publisher_name: tamara5020
+rank: '191'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

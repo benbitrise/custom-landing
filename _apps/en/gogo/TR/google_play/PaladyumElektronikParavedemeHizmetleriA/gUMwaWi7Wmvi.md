@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OQVkL1JN22lrUGm_QNplWn82KtiV6lmsUKNaakOWa8UMtULKNnAd4qtDQYyhY7IElMk
+app_id: paladyum.peppara
+app_name: 'PeP: Para Transferi Sanal Kart'
+app_screenshot: https://play-lh.googleusercontent.com/qRx-1NIsREwE0L3DS-Y8NzW_mKJaAZ4wbUH4hh97F14n6kQ2B_BIxYxGM6ceIQrwBh0
+category: Finance
+country: TR
+id: gUMwaWi7Wmvi
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '1673366'
+publisher_name: Paladyum Elektronik Para ve Ödeme Hizmetleri A.Ş.
+rank: '123'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

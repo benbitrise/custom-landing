@@ -12,8 +12,8 @@ publisher_id: '2252808'
 publisher_name: ihappydate
 rank: '4'
 release_count_in_past_year: '10'
-release_count_in_past_year_category: 32
-release_count_in_past_year_top_in_category: 32
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

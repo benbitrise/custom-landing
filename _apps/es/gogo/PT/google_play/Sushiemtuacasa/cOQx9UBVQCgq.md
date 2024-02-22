@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UzQ3g8LZ2ae9avhiGcGQC-Psygj_S4F7JigE5UyYAEmIX3uy54BtFMmn4Xrm8rMui64
+app_id: air.com.sushiemtuacasa.sushiemtuacasa
+app_name: Sushi em tua casa
+app_screenshot: https://play-lh.googleusercontent.com/DmKB-kMKMSTRHznVxYBfOmbv_21OuReCGJwRZZ3lEVQvs-zcH_d01BP_qxPMcTVcng6a
+category: Food & Drink
+country: PT
+id: cOQx9UBVQCgq
+language: es
+most_recent_release: '2023-08-11T00:00:00'
+publisher_id: '1467717'
+publisher_name: Sushi em tua casa
+rank: '21'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

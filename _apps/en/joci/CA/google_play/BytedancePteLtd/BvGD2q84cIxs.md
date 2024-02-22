@@ -12,8 +12,8 @@ publisher_id: '2252709'
 publisher_name: Bytedance Pte. Ltd.
 rank: '1'
 release_count_in_past_year: '109'
-release_count_in_past_year_category: 65
-release_count_in_past_year_top_in_category: 65
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rfYo_lfZrNnLBeYIeTRIYEERb4B0i8vOtOqidTlH3GeWS4RdsUFyT8WPKV2CPl_2D4Gd
+app_id: com.geolon.traklink
+app_name: Track & More
+app_screenshot: https://play-lh.googleusercontent.com/TS-Vt63seZkFL2R9U2KgTSdX5OpZSLQlUSXa4by1EwBG-3uvYWXKYT3BhIL8uCkUjFI
+category: Auto & Vehicles
+country: JO
+id: 4byusMra2YgY
+language: fr
+most_recent_release: '2023-10-23T00:00:00'
+publisher_id: '1396355'
+publisher_name: TrakLink Co
+rank: '108'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

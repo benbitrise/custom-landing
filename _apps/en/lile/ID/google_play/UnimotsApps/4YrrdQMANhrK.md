@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lV8SERxK-oAnILwMn_-ZTT3UglpN6FVDpq5bpYE-1f22z-d7zW2bZZ3RFdg5BzgNRg
+app_id: com.hdvideo.videoplayer.maxplayer.vidplayer
+app_name: HD Video Player All Formats
+app_screenshot: https://play-lh.googleusercontent.com/Hk-Lcyg8D7uuZa_zLfD13tA3rGj92xt02j5uKRvdzQkI6iEFc6PFjyGC0O0O5Z0bFIY
+category: Video Players & Editors
+country: ID
+id: 4YrrdQMANhrK
+language: en
+most_recent_release: '2023-10-04T00:00:00'
+publisher_id: '2979561'
+publisher_name: Unimots Apps
+rank: '149'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '1031329'
 publisher_name: Gwell
 rank: '3'
 release_count_in_past_year: '8'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

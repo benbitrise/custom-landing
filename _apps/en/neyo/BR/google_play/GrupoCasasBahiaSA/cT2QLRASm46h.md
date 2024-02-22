@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Wk7DCekJc9-Ua_3naotuYc3AwyC0ZaEGbY_BfHTamviJc7cXhSsiGQ6IH7m2TzrkiyKH
+app_id: com.sonyericsson.pontofrio
+app_name: 'Ponto: Compras Online'
+app_screenshot: https://play-lh.googleusercontent.com/4pjrhaB8CR5JRHREl86ddK9sjOgwiAIuxhRhQlSuevm0QdiD_V0a2TCs8i6pVr0rfjk
+category: Shopping
+country: BR
+id: cT2QLRASm46h
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2981115'
+publisher_name: Grupo Casas Bahia S.A.
+rank: '62'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

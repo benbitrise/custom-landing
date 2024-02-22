@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Uw5BFK_DbtrvECGRaB6zDR6Ugur_ImbiSGD8bGZvRU7eCPMqBcz5WfrAC9eok0XJp6ng
+app_id: com.didilabs.kaavefali
+app_name: 'Kaave: Tarot, Angel, Horoscope'
+app_screenshot: https://play-lh.googleusercontent.com/r1tjBKBjbbWL5pBg8Rvcjg5nHekzJ-Ls8A284NbQtmnn2dkAEvYkLskssxL4_eqVvrTZ
+category: Entertainment
+country: JO
+id: 00kXPASbXHwy
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '581036'
+publisher_name: Didilabs BV
+rank: '35'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

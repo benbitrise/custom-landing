@@ -1,0 +1,25 @@
+---
+app_icon: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/50/1c/de/501cde70-cfd5-509b-2610-836cf5e896bf/AppIcons-1x_U007emarketing-0-7-85-220.png/1024x1024bb.png
+app_id: '1383307021'
+app_name: StaffScheduleCare ESS
+app_screenshot: https://is3-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4f/8a/b0/4f8ab07a-5169-ef99-a863-98f1a9e02202/dfea0298-cbd6-432f-82be-8219042c9dc9_iPhone12-Login.png/1242x2688bb.png
+category: Business
+country: CA
+id: Ji2E6h02zqwi
+language: en
+most_recent_release: '2023-09-16T00:00:00'
+publisher_id: '778928583'
+publisher_name: StaffScheduleCare
+rank: '320'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0uF5Ga7ZD_QtNJiwk_9_EJN5C_lXZ-UsGNBVrd_AClT8WYfuuXj-fDDXR_Q4rI4jXQ
+app_id: comp.fermee.yeux
+app_name: مواقيت الصلاة بالمانيا والآذان
+app_screenshot: https://play-lh.googleusercontent.com/MgVQ938hroPLsYwM4XNARngTBSFYdL39_ZqFcjvCPvgfGPPmaiizGklLkPkiTEF6yeoG
+category: Libraries & Demo
+country: DE
+id: dK2nzh7G8o_N
+language: fr
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '804894'
+publisher_name: STCOM.Dev
+rank: '55'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

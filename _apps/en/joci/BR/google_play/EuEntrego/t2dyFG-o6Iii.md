@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KyQ9FiBdCDNAPiKTvxRqXkKcPLWeTcy83qTd61GslJEmq8xtlwkO66rdNBSC373YaLiw
+app_id: com.euentrego.entregador
+app_name: Eu Entrego para Entregador
+app_screenshot: https://play-lh.googleusercontent.com/IjhSa11rFLpVzP7O10adYjKOurWO9tI7-IYxUApwp2sAX01BJVCifmnWeuTnIW8uoBA
+category: Business
+country: BR
+id: t2dyFG-o6Iii
+language: en
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '832412'
+publisher_name: Eu Entrego
+rank: '91'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

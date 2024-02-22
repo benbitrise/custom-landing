@@ -12,8 +12,8 @@ publisher_id: '2636291'
 publisher_name: TuberVideo Developer
 rank: '2'
 release_count_in_past_year: '19'
-release_count_in_past_year_category: 18
-release_count_in_past_year_top_in_category: 18
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

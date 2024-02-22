@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TreMlKk5-bUXxxmdPdSkG8TB7lNmt5YWFigl7Wq8TBnHh5NOxxLpL_2dpDE8QriZBOg
+app_id: uae.maestropizza.ordering
+app_name: Maestro Pizza UAE
+app_screenshot: https://play-lh.googleusercontent.com/2Yz38OSjRg5MF0BSbnx9qXWP5M4e31HLZrfND5G87C-KfYlxshiDVXbHh0IoP0N8S70
+category: Food & Drink
+country: AE
+id: XVITPMfCbEIs
+language: fr
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '2739769'
+publisher_name: MOMO Co.
+rank: '63'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

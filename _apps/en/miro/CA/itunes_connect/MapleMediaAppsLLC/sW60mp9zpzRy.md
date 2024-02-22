@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/a6/7f/8ea67ff0-5a67-0f89-b6d7-68a44ee520b7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.jpeg/1024x1024bb.png
+app_id: '458225159'
+app_name: Weather Hi-Def Live Radar
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/ff/05/14ff0551-9fed-4874-bd2e-4e1c37af5643/pr_source.png/1242x2688bb.png
+category: Weather
+country: CA
+id: sW60mp9zpzRy
+language: en
+most_recent_release: '2023-12-18T00:00:00'
+publisher_id: '1289801633'
+publisher_name: Maple Media Apps, LLC
+rank: '53'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

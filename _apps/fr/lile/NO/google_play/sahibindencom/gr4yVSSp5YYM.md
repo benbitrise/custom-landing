@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vl29_j6wG_r9O4WjrUc55fY1cV2nCXVtTjjAzfKJdCHZ_nnYaT2Rnb2TEZlLkhhxYxo
+app_id: com.sahibinden
+app_name: 'sahibinden #AlSatKiralaKesfet'
+app_screenshot: https://play-lh.googleusercontent.com/gmeeKQmvxUdhhN66eUHmfgaOQ1E4z8l79kj_oC_Ggl2oZT6gsB4jSqG0ASRFoP4tgeE
+category: Shopping
+country: 'NO'
+id: gr4yVSSp5YYM
+language: fr
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '439756'
+publisher_name: sahibinden.com
+rank: '198'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

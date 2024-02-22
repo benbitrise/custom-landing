@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/52zSkkTz50qaFNVB9z7ZSb_ZvyIXpBRbbdrzjqGI1__d8ziYRVla4Wobp2onifvTbNw
+app_id: de.swm.muenchenapp
+app_name: muenchen app
+app_screenshot: https://play-lh.googleusercontent.com/MAnfP9j9QNF5nm963n5HRXvlZbXtDN_J5M9PTX5PrO4TWjH8BemYo4450515eoP4CQ
+category: Events
+country: IT
+id: SwRkjbKJiLSJ
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '189284'
+publisher_name: SWM Services GmbH
+rank: '113'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

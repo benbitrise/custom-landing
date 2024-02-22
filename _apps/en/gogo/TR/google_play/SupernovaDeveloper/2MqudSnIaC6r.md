@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2VcH7f7WswGcmF1ZpqaBp5QMyGpHf8BLdwC3ciF4eFW8NVAY71hYlHP3KNDoG3O0HUGH
+app_id: com.ggyy655p.app416418602318
+app_name: خلفيات بنات رمضان
+app_screenshot: https://play-lh.googleusercontent.com/m3WOOopOa8SKmlNfm5FkBkLXggM4pHjdLkaeNpFTSw8UtT2-7j03WOdZ5NbQKAocc4ls
+category: Beauty
+country: TR
+id: 2MqudSnIaC6r
+language: en
+most_recent_release: '2023-08-26T00:00:00'
+publisher_id: '2810542'
+publisher_name: Supernova_Developer
+rank: '180'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

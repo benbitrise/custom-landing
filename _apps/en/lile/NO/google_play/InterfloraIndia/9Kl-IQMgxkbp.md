@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/X8yy7e3b7L_UWMRRxt4r6jTxnvjF753LD0VM_EGSuudFm94LM32VQOpmeZYlB86fgNg
+app_id: com.interflora.android
+app_name: Interflora:The flower experts
+app_screenshot: https://play-lh.googleusercontent.com/0pmShW4cXZXqMbixU691aghg-VDNJYXYPfAscIw8_mFLkP0rqcTPMqEUCmDYVQuBnmA
+category: Shopping
+country: 'NO'
+id: 9Kl-IQMgxkbp
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '2892258'
+publisher_name: Interflora India
+rank: '210'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

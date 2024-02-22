@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/FNYa5zfSwDV1s-z3yEy3_RbPZnynih6lg86qSEnJalO3nhNq29PGkkRMg31XeeJGDw
+app_id: com.entertainment.brokenscreen.prankapp
+app_name: Broken Screen 4K Funny Pranks
+app_screenshot: https://play-lh.googleusercontent.com/udu5byUM-N9D6Y3rFZ31tdNO-XL2oClJuTro1y1YSv-ppTYX523tLcqVyUwbYjqh8yqO
+category: Entertainment
+country: PL
+id: 0XIu0XRNyKl4
+language: en
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '2445581'
+publisher_name: MIA Studio Inc
+rank: '59'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

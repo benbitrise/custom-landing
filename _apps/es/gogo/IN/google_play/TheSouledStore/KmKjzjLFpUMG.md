@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DM2HmBu_PCO98Q0yMADnEa9P_-ACOX_aekM601jeUrxph67vY6a9DtvtoGL9jcPYMx8
+app_id: com.thesouledstore
+app_name: 'The Souled Store: Shopping App'
+app_screenshot: https://play-lh.googleusercontent.com/RKvkfUq4Jrhw_bxKo-NPmKmwcUHbf2NiED56G3-_h_v-LCgaZs4xYILujrLryMu56rqi
+category: Shopping
+country: IN
+id: KmKjzjLFpUMG
+language: es
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2246702'
+publisher_name: The Souled Store
+rank: '67'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

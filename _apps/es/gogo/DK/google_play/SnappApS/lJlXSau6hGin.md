@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7xLrj_fTLO6-NkrZvEQlKtx8HQ7gL-NFankAYgDZS6IxT6vKl_t4zUK82bXcSWhYQFU
+app_id: dk.hancock.app
+app_name: Find Hancock
+app_screenshot: https://play-lh.googleusercontent.com/ICG9EqJpo-DInJePM_WmDrMOWvK_njhAGK93Qi_Wi-D3ygogTr9pWQKUAajofoNdyw
+category: Food & Drink
+country: DK
+id: lJlXSau6hGin
+language: es
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '723772'
+publisher_name: Snapp ApS
+rank: '57'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

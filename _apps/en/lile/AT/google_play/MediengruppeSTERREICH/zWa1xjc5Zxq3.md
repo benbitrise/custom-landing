@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Czo3X3EzCFbCx9OVokd-FtVL_ffqGPIDpkrEdLrup_8H9zrmBrVJxMZp3zwrX4hPXw
+app_id: at.apa.pdfwlclient.oesterreich
+app_name: Tageszeitung ÖSTERREICH HD
+app_screenshot: https://play-lh.googleusercontent.com/XWvdPbAY-Qlc-xmYg_iYoKB1lWeQjKkGGpRakBYBl32tPWZyrJHw1OCECFC62vWPhQ
+category: News & Magazines
+country: AT
+id: zWa1xjc5Zxq3
+language: en
+most_recent_release: '2023-03-03T00:00:00'
+publisher_id: '194936'
+publisher_name: Mediengruppe ÖSTERREICH
+rank: '95'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

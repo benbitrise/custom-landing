@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1GDJdCHMe_xQO6HdxsHBYpo22uJLW9_DcQdHPKR5zQh53QMnGrmXUogZQpZF4AJYNoM
+app_id: com.cfdrink
+app_name: Mixel, Cocktail Recipes
+app_screenshot: https://play-lh.googleusercontent.com/0zpXcTF6PRm2Wc0bcOWSvsAHek_treyaFnSD5jvfO1GAYM5MHm-zFhcvzpigKrrd97I
+category: Food & Drink
+country: 'NO'
+id: TNhrhzRLOdvM
+language: fr
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '1119449'
+publisher_name: Cool Font
+rank: '238'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

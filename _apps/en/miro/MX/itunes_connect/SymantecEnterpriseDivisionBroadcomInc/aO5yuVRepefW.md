@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/74/bb/f274bbfe-443b-a650-570c-63a34938cbc8/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '695620821'
+app_name: SEP Mobile
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/46/6b/14/466b1419-86bd-9063-0cf8-c4072c3dadcb/pr_source.png/1242x2688bb.png
+category: Business
+country: MX
+id: aO5yuVRepefW
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '1497585038'
+publisher_name: Symantec Enterprise Division, Broadcom Inc.
+rank: '432'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -12,8 +12,8 @@ publisher_id: '2034721'
 publisher_name: GEO TRACK TECHNOLOGIES INC
 rank: '1'
 release_count_in_past_year: '66'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

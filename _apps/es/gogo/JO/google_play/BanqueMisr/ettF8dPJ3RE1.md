@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wv5fhYM6RIlQU2fCHyDkjzMh1hfzwe9ekjjgtyWkhZfg1WUGgL4eWRRTRb5Dk0NMW6I
+app_id: com.BanqueMisr.MobileBanking
+app_name: BM Online
+app_screenshot: https://play-lh.googleusercontent.com/5MC5lNvHw8tBVDP7IS36PpCKjPrGOtl32N1-nlW24kosOG9TycmV__3ZgqjdxqQOUC5K
+category: Finance
+country: JO
+id: ettF8dPJ3RE1
+language: es
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '1192440'
+publisher_name: Banque Misr
+rank: '211'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

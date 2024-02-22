@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/L1ZfUUenEfIlcZlcz0ALJe1AoY_HA0FUeGLpMEhbFkYHK0ijU_wOQjNpQjeONqh5lhA
+app_id: com.cannalator.android
+app_name: Weed calculator for THC & CBD
+app_screenshot: https://play-lh.googleusercontent.com/hQElkMCJyAAG2pyGi6LafC05Qw54VWrwKOM9P7wrVLnWXZTXlndPWB3aTxAWoeweqQ
+category: Food & Drink
+country: MX
+id: s2nVPY0xjQ_9
+language: en
+most_recent_release: '2023-03-24T00:00:00'
+publisher_id: '2134726'
+publisher_name: Alexandria Programming
+rank: '117'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

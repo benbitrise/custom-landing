@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/E1asuv_XEgbQHr0oCb43J12qNHnqm8bYkGe2NyWI3jlwDyX9Z9WcGo9wYTnyi4VoLj0
+app_id: com.appcreators.chatzone
+app_name: ChatZone -Chat app for singles
+app_screenshot: https://play-lh.googleusercontent.com/FgFgbtZveNydVcj_ngyHUAKnOjwd2cKsZ3ZCWSIO58l3BYIjgKmNgFIkpgj7JUqWoSw
+category: Dating
+country: MX
+id: dtElTdC8EuNQ
+language: en
+most_recent_release: '2023-12-23T00:00:00'
+publisher_id: '2589840'
+publisher_name: AppCreators B.V.
+rank: '42'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

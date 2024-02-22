@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/mCnnfLIWYe-rTz762nbMTKpSH4WjhgPjppYe8rq81KjwGDdQu8e2R1y9G7QtySHBDXQ
+app_id: com.icotera.mobile.client
+app_name: Icotera Wi-Fi optimization app
+app_screenshot: https://play-lh.googleusercontent.com/zhu5twRu7rQtZ-HAZ2ILn_Vmxd1Ga8TrX-33SKIzTPONOrAmorqeU8iSEeAyMRDipOc
+category: House & Home
+country: 'NO'
+id: aMziZoacvm4t
+language: en
+most_recent_release: '2023-09-01T00:00:00'
+publisher_id: '2479348'
+publisher_name: icotera
+rank: '117'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uogD10fNXvIlRpL-ke5Otdhjphjp7tYCqeUIHq1i0pd1KGnJ6Q81WyGjpvs3BKjUhbQ
+app_id: com.gojek.partner
+app_name: GoPartner
+app_screenshot: https://play-lh.googleusercontent.com/7Dvtsfy0Na_7MwjWe70agMBiNhmNRTfbkJ8f55BHGq_TjFx1KClHnLEJ5r-mB_GEfw
+category: Travel & Local
+country: ID
+id: DAEIfDPROehw
+language: fr
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2949938'
+publisher_name: PT. GoTo Gojek Tokopedia Tbk
+rank: '10'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

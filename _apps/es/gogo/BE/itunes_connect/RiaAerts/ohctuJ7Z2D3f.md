@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cf/e1/b7/cfe1b7b4-a187-6a82-281c-6f8e642cb6a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1484733286'
+app_name: Superplanner
+app_screenshot: https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/0a/20/c50a20d8-8da2-33d6-7264-42da2494cda3/pr_source.png/1242x2688bb.png
+category: Business
+country: BE
+id: ohctuJ7Z2D3f
+language: es
+most_recent_release: '2023-07-25T00:00:00'
+publisher_id: '1484733285'
+publisher_name: Ria Aerts
+rank: '110'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

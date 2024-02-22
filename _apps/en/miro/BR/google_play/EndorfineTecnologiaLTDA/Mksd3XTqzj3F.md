@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/n-PgHdEJOwxkeflahJcMMTS4vNoP76q-ljBWirB_znAuFLeikBGn2f0jze04d4YlCRTz
+app_id: com.filmaeumobile
+app_name: Filma Eu!
+app_screenshot: https://play-lh.googleusercontent.com/VeC-ZZX1Xsme1vYpeaFYn196msfBh8fA_sTKrI-ye2lvsO4AXpBAnD2Gjt8tsIlikA
+category: Sports
+country: BR
+id: Mksd3XTqzj3F
+language: en
+most_recent_release: '2023-11-08T00:00:00'
+publisher_id: '2085809'
+publisher_name: Endorfine Tecnologia LTDA
+rank: '60'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

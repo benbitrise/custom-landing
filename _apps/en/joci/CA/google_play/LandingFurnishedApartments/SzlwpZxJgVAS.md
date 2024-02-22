@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DZpC_NXnfcDFhSYiRuSt0xF85n_qKnELjwVsNomluED8aBN6Fot-1VNlcVZXbiirndA
+app_id: com.landingmember
+app_name: Landing | Furnished Apartments
+app_screenshot: https://play-lh.googleusercontent.com/W51INS0AaDw0R812tANQylT8fdSFqDWeC5yprs60GkVbp1fnzhzRIucKZFC_yNwElIM
+category: House & Home
+country: CA
+id: SzlwpZxJgVAS
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2602022'
+publisher_name: Landing Furnished Apartments
+rank: '128'
+release_count_in_past_year: '66'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

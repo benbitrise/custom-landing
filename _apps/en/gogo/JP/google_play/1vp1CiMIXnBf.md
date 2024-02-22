@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xkez_W_OchLgkJI_7qcKRDaknwpWW6Q1QP3fc7mpTqMUY-aaH8RaUZ_ij5OGuGHSsMw
+app_id: jp.co.i_bec.suteki_happy
+app_name: ハッピーメール｜素敵な出会いを
+app_screenshot: https://play-lh.googleusercontent.com/u8qD5M6hi0Rx4_jyg4-d5HnUPyZNPSllc3WooZi76WNIkOA7RbmHK2sdkZGIQjU_4TA
+category: Dating
+country: JP
+id: 1vp1CiMIXnBf
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '1180923'
+publisher_name: ハッピーメール運営チーム
+rank: '11'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

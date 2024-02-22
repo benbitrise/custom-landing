@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OEkAM1DGLzsbk5sUE0l6dqEEn8NT4SXG2lX5mJnnSAFe_i-ufY28twwYX48ROvXe8a8
+app_id: pl.hfood
+app_name: Healthy Food
+app_screenshot: https://play-lh.googleusercontent.com/5idn7G45OaOv8klL_WDxLR-RzOW7Pled9Axy5w7A5fOls9eKkT3PCWX-narwHdEYB9w
+category: Food & Drink
+country: PL
+id: E1sD0Nbzhx0N
+language: es
+most_recent_release: '2023-12-20T00:00:00'
+publisher_id: '1948293'
+publisher_name: ALTCONNECT Sp. z o. o.
+rank: '205'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

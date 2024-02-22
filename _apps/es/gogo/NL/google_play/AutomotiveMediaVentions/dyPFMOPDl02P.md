@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/R2PaeNTb39W8Y41jzVVB-UWnV6WqkiCk897GYQR5ey0CP_8D3cwZd69Bf6z7fgxSHHg
+app_id: nl.gaspedaal.gaspedaal
+app_name: 'Gaspedaal.nl: autovergelijker'
+app_screenshot: https://play-lh.googleusercontent.com/hfW8RocW8Ga5uQgT_8AGiMgnpnOxl67aGXgTOzky5cnYCF5xprITCihwCK6PmoFfBGM
+category: Auto & Vehicles
+country: NL
+id: dyPFMOPDl02P
+language: es
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '3065051'
+publisher_name: Automotive MediaVentions
+rank: '4'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

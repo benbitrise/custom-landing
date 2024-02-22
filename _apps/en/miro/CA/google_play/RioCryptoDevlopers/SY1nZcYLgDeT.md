@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qQ6wJwFb5mC_f3yVsXXs6ki_5yL2ZCBDq4NPw3PKTdWgbdCNUnqx_ZxdThpzdP1rTw
+app_id: com.cloud.remotely.miner.usdt.tether
+app_name: USDT Mining, Crypto USDT Miner
+app_screenshot: https://play-lh.googleusercontent.com/SQPHXu8yFiDDmrpzT_iezSJ0L-ZVGelAteeucx7xTIcTPCyVOnoInOobBzbl-xMNtYac
+category: Events
+country: CA
+id: SY1nZcYLgDeT
+language: en
+most_recent_release: '2023-12-04T00:00:00'
+publisher_id: '2965213'
+publisher_name: Rio Crypto Devlopers
+rank: '30'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

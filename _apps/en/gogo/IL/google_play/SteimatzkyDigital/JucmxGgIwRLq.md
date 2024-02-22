@@ -10,10 +10,10 @@ language: en
 most_recent_release: '2023-11-01T00:00:00'
 publisher_id: '2925010'
 publisher_name: Steimatzky Digital
-rank: '17'
-release_count_in_past_year: '11'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+rank: '23'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: gonzalo.gomez-llera@bitrise.io
 rep_first_name: Gonzalo
 rep_full_name: Gonzalo Gomez-Ilera

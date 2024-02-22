@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5Zkj-vrKHBauMF4srwktsFPPYQqTHA2Tlc8fZLPDyvgAEk2hhGfkNsKSnJZLNvIRHQ
+app_id: com.goeuro.rosie
+app_name: 'Omio: Europe & U.S. Travel App'
+app_screenshot: https://play-lh.googleusercontent.com/JVZck3vCS6atXitnrwS2AZtbVl8LZI5qSR8826vNrWVOYazdL3_hA--8bfc0K_5Vvw
+category: Travel & Local
+country: MX
+id: vTQuNaaqvxdg
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2692241'
+publisher_name: Omio
+rank: '78'
+release_count_in_past_year: '42'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

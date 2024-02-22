@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XlSamyRZc995ceG6emIeuxLm_67ktWF-asqld-bW72Dx1nhEalWq08Rfx7BvU9aA_BM
+app_id: com.fakecall.toothless.livevideo
+app_name: 'Monster Prank: Mess & Call'
+app_screenshot: https://play-lh.googleusercontent.com/FbPDDEzWFrYKd6Mq0l36vuUgqZqMXHDHGcbQK_eV3sO5m_C-rLrQJ4n21QZfVjy8KO0
+category: Video Players & Editors
+country: 'NO'
+id: PzNqibU7H_Tc
+language: fr
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '3067310'
+publisher_name: YoB
+rank: '86'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/af/86/a6af8636-5f95-d2d3-a69b-8c4ac45bb6f9/AppIcon-0-0-1x_U007epad-0-9-0-85-220.jpeg/1024x1024bb.png
+app_id: '6474874888'
+app_name: PERaia
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9e/ea/2a/9eea2ae1-13ec-c411-dc90-c88da4a890e3/eada9392-1f2e-40f9-a82b-9d0675e0455d_Preview-1a-1284x2778.png/1284x2778bb.png
+category: Business
+country: PT
+id: 6esw0J1zT5F8
+language: en
+most_recent_release: ''
+publisher_id: '1420487238'
+publisher_name: Docapesca - Portos e Lotas, S.A.
+rank: '707'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

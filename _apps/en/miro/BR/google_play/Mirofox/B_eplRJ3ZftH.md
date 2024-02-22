@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QoiCCPIrpd_PdDjWbGHzeoZiTjjHNTZmiv9cMnYXakp0O39wkEGqKBCfw7XWTlckvg
+app_id: com.mirofox.numerologija
+app_name: Numerology Rediscover Yourself
+app_screenshot: https://play-lh.googleusercontent.com/99WQwKB2PPTpzBQPLSjwFGY6HfVMyhKxgPZXCPGk-S7iQllkMgezJrT3MnyXB0dFq7g
+category: Lifestyle
+country: BR
+id: B_eplRJ3ZftH
+language: en
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '741096'
+publisher_name: Mirofox
+rank: '201'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_1bfG1352yRTW-z9bfVmAyBFsl5U8j6GEZqLBruBNu6hNVF22KzIzU7ii0DU-63mOM4
+app_id: com.ayyildizsoft.lamenka
+app_name: Lamenka
+app_screenshot: https://play-lh.googleusercontent.com/Qg0y61SDscUnafoOjC45nW8VuCNjfW7AZBDGzkQtzIQN4uTbe1rVbUkhXqyRLQ5HfsU
+category: House & Home
+country: TR
+id: 5HgR-jRtUK6W
+language: en
+most_recent_release: '2023-09-26T00:00:00'
+publisher_id: '2984429'
+publisher_name: LAMENKA
+rank: '166'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

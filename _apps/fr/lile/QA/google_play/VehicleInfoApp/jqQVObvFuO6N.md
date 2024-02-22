@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HUIGybQ3YcRULqg9oENkdOF9VkL0TOwUvklrkuyfyJD8PwJnZQXX6ODNoG7GD0SZAqU
+app_id: com.gofinger.vehicleinfo
+app_name: Vehicle Information App
+app_screenshot: https://play-lh.googleusercontent.com/s4ToinaBK5Ep_fR-xhtAfCFA18BD9yI8cQfXfmefajll61gBg9CoRlfuiPfOwfLPqSUI
+category: Auto & Vehicles
+country: QA
+id: jqQVObvFuO6N
+language: fr
+most_recent_release: '2023-12-29T00:00:00'
+publisher_id: '2500903'
+publisher_name: Vehicle Info App
+rank: '38'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

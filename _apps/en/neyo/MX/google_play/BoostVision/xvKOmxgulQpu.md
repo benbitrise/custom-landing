@@ -12,8 +12,8 @@ publisher_id: '2681435'
 publisher_name: BoostVision
 rank: '4'
 release_count_in_past_year: '17'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

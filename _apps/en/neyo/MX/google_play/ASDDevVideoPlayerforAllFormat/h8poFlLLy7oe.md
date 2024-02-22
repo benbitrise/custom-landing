@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3XRmBa9MB3BUwZfF57ycUls3X-Cz0M4dtSrxcji9nEXORz5xPJtwOnCpsxlvltX67oQ
+app_id: com.rocks.music.videoplayer
+app_name: HD Video Player All Formats
+app_screenshot: https://play-lh.googleusercontent.com/5dCvdAoxAv3RcP-tgdkKP9LVE-yh9ZmrYrfO3gbamNQg6OK08JBpB8y6lFFiOKeyLUw
+category: Video Players & Editors
+country: MX
+id: h8poFlLLy7oe
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1905682'
+publisher_name: ASD Dev Video Player for All Format
+rank: '20'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

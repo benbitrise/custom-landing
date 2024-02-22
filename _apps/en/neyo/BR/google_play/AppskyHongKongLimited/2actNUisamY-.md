@@ -12,8 +12,8 @@ publisher_id: '2779482'
 publisher_name: Appsky Hong Kong Limited
 rank: '1'
 release_count_in_past_year: '15'
-release_count_in_past_year_category: 18
-release_count_in_past_year_top_in_category: 18
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

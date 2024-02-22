@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2rktQTNqFBzCTyme9qEetNYNyNIbI3WwB8KyZ9Jfk-0ASt8WMnuilw66gcLeQpknMKo
+app_id: com.Afan.Body_scanner_xray_camera_simulator
+app_name: Girl Body Scanner Camera Xray
+app_screenshot: https://play-lh.googleusercontent.com/yyGDRoEMby2qBQ2giHB4rASJGgk16A282twbdBWXouhVC9GCCeR3My0Ns8Xx-5jwjw
+category: Entertainment
+country: IN
+id: Q3JGbwqtau41
+language: fr
+most_recent_release: '2022-10-22T00:00:00'
+publisher_id: '2795637'
+publisher_name: Afan apps
+rank: '75'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

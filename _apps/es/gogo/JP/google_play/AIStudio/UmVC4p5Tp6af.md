@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Hx_s6JR6lgbv0vgF4G9yZa55Nk_n8ZRtlSQ0UjQgO1m7wpJE_3-oknP3_NK0L-GS5g
+app_id: com.hfx.sixteen_personalities
+app_name: 16Personalities Test
+app_screenshot: https://play-lh.googleusercontent.com/GMUNB-FPYxvGToG77W3SfcFLz3i33Fr9UuVELmWSie_WZ6yN6-2FMKjQvgbybfHZvMok
+category: Lifestyle
+country: JP
+id: UmVC4p5Tp6af
+language: es
+most_recent_release: '2023-07-12T00:00:00'
+publisher_id: '2951358'
+publisher_name: AI Studio.
+rank: '209'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

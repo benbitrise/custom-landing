@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/N6iMDcjmNbZmDQ9h_jiOi_3FNegLKA1TQ_ZONHJDPU0yJZvC38nUjSZGMDKTE-K9Ev8
+app_id: com.paperlit.android.repubblica
+app_name: la Repubblica - news online
+app_screenshot: https://play-lh.googleusercontent.com/uyoGKD1hOdefLmjRW-edZPUoMpac1V5evRV2oQERgwckU92k45mmS7ytnpZuA744zuE
+category: News & Magazines
+country: PL
+id: Ncll_eHzmtPS
+language: en
+most_recent_release: '2023-10-05T00:00:00'
+publisher_id: '2750662'
+publisher_name: Gedi Digital srl
+rank: '209'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

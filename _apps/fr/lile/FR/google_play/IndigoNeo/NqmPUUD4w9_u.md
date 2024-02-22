@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fdVvTkj7alz5yVGvAT-2YVpZAjXQTgCInP6U-6DCL-afQjbWqS2RTztT8tMbJsdnbnI
+app_id: com.opngo.live
+app_name: Indigo Neo (ex-OPnGO)
+app_screenshot: https://play-lh.googleusercontent.com/oesqfKKtsteobTa-IQPv1l6hfeloK_Ggr0jPH7tGHB8Jky7KyYzSzCazxTtFfikiPA
+category: Maps & Navigation
+country: FR
+id: NqmPUUD4w9_u
+language: fr
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '2795680'
+publisher_name: Indigo Neo
+rank: '24'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

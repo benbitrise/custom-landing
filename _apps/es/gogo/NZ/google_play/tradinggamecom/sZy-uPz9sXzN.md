@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ThadLrrXti8wvC_EVSfd7R9rN6kvTvmLSrTBisrJL5PEbKtN5-CWewx3O2PxDJVUVOjH
+app_id: com.tiim.tradinggame
+app_name: 'Trading Game: Stocks & Forex'
+app_screenshot: https://play-lh.googleusercontent.com/EfqNcuWzVjk1wzpHgQCfSPuAYG3n3NrDXD9r-ykkEixaLALSH8H0vp-ql0ebbvcNEFc
+category: Finance
+country: NZ
+id: sZy-uPz9sXzN
+language: es
+most_recent_release: '2023-06-14T00:00:00'
+publisher_id: '3046664'
+publisher_name: tradinggame.com
+rank: '194'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/f5/de/f0f5de57-3048-712f-184e-f5f2e06bad86/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1641081574'
+app_name: United Insurance Bahrain (UIC)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/1d/b4/6d1db4cd-7b00-d8c8-f094-0bea2db17398/7bbd0b14-3e8c-4ce8-9fbb-30a1f37cf64d_Artboard_6.png/1242x2208bb.png
+category: Business
+country: QA
+id: He65drU1_BUc
+language: es
+most_recent_release: '2022-11-18T00:00:00'
+publisher_id: '1537579817'
+publisher_name: United Insurance Bahrain
+rank: '14'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

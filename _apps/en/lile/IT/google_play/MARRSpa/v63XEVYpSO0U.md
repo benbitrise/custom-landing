@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1Jtn9AARDMklSGP7KSjdp8tsSS-ys77MYsfTgSLn8nsLJfDpM1wy_pJCnb5NysghGLtf
+app_id: com.marr
+app_name: myMARR
+app_screenshot: https://play-lh.googleusercontent.com/gVXripdHetRqbi7tC-Ptba2zDukIFW3jq7ayH-uubPDuSgCpuDqYqDXsvaZxXUZoxQ
+category: Food & Drink
+country: IT
+id: v63XEVYpSO0U
+language: en
+most_recent_release: '2024-01-19T00:00:00'
+publisher_id: '2543601'
+publisher_name: MARR Spa
+rank: '126'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

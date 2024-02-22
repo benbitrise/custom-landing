@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4_vU8WAmVZMol_HmuicV2_XJfrg0V0nP5Vi_e_0do3lx8oMbyIX2UugA_Ep5pC5JhQ
+app_id: com.jits.mbanking.aya
+app_name: AYA mBanking 2.0
+app_screenshot: https://play-lh.googleusercontent.com/ovt_8AVeI_dFvJE-1raujRgumTIr4EOvzhtfGwMByHRbaSl1RvzepcWh0dB0cBBu0fs
+category: Finance
+country: SG
+id: 4ToBcjUzmkJi
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '1712641'
+publisher_name: AYA Bank
+rank: '206'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

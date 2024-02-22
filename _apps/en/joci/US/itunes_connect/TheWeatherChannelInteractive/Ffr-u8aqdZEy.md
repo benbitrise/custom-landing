@@ -12,8 +12,8 @@ publisher_id: '295646464'
 publisher_name: The Weather Channel Interactive
 rank: '1'
 release_count_in_past_year: '10'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

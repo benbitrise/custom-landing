@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Q-Cn5kiKvepLsEeJFjUJvg_v3ltYWWJp0bQJGHC2YH9X5YvWaEmhbgc38iOCMrtkdA
+app_id: com.kvadgroup.posters
+app_name: 'Posters: graphic design maker'
+app_screenshot: https://play-lh.googleusercontent.com/IcdJezyl-qeVR675KuJesy3dnGT7m0w9b7DP2ow0DD-O9p61RUPXeSc6WF6j6fV05A
+category: Art & Design
+country: JO
+id: xBWsLY22g3KU
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '1702067'
+publisher_name: KVADGroup App Studio
+rank: '124'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

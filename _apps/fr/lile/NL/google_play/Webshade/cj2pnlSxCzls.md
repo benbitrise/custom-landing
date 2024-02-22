@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IQjajsl8hf1sPdldRCPMQ9kPQlbcRNtTQ6yn8nPxdcPKa_r2h6SXvd1JnbA0GT4S0DM
+app_id: com.dagendoen.nl
+app_name: DagenDoen 2.0
+app_screenshot: https://play-lh.googleusercontent.com/gOMk2cSjWIvtntuFT7_CidsjljTTmuzmKGYqgH8Z_agco5cyiKBUi9XGxLgAf5ozdA
+category: Events
+country: NL
+id: cj2pnlSxCzls
+language: fr
+most_recent_release: '2023-11-28T00:00:00'
+publisher_id: '1522490'
+publisher_name: Webshade
+rank: '64'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

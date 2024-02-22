@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/P8RhEgLGkV8kJXkkqFw0277JQ9qNyoOCYmiDypQer3cBKFd0axD5FTDSIBUObAaPPpGB
+app_id: com.realgirlnumber.ladkikanumberwalaapp
+app_name: Ladki ka Number Dene Wala Apps
+app_screenshot: https://play-lh.googleusercontent.com/XzFo4wJT40C2GKqxDDH_KCx9yi5DurKb6YertFnwj9-vujDnRzINRaMpfY3x-QbVDbg
+category: Dating
+country: IN
+id: 0ofuSKn2SqOW
+language: en
+most_recent_release: '2023-09-08T00:00:00'
+publisher_id: '2947644'
+publisher_name: Girl Live Video Chat
+rank: '185'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

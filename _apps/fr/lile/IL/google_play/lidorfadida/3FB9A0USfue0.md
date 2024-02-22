@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lncum0YXM6zI8MBb2tSoQ9QFQPAqsxsA1S3VvvOvDtvFsxkV-9n6wHL3_3gE-LNtAW-X
+app_id: com.lidor.iCar
+app_name: פרטי רכב לפי מספר בישראל
+app_screenshot: https://play-lh.googleusercontent.com/6PV9FiVZgm2NYvN_x0S7bZDzCJbHVRQoZ246Zj6kR7lW43nuzjWUg0PcKT7uaSqyIQ
+category: Auto & Vehicles
+country: IL
+id: 3FB9A0USfue0
+language: fr
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '2462749'
+publisher_name: lidor fadida
+rank: '48'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

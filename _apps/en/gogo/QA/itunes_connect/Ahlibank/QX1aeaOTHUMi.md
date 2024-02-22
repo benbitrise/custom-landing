@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/11/e1/d111e141-0195-99c7-dcc2-c75ae943c628/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '937290482'
+app_name: Ahlibank Personal Mobile App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/10/b0/65/10b06572-dcc6-5c85-630e-ede47cec9229/5d676e13-e685-4191-b191-51837c86d0cf_Login.png/1242x2688bb.png
+category: Business
+country: QA
+id: QX1aeaOTHUMi
+language: en
+most_recent_release: '2022-12-20T00:00:00'
+publisher_id: '937290481'
+publisher_name: Ahlibank
+rank: '90'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

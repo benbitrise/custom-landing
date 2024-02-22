@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hKfiWAxrzp7FCQaPjfW7u-HVAHmVSuhDWZ65Y2cm7lVHk69hkwmTkilAvHxUD82zow
+app_id: brunnlechner.gps.zeiterfassung
+app_name: GPS Time Tracker - Logbook
+app_screenshot: https://play-lh.googleusercontent.com/RP7lWnM2D7X1U35DF3canv52S6_j8a1lgdmBsFdIadHf2PwWV3QRyjOG9f6SXUyQwQ
+category: Auto & Vehicles
+country: DE
+id: yKT2ZKginKC4
+language: es
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '368058'
+publisher_name: Brunnlechner - Apps made in Germany
+rank: '197'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

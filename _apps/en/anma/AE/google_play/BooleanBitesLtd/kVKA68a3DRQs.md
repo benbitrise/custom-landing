@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UkjtHF4tXua55TaV-VE9rnw6l33n9DevPMJEa5YnCpQH8xJ6qNpryaw7yV6hg1MmkBc
+app_id: com.booleanbites.imagitor
+app_name: Imagitor - Urdu Design
+app_screenshot: https://play-lh.googleusercontent.com/xowHwTFIZSjqiNKSdQVLIgAlFvdiMVsOuJbTGxl3GedJgafR-gd9xc16DARJ5pZNcQ
+category: Art & Design
+country: AE
+id: kVKA68a3DRQs
+language: en
+most_recent_release: '2022-08-20T00:00:00'
+publisher_id: '1378434'
+publisher_name: BooleanBites Ltd
+rank: '120'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

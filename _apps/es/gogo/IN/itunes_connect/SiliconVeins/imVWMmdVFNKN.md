@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/c7/33/35c73379-a7e8-294f-526c-f3d9f0d1a180/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1164789740'
+app_name: Biz Analyst App for Tally User
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/94/3e/1d943e8b-6ecb-59b0-c75f-c852019557a8/4b57f5ab-16cc-4b4c-af02-f00e3b3489f5_IOS_ASO_6.5Artboard_5.jpg/1242x2688bb.png
+category: Business
+country: IN
+id: imVWMmdVFNKN
+language: es
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '1164789739'
+publisher_name: Silicon Veins
+rank: '247'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

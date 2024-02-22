@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/75Lg_199uiojpnLrepZgaQ7N64CEU1NJYeyD3feB5mTw9tPcmK7dLMLH6Y0QU4Q3Wq1J
+app_id: air.customerAPP
+app_name: Hotmat
+app_screenshot: https://play-lh.googleusercontent.com/Diu-byRGkdy15wbhjmDk8JSaE8tjFwxW5Ayrs0mOZv0zBgZ3WAoQWyhGtpWbcmp2UTvt
+category: Food & Drink
+country: SE
+id: Z7H0DSJcpBOE
+language: es
+most_recent_release: '2022-10-11T00:00:00'
+publisher_id: '2971107'
+publisher_name: Hotmat.se
+rank: '47'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

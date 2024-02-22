@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Kbu0747Cx3rpzHcSbtM1zDriGFG74zVbtkPmVnOKpmLCS59l7IuKD5M3MKbaq_nEaZM
+app_id: com.nhn.android.search
+app_name: 네이버 - NAVER
+app_screenshot: https://play-lh.googleusercontent.com/oE949DkYxK1CnfG0s8NT7UldYClKkGI2HwroyAnI91BF5ekBh0BJ_LUt0kcYsA-LtAI
+category: Books & Reference
+country: SG
+id: HglbIpaYjFrX
+language: fr
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '16944'
+publisher_name: NAVER Corp.
+rank: '45'
+release_count_in_past_year: '45'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

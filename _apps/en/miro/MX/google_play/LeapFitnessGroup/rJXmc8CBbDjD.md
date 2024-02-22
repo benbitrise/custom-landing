@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jcM-qBZj8qw8Rzs8RA3_Guka0FjL5xN1inhGUITagC8cROgkil-NrmupK4-CZXwUrA
+app_id: armworkout.armworkoutformen.armexercises
+app_name: Arm Workout - Biceps Exercise
+app_screenshot: https://play-lh.googleusercontent.com/8pz9IZFQPzWZBF5hujBXg53JdDj1cMkx0rpv4BmsQ4nxy5mMQxw9KnIfikOaSuqq7K4
+category: Health & Fitness
+country: MX
+id: rJXmc8CBbDjD
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '1114124'
+publisher_name: Leap Fitness Group
+rank: '82'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

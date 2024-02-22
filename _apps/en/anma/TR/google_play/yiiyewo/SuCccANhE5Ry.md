@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AM1CzeeOPwj224G9ElfU3w6A1EF1z2ISzt9UZbs8PGhwF-r33TKwGzpc7Qr-DDom4Xg
+app_id: com.vd.wherestart
+app_name: WhereStart
+app_screenshot: https://play-lh.googleusercontent.com/S53Mz5YwWnQ4BdF8eFItxZTfrXU5Vns57ir3O-RorBnGufgLEWX_2XAWSQ4vfc63ebT4
+category: Social
+country: TR
+id: SuCccANhE5Ry
+language: en
+most_recent_release: '2023-12-29T00:00:00'
+publisher_id: '2976012'
+publisher_name: yiiyewo
+rank: '134'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/NH8iCzgtetyUnPwE4HRPFIP6o7AWiFy-Xz3BbM3HIneoTqvciVESdhg-0JqbNIgsqdFh
+app_id: tr.com.englishhome
+app_name: 'English Home: Ev, Yaşam'
+app_screenshot: https://play-lh.googleusercontent.com/HcE0sDqYNWiYopWY4ag32WJ_70njV1FIjlkPa0Ed0YIZ4hwDf8VqMXlzDjCJf68tFpU
+category: Shopping
+country: TR
+id: kNzGN71vqDsW
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '1198630'
+publisher_name: ENGLISH HOME TÜRKİYE
+rank: '91'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

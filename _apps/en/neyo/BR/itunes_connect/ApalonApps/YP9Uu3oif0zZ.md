@@ -12,8 +12,8 @@ publisher_id: '749046894'
 publisher_name: Apalon Apps
 rank: '2'
 release_count_in_past_year: '16'
-release_count_in_past_year_category: 20
-release_count_in_past_year_top_in_category: 20
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

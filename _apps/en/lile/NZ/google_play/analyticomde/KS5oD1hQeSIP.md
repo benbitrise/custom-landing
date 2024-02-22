@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xG2sdlAuyRxlbn1XnYTkHpsnSC5V5UXnMh2JmYTYhxhSkihcSx_oiCH_9vetMJszAg
+app_id: de.analyticom.newCometMobile
+app_name: COMET Football
+app_screenshot: https://play-lh.googleusercontent.com/AWOvsStUwS0hRGfqiMdQMQ34xlU23ayNMSASr6aUfyX7WTuYI3WDHy-eAKyZCTCKzmE
+category: Sports
+country: NZ
+id: KS5oD1hQeSIP
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '1100211'
+publisher_name: analyticom.de
+rank: '163'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

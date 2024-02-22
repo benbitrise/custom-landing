@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IUho3FjN6m8Z8tJdIsPxDl72TCvfeSA2lSYPyLv4PS-7mVuxNpdFDkziu-Bfk1llcBN1
+app_id: com.tvscs.tvscreditapp
+app_name: TVS Credit Saathi
+app_screenshot: https://play-lh.googleusercontent.com/I0CAYhq1Zhr9GOvFRVNXQ2mTiI75rVvmkFk0-5jRKj1x8IQOkDhqs2zwbz-MNrA10YqB
+category: Finance
+country: IN
+id: 6mUuEBFRp0qw
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '806859'
+publisher_name: TVS Credit Services Limited
+rank: '125'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

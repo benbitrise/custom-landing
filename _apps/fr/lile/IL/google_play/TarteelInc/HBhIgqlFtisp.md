@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: HBhIgqlFtisp
 language: fr
-most_recent_release: '2024-02-10T00:00:00'
+most_recent_release: '2024-02-17T00:00:00'
 publisher_id: '2230837'
 publisher_name: Tarteel Inc.
-rank: '31'
-release_count_in_past_year: '52'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+rank: '44'
+release_count_in_past_year: '51'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

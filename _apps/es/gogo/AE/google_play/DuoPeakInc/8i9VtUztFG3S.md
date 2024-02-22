@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IZQj8bAL7ceRCXueKh6gP3Gl-Z7Bb9lPS584dpTrX6HwOCHXmBwUg2OKCZLBsrl7VtA
+app_id: com.rapidconn.android
+app_name: Rapid VPN - Safe Secure Proxy
+app_screenshot: https://play-lh.googleusercontent.com/9QysA7iFNy6-8f1Rbb5dHEcuKTH4yExMSIxoQ9eVrj-1YB-hKgM1UHUvLEpudyUBYip0
+category: Tools
+country: AE
+id: 8i9VtUztFG3S
+language: es
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '2456582'
+publisher_name: DuoPeak Inc.
+rank: '97'
+release_count_in_past_year: '35'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

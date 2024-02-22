@@ -12,8 +12,8 @@ publisher_id: '2911423'
 publisher_name: P & L Studio
 rank: '5'
 release_count_in_past_year: '15'
-release_count_in_past_year_category: 34
-release_count_in_past_year_top_in_category: 34
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

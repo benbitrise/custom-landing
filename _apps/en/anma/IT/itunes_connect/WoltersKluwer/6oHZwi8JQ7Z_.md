@@ -1,0 +1,25 @@
+---
+app_icon: https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/05/9c/fe/059cfe19-472d-c4da-da0d-c5e8be7b7dd3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1632200975'
+app_name: Kleos Next
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/f7/9e/b5f79ec7-9f89-1a60-2d21-ce861190b77f/e706d078-c37c-4520-ba36-9732a13f60a2_Image1_FR_KLEOS_NEXT_-_FR_-_APPLE_1_1242x2688px.jpg/1242x2688bb.png
+category: Business
+country: IT
+id: 6oHZwi8JQ7Z_
+language: en
+most_recent_release: '2023-10-03T00:00:00'
+publisher_id: '395677482'
+publisher_name: Wolters Kluwer
+rank: '536'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

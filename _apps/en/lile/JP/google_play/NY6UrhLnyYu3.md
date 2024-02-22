@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/RrWbJJX2Iv1lBa1w6nCj4iuecUsw0N-JinWuW6eNV_NE7DbV5qLGLmW5WiAgwGzw4xfk
+app_id: com.glico.cope
+app_name: こぺ：役立つ育児機能が満載！
+app_screenshot: https://play-lh.googleusercontent.com/QQFReCXFrIwvBIj4_Sn5TyJ--QogJzsbhpCbQOxBNG0FbOwjcEtYMg-LN-WnbjYaeoY
+category: Parenting
+country: JP
+id: NY6UrhLnyYu3
+language: en
+most_recent_release: '2023-09-25T00:00:00'
+publisher_id: '986095'
+publisher_name: 江崎グリコ株式会社
+rank: '7'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

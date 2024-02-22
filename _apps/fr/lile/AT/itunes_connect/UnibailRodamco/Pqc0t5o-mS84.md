@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/19/a3/2e19a316-b347-b393-1d70-101c55fb29d1/AppIcon-URWConnect-1x_U007ephone-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1101680053'
+app_name: URWconnect
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/81/ea/3a/81ea3a2d-c64e-1dd3-fe11-3163e33a633c/69bdb290-4fac-4f45-8232-9417ecd8469f_All_Images_1.png/1242x2688bb.png
+category: Business
+country: AT
+id: Pqc0t5o-mS84
+language: fr
+most_recent_release: '2023-11-22T00:00:00'
+publisher_id: '1068923679'
+publisher_name: Unibail-Rodamco
+rank: '144'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

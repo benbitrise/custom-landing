@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/cb/57/3ecb5770-c568-b588-af56-312918dd5b9d/AppIcon-1x_U007emarketing-8-0-85-220.png/1024x1024bb.png
+app_id: '423548144'
+app_name: AeroPlus Aviation Weather
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/2e/32/512e32bc-ab0c-064c-8018-cf0068a6a707/pr_source.png/1242x2688bb.png
+category: Weather
+country: NZ
+id: 4Ue-9Raurk7X
+language: en
+most_recent_release: '2022-03-17T00:00:00'
+publisher_id: '1567270481'
+publisher_name: Magnolia Blossom BV
+rank: '286'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

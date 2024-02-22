@@ -12,8 +12,8 @@ publisher_id: '6291'
 publisher_name: Life360
 rank: '5'
 release_count_in_past_year: '37'
-release_count_in_past_year_category: 36
-release_count_in_past_year_top_in_category: 36
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

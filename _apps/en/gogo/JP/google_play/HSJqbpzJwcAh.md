@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_k0vgHFxj9ijDrYzjBrRi0hTY8ySX9vBw2A1aQNYgG3tYPm6KVT18JL0jex74VHVi5k
+app_id: com.tapap.tapAppli.aba.apaStay
+app_name: APA Stay Here
+app_screenshot: https://play-lh.googleusercontent.com/o-0Q4VdnMZfQ6BXOaBtwaLDvRoo8hjmV-02b_gRIWxK2FmCtwmuMNbzQN-DdYOz8zw
+category: Travel & Local
+country: JP
+id: HSJqbpzJwcAh
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '1209064'
+publisher_name: アパホテル株式会社
+rank: '100'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

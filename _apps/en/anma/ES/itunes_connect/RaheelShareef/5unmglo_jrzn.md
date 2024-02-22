@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/52/42/a052423b-1dc1-3d5b-526c-20835b1daee3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6466659435'
+app_name: SP Smart PDF and Doc Converter
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/75/d3/3275d3e8-ec46-6273-1adb-9e4db8884a6b/e1d348cc-bee8-471b-b953-7e1e42057fd5_01.png/1242x2688bb.png
+category: Weather
+country: ES
+id: 5unmglo_jrzn
+language: en
+most_recent_release: ''
+publisher_id: '1707591149'
+publisher_name: Raheel Shareef
+rank: '365'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

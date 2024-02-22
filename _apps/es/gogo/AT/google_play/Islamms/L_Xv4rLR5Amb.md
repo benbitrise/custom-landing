@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/NvKiyGMgKZPnASRdwe0rItcrl0WLw8td9rrIu9FUypHdqc7-Yxr4egOcu7aSrp4xNhc
+app_id: net.sunnite.quran
+app_name: Read Listen Quran  قرآن كريم
+app_screenshot: https://play-lh.googleusercontent.com/Cv0qrwGVtPxgyIqMJsdVetFwFF3isuLFfIVPt54W3cyZOxh-zvuZsmW09KcbZAH1a7E
+category: Books & Reference
+country: AT
+id: L_Xv4rLR5Amb
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '1374667'
+publisher_name: Islam.ms
+rank: '112'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

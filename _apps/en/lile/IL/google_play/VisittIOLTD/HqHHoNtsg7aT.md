@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bX1Ufq6u-m6uWP6N99naMILrq1N107TUjX-qh4Vm_oOLWx7grlDRyYg16zhN8vHzPg
+app_id: io.visitt.portal
+app_name: Visitt+ Tenant App
+app_screenshot: https://play-lh.googleusercontent.com/ObgMKVVODOhRv3eZW12HAS13eN6jetOWCpiBS_L9VL6Kxih6oA4cl5RQtI3iTqE3rg
+category: Business
+country: IL
+id: HqHHoNtsg7aT
+language: en
+most_recent_release: '2024-01-27T00:00:00'
+publisher_id: '2601958'
+publisher_name: Visitt I.O LTD.
+rank: '181'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

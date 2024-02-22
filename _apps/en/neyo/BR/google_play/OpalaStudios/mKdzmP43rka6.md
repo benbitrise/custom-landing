@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Z6EjFj8uvqJIOGkCwFLbqegYAPrN1ll4U4hVA9cmWqGGtr2ayEkKDieB-_9cPXCAYJU
+app_id: com.opalastudios.superpadsdrum
+app_name: SUPER DRUM - Play Drum!
+app_screenshot: https://play-lh.googleusercontent.com/eaAel1dpoQ0IIn4L3MnafPNl9dXZ3R_MSk_XUZITTL5mVE9vvYFIuzX6j0teH4zearU
+category: Music & Audio
+country: BR
+id: mKdzmP43rka6
+language: en
+most_recent_release: '2023-09-15T00:00:00'
+publisher_id: '681750'
+publisher_name: Opala Studios
+rank: '112'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

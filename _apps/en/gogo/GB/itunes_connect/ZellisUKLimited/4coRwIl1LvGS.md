@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/b0/02/8bb0026b-14a5-fdb3-2123-dac059f3721c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1519790780'
+app_name: MyView (for Zellis HCM Cloud)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/3e/02/e0/3e02e0a9-323c-afdb-d563-16eb3ad5b494/7a87f7a8-98e8-40b9-aaac-a5567c72d087_iOS_iPhone5.5_2_divided1.jpg/1242x2688bb.png
+category: Business
+country: GB
+id: 4coRwIl1LvGS
+language: en
+most_recent_release: '2023-04-12T00:00:00'
+publisher_id: '1519790782'
+publisher_name: Zellis UK Limited
+rank: '100'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

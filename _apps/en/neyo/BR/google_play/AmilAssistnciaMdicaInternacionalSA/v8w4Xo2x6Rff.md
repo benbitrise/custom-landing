@@ -12,8 +12,8 @@ publisher_id: '177165'
 publisher_name: Amil Assistência Médica Internacional S/A
 rank: '5'
 release_count_in_past_year: '25'
-release_count_in_past_year_category: 28
-release_count_in_past_year_top_in_category: 28
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

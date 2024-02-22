@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VFhAmnKd8UNgCLC2AS7r_3tWdyNEoqHRPtqUMDWmXvMxpRj6o--gXN_LPsHvAmOTqBs
+app_id: com.iabuzz.Puzzle4KidsTools
+app_name: Kids puzzle - Educational game
+app_screenshot: https://play-lh.googleusercontent.com/87AXnL4aKiRk2r1QkazHFTIWHYosbDem6XmWbZnVuK-JtACzZ4bKATnzplb7XfuUxx0
+category: Education
+country: JO
+id: atbDKGvyapkI
+language: en
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '172319'
+publisher_name: Abuzz
+rank: '112'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

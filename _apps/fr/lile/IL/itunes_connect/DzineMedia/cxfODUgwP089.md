@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/ec/17/67ec1774-0afe-6f12-15a2-8e90bddfa535/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1668034323'
+app_name: PDF Converter – Word to PDF.
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/51/35/8d/51358d21-79ec-abee-81c1-1a8f6cd8b683/79c7ae10-1e91-4d53-ab1b-c78f3ca93bfa_Frame_779.jpg/1284x2778bb.png
+category: Business
+country: IL
+id: cxfODUgwP089
+language: fr
+most_recent_release: '2023-12-05T00:00:00'
+publisher_id: '1643499681'
+publisher_name: Dzine Media
+rank: '670'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

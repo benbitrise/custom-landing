@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1MLxlRk9z14_8TeyTU3qnyXlVEFbSvSblnT4qv7VjxzFYfQKV9rYjQwjL0C3Y7bKAWjb
+app_id: com.maf.thatandroid
+app_name: THAT Concept Store
+app_screenshot: https://play-lh.googleusercontent.com/99WINUz3MI8yCsvPr58R6Ptx2L8CaB_VzgUrtDh0AEJsNrSPxM1Gc4SVQ5WLJKRlNko
+category: Shopping
+country: AE
+id: YeFgfjMH1hkO
+language: es
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2807401'
+publisher_name: Majid Al Futtaim Lifestyle
+rank: '196'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

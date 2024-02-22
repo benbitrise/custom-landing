@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PBsR6LdntQHFtg-NLxWn1X5-YKudfr9KBDaYr7VmzgXdeD8GydecNuX7xt3tAMxFrZg
+app_id: com.factorialhr.factorialapp
+app_name: Factorial
+app_screenshot: https://play-lh.googleusercontent.com/c74iQlML5Oh8T5Vr2OlAst9wgC3zsQiSyBlxCQROT09MOx8Wd6KSFtE4nCcTfjwGh5c
+category: Tools
+country: ES
+id: XxIIpzx0n7kT
+language: es
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2208107'
+publisher_name: Factorial Team
+rank: '160'
+release_count_in_past_year: '50'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

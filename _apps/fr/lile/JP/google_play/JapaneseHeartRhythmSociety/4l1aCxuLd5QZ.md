@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/mg9L0slPALxNxRCyA9XAhhF7Y052oKK1bgFkehDEdVUp346fALRXqVbnAkoJgtYhJgk
+app_id: jp.or.jhrs.assistant
+app_name: 不整脈診療アシスタント
+app_screenshot: https://play-lh.googleusercontent.com/wnUjcamDJp8nMN4j_jlcAob3ZNcDaE0evljZGhrJKzTV-COTlBcdKixARaFqa_e-OzA
+category: Medical
+country: JP
+id: 4l1aCxuLd5QZ
+language: fr
+most_recent_release: '2023-09-20T00:00:00'
+publisher_id: '2712075'
+publisher_name: Japanese Heart Rhythm Society
+rank: '179'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

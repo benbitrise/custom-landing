@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/k71m_EF3VjGUONx1a6e5Nn_FdC2YL0O-mkytswooDL23EUlEbQnWytnFxJ3i1VrgtFk
+app_id: net.survivorsoccer.app
+app_name: Leghe Survivor Soccer
+app_screenshot: https://play-lh.googleusercontent.com/-Npg1lChnPMp8D6ylDijJclvjSYEmAW_vcL3UxA4L80sbL_gp26QmRFJdXQz5mpTM_c
+category: Sports
+country: IT
+id: FXUaaFYCZSFR
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '3018990'
+publisher_name: Survivor Official T.D. Srl
+rank: '142'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

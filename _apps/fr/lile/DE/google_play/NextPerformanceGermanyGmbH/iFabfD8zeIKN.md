@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/h0I5i5GWMcvubHFL7qsqkhYRGK4LaAAL9CnpAQhsYyrCNklwviPf7DogTuVvxE6ceg
+app_id: com.mytolino.app
+app_name: tolino - books & audiobooks
+app_screenshot: https://play-lh.googleusercontent.com/kji93hCKEMwBme1WwOQWRFRda7zfAAV2go0IZKKDGxXOuAkf_XjUmSvMzl8tehFJyCQ
+category: Books & Reference
+country: DE
+id: iFabfD8zeIKN
+language: fr
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '1408486'
+publisher_name: Next Performance Germany GmbH
+rank: '12'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

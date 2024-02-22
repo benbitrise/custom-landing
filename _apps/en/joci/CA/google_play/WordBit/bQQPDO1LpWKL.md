@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/biaeqx1HR7wohNFhb_MUIpY9cEdfH4ls_nqq_DRbXBn1ZgcQpwdMem5UTzanQRZC7rA
+app_id: net.wordbit.fren
+app_name: WordBit French (for English)
+app_screenshot: https://play-lh.googleusercontent.com/5s9er7gmWquR5W17JT602Bl4gRizcF9O2ZI17kAU8LmhFTvw2yME5CReyxCK1PHnaUw
+category: Education
+country: CA
+id: bQQPDO1LpWKL
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1799044'
+publisher_name: WordBit
+rank: '155'
+release_count_in_past_year: '35'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

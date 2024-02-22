@@ -12,8 +12,8 @@ publisher_id: '3059182'
 publisher_name: Charlie Banana (USA) LLC
 rank: '4'
 release_count_in_past_year: '3'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

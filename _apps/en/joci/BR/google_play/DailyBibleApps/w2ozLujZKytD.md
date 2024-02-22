@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/muzH-BriCS9n7I6-ZwMYw7pLUNWJJt6c0DWKd7OezRKepqNtexltNhyKVX2in7BDSRbF
+app_id: dicionario.biblico.em.portugues
+app_name: Dicionário Bíblico Completo
+app_screenshot: https://play-lh.googleusercontent.com/5VdPoCvdQaz_FniVvzLO-ub7DGVTwX-4jyapamgfHwsqnm5DNbFMlOm6eHPeJTarR_cf
+category: Books & Reference
+country: BR
+id: w2ozLujZKytD
+language: en
+most_recent_release: '2022-10-19T00:00:00'
+publisher_id: '1385465'
+publisher_name: Daily Bible Apps
+rank: '138'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

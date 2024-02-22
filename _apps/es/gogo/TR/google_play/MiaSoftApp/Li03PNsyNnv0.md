@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6vkjSusEMYd2o3p65RPaEVlXfMefZFxfSHxX9WxOu_32wivTlVXu7fY2p5R6gdYXwV8
+app_id: com.byyasin.aktuelurunler
+app_name: Aktüel Ürünler Kataloğu
+app_screenshot: https://play-lh.googleusercontent.com/uUoDLnztt_vF2WxZbjz8OVgQFcmzhSRG7loaYL4JrBgSlN6hXExr2SiMz6qnxxT-BKmt
+category: Shopping
+country: TR
+id: Li03PNsyNnv0
+language: es
+most_recent_release: '2023-10-05T00:00:00'
+publisher_id: '2812962'
+publisher_name: Mia Soft App
+rank: '138'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

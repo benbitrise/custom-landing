@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9JgN2iGrBGab12Fl2tsP_toETtFdHWfrrucK2ai2aNOxjoiE9WwoXg1s3WZHS1flcbA
+app_id: com.arb.onlinedate.datewithgril
+app_name: Hollywood English Hindi Dubbed
+app_screenshot: https://play-lh.googleusercontent.com/nlaFeCWv7pxHHoP21dDdArHwJrtRGOr4Xvv0H_yrgH0_6dUjIcHaFq-zLl2vSzaaaSM
+category: Dating
+country: IN
+id: uY5-TGS9VHkc
+language: fr
+most_recent_release: '2022-11-01T00:00:00'
+publisher_id: '2674047'
+publisher_name: Arabic Soft Inc
+rank: '164'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MY-6Ucgf3vh8-kBXplvZCqiZ3FLiBKt_sQZoJJeoSGux9pt0Yid_svtajyhZfIsokJ4
+app_id: com.wallet.israelelectric.hebrew
+app_name: דיגיט-לי
+app_screenshot: https://play-lh.googleusercontent.com/1-cl4sBBnPpi1GZcgsLkjtyeENZMEiq_nwXhnQg8lbR0OMj8OchnCKq2_jGiZq1LeEc
+category: Shopping
+country: IL
+id: 1-_aq7Zl3wbI
+language: fr
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '2578501'
+publisher_name: Multipass
+rank: '125'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

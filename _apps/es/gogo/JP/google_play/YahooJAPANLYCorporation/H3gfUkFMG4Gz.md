@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tBjJaKoEGNyoQN0mHkVms7VrcTz4fwxgDifUM7QjH5ERPEUd5dDtlyQJYqwrdtnCcQ
+app_id: com.buzzpia.aqua.launcher.buzzhome
+app_name: Yahoo!きせかえ-壁紙 ホーム アイコン着せ替え
+app_screenshot: https://play-lh.googleusercontent.com/6quHgfvPLLcMJOHXjsoJU7sqCGNUojcjlaQqTpFEuZA6lBji8Snn5HLeSbaCPd865C0
+category: Personalization
+country: JP
+id: H3gfUkFMG4Gz
+language: es
+most_recent_release: '2023-11-30T00:00:00'
+publisher_id: '2984539'
+publisher_name: Yahoo! JAPAN (LY Corporation)
+rank: '15'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

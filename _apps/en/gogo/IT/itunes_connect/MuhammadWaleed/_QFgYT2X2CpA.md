@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b6/42/16b642c6-69a4-5f75-bc81-bbca7e7e2cf9/AppIcon-1x_U007epad-sRGB-85-220.jpeg/1024x1024bb.png
+app_id: '6466212079'
+app_name: Weather Whisper
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/53/43/7d534375-ad40-fecc-6f14-900c4d669238/f923e968-8d1a-4bec-ae16-2771fd3813bf_Hotpot_0.png/1284x2778bb.png
+category: Weather
+country: IT
+id: _QFgYT2X2CpA
+language: en
+most_recent_release: ''
+publisher_id: '1703442211'
+publisher_name: Muhammad Waleed
+rank: '343'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

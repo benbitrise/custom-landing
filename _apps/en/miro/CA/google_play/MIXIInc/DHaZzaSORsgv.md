@@ -12,8 +12,8 @@ publisher_id: '2830182'
 publisher_name: MIXI, Inc.
 rank: '2'
 release_count_in_past_year: '36'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

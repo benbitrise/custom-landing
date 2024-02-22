@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jcDW-QaaMpJ5IXD7OzT2fgnp5feeNzFdx0UbugqXg57X1mlk8kwOjZMGXI2mkZSXXMww
+app_id: com.equiti.trader.app
+app_name: Equiti Trader
+app_screenshot: https://play-lh.googleusercontent.com/qhTtqfJf_T7QUF1GQpj3wjw99Tzzi4lySaDaFMrWB73N64Br2Czr1z1GMPtAqnDGtwE
+category: Finance
+country: JO
+id: K5zn7S6LUxRY
+language: es
+most_recent_release: '2024-01-02T00:00:00'
+publisher_id: '2890875'
+publisher_name: EGMLABS LTD
+rank: '91'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

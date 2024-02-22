@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XGgWbdru05NoF2nfNwbkI1m7Oy41gF6kfWpP3HouOtHEGI5ItU-cEHTK4UMkhJQcZHI5
+app_id: laxmi.getdailydiamonds.characters.emotes
+app_name: Get Daily Diamonds FFF Tips
+app_screenshot: https://play-lh.googleusercontent.com/rlvRJ-mdQRQZqf13q93mQPph2gK9Md-F2ZI_DnLvItJTNA5AxNetELyefURnPb91wQ
+category: Entertainment
+country: IN
+id: MIVb2vR38dji
+language: en
+most_recent_release: '2023-09-29T00:00:00'
+publisher_id: '2946287'
+publisher_name: LaxmiSoft Infotech
+rank: '126'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

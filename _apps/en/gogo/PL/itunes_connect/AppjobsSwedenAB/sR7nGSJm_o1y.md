@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/57/93/bc57933f-92a3-98a4-2d35-c1354c3e5024/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1515702895'
+app_name: 'Appjobs: courier fleet partner'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/41/d7/3341d7aa-f067-dd31-5c9b-d44c80c7eac7/e012496f-0ce9-445e-99ae-6ad0b39a4653_2.png/1242x2688bb.png
+category: Business
+country: PL
+id: sR7nGSJm_o1y
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '1511942663'
+publisher_name: Appjobs Sweden AB
+rank: '201'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

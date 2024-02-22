@@ -12,8 +12,8 @@ publisher_id: '2423190'
 publisher_name: Kiwify
 rank: '2'
 release_count_in_past_year: '43'
-release_count_in_past_year_category: 32
-release_count_in_past_year_top_in_category: 32
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

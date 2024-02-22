@@ -12,8 +12,8 @@ publisher_id: '10199'
 publisher_name: Zedge
 rank: '1'
 release_count_in_past_year: '21'
-release_count_in_past_year_category: 21
-release_count_in_past_year_top_in_category: 21
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

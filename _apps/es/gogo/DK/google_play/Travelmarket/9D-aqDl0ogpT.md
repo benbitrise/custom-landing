@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Cft3jk51-nM0bcpFuYZJjVomnPibcod93ByFux53NI-YYHIZdP_zVyESLQa5x6TrPg
+app_id: dk.travelmarket.charter
+app_name: Afbudsrejser & flybilletter
+app_screenshot: https://play-lh.googleusercontent.com/hHXbKSi8C6xMVx3UEIglWEFwD1SccpR-IS85kZkbrrYvqG3dNhwE2ivC4uu7DI0H1w
+category: Travel & Local
+country: DK
+id: 9D-aqDl0ogpT
+language: es
+most_recent_release: '2022-12-13T00:00:00'
+publisher_id: '153436'
+publisher_name: Travelmarket
+rank: '74'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

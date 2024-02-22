@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OYREQoNYiHiNk7keD8d47Ci83WenkL1btYQfUSedcjqtzewsZL7JaV73o8l-x3KPAkQ
+app_id: com.wallpaper.sam.tim997.mi10
+app_name: Amazing Water Live Wallpaper
+app_screenshot: https://play-lh.googleusercontent.com/orT12oD1Ps_T1rq7mJeV2CEHf_lpnsmy3Os5NrMV1AnkYFnaXu4WvZGLuiugpNLzCVw
+category: Personalization
+country: IN
+id: hRH3b6TMfHcn
+language: fr
+most_recent_release: '2024-01-19T00:00:00'
+publisher_id: '2621768'
+publisher_name: Sam Live Wallpaper
+rank: '183'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

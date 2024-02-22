@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6qh6eAyA10MoKhzoN9hXK9_7mT7PdMvGJ8Puw-1-_m_AtFM56QeFR9vO4Ws8zBPPrbk
+app_id: com.spacehey.app
+app_name: SpaceHey Mobile – Retro social
+app_screenshot: https://play-lh.googleusercontent.com/j3FYN2xBxjXsJwD1UmMqgNryUkJwSg2ibu7rgqBtaYavIFHofX_jVS5O3m393NnEYgw
+category: Social
+country: MX
+id: jn9rIpHRmOY2
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '3038048'
+publisher_name: Tibush GmbH
+rank: '100'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

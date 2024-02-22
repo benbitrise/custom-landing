@@ -12,8 +12,8 @@ publisher_id: '17378'
 publisher_name: Tinder
 rank: '2'
 release_count_in_past_year: '28'
-release_count_in_past_year_category: 41
-release_count_in_past_year_top_in_category: 41
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

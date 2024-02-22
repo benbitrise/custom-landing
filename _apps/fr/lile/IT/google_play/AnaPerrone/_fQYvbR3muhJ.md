@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/R5Iqli4MEn40KXKvwYDF0FsSo5IjQYrrJNQKARJD6LVFqp6ElfMQlJlvnpri5xWOhw
+app_id: com.workinprogress.microblading
+app_name: Microblading App
+app_screenshot: https://play-lh.googleusercontent.com/aHyv5SNf3viefqHacCfySJeOJhhOmaKepSyOcl4s7xzX7o8ARyOShIv-t75hIyYunw
+category: Beauty
+country: IT
+id: _fQYvbR3muhJ
+language: fr
+most_recent_release: '2023-06-15T00:00:00'
+publisher_id: '1742838'
+publisher_name: Ana Perrone
+rank: '220'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

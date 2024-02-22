@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PgjYvql_Qs4XgkHKw1T9nBrNJMpe-f2iMGRttrKmAJAIfvPhChUuL6rd8lpazZt5oQna
+app_id: com.zawko.chat
+app_name: Zawto - Sohbet, aşk ve buluşma
+app_screenshot: https://play-lh.googleusercontent.com/kIJ7bIaOVK69LtC9c4kNq9GaDG_qXmN23okweO3B3EmVvQd0QmCMtviDcCzKNS7Pjrk
+category: Dating
+country: TR
+id: uc4DC06uIylJ
+language: en
+most_recent_release: '2023-09-18T00:00:00'
+publisher_id: '3053160'
+publisher_name: GoodVibesCompany
+rank: '97'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

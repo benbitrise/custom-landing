@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zEtTNxxJiR15Hb9P-YDCx2J2UTFf34l8bqNvojdT0JnNrMYeLaMCAX657IOfsmwAJw
+app_id: dev.iglu.scontify
+app_name: Scontify - Offerte e Coupon
+app_screenshot: https://play-lh.googleusercontent.com/sXUSE0lSiRwUmTZdOVlgLkSbYdg9Hvrj6_bk_yo8hVPQDIcFOM403-HVkuVj1FLubHA
+category: Shopping
+country: IT
+id: vkUbyMJ55Aj-
+language: en
+most_recent_release: '2023-07-20T00:00:00'
+publisher_id: '2569272'
+publisher_name: Scontify.net
+rank: '188'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

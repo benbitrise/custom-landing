@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/F0dMR8o6rNEinVVKUCQLqqvfYMt1E9X5vRuW02R4wS6aCgzLAZ_p-WRY8beq9t2ppUI
+app_id: io.wio.sme
+app_name: Wio Business
+app_screenshot: https://play-lh.googleusercontent.com/SeSQsSpix-LB1eXScXPzWanm_Bc-AxNmKpy2jYvDR2BmM1pL-lqky4yrVjC6E9KUHow
+category: Finance
+country: AE
+id: -ZuxIgFTK_5s
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2813757'
+publisher_name: Wio
+rank: '61'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

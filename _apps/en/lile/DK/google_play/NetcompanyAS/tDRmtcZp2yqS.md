@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/73X6FJ8VLufZpqDB8C1TMFCtjfNqLWdE9c2aliDNm4P3p_H7LUKmH65Uq0D_xB6aWEU
+app_id: com.netcompany.aulanativestaff
+app_name: Aula for medarbejdere
+app_screenshot: https://play-lh.googleusercontent.com/diHxEDV_oi7uwMW2w7rq0CnNOnq8U64CyFf9j4VZolIPNY7vYxBzxmRjhn-O5QlE1xI
+category: Communication
+country: DK
+id: tDRmtcZp2yqS
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2090303'
+publisher_name: Netcompany A/S
+rank: '41'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

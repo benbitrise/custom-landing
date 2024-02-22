@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KRDNPQx8lL3J6M2x1hV7AWhS9zIb7wV52zsSsyno7nTIwPbTLd5SBphc5bvDl8_La7Y
+app_id: com.italy.Aw9atSalatAdan
+app_name: Italia Prayer Times and Azan
+app_screenshot: https://play-lh.googleusercontent.com/G-90gJk5hp5a3gdCJK5M8xCYYZkFuf6PQhl4iSIOWH39aNFqCU_5TQLH_wrNIJOlNKbh
+category: Lifestyle
+country: IT
+id: r7acdrqEi89K
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2803219'
+publisher_name: OUTADEV
+rank: '133'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

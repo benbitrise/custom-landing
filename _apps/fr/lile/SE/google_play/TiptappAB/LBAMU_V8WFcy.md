@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xkPogeu5Uw7vruHVeBfeYta1fBryJVwVXnTp01d-V0hjLTDSU8RvJKKmNZbUpOa67Rk
+app_id: com.tiptapp.hybrid
+app_name: Tiptapp - Get rid of rubbish!
+app_screenshot: https://play-lh.googleusercontent.com/3624gBHuojsRRyMy78fD-CD8GrWYkP0Z9k00bZA6VS9fsjVaytrjdcEHQNQYhJue-LIR
+category: Lifestyle
+country: SE
+id: LBAMU_V8WFcy
+language: fr
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '1739697'
+publisher_name: Tiptapp AB
+rank: '22'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

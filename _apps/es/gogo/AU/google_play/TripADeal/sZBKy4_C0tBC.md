@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XATo3cL6WpPc6vXlXjfxobqDn5z58uR0DDi8kBte37ngtRU18G54LCzgKMWigvegJw
+app_id: com.tadapp
+app_name: TripADeal
+app_screenshot: https://play-lh.googleusercontent.com/pz2QcRaZqiYsLaB3r7z3DIKwGIqtXJcm3mqhFFJigWIBAFuBWbS47zjx2KrErwOoK64
+category: Travel & Local
+country: AU
+id: sZBKy4_C0tBC
+language: es
+most_recent_release: '2023-11-04T00:00:00'
+publisher_id: '2824194'
+publisher_name: TripADeal
+rank: '112'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

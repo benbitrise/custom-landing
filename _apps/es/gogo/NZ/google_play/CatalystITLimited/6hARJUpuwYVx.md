@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1X3OUUL0_MVBJTo9_COsdQE6O-UmeRbtFDYDQhayNjQFSbc6aSDEvap9PO0K4lIelZyd
+app_id: nz.ac.waikato.moodlemobile
+app_name: Moodle@Waikato
+app_screenshot: https://play-lh.googleusercontent.com/rxcXJV30ae1xc33zgCZs31DsrDs-hg30_7MowYty5aODeWWqx-0fjhKEbLYeThLBYY0
+category: Education
+country: NZ
+id: 6hARJUpuwYVx
+language: es
+most_recent_release: '2023-07-31T00:00:00'
+publisher_id: '99377'
+publisher_name: Catalyst IT Limited
+rank: '121'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/oC6qq2xwPcfr2lPB9pFTvgWnDeiT_hbe0rM_XZGmf8ImN_ck0SRho_biGRXW5qEuMpU
+app_id: it.segreteriamedica3smb.segreteria
+app_name: Segreteria Medica 3SMB 2.0
+app_screenshot: https://play-lh.googleusercontent.com/ks39jpqptZGzD3q6mafJ3BU_WbrDLKf8eMkz4zDHLHyR_FEQB5ecnGFd-8OwxyZtvQ
+category: Medical
+country: IT
+id: 6qLaXZKP2r51
+language: en
+most_recent_release: '2024-01-11T00:00:00'
+publisher_id: '2951456'
+publisher_name: Segreteria Medica 3SMB
+rank: '24'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

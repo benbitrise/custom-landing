@@ -12,8 +12,8 @@ publisher_id: '173610'
 publisher_name: PicPay
 rank: '2'
 release_count_in_past_year: '53'
-release_count_in_past_year_category: 31
-release_count_in_past_year_top_in_category: 31
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

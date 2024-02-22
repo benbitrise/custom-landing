@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PtKL75Al7_Vo8b5Qc8gSUnau_vWKKTkFKmXopfo7beyBBegOBWhC31AlXOEskRZmAbY
+app_id: leafly.android
+app_name: 'Leafly: Find Cannabis and CBD'
+app_screenshot: https://play-lh.googleusercontent.com/IE2ysUwtUDHwY9LZXxxo0ibuGAsB4OhnHVgn5xrB9KnMOCh6seTA1hgXzkc_0kOC6to
+category: Medical
+country: DK
+id: nSLapWiS5Kjn
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1963159'
+publisher_name: Leafly Holdings, Inc
+rank: '226'
+release_count_in_past_year: '36'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

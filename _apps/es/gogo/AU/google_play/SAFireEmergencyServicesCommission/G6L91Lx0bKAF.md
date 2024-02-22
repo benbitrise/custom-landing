@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/e3KDqiDZcPvU-ULTKYIqgORvQ2-3d1YZ-tjB0bxmehGWBLTATxqpdvIffC-rL5WEFw
+app_id: au.gov.sa.safecom.alertsa
+app_name: Alert SA
+app_screenshot: https://play-lh.googleusercontent.com/RAqG6g2QugC5zbBWPCtl-2oVFELKShH4v8yq2pAYAwPDep3dSMOE1L9ZcoDZ4lPmp9c
+category: Communication
+country: AU
+id: G6L91Lx0bKAF
+language: es
+most_recent_release: '2023-07-05T00:00:00'
+publisher_id: '1141645'
+publisher_name: SA Fire & Emergency Services Commission
+rank: '81'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

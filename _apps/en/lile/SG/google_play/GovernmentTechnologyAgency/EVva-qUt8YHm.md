@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_36uCO9TEZoRI6UlkiEIYky4gQn4ucFK0yhAHGJEe_OqdmdZWkuk9qXsMZZOoeRo9hI
+app_id: sg.ndi.sp
+app_name: Singpass
+app_screenshot: https://play-lh.googleusercontent.com/o9vcMgwzzbB9n0XoMcd089V3tls7-9uq-BG8de4eauu232rVLC7cZlXrpjwAe2Eq234
+category: Productivity
+country: SG
+id: EVva-qUt8YHm
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '1708792'
+publisher_name: Government Technology Agency
+rank: '5'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/G2B61qyh1qajsz3C_Bt3BZOqmpRo2UFecIvk37Iprci_ZVaHZiJEdhNtxZBK0udmVw
+app_id: com.parrow_golf.app
+app_name: Parrow - Live Golf Scoring
+app_screenshot: https://play-lh.googleusercontent.com/OGi5-MqpXkuzL0MZpNqEdbvNrEc-EPh9e_Fqecw8q2LMJwFQIMSEueOgTLtzX37B-w
+category: Sports
+country: NL
+id: PnkN5o5kDejn
+language: fr
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '468011'
+publisher_name: Idas B.V. Internet & ICT
+rank: '176'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

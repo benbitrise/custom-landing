@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tZv58LADcTGu1sG4mZ5AogxdhuvWArDIcSQA1AIjLQG2pHPT4wFOE0Tw8yhHwFf8FQde
+app_id: com.mishnayom.mobile
+app_name: משניום
+app_screenshot: https://play-lh.googleusercontent.com/4yBzsA_aSdOr1Zv_byGLcxHOsB7FFbKLHeKA2zuZp1pe7iaEN_6-uV1yCoJgu3WTULHU
+category: Books & Reference
+country: IL
+id: bGuQci4FhEgG
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2795893'
+publisher_name: Ryware Software Solutions
+rank: '106'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

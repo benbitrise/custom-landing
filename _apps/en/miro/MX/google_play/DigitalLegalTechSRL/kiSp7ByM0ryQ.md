@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Mz5izeC76e7YNm5hSsWUhqDDzV8Gz_ocIbbUsaYjb6D0ZnH0SErl9ar61X7J-X5JlVAX
+app_id: com.weeklyplannerapp.weekplan
+app_name: Week Planner - Diary, Calendar
+app_screenshot: https://play-lh.googleusercontent.com/Va4F1tzKK9BXr_T2aDpbCX1z9GYedWcnFhqZChTwiTsFmwkAlgOybbgAN_UgXDRxyg
+category: Business
+country: MX
+id: kiSp7ByM0ryQ
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '2844576'
+publisher_name: Digital Legal Tech S.R.L.
+rank: '61'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

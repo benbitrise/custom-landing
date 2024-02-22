@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jFH6cHs5Eh_GMYPUkuXKrVBskspqBdhdLRiboo-mIxt-64BKc-4ecR0EMpmkR1JMfWs
+app_id: com.panda.pandabuy
+app_name: PandaBuy
+app_screenshot: https://play-lh.googleusercontent.com/ytcYIGkpbjDLs3Iw33z3vo1WpSVfZfIurSMtF9FT7hKtu_Bpw657rRWW48c03r9vudgl
+category: Shopping
+country: MX
+id: pWbEjJwyp9RL
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '3064980'
+publisher_name: PanDa (HongKong) Technology Co., Limited
+rank: '92'
+release_count_in_past_year: '55'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_U5wQXvzxMY4pFNR6_PXlCO-o2yAN_-vcaJrovVh68yCzvi3oOQe64N_quPhm2qQIw
+app_id: be.aldi.android
+app_name: ALDI
+app_screenshot: https://play-lh.googleusercontent.com/Co7G6uEbpZ5v81GeXW-H5CvIxyEeB_COdUSUCnf0wWOp_6bGCpPsJYgTzEun96v6Q466
+category: Shopping
+country: BE
+id: QfYU-jsM8UIB
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2481350'
+publisher_name: ALDI Einkauf SE & Co. oHG
+rank: '44'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

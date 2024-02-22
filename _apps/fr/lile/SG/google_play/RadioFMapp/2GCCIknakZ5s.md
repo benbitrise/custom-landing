@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/I_7Ed34VZSh6MaO-FkJobji8dHgjeFaYhMW91AdUOocjST1muAM1IyTl4XR4prg3hYY
+app_id: com.radiofmapp.radiosingapore
+app_name: Radio Singapore FM - 新加坡电台FM
+app_screenshot: https://play-lh.googleusercontent.com/mLXJ3O0520GQ4ZuXnKuFc1lXKnUDeeR00lzd99KX92xRQhTDT5EKJBeR7v5fUhNpFJN1
+category: Music & Audio
+country: SG
+id: 2GCCIknakZ5s
+language: fr
+most_recent_release: '2023-07-25T00:00:00'
+publisher_id: '2121209'
+publisher_name: RadioFMapp
+rank: '66'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

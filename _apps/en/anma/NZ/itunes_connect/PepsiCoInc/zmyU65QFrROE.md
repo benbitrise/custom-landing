@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/63/04/7f630477-72be-66c5-74d6-76b66726291a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6446347801'
+app_name: Snack-Hub
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/29/da/a0/29daa096-003b-3033-4cb7-db45d5ebac5c/6d7a7d4f-28f6-4435-a6cf-105da9426d6e_1.png/1242x2688bb.png
+category: Business
+country: NZ
+id: zmyU65QFrROE
+language: en
+most_recent_release: ''
+publisher_id: '492265869'
+publisher_name: PepsiCo, Inc.
+rank: '243'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

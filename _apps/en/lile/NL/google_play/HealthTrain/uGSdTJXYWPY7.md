@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3sxvu0i4GnXrQWG2OilfH9DQ3FKpQjaRQY4DpVOtCKIMTvI8aCBTcPGVW9EuXORuWZQc
+app_id: com.mijnzorgapp.android
+app_name: MijnZorgApp
+app_screenshot: https://play-lh.googleusercontent.com/b6RvURYohDrKPjfmXIUG3fcgmg2eIGmbh21ZxXawqKLp2QF8aOs3ZI5_szKypXEkGw
+category: Health & Fitness
+country: NL
+id: uGSdTJXYWPY7
+language: en
+most_recent_release: '2023-11-30T00:00:00'
+publisher_id: '2756254'
+publisher_name: HealthTrain
+rank: '3'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1Madkq5yFzKuqvEc55XCt8A1WLu6KFmeClKlLieu_S1Aw6Cnvm3d4Gk3H07YiTVWvuA
+app_id: pt.compal.pomardepremios
+app_name: Pomar de Prémios Compal
+app_screenshot: https://play-lh.googleusercontent.com/i6MbsPTkE-5s-peMVtm5K_V3VAvfh3cIUAFEn-b1gh2EQ9twebY96TOJHZRzcLMDXA
+category: Food & Drink
+country: PT
+id: uAiOEM9CpzBM
+language: fr
+most_recent_release: '2023-12-28T00:00:00'
+publisher_id: '2630743'
+publisher_name: Pomar de Prémios Compal
+rank: '10'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

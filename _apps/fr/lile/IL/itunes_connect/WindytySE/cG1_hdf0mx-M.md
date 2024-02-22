@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/91/30/79/91307972-d247-39a6-28fb-afbfa81c36f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1161387262'
+app_name: Windy.com - Weather & Radar
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e2/54/cb/e254cbc9-9734-6ac2-83b3-511cf2fc764a/4ea5749b-34f5-4a61-8e73-ab14dc1a48c1_Cover_1_ENG.png/1242x2688bb.png
+category: Weather
+country: IL
+id: cG1_hdf0mx-M
+language: fr
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1161387261'
+publisher_name: Windyty, SE
+rank: '6'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

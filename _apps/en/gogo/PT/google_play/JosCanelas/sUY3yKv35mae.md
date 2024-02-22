@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qFDhMQH9c4X9JIJLxeBko4lCpr85tI4CYRurLrmpnrJvUky4lZUN0Q9442qi8GMK1vM
+app_id: gatogordo.mobile.app
+app_name: Gato Gordo Delivery
+app_screenshot: https://play-lh.googleusercontent.com/gODqnF5jne1nqpIiBNGRf_UMA-r8aSsr7cOM0lQIIpf_l_bbpKQBDgmTdWzY9_TQOg
+category: Food & Drink
+country: PT
+id: sUY3yKv35mae
+language: en
+most_recent_release: '2023-09-12T00:00:00'
+publisher_id: '1549540'
+publisher_name: José Canelas
+rank: '111'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ww5hZ8xsvb0uUL1n-Vm2bI5_SDIqDEtfBk9uKqg0f6kO27e18ZOEM9tdSVJ4FUPPyqg
+app_id: com.wallwisher.Padlet
+app_name: Padlet
+app_screenshot: https://play-lh.googleusercontent.com/gtAt3b5SaOMqy7RNL5LkvYgVMgq-EzovpG_6rgwz1i2SJpAmuJm2Xmg1Y2e_jzVIqb8
+category: Productivity
+country: IL
+id: mWou9ddIUrN_
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2258113'
+publisher_name: Padlet
+rank: '143'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

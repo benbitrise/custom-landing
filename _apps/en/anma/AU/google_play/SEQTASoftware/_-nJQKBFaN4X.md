@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2_rVNqzEvBTHQDqai-4gtmMKvOu3PKDK1-0ToUoetxYMYHrUJls9kaZNt6Zcd4HuqB4
+app_id: com.seqta.android.engage
+app_name: SEQTA Engage
+app_screenshot: https://play-lh.googleusercontent.com/2vhkvHmLOWsVqNfELBETd1ziDRLsLGHdJBLrap45ZDjvgyoA9lW7TK-DEbrUTjG0TmHh
+category: Education
+country: AU
+id: _-nJQKBFaN4X
+language: en
+most_recent_release: '2023-06-11T00:00:00'
+publisher_id: '1374716'
+publisher_name: SEQTA Software
+rank: '26'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

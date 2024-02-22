@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XsaDreUIvYFEJFC6mj2vP8Zh5d4tG244eZ_yw8nabIlByEGKyaeV7rgexfxDkw5JOjU
+app_id: com.popularworld
+app_name: POPULAR Magazine
+app_screenshot: https://play-lh.googleusercontent.com/VjICpsdaBtbalf3WXozBQPGvrvMgJcn4jfXhRB00xEk7XNA9rO_BgI2V3h4_1UOhV-_g
+category: News & Magazines
+country: ID
+id: Ag2TWD9nsFv5
+language: en
+most_recent_release: '2023-09-04T00:00:00'
+publisher_id: '1546764'
+publisher_name: Papillon Penerbit
+rank: '124'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

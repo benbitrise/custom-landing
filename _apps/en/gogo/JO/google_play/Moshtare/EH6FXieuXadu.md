@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6okOnRmEW_fZDm8wnsCyxX4lS2R2G8f2L9E8nA-aWn8fo17qrm5EPMIplfMs-bcM8fY
+app_id: com.moshtare.wehdat
+app_name: متجر نادي الوحدات
+app_screenshot: https://play-lh.googleusercontent.com/NnVX1Cxcl_hmrhlF7ItpDJwHfi6K6EyC-r6OQfXskBnkAX3UEXe08VlA3iByMcC_LaY
+category: Shopping
+country: JO
+id: EH6FXieuXadu
+language: en
+most_recent_release: '2023-09-19T00:00:00'
+publisher_id: '2447764'
+publisher_name: Moshtare
+rank: '159'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

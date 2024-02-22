@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7klFv5jO6DWhklFJRujs195qdodaZJZ8xqabUO3eDLET2Ll_UsSnnaiexRI-gjx3CL8
+app_id: com.marvel_databadge.expo
+app_name: Databadge Events
+app_screenshot: https://play-lh.googleusercontent.com/18AgjNhICqi4bS7mRW1BA390z4J6kCR_j_F2liiATVBTMEX-fH38s2Jd5qbp8O3Aa1U
+category: Events
+country: NL
+id: Y4LVIVSIlJPF
+language: fr
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '481434'
+publisher_name: Marvel, the Databadge Company BV
+rank: '153'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

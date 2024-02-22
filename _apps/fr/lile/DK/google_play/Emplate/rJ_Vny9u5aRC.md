@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sTRgb_kowR5D0-u0_74HMjwFxTS-1RhbxvPWjAS7k_swnnrm_6WgVjRsQcimTRba8kA
+app_id: it.emplate.bytorvhorsens
+app_name: Bytorv Horsens
+app_screenshot: https://play-lh.googleusercontent.com/wHlZrgfIUGwvW7qXdoAaVdqN84C58uAizp2doKj_7-82bO9iOdOEhRhr_SEdlpYVvg
+category: Shopping
+country: DK
+id: rJ_Vny9u5aRC
+language: fr
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '3062650'
+publisher_name: Emplate
+rank: '202'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

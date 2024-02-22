@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Gc-VwG6WB9e22JiUSBRa0J-O5h81ozv4HVNwn8UpK6L7nRaqVyAhHnqIY3NK-LC4fXs
+app_id: com.app.tilfazbatmoubachirtvtilfazi
+app_name: تلفاز جميع القنوات بث مباشر
+app_screenshot: https://play-lh.googleusercontent.com/SoGwSKEDp8rxIWjzv2Kb-Lp5uKetCqAEG4GN6GEnHedH8K3P01cRFT-_avRnrgNnzw
+category: Entertainment
+country: JO
+id: TYEUF1dNWRrE
+language: es
+most_recent_release: '2024-01-06T00:00:00'
+publisher_id: '2958112'
+publisher_name: YassBaa-Devlpr
+rank: '152'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

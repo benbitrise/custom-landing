@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/de88ra0yTt7yQuSyIcNPK9jzFzzyq9P0mS78B1wiNwx1nGTlESIOsO-UXPgfWvRIQQ
+app_id: com.pansbrothrstudio.bussidmobilfullsticker
+app_name: Mod Bussid Mobil Full Sticker
+app_screenshot: https://play-lh.googleusercontent.com/zNI1_Ju76uGF4V7OLNqCPvhLLLg4j7DHuJSjFI-7Stucf7H0qjPtX5YHvw3snoUb8kob
+category: Auto & Vehicles
+country: ID
+id: QqVL4HI-yJ_R
+language: en
+most_recent_release: '2023-10-27T00:00:00'
+publisher_id: '2615606'
+publisher_name: Pansbrothr Studio
+rank: '38'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c37X4tGXpWXK_jks2oWDtxCAhGSQHx8thpy3qATouZY7oS2l08izUSjRbM7iysGIzeU
+app_id: com.hadirr
+app_name: Hadirr - Attendance App
+app_screenshot: https://play-lh.googleusercontent.com/NB-MI0a_1bnFoOuxuzFPtUGjR-WoiORNxDAPr9uDAVTK84U5p53JaBaMgcekABh5WQ
+category: Business
+country: ID
+id: xJgpA1lKLnXi
+language: es
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '1186965'
+publisher_name: Fast-8
+rank: '135'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

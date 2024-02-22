@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9muYaDRtZqEJDYHESsIfuYb9dcb2W6bbCoRewsK3PZ-a4iQCDVL1X43ag-rrE6sNPnI
+app_id: com.gateweb.android.decopcard
+app_name: シール＆カード/名刺作成 デコプチカード
+app_screenshot: https://play-lh.googleusercontent.com/RbyVNHl2x6VrBh_D_ApQrw-XcPnm_UlF4CCZih-b7DgPcm8deDVWUU6MBcUpiIpMyA
+category: Business
+country: JP
+id: WiRqlOxOhZZc
+language: es
+most_recent_release: '2023-11-16T00:00:00'
+publisher_id: '720378'
+publisher_name: GATEWEB CO., LTD.
+rank: '84'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

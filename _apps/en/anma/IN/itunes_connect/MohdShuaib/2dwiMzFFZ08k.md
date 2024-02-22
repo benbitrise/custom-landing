@@ -1,0 +1,25 @@
+---
+app_icon: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/21/41/54/2141542a-8736-fdb6-3df7-43095cde72d4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1448228668'
+app_name: Wishfin
+app_screenshot: https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/64/43/b7/6443b795-487c-1a4b-8ccc-5f9e38fc5904/pr_source.png/1242x2688bb.png
+category: Business
+country: IN
+id: 2dwiMzFFZ08k
+language: en
+most_recent_release: '2021-04-23T00:00:00'
+publisher_id: '1448228667'
+publisher_name: Mohd Shuaib
+rank: '362'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

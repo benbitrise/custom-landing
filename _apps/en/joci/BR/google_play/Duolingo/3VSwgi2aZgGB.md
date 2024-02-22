@@ -12,8 +12,8 @@ publisher_id: '12815'
 publisher_name: Duolingo
 rank: '1'
 release_count_in_past_year: '71'
-release_count_in_past_year_category: 22
-release_count_in_past_year_top_in_category: 22
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vUI0vdgDJNL6UjzfInYY0yo_6zHbTGjltE6fnAORnKxEaf8gC-K3vuI44xwmE08u1so
+app_id: ua.mybible
+app_name: MyBible - Bible
+app_screenshot: https://play-lh.googleusercontent.com/JT83HuLzhiGiVGG9KcUkFFQRxv6kheY5pu-SqtN9TTcrPWZ9h7YM1EA5srQah5RZEKg
+category: Books & Reference
+country: MX
+id: jOc0c8rz0bAs
+language: en
+most_recent_release: '2023-11-08T00:00:00'
+publisher_id: '198271'
+publisher_name: Denys Dolganenko
+rank: '152'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

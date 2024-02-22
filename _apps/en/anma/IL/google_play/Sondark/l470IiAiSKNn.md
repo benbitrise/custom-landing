@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: l470IiAiSKNn
 language: en
-most_recent_release: '2024-01-16T00:00:00'
+most_recent_release: '2024-02-17T00:00:00'
 publisher_id: '3032004'
 publisher_name: Sondark
-rank: '29'
+rank: '27'
 release_count_in_past_year: '3'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: anna.magnussen@bitrise.io
 rep_first_name: Anna
 rep_full_name: Anna Magnussen

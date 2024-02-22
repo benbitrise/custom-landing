@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/I8AQgdC1R5Gm_MKz4RskAsAroFY43cLQMe6IEiV0NkqATjaz863rfkjjx2IpeayGhW8
+app_id: com.moneybookers.skrillpayments
+app_name: Skrill - Fast, secure payments
+app_screenshot: https://play-lh.googleusercontent.com/A2Gn7x8j4_XOypXjbZyatd2fUnEKu6aTyUATarewD8ite6DMyhMBUg00xKvg_mbz740
+category: Finance
+country: CA
+id: V_X5ts5zBmdC
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '888008'
+publisher_name: Paysafe
+rank: '152'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

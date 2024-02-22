@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rcuaJ2ncOi0vB22l0ncYcL7PlF4JP0SOtbAFuAWrF4v_edgzeenTTW-hDfz40-aucAc
+app_id: com.openvld.membersapp
+app_name: Open Vld App
+app_screenshot: https://play-lh.googleusercontent.com/ORuL8r0jKNAWZcli84NpqcLgnGT6aCj6vBTxRGdp6ka6AeDb4770paeagfah9YyPGYQ
+category: Productivity
+country: BE
+id: a8UkbUDtXPA7
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '2814667'
+publisher_name: Open Vlaamse Liberalen en Democraten
+rank: '159'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

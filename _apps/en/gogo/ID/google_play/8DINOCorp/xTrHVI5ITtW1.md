@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/eXbQZ1XIimWZ1LWb5w8JVOyR69zZKGL3NfSiHwPNpBjSqViOzAa4UCe6SENB3F86Ail3
+app_id: com.fredayal.modmotordragbussidlengkap
+app_name: Mod Motor Drag Bussid Lengkap
+app_screenshot: https://play-lh.googleusercontent.com/OA2QBe04j7raoSw4sz9p7cmnYPA3FLAEr6_5F9mno1xl0uz7L2ONEBRlHDgHNQJ4Uos
+category: Sports
+country: ID
+id: xTrHVI5ITtW1
+language: en
+most_recent_release: '2023-07-28T00:00:00'
+publisher_id: '2957392'
+publisher_name: 8DINO Corp
+rank: '41'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

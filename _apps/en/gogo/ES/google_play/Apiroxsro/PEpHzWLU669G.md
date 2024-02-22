@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Gtf08jg0xSwPo-E1Xr1k4Hm0y6WOz-DLz93o7FpCt8U8CSJiS6b0UNdcA67JLm2guDw
+app_id: com.apirox.sleeprecorder
+app_name: Prime Sleep Recorder
+app_screenshot: https://play-lh.googleusercontent.com/XMSt9Nd2oQNj0y6eFkW9Wn5iENgHo7q6vzne8BaQWUSiUdaGD50sKvMWsIm0TvQansqS
+category: Medical
+country: ES
+id: PEpHzWLU669G
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2140656'
+publisher_name: Apirox, s.r.o.
+rank: '156'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

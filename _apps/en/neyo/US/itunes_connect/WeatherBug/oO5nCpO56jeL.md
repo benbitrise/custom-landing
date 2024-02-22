@@ -12,8 +12,8 @@ publisher_id: '281940295'
 publisher_name: WeatherBug
 rank: '4'
 release_count_in_past_year: '37'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

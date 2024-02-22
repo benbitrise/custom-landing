@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/22/0e/a1220e65-087d-4936-56c8-1e8d05b6f512/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/1024x1024bb.png
+app_id: '1296674639'
+app_name: Air Quality Index
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f6/92/41/f6924127-d4f6-296d-1025-7a20ec8841d5/26913195-719c-4e53-9d69-6708b7269020_iphone-1.png/1284x2778bb.png
+category: Weather
+country: PT
+id: fLV7EPfqB31f
+language: fr
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '314496791'
+publisher_name: Apparent Logic, LLC
+rank: '218'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9IWfj2w_96UhqDwazOqcnXoRarrXosmKr8CJYPAtyTvoQXPceLyNHRJ6Tqxfkc-nxw
+app_id: com.ombiel.campusm.witt
+app_name: MyWITT
+app_screenshot: https://play-lh.googleusercontent.com/Rw-1yO3ntxLjBeG6DfKQ0z77T6N1kff2NnYZbnuS-K077bErRLvpZ5ytpQd0L3yrKg
+category: Education
+country: NZ
+id: mmkZn4FfOAWP
+language: es
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '2565972'
+publisher_name: Western Institute of Technology at Taranaki
+rank: '106'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

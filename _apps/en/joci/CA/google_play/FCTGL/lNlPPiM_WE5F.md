@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gEa_qDEwGuQmJ4OelOOIQ1tN1Zw9eld4AhqUyxGSCtactT3nHkD44c__Y9onQHeq2XC-
+app_id: au.com.flightcentre
+app_name: 'Flight Centre: Cheap Flights'
+app_screenshot: https://play-lh.googleusercontent.com/hdXuMaLlQZ08t--kJRyZl46NYZMsFfOGhSapiPZHLD_VUyQk098EkJeDDz2Xkb609yI
+category: Travel & Local
+country: CA
+id: lNlPPiM_WE5F
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2243545'
+publisher_name: FCTGL
+rank: '45'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

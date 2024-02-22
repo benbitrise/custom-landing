@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/83Xl6XID3TSb_OVgUszSnbqtTCThe5dKmYzrrhyY5lLxuRqyRUbvCjFkstO6q3Nyrsk
+app_id: maaz.canpr.myapplication
+app_name: CanPR - Immigration Assistant
+app_screenshot: https://play-lh.googleusercontent.com/I0U5G0y8uR_cKmIrqoVgM3uAlVOwODpZd5AWbs3TBjeIXtO9eQXSK06YGcVJfc8sNPu3
+category: Books & Reference
+country: CA
+id: 9N3QwPL1-BrK
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2859815'
+publisher_name: CanPR - Immigration Assistant
+rank: '83'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

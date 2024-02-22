@@ -12,8 +12,8 @@ publisher_id: '300048140'
 publisher_name: AccuWeather International, Inc.
 rank: '2'
 release_count_in_past_year: '19'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

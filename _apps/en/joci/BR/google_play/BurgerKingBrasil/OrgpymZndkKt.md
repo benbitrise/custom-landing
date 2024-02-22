@@ -12,8 +12,8 @@ publisher_id: '1466029'
 publisher_name: Burger King Brasil
 rank: '3'
 release_count_in_past_year: '26'
-release_count_in_past_year_category: 27
-release_count_in_past_year_top_in_category: 27
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

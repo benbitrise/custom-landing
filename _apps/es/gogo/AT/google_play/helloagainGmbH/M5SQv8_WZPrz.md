@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AhBDNrBsJ1bRQqbUkQJLHIUr59v14TWNl02qlaZuJp0oS4HmmF3feKicCOmRRCsfMEg
+app_id: at.myshoes.app
+app_name: MyShoes Österreich
+app_screenshot: https://play-lh.googleusercontent.com/a2eZM6VuI7-T0bOULtV9AGMSWBwu_dNNppVHqXyK-ST6RUM1kJS7gG7HWUDaxT_I-Q
+category: Shopping
+country: AT
+id: M5SQv8_WZPrz
+language: es
+most_recent_release: '2023-12-12T00:00:00'
+publisher_id: '1219659'
+publisher_name: hello again GmbH
+rank: '168'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

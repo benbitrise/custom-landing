@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/RfQtqq23OWy-p72Q45ITqI3YaVopfHie5njoXuprVIEO_bnXAT1B18ToaDYl9MvgvGU
+app_id: com.studioappspremium.rlcraftmcpe
+app_name: RLCraft Mod for MCPE
+app_screenshot: https://play-lh.googleusercontent.com/NMTMOqrVIk_Iro_PhRveKt7M6LMfa2xPUxuYRN6wsc5aC0kCjr3FTpUmN_SV-Qt1WUo
+category: Libraries & Demo
+country: BR
+id: cz0FbXq59Nrn
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '2387747'
+publisher_name: Studio Apps Premium
+rank: '203'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

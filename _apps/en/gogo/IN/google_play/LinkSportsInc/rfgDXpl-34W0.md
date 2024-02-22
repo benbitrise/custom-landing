@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/FuZYx7pII2goUPyQUS8ldXeIQkJj4Hki_xhJs0u1Kc2pO0rhQ4ZdlOp0JIQoSEJAug
+app_id: com.teamhub
+app_name: TeamHub - Manage Sports Teams
+app_screenshot: https://play-lh.googleusercontent.com/NcMj37E8f8z2LOYJ3GYoAFHtz94i9KDzWlzRIFXwsQfgcR6ERxK7oIg4n_RIBQ6G8HQ
+category: Sports
+country: IN
+id: rfgDXpl-34W0
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1008132'
+publisher_name: Link Sports Inc.
+rank: '35'
+release_count_in_past_year: '37'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

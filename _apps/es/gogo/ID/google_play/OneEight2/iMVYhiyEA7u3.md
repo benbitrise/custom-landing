@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rb2oJL46DJYN9GlZ9kUNkLTXRSRDA4UeHKJjoG_eGWPQW2yAqPUKmMnl_Xlkb1wZlg
+app_id: com.tipsskor.appentereight801
+app_name: Prediksi Bola Parlay 188BET
+app_screenshot: https://play-lh.googleusercontent.com/0nm8z_gprG8FsRx3-L_EiiMNTbJsvk2_EzhxsJivQx5NPR75uS2al-Q9r5RdgjZwsg
+category: Sports
+country: ID
+id: iMVYhiyEA7u3
+language: es
+most_recent_release: '2023-04-20T00:00:00'
+publisher_id: '2594598'
+publisher_name: One Eight2
+rank: '135'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

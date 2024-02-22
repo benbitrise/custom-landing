@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MlFm6LjYzc6yVX-FRAnpIhUBlKmC18gMQ-SH4xCYkxb3it718ye8CShFA0pz7gpgWuk
+app_id: eu.ntm.newswrapp.mvt
+app_name: MVT.se
+app_screenshot: https://play-lh.googleusercontent.com/kPafkdENrWns_pIgeSuxJz-TDa19PtlRTLj1Jtg8OYjgG-5CM01M1svcbBI8ki-xvk8
+category: News & Magazines
+country: SE
+id: cg2g06zg40yH
+language: es
+most_recent_release: '2023-11-15T00:00:00'
+publisher_id: '624321'
+publisher_name: NTM  AB
+rank: '100'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jXUYfVPklyte6M2I4sZp9ZJJA5QVy5xAs1uaWS2hMSejxqAalhrIpq6lu_f9rHogtVXf
+app_id: com.mobeasyapp.app4ansta5325
+app_name: خلفيات فخمة - اقتباسات
+app_screenshot: https://play-lh.googleusercontent.com/pa1NWb4yhR49iMaCzPOIFUscMX1tLAuL0XSJKEfw2KW-yp54e8homUCaG0aRKHzrsQ
+category: Beauty
+country: JO
+id: -6nx7rNgbJw0
+language: es
+most_recent_release: '2024-01-19T00:00:00'
+publisher_id: '2615513'
+publisher_name: Radhwan Faisal
+rank: '111'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

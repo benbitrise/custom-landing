@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5_GZvz47EXE3Zs7gvAmO2QvP0MmcEGLc0bhB4GbXpgGZRRXTRMM4yzDUeec40Gu_j10
+app_id: weather.forecast.appcomapany
+app_name: 'Weather Forecast : Weather App'
+app_screenshot: https://play-lh.googleusercontent.com/gnZ0f_Y03GxKAX79KoOCDwviJFNs_6ZPbcSeCMyTN0bON5dG1Hkfb6dhXZj2bWzwhgY
+category: Weather
+country: BR
+id: 4ytrnp72UpEx
+language: en
+most_recent_release: '2023-12-03T00:00:00'
+publisher_id: '1492826'
+publisher_name: The App Company INC
+rank: '192'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

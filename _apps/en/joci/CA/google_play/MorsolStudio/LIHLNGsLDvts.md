@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Ztmj70foCKD9Id7mxkwSKmFMviEMDJAGztCUC85K4m63vER21up1om3pk-274bOW5q4
+app_id: com.thermometer.room.temperature.checker
+app_name: Thermometer Room Temperature
+app_screenshot: https://play-lh.googleusercontent.com/sfHirlfv4F7UFXf0Kk8gfWJCBrL4Tk9_dN-VPdfrpLOra78ebzNRK_QbbpE7bxw72Q
+category: Weather
+country: CA
+id: LIHLNGsLDvts
+language: en
+most_recent_release: '2023-12-26T00:00:00'
+publisher_id: '2392527'
+publisher_name: Morsol Studio
+rank: '187'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

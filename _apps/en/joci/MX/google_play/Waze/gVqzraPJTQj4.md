@@ -12,8 +12,8 @@ publisher_id: '17073'
 publisher_name: Waze
 rank: '4'
 release_count_in_past_year: '23'
-release_count_in_past_year_category: 35
-release_count_in_past_year_top_in_category: 35
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

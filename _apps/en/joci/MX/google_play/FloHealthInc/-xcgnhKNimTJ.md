@@ -12,8 +12,8 @@ publisher_id: '2711558'
 publisher_name: Flo Health Inc.
 rank: '3'
 release_count_in_past_year: '39'
-release_count_in_past_year_category: 13
-release_count_in_past_year_top_in_category: 13
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

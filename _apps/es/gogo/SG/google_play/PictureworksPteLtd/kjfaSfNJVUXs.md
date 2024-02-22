@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/q9ciq8v5a6ln4IjUoeY3Yf0rQt5xhBz5Fp1N0BJJZi5upwzNtlZH-HQ3L9l-knggV6Qb
+app_id: com.pictureAir
+app_name: PictureAir
+app_screenshot: https://play-lh.googleusercontent.com/ISmdNSuJUpThWGQyr6IkP9Q3IeCFe1ZUDTijHXJqoIxh1RS1Aj7FYaRMyvOa9XWKcRT0
+category: Photography
+country: SG
+id: kjfaSfNJVUXs
+language: es
+most_recent_release: '2023-10-29T00:00:00'
+publisher_id: '995694'
+publisher_name: Pictureworks Pte Ltd
+rank: '92'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

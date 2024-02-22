@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lfJCImOUon9By6oC5FQ2DLjleFJFFmkKez69_RadieLQPQcG2-MozTufG3Naxy_tlw
+app_id: pl.zielonykalendarz.luzna
+app_name: Czysta Gmina Łużna
+app_screenshot: https://play-lh.googleusercontent.com/fgQwhk6rue2fki2BcKZimqQ1OTDLvbk5SeNFi6zD7B03z3OMolNN_OaQOinAjHHANm0
+category: House & Home
+country: PL
+id: gCHu3GvEgiyf
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1169283'
+publisher_name: Digital Holding Sp. z o. o.
+rank: '32'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

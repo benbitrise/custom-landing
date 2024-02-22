@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ixBuODrMbvsr8wP5NWO0qL0aQJMsB8-N19R9XRSEe_tzHFHW4D63DprG6umAjKniFhKt
+app_id: in.bbk.android
+app_name: Biryani by Kilo - Order Online
+app_screenshot: https://play-lh.googleusercontent.com/XcFS9WotVM0UVUtaCno28BO3FRwMBCfzq6PudR5D8TLkmWuwffxm1XBH2ski866XMuU
+category: Food & Drink
+country: IN
+id: 8255dYJH1uFR
+language: fr
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2589753'
+publisher_name: Sky Gate Hospitality Private Limited.
+rank: '87'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

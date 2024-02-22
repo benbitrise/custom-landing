@@ -12,8 +12,8 @@ publisher_id: '719972454'
 publisher_name: DoorDash, Inc.
 rank: '5'
 release_count_in_past_year: '65'
-release_count_in_past_year_category: 45
-release_count_in_past_year_top_in_category: 45
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

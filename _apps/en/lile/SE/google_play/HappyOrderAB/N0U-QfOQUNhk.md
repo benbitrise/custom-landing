@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_NdgKxOs7yQniwe7bMNoKdQ135He-jpLH3B7_XMStRvLsNgmmY3ZVvx9njuF-ma10Ec
+app_id: io.happyorder.freshfood
+app_name: Fresh food - Mat & Dryck
+app_screenshot: https://play-lh.googleusercontent.com/KDPHdjwBgr6-PMEcVklFE4dmzpfgWJhqdnIwz8jBPfuOEiuxj6STjBYVfUOGk7yadUQ
+category: Food & Drink
+country: SE
+id: N0U-QfOQUNhk
+language: en
+most_recent_release: '2022-10-14T00:00:00'
+publisher_id: '1570368'
+publisher_name: Happy Order AB
+rank: '106'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

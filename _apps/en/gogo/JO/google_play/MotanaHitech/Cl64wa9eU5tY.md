@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Sb55t6tAp4QsgcjiFW-tYmHT3bzY7zEdsnIFA8DlErkOPP1ZSq3HKJ01NLQ3QY6c684
+app_id: co.motana.alnor
+app_name: مكتبة النور
+app_screenshot: https://play-lh.googleusercontent.com/QbUm4JiNGA9-j0ZQKhy-6q3bVQQuN0yrpIZdzEcn4SC-wjb1sP5pkZR03g33mwu3ChEj
+category: Shopping
+country: JO
+id: Cl64wa9eU5tY
+language: en
+most_recent_release: '2023-08-22T00:00:00'
+publisher_id: '2677258'
+publisher_name: Motana Hitech
+rank: '156'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

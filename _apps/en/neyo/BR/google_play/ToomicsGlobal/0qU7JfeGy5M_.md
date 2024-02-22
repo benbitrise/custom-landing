@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WLbJ6T57v9dWAMN56z5vw0eXRZfMb_5GbSCno88-j0TtMWKE1epe1GOWYWb78hzX_A
+app_id: com.toomics.global.google
+app_name: Toomics - Read Premium Comics
+app_screenshot: https://play-lh.googleusercontent.com/2S4-q7AsFIFn-MPGiACyanwuohCy7lflRbq5aQm_w5C70WFTrJD0RTRKjDEGhJMp9A
+category: Comics
+country: BR
+id: 0qU7JfeGy5M_
+language: en
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '1849536'
+publisher_name: Toomics Global
+rank: '8'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

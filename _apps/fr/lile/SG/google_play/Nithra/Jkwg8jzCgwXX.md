@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CJd1ohcn29cx6mSxEIQfS7fximjR80H52xvB5FCm7dDkQHmt_FWkvjO5lrsm0_Yd1QJT
+app_id: com.bharathdictionary
+app_name: English to Tamil Dictionary
+app_screenshot: https://play-lh.googleusercontent.com/-5-HOrwZg_3I_px1Krs11fnTY3krqMRZHEFFwtISrP9hOu5TnIfcYv6zN7r_JH3Fyk8
+category: Books & Reference
+country: SG
+id: Jkwg8jzCgwXX
+language: fr
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '934413'
+publisher_name: Nithra
+rank: '151'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

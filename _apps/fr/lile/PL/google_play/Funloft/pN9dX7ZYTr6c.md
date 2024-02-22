@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-JcC4MpPomjFkEI_sBfe5H9MihC3B2NY0H86liVA3QR0Te8odjFQmXW0Ximx4jT5U2Y
+app_id: com.ar.satfinder.geoareacalculator.inclinometer.quickdishalign.gyrocompass
+app_name: 'Satfinder: Satellite Director'
+app_screenshot: https://play-lh.googleusercontent.com/tjJM6B0WZws9ST21hqe5jXrc6qdIsI3aW2Fc--d8z5V-MIUG3iE_DQ-cihLBSQWSFuc
+category: Maps & Navigation
+country: PL
+id: pN9dX7ZYTr6c
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2219321'
+publisher_name: Funloft
+rank: '199'
+release_count_in_past_year: '30'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

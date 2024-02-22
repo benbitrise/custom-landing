@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IISgIP2yuFK61KLYnimsAxW2q7AxnTQ1uLxhY52Pvp-lz0ksmM2EubqkFRvVRjA9boU
+app_id: alberta.health.services.parking
+app_name: AHS Parking
+app_screenshot: https://play-lh.googleusercontent.com/BB7N10KaxLso_PpXQOMXvD3FYMifY2cj7i-1C_d8794NYkczIoR1bcoB4M_IAWe5Fi0
+category: Maps & Navigation
+country: CA
+id: WMDQHu9i_w8_
+language: en
+most_recent_release: '2022-08-24T00:00:00'
+publisher_id: '74757'
+publisher_name: Alberta Health Services
+rank: '26'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

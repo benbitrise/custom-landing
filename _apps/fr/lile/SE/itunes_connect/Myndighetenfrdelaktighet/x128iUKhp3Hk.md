@@ -1,0 +1,25 @@
+---
+app_icon: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/7d/d1/d07dd17e-0ae5-dfbf-0fd5-08224a836bac/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.jpeg/1024x1024bb.png
+app_id: '1298522112'
+app_name: Kläder efter väder
+app_screenshot: https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c6/6a/48/c66a4876-3020-7b31-20ac-05518be6fe87/pr_source.png/1242x2208bb.png
+category: Weather
+country: SE
+id: x128iUKhp3Hk
+language: fr
+most_recent_release: '2019-04-03T00:00:00'
+publisher_id: '1298522111'
+publisher_name: Myndigheten för delaktighet
+rank: '108'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

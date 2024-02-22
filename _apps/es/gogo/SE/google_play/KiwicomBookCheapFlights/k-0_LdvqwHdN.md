@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lfNcIvDmXWv0hGdV9rLUipANlun73sh_W08JRvZUKwzE6N7ViOYiwtxbCFzk7jICY8w
+app_id: com.skypicker.main
+app_name: Kiwi.com - Book Cheap Flights
+app_screenshot: https://play-lh.googleusercontent.com/JpgxIsrAX3HwHjS9xGg-xzPmnDF6GjdLFztgj5FC8lAjU2UICyX5tTaT8JMFUD87FBE
+category: Travel & Local
+country: SE
+id: k-0_LdvqwHdN
+language: es
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2935062'
+publisher_name: Kiwi.com - Book Cheap Flights
+rank: '68'
+release_count_in_past_year: '50'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

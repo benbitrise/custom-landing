@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uUnz-QsE2N7VyQfzB5Ub-wxYwYHK2eWhqOBWI380kQL_sjVo-6m8YkuSjp82eLQ6MRHT
+app_id: dk.releaze.android.bilbasen
+app_name: Bilbasen – køb brugte biler
+app_screenshot: https://play-lh.googleusercontent.com/EOkVMaW_y9m9yQ3ULOvHVlfUlDDJR-2tRvy06VjobXfYnwQyQJRErG6HfhFcaHHgkA
+category: Shopping
+country: DK
+id: eKKCOe1HLFn_
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '2772246'
+publisher_name: Schibsted Denmark
+rank: '45'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

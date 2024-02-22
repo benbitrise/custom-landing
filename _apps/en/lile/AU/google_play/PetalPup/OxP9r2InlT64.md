@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vsudALQ175oMyFfeDkfVFOlVQldwA2Q7BW-sZ0tklC0ZRS60FN7fRsK07bt-fmT_QAZZ
+app_id: co.tapcart.app.id_SjBwEIFsE7
+app_name: Petal & Pup AU
+app_screenshot: https://play-lh.googleusercontent.com/zJ_CA9yPpQD_DXatl4cDQbTY4IhObaddAYCmPEgAg3H7Yavg1tF9IWIzcf6sxyfcG6nE
+category: Shopping
+country: AU
+id: OxP9r2InlT64
+language: en
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '2420978'
+publisher_name: Petal & Pup
+rank: '79'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

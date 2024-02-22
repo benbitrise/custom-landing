@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7vYyqKyD7_J9fBPixysxmkOBfeIS1KIwt8MAJr1ddeNPFWFAhBlmJNLKvtM9d2DZJg
+app_id: com.nbx.exchange
+app_name: NBX
+app_screenshot: https://play-lh.googleusercontent.com/wmmCc3xDci52SEdKd70K1yOe8OijzbVlCLXog6vjVcH687cEkx8QK8_ZFXctcFp05w
+category: Finance
+country: 'NO'
+id: n7jB0xaYIZT7
+language: es
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2758316'
+publisher_name: Norwegian Block Exchange
+rank: '122'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

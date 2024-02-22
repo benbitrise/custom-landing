@@ -12,8 +12,8 @@ publisher_id: '2263772'
 publisher_name: Airbnb
 rank: '1'
 release_count_in_past_year: '65'
-release_count_in_past_year_category: 30
-release_count_in_past_year_top_in_category: 30
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -13,7 +13,7 @@ publisher_name: Giga Tecnologia
 rank: '5'
 release_count_in_past_year: '1'
 release_count_in_past_year_category: 12
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_top_in_category: 15
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

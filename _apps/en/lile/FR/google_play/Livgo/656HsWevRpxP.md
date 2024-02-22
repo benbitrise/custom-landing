@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/z_7aUnJu_cAgCI1VZaRXn4Hf9Jdq4dE7WLwY7MtcRQNga8cyKMOXUs9ruah3cXBfkw
+app_id: com.app.zoywagotmhjuceyfwfhvibgrnbliseaztcppsxdnk
+app_name: LivGO
+app_screenshot: https://play-lh.googleusercontent.com/EqektkxT6RDVkIUccQ8eMKK0wYCVaVDchRnCP8AJW30xsjKuZ4_hVaol2ZmJNpYYV0A
+category: Libraries & Demo
+country: FR
+id: 656HsWevRpxP
+language: en
+most_recent_release: '2023-08-24T00:00:00'
+publisher_id: '2408073'
+publisher_name: Liv'go
+rank: '197'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

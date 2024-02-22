@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QYCi_70VnhRFs-o81C9j-5LBruA7HWi2Rh_SJ7wfcyxG5mmJNYVx0Z1cnl63Xhi45w
+app_id: com.magzter.mightyraju
+app_name: Mighty Raju
+app_screenshot: https://play-lh.googleusercontent.com/s3cyU9Ur5s-5afInQ1Dqfvl3wvwqrYsoZvUc1PVK0oeLaXtOte6TVa_4d7dhXcyarA
+category: Comics
+country: IN
+id: ctyEqe30fq7g
+language: es
+most_recent_release: '2023-07-03T00:00:00'
+publisher_id: '24169'
+publisher_name: Magzter Inc.
+rank: '75'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

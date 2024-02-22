@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Ie5iX0OxkTusO-GpURbwDg2-X2z0RV9hWJz1sGFxH3ioJ_OH8daBernm2Doj9zjxloY
+app_id: game.joyit.welfare
+app_name: JOYit - Play to earn rewards
+app_screenshot: https://play-lh.googleusercontent.com/wtOXBwwqE7jEQ8bwi8qPsSM81175OWl8iDOhjWSxPt_bVek0GtpZrhTpXCfsbE3Khfg
+category: Entertainment
+country: ID
+id: 3NT1Mj1bLrST
+language: es
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2861832'
+publisher_name: Good Game Matrix
+rank: '12'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

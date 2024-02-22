@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/khhUN0lEbS0afzoDuwcDqschY3tp2njKrXfqjjRNSpKtVFx98j-075faxbN7OmwOLQ
+app_id: org.proapps.peoplelocator
+app_name: Zenly Share Location - Penlo
+app_screenshot: https://play-lh.googleusercontent.com/NKKJKQQmcjA5UhNbxn6GtBVT6HJLrud57xkBGYef0cWhhq4HB5KLKTERGJM5DDfsf84
+category: Social
+country: ID
+id: TReGFlk42L8q
+language: es
+most_recent_release: '2023-12-31T00:00:00'
+publisher_id: '2701683'
+publisher_name: Pro App Company
+rank: '116'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

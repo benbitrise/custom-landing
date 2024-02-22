@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hYqaqlL16NXp_kepWFq0OrHEsnKjh5IdNjd0FGdk0_A3mqmxJM4XLreicCU-6RvmqeGm
+app_id: com.triactivemedia.slimmingworld
+app_name: Slimming World Magazine
+app_screenshot: https://play-lh.googleusercontent.com/0Irlfyj82kQPQys9b0Xm74MZbXEwsdwUlYemdB5KweOMVmgnoiNce9A9sK2m36YFaw
+category: News & Magazines
+country: GB
+id: ieYBL0fq0M_g
+language: fr
+most_recent_release: '2023-10-05T00:00:00'
+publisher_id: '24103'
+publisher_name: Slimming World
+rank: '126'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

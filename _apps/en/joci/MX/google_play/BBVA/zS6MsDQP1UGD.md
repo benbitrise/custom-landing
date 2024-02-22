@@ -12,7 +12,7 @@ publisher_id: '19685'
 publisher_name: BBVA
 rank: '2'
 release_count_in_past_year: '30'
-release_count_in_past_year_category: 23
+release_count_in_past_year_category: 19
 release_count_in_past_year_top_in_category: 23
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe

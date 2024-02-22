@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/f6ZxUAHrMxMZ0FbQecid1LTT5yUnAi4ksP-d8aHUUVNj-jKZOCX1asUOCkQ0XvRTemDN
+app_id: net.wllppr.toca_boca_outfit_ideas
+app_name: Toca Boca Outfit Ideas
+app_screenshot: https://play-lh.googleusercontent.com/q2ZP4MsLyu2_EJi3PqtFsrabz9v2xoX57l_lhCSQDn52pH_JkOjorQBkZ4n4teNb_A
+category: Personalization
+country: PL
+id: 5PAdd43teGGc
+language: fr
+most_recent_release: '2023-10-16T00:00:00'
+publisher_id: '2855172'
+publisher_name: wllppr
+rank: '208'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

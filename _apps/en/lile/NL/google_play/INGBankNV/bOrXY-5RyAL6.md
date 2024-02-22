@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/SwZjyAwTQdZ0UiOmaTkORqVijgK-tsb4c-lLowpY3g-9QYY5nwtSgLGAoDlLhbcENSQ
+app_id: com.ing.mobile
+app_name: ING Bankieren
+app_screenshot: https://play-lh.googleusercontent.com/gqpUDg30Hsvd8x6a19CDEHBOXN9VTMT4qjC_1jMhSeATz0672Ky2vpOM1akVphRbTvU
+category: Finance
+country: NL
+id: bOrXY-5RyAL6
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '3032352'
+publisher_name: ING Bank N.V.
+rank: '5'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

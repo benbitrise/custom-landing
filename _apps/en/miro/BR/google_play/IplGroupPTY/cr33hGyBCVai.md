@@ -12,8 +12,8 @@ publisher_id: '2379904'
 publisher_name: Ipl Group PTY
 rank: '4'
 release_count_in_past_year: '19'
-release_count_in_past_year_category: 24
-release_count_in_past_year_top_in_category: 24
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

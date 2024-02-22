@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5hu5guL4QQcnIQi2JfUa5FzgCwPQtVuN2fgWJCBG8rJ8PAL6MHCjMsajq2kS0REES1k
+app_id: com.solovpn.fastsupernet.connect.ultimateproxies
+app_name: Solo VPN
+app_screenshot: https://play-lh.googleusercontent.com/zAD6wvAGF8hlSkQi6nwQbmcfZQhXEfFnlDXd6sGE_XKnbfOcT_iMCrXfrU7I57Ve6fc
+category: Tools
+country: TR
+id: pw5_f-Z2I_Vz
+language: en
+most_recent_release: '2023-10-30T00:00:00'
+publisher_id: '2990133'
+publisher_name: WEAVER HNQ
+rank: '192'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

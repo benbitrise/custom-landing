@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6pMUnizNu20SAhI936OxJ9xY9aUI_2UZBURlJ5HMXMX6fehwhIctsHs9EDUAXY6a683p
+app_id: com.lupicia.members
+app_name: LUPICIA
+app_screenshot: https://play-lh.googleusercontent.com/HtK9QZskKIrZcQWFsuA-nlHIQrPHeI8K2KNWsGWRc9JnbuA-buCyOt-Jl0KrFzMvpw02
+category: Shopping
+country: JP
+id: 5U8qrI4x3DjY
+language: es
+most_recent_release: '2023-05-31T00:00:00'
+publisher_id: '2424976'
+publisher_name: LUPICIA CO., LTD.
+rank: '73'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

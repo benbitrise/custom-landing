@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_37ZFX-T-nmeeGFv_hJEqnQyhAvHqqVQBurDnPsXqjWEc3znNuOYTDh96q-tD5F8TvhJ
+app_id: qa.ooredoo.omm
+app_name: Ooredoo Money
+app_screenshot: https://play-lh.googleusercontent.com/EiR0A8m1pFeZGBE-gU4zW86iQUBcm9BSKDxI94SduAV5HZw5bS008Ykt1vXvljAoxwY
+category: Finance
+country: QA
+id: JcPcewvUBzb4
+language: es
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '170688'
+publisher_name: Ooredoo Qatar
+rank: '1'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

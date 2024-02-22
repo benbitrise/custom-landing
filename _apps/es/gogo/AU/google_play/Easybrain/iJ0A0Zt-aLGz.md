@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dcJ7ep5ewceCwtR_Xgp7Hfo2GIZxt2WpO5LmqdMfhvKzhOcDmxY84aQBq7kZHs_-vwxP
+app_id: com.easybrain.make.music
+app_name: Groovepad - music & beat maker
+app_screenshot: https://play-lh.googleusercontent.com/bQhPHCeUKWigYHsH4XC8Muy_2frSOOpane8cZgamWaQ5-jeOUW3HWSpV29DoQl6-DMU
+category: Music & Audio
+country: AU
+id: iJ0A0Zt-aLGz
+language: es
+most_recent_release: '2023-11-17T00:00:00'
+publisher_id: '1519638'
+publisher_name: Easybrain
+rank: '20'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

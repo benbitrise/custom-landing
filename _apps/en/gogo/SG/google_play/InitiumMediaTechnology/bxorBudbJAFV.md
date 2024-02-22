@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c2lg_fl7M8oyWlOJ9VZN1MBQFSzPYxaodeNRMiahBvgbxU76mAjxfOvATIF3h0M20YxJ
+app_id: com.theinitium.news
+app_name: 端傳媒 The Initium Media
+app_screenshot: https://play-lh.googleusercontent.com/WC6onhhBcUmd5kGsPWN6mLHLwONI9fD50AZUx8vBhpHwSNgUeDEirAKReItCa2YatFI
+category: News & Magazines
+country: SG
+id: bxorBudbJAFV
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1095107'
+publisher_name: Initium Media Technology
+rank: '198'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

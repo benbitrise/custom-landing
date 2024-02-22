@@ -12,7 +12,7 @@ publisher_id: '1428138'
 publisher_name: Google LLC
 rank: '2'
 release_count_in_past_year: '2'
-release_count_in_past_year_category: 8
+release_count_in_past_year_category: 4
 release_count_in_past_year_top_in_category: 8
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XKogy_gDsMH_DS4WH0TfiBMTmk6JibinYj4YeBhUYW-BtlnyN--fMV52Xd0-oj0hDkU
+app_id: com.linearstudio.ahmadsahidin.ppknsmpkelas9k13
+app_name: PPKN Kelas 9 Kurikulum 2013
+app_screenshot: https://play-lh.googleusercontent.com/MBcCytRM_Dn1DJhCP74ZY8k5xsGZ7Xs7UDzkV5IZiqsGsuDKF-uLUAq0CL5v0CmJC-KF
+category: Books & Reference
+country: ID
+id: 0IRfyy7lTOi_
+language: en
+most_recent_release: '2023-01-28T00:00:00'
+publisher_id: '1152401'
+publisher_name: Linear Studio Apps
+rank: '139'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PbeW8t1MtZ5ds4-6HRnVRDxCRIA3blM7UIJmqstdJXoe5xBEZYp4D9ZlXj3_cLxJ3Q
+app_id: com.proalliance.okinavi
+app_name: 沖縄ナビ
+app_screenshot: https://play-lh.googleusercontent.com/kFinc1f3b9q201gmdYh4TdRSOKlTkBHwLxuVZ6Go9_duknCekorEEhVwMzt4fxiyjvtT
+category: News & Magazines
+country: JP
+id: ZMM4FkgsQtjb
+language: en
+most_recent_release: '2023-12-26T00:00:00'
+publisher_id: '2827842'
+publisher_name: proalliance
+rank: '68'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

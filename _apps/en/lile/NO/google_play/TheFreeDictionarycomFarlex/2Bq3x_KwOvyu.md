@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2ls3BM2D-v0pFGniYySET5nRBjRKRiL2UhG_RRviONLqERleIsRkpHNf4pdHWNrsOBs
+app_id: com.farlex.ordbok.norsk
+app_name: Norsk Ordbok
+app_screenshot: https://play-lh.googleusercontent.com/FL7owmOXt6Bz2yiAJGeh0hRS2kcA3k7y0Xw4-vFBpvIqvL67kjpwWpbmlLf6-brh5WQ
+category: Books & Reference
+country: 'NO'
+id: 2Bq3x_KwOvyu
+language: en
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '686610'
+publisher_name: TheFreeDictionary.com – Farlex
+rank: '22'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

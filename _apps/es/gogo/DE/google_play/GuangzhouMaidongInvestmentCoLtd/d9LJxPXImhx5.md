@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WaOCVKsxNlZmLT_Wghi6AxwSdE3v341W-UdyHjokX0n5W2SM92FYv2I0ysJ9rZFZuw7Z
+app_id: com.yanan.voicegame
+app_name: Mr7ba - Group Voice Chat Room
+app_screenshot: https://play-lh.googleusercontent.com/qLjoMNTvfi6Mgf6bgb4u5UneB43wLlOnpwEgsiHUZoTjhsmCp8KXnNi5DClyV5bGjxQ
+category: Entertainment
+country: DE
+id: d9LJxPXImhx5
+language: es
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '3028243'
+publisher_name: Guangzhou Maidong Investment Co., Ltd.
+rank: '173'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

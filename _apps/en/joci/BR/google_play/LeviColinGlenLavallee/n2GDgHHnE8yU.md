@@ -12,8 +12,8 @@ publisher_id: '3069556'
 publisher_name: Levi Colin Glen Lavallee
 rank: '1'
 release_count_in_past_year: '1'
-release_count_in_past_year_category: 13
-release_count_in_past_year_top_in_category: 13
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

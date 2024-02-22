@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QCzljwz8YHBIno8Cve6bkbMtZZ8YABCB4cqF4kK13ZcgEVxLeoi9AvfVPNk5dp-P7kI
+app_id: io.bramerz.kfc
+app_name: KFC Pakistan
+app_screenshot: https://play-lh.googleusercontent.com/_tvI1_D0Czjhu0SDXT_Td7X-Li--VAACsqB5vCq6D45_JPQyqqaoiKXMwE_mkmKPJshD
+category: Food & Drink
+country: QA
+id: ET7pBSzVfKEO
+language: fr
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2792716'
+publisher_name: KFCPakistan
+rank: '44'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HaH-AX9RRSGoUSzI5Eh8021Lup7vltTKbBXNwVVPFPdw6OlMAfYMr-0fxTtebonRKXY
+app_id: com.yamaha.av.musiccastcontroller
+app_name: MusicCast Controller
+app_screenshot: https://play-lh.googleusercontent.com/U0R8fPfqu62r9-E6bYj9TOe3ZfJrSsQrrPZm8tuVxwU4ZfyaIY6ZL4DODhqSgGtbSCE
+category: Music & Audio
+country: 'NO'
+id: qep2jr9BINL_
+language: es
+most_recent_release: '2023-11-17T00:00:00'
+publisher_id: '14566'
+publisher_name: Yamaha Corporation
+rank: '177'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

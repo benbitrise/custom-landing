@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PV6dUeHr48O_PGWhpY0XDABgJqklQQWlkPj82QFq7BZSN1s4nZkCW0a-Dr_E0nnDG_nX
+app_id: com.pg.pampersbabyworld
+app_name: 'Pampers: Pregnancy & Parenting'
+app_screenshot: https://play-lh.googleusercontent.com/3RdY_rOsQBAKNXx1j86e_5nF3RjPzkfEM3HE5dMxanhNwGow94JFtloMxpAjQZ1nEw
+category: Parenting
+country: IN
+id: o5JQuLs6z7Bm
+language: en
+most_recent_release: '2023-08-10T00:00:00'
+publisher_id: '6409'
+publisher_name: Procter & Gamble Productions
+rank: '9'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

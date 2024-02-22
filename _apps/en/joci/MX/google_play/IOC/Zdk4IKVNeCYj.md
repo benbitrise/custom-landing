@@ -12,8 +12,8 @@ publisher_id: '322228'
 publisher_name: IOC
 rank: '5'
 release_count_in_past_year: '9'
-release_count_in_past_year_category: 11
-release_count_in_past_year_top_in_category: 11
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

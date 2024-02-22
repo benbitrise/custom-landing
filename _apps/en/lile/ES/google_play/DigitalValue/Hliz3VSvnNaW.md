@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fKGGOFtZPJ6zRx2U5J_vO4hDUs5PC58iHxUDWJGqyGqOXyJDWT5_aWGLhSTT7xqa4nY
+app_id: es.digitalvalue.villarreal
+app_name: Vila-real
+app_screenshot: https://play-lh.googleusercontent.com/PkL8NNM3CQLE16KIrYTpgoJeaHibunDy2RiGZxQRU7Pa_CsNZM_K2kkB8-Zbcb5nJg
+category: News & Magazines
+country: ES
+id: Hliz3VSvnNaW
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '248671'
+publisher_name: Digital Value
+rank: '106'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

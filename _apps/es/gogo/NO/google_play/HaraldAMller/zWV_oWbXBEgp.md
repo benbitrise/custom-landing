@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TPiwlHwTX4yNs-UK0XtV3yHNOMcEW0_WSWV3Pr1I5DdsESwxCHLizD_eqsLwzEU5atU
+app_id: no.moller.carcare
+app_name: Bilhold
+app_screenshot: https://play-lh.googleusercontent.com/66Pcn_LAFlRRLdkCraZiNmX_fH5vnlkf2NPu-pG8FiqR1Cfu1NasZ1CRbqh8Nw8Z8oM
+category: Lifestyle
+country: 'NO'
+id: zWV_oWbXBEgp
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '880658'
+publisher_name: Harald A. Møller
+rank: '47'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

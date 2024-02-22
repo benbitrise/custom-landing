@@ -12,8 +12,8 @@ publisher_id: '331646274'
 publisher_name: Adobe Inc.
 rank: '4'
 release_count_in_past_year: '24'
-release_count_in_past_year_category: 39
-release_count_in_past_year_top_in_category: 39
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

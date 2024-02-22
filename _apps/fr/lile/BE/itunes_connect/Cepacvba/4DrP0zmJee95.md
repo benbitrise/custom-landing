@@ -1,0 +1,25 @@
+---
+app_icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/7c/0e/85/7c0e85d9-2d69-6a3f-01f1-9d58096b3aa3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1531783297'
+app_name: Uitrusting
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/c9/ec/7d/c9ec7d3a-5861-9ec5-b6ce-081801f6dca8/3fe10fc4-7456-4bd2-b47c-b0c2ce40d599_IMG_3992.PNG/1242x2688bb.png
+category: Business
+country: BE
+id: 4DrP0zmJee95
+language: fr
+most_recent_release: '2023-10-05T00:00:00'
+publisher_id: '1464663467'
+publisher_name: Cepa cvba
+rank: '406'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

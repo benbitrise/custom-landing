@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jn1PXBYcLxoVgGweuFhxnGIteJK7ZDdBt4X23IDQCy3KcVPowfg8PJYbXU_ZWVpQx-c
+app_id: com.quranly.app
+app_name: Quranly
+app_screenshot: https://play-lh.googleusercontent.com/kHS1VUUIRCf1hi4q2LxegDOU8AfnPUgxUHrj5ebyzLWxN-Lb6CVQOt9S5l5yeL94n7k
+category: Books & Reference
+country: JO
+id: MinKRLpf_U0F
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2515535'
+publisher_name: Quranly
+rank: '79'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6IDOaUzzUKLFDQ1PQoXwxsWNgzP_zgarWjcfDz5eEv3w65BSUTlQo0-AEAcx_g753xE
+app_id: org.artsplanet.android.ookamistamp
+app_name: Wolf Stickers
+app_screenshot: https://play-lh.googleusercontent.com/yCbTuNTCTvJdNi_bygrpYuAjP-l86q6MwbTqdMRBB2X6jb8Q5nayLH5PttX8omebjw
+category: Entertainment
+country: JP
+id: rdGSWxC8ex4W
+language: en
+most_recent_release: '2023-08-21T00:00:00'
+publisher_id: '2628897'
+publisher_name: ArtsPlanet
+rank: '69'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

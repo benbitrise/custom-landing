@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/El-MCgouls2Z0BytFhUDXrPggsKCYgWtwzbWv0cJMPizXa_19et3MaFJCAHgf3QpBg
+app_id: beauty.camera.photo.editor
+app_name: Beauty Camera with PhotoEditor
+app_screenshot: https://play-lh.googleusercontent.com/NwIPdXmoyGFmswHa6jrQdTy5Byu40e6Rc3TqwMrhTgfX5_tgQUGO16GDYSCROn14Owk
+category: Photography
+country: BR
+id: 2baHwo4oxeHv
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '740579'
+publisher_name: Coocent
+rank: '159'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

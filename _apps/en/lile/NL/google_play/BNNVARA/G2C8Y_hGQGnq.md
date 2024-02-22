@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/F3FL2f_1uqvwnqZGmfCtP-CAMrBasaVpaWBgy4uq5dukWxeL-edM-plVbbxDjHuYjtuf
+app_id: nl.bnnvara.areader
+app_name: VARAgids
+app_screenshot: https://play-lh.googleusercontent.com/IlNKdz7t7kbwtzM4Be6-YgMUR6adCsntWXS5hx2voVE_lBpNivWmCjE3yBe-iy6b5nZL
+category: News & Magazines
+country: NL
+id: G2C8Y_hGQGnq
+language: en
+most_recent_release: '2023-06-27T00:00:00'
+publisher_id: '1393269'
+publisher_name: BNNVARA
+rank: '119'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

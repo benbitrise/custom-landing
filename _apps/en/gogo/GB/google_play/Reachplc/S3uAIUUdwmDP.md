@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fuPTd-IzIry9YmOtr7Vlkp5Xa0IUxInwX_lTN2uP6-cNkvCDOcvv20RWtRSB2vImxS0
+app_id: net.mediaspectrum.dailymirror5androidreplica
+app_name: Daily Mirror & Sunday Mirror
+app_screenshot: https://play-lh.googleusercontent.com/d8A6imgRPuJH_BGqCJzf2HFHn9Vp4apcjde0NcAwUcd8mWSy6GjHF6-oYW6zNhTlbQ
+category: News & Magazines
+country: GB
+id: S3uAIUUdwmDP
+language: en
+most_recent_release: '2023-06-20T00:00:00'
+publisher_id: '1669387'
+publisher_name: Reach plc.
+rank: '169'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

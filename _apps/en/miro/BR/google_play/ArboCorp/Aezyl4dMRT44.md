@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PRyLx7oGNyqjk19Rujnv3arsXI7j6Xwtlr--PZLhjY7VjMtEmpefXOjsIlpEKocKuA
+app_id: com.arbo.agenda
+app_name: Manicure Calendar
+app_screenshot: https://play-lh.googleusercontent.com/dcMKnDXZQU5DwF5rZhFnPSKZ15l_CFNz8vdeNJm_ZYIJP1sLifYOtGI_DfzM4KsSxWZG
+category: Beauty
+country: BR
+id: Aezyl4dMRT44
+language: en
+most_recent_release: '2024-01-20T00:00:00'
+publisher_id: '1878070'
+publisher_name: Arbo Corp
+rank: '83'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

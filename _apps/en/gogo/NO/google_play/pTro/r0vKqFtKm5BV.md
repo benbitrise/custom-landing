@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/joq3Hv-n0QrBlcytvW548OS5MvLK1e_3x74rgp8jBCRxh6djblw3kWgXlnNkFU-voaK2
+app_id: com.m8dd382d269f6.app
+app_name: pTro
+app_screenshot: https://play-lh.googleusercontent.com/2O4a_VUZNmbR_KIYFAmCS2zgnaKzv7PKGXvIjF1bHWUe1tL-fIAykdtqyu6I6qH0jO4
+category: Music & Audio
+country: 'NO'
+id: r0vKqFtKm5BV
+language: en
+most_recent_release: '2023-11-13T00:00:00'
+publisher_id: '2409650'
+publisher_name: pTro
+rank: '163'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

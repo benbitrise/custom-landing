@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hfT9udLVR1iQrZyQJIspUmYwPt44zKQhbDHD6HHw7FhV4InQ61mXRJ_OMb6d1nr10iQ
+app_id: com.sd61095.Memapp
+app_name: モダグループ アプリ お得な情報
+app_screenshot: https://play-lh.googleusercontent.com/e4JbeLd0Om2LKz73ie3VMQgX4ATKli_ihylzsGIYexuAIVNWd_9epjupxbBLx_jJTmg
+category: Auto & Vehicles
+country: JP
+id: lDO2cxGZC0J5
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '1951307'
+publisher_name: DATA BANK CORP
+rank: '48'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/F_tcSSMWyT5wK6iZ-uvRChKH9zK86jEeiK3EjSJRknBhk3Or1f4tkSMfiDe0lvLBf_5r
+app_id: air.com.fernus.sorucozum.sonuc
+app_name: Sonuç Video Çözüm
+app_screenshot: https://play-lh.googleusercontent.com/vBf7Vuw8yJRdRXwCsL-CH5fJ_8WV8V6t26TIqGGmxWTfQhdIfycYa8pVrqmjnTnkoh62
+category: Education
+country: TR
+id: R6V15YXAMkal
+language: en
+most_recent_release: '2022-03-23T00:00:00'
+publisher_id: '2924284'
+publisher_name: FERNUS EĞİTİM TEKNOLOJİLERİ A.Ş.
+rank: '60'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

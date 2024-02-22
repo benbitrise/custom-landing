@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sPnEW8CkVM8Hwh2UxK3NetTpPc2Nt2jLFGU4oMQ0qYGtrBoreXHmWuiQJnKLOQl7gDY
+app_id: jp.co.rakuten.readee
+app_name: 読書管理アプリ Readee　-カンタン読書記録と本棚管理
+app_screenshot: https://play-lh.googleusercontent.com/_gcewAVB_uR_MQe4NQszCvNmCNioXSYKjq6p0zhZs5IDSjAvSvsRfb3drx-4QhZAVbI
+category: Books & Reference
+country: JP
+id: qDia46jilTq5
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2510916'
+publisher_name: Rakuten Group, Inc.
+rank: '96'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cnHJx8s7rUEhHKLnRSY-NhiEzYlmoSxWqL3CaKO2iUNRizhSsYamu3JWlET9bbAGlDA
+app_id: com.tvb.iNews
+app_name: TVB NEWS
+app_screenshot: https://play-lh.googleusercontent.com/AvQUTZ6lPB9d4m-7AzALxNpPEg_QffOpSs5ariOWD7GKURcSmYMx5cA-1O17Y3ZBFoYL
+category: News & Magazines
+country: SG
+id: Bt6TQNBjKI4a
+language: en
+most_recent_release: '2023-07-04T00:00:00'
+publisher_id: '19350'
+publisher_name: tvb.com
+rank: '114'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

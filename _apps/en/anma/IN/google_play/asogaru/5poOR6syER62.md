@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ngEpc_YonqV2Mf-86CU6XRSA5ROJeGb1mUFc7NGpL4pZmHtxRQrZAveWXJPA7m_thw
+app_id: com.momomomo111.camerax_opencv
+app_name: OpenCV Image Process
+app_screenshot: https://play-lh.googleusercontent.com/sBjsbbTEfNIxXc1XFynDu1cjhyBs7wITgJgBQTg9zuGJei--04iwwV3kE910TW2_EZY
+category: Libraries & Demo
+country: IN
+id: 5poOR6syER62
+language: en
+most_recent_release: '2022-08-24T00:00:00'
+publisher_id: '2925826'
+publisher_name: asogaru
+rank: '128'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

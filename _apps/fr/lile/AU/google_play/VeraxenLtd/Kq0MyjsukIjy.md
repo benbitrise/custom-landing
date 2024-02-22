@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1mrAqIFZhmsXlXIZ4q7HqlZcj1y_x3JzGzQLGHganNX4zs4383veA75rW1Ov6CqJGisx
+app_id: com.veraxen.colorbynumber.oilpainting
+app_name: Color by Number for Adults
+app_screenshot: https://play-lh.googleusercontent.com/12qPdi3dP-5rZxoFk16duWC5H6xo3EpSjaA40SXIAY2YD8C5LhJKK_viCn8zOe5rSw
+category: Art & Design
+country: AU
+id: Kq0MyjsukIjy
+language: fr
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1615920'
+publisher_name: Veraxen Ltd.
+rank: '64'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

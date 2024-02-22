@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fOlmV-v69sxiZECLHluxxS7UaD8xE1co3s3BZXVkzYIh2L8cGabGcGpfnF4YtNKmEb95
+app_id: at.raiffeisen.bluecode
+app_name: Raiffeisen Bluecode
+app_screenshot: https://play-lh.googleusercontent.com/d904cDSm1OXXrn9mMK-R_hxX9PlnY1ZoGxUiwwQO8lqpoLcsjbI68hnQB-_AUgQOZqQ
+category: Finance
+country: AT
+id: a3M8dHaOKZOT
+language: en
+most_recent_release: '2022-08-03T00:00:00'
+publisher_id: '1154970'
+publisher_name: Raiffeisen Österreich
+rank: '90'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

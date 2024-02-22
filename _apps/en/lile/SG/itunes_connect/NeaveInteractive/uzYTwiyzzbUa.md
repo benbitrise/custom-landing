@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/94/23/3f9423c5-4c41-880b-f2e6-5ec47f8dff19/AppIcon-1x_U007epad-0-85-220-0.png/1024x1024bb.png
+app_id: '1531561063'
+app_name: Zoom Earth - Live Weather Map
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/6b/87/b56b87cb-6395-862e-1ef9-f96b5a452898/ffd28f47-90f2-4b1d-b832-bf5b38149166_phone-en-us-weather.png/1242x2208bb.png
+category: Weather
+country: SG
+id: uzYTwiyzzbUa
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '383453946'
+publisher_name: Neave Interactive
+rank: '17'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0pO35nBGWUbDu9yPzmfTF7s6BDuLo9Yrzhyp3YxsjXYRRbZqXSw1kuFIQjQ2j9q7C2YK
+app_id: app.fashion.coloring
+app_name: Aesthetic Adult Coloring Book
+app_screenshot: https://play-lh.googleusercontent.com/uI2Ix5RsZt_WnnIQg9AeendtMNMCUP0hNb80O3mIkY-2Nu8qopW_hKoglR6qw6hR6l2i
+category: Art & Design
+country: TR
+id: utE2Z66xDIrx
+language: es
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '2098387'
+publisher_name: juice&sock games
+rank: '127'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/odrO1imfnTj6UXcFqQqSCF45aC6ruZIAFbN9J-7mXPrRsvVf3yS5mssoWIz054wh6Q
+app_id: com.ebsco.dmp
+app_name: DynaMed
+app_screenshot: https://play-lh.googleusercontent.com/NwnOcTGO5ObvZfFsNKkSOftIZh36zUgCqzNzMcBJHF_22mrzEU2tH8WXD78yHnOENIY
+category: Medical
+country: AU
+id: v_hJhZuJiACU
+language: fr
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '325171'
+publisher_name: EBSCO Information Services
+rank: '80'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

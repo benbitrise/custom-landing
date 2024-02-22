@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-TXWsWWW2LnhCaWYIwc2lEdQ8ORGaq9MPECY65aGIb5JTt8iQYX2z3T4M4Bwo8RxNJuU
+app_id: de.toggo
+app_name: TOGGO - Kids TV Player & Games
+app_screenshot: https://play-lh.googleusercontent.com/ZRfsES3FS8m78Dckn5-OzTAyKGnigkXuLtqyh7z1SOCrJXPifFx_rkyw1UkDEX7MOS0
+category: Entertainment
+country: DE
+id: qQ2TZN1MvyOE
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2853129'
+publisher_name: SUPER RTL Fernsehen GmbH
+rank: '17'
+release_count_in_past_year: '34'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

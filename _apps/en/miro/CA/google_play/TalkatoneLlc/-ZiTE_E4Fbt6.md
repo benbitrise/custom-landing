@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/LCxcPzMfUf682NS_I8WJgety5c8NbndRmKKtVe6_s98J_N7s9J6Ffb6qCgyW0_yIPw8
+app_id: com.talkatone.android
+app_name: 'Talkatone: Texting & Calling'
+app_screenshot: https://play-lh.googleusercontent.com/v5o58HDr-k1Dhf99_u1odBaqTwTgHwvfS9DYg9Ogvltp_mlA2CjFZT3ZmKBL_Yx_2ur5
+category: Communication
+country: CA
+id: -ZiTE_E4Fbt6
+language: en
+most_recent_release: '2024-01-13T00:00:00'
+publisher_id: '492019'
+publisher_name: Talkatone, Llc
+rank: '46'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6QE4B1xEbL-FwUPixfQmw61_FzVKmh3IloqwEVDFMZVIvg38trknr2AfqhQcY7a_UKhD
+app_id: momo.gaga.tete.babe
+app_name: Gate Trade
+app_screenshot: https://play-lh.googleusercontent.com/vAt9_O6F9bDrTuVwjGJ9kgUEW3AnXAGIC0pLC8HMOpT5bvgdqeP81Z-gubvIGA-33nwI
+category: Finance
+country: IN
+id: PyN2LNw7jnrg
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '2867593'
+publisher_name: rmonensgter
+rank: '172'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

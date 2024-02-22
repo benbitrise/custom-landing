@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/25/0f/3c250f7d-4c0c-4718-7226-a4b10fb1f0f9/AppIcons-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1530814912'
+app_name: AmexExpense
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d4/41/23/d4412325-17a6-6153-2e04-73b92b4d027c/476a2b6a-4c50-4246-b638-e6a7152ac4e9_iPhoneXs-MAX_ENG_01.jpg/1242x2688bb.png
+category: Business
+country: SE
+id: jXLBlPONYDoJ
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '441222316'
+publisher_name: Findity AB
+rank: '609'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XPTeif1dqlU2GnfE7IUR-4DgjAKJU67N9FCfgo7g2iDYzS6JwCKH7dKj3e8uNnM9ne0
+app_id: com.serim.burulas
+app_name: BUDO BBBUS Bilet
+app_screenshot: https://play-lh.googleusercontent.com/QGiD3w-QYV4-7P5H01vgVBI_9-aUt9KNSHhfoJibi3TQzT9cps0gxijvyLpsGJRjlTM
+category: Travel & Local
+country: TR
+id: A_P6z-3LjdeZ
+language: fr
+most_recent_release: '2023-10-16T00:00:00'
+publisher_id: '425552'
+publisher_name: Burulaş Bursa Ulaşım A.Ş.
+rank: '120'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

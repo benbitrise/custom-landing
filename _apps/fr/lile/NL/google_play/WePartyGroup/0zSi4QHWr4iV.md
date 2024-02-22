@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IACEAIFtIzBI49rlQshujc6Cg7HFbJaC9oyUJJP4P_VKZ3YcDariw-KRjrNxKxOfDCU
+app_id: com.wepartynow.weparty
+app_name: WePartyNow - Amsterdam Clubs
+app_screenshot: https://play-lh.googleusercontent.com/ov7Y-GLhEQk0K-ii2oojDOXGXZ0q8U9kerqrA2ffgB4Ac4P3vbP7ZxqmtYtjRgLWZHbV
+category: Events
+country: NL
+id: 0zSi4QHWr4iV
+language: fr
+most_recent_release: '2023-10-30T00:00:00'
+publisher_id: '2742290'
+publisher_name: WePartyGroup
+rank: '150'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

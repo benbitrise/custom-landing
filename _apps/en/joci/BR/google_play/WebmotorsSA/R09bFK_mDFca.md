@@ -12,8 +12,8 @@ publisher_id: '1164103'
 publisher_name: Webmotors S.A.
 rank: '3'
 release_count_in_past_year: '36'
-release_count_in_past_year_category: 30
-release_count_in_past_year_top_in_category: 30
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

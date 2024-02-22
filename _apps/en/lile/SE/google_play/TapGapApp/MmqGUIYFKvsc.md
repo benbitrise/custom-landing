@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xi9NkScwhHn3baMMLzAIl7Rn3OBcoYRyoLqKLgC3bWHKlJWGWT8Ta5-wVKnPTryr50I
+app_id: tapgap.transit
+app_name: 'Transit: offline timetables'
+app_screenshot: https://play-lh.googleusercontent.com/fw6mPPYhIMvEF__FY434b9dVEAKVhkH_iBa1d0D9WW4xLbYLbC0jyoB3zFGwDDuXdBc
+category: Maps & Navigation
+country: SE
+id: MmqGUIYFKvsc
+language: en
+most_recent_release: '2023-08-25T00:00:00'
+publisher_id: '400295'
+publisher_name: TapGapApp
+rank: '161'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

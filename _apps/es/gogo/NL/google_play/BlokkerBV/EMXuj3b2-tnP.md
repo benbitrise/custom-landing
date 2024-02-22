@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EMBE0BTlq1cQYB3c5HR2NjwrNFQfW529z4LY2Gt30gTtsKzgTLqOquNM5uEs1CktfA
+app_id: nl.blokker
+app_name: Blokker
+app_screenshot: https://play-lh.googleusercontent.com/spa8iX9q_zO0aRObo-GYIvP96B4pawgUrnhHkd16aeEGiklw6aCofDxO3c9AEOd3bzMe
+category: Shopping
+country: NL
+id: EMXuj3b2-tnP
+language: es
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '1880805'
+publisher_name: Blokker B.V.
+rank: '51'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

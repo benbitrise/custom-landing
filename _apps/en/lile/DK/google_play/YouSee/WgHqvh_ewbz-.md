@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7YSGL6bXgbD0buvOs-TF3RYyosaV0JCRbN9QgQqjIugL2Ub7qhYw4samhGyMuLc0ovE
+app_id: dk.yousee.tv.leanback
+app_name: YouSee Play (Android TV)
+app_screenshot: https://play-lh.googleusercontent.com/e-64G_5qNi2UgikK3_fgOiBZndkry3ws7QmoDT24mW1scHrZegu9NbVW1veggz7FUzo
+category: Entertainment
+country: DK
+id: WgHqvh_ewbz-
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '26429'
+publisher_name: YouSee
+rank: '25'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

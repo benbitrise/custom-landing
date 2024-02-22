@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1FUcd8b58gqg0BaE8Zd6EjLaKcSedxfm5H_JLCTwRuHgYtcrtjnH1kTV3ewOGQbkgM5q
+app_id: id.bmkg.poshujan
+app_name: ePHK BMKG
+app_screenshot: https://play-lh.googleusercontent.com/BkTzr7DViK8FNP5DS5VxjlVOBtZJ2GwLnmkxuTVfr3ryVDknHvPkYDDQzj2N8Z_Wiw
+category: Weather
+country: ID
+id: tG2nVVndxMYy
+language: fr
+most_recent_release: '2024-01-22T00:00:00'
+publisher_id: '2590874'
+publisher_name: Badan Meteorologi Klimatologi dan Geofisika
+rank: '182'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

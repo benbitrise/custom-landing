@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WE3ARxBDBKrzMFBUKXnsD07dJ4pU--HUPDVwYYF0xENJrvaWBb2qP86kr8MubTw--sG8
+app_id: com.linepaycorp.talaria
+app_name: LINE Pay
+app_screenshot: https://play-lh.googleusercontent.com/vt01zytpJ-OQIvIljnCmsRSb3rC33DdbRYOuaLbRPwisfthbIfX11F3N5-R94pgmAJA
+category: Finance
+country: JP
+id: Sw9p9JlgjC9g
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '1725886'
+publisher_name: LINE Pay Corporation
+rank: '74'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

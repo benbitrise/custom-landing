@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/35/59/93355966-bf7a-a28f-969a-9f277f3272ea/Default_AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1076414499'
+app_name: WeatherKit -Live Weather Radar
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/9e/d0/bb9ed034-aaf5-e9e9-ba3b-4479a20bb849/pr_source.png/1242x2688bb.png
+category: Weather
+country: IN
+id: VbVUXorLB3Vk
+language: en
+most_recent_release: '2023-04-28T00:00:00'
+publisher_id: '1477847521'
+publisher_name: softhaus
+rank: '369'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

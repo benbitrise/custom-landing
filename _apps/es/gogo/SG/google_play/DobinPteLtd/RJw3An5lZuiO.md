@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AEuDWKTKohDXD8SKpeXO77SV_Djuva_nY07KRKLjMFw4t2XIasDo7cKOo2OR1GI0hRc
+app_id: io.dobin.dobin
+app_name: 'Dobin: Expense Tracker & Deals'
+app_screenshot: https://play-lh.googleusercontent.com/fYLvPMeGlBnlevljAI-EGKU-TCM6woopydSxsfuox0AzAEN0CrgGUellG419RQYtv8Mv
+category: Finance
+country: SG
+id: RJw3An5lZuiO
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2980428'
+publisher_name: Dobin Pte Ltd
+rank: '181'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

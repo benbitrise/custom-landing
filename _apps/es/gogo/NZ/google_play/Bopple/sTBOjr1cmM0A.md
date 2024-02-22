@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rLykaQM97qu363Sml_NpwY4ALpEUrnL_kB1Q_XHYACgo3FY7VBpOtRQfAiscCEjih8O7
+app_id: me.boppl.bakersdelightnz
+app_name: Bakers Club by Bakers Delight
+app_screenshot: https://play-lh.googleusercontent.com/o2_bvCad0YqEsHO0WmjE3LgcPv4nC4aovSTHYlGydyeZoRA-TA38Ey_CBCOEdygu8E0
+category: Food & Drink
+country: NZ
+id: sTBOjr1cmM0A
+language: es
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '2067801'
+publisher_name: Bopple
+rank: '25'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

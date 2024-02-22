@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KUoBTAlanI-HZlNdAIrKaegn4v6CvueyKu1octSYeCRvQT5RF7B5gpUY-ydu9OWx8_Y
+app_id: com.smedia.funtv
+app_name: 'FunTV: Chinese Short Dramas'
+app_screenshot: https://play-lh.googleusercontent.com/1UhIRADkiCS6wywvApuwuS4QeQY6B97ESl7SAOiCljF73IK-iqb84nLzVzC81HXM9Q
+category: Entertainment
+country: SG
+id: _omDLbOsH3Qw
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2966191'
+publisher_name: DramaInjo
+rank: '210'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

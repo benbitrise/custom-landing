@@ -12,8 +12,8 @@ publisher_id: '2711622'
 publisher_name: Banix Studio
 rank: '3'
 release_count_in_past_year: '28'
-release_count_in_past_year_category: 30
-release_count_in_past_year_top_in_category: 30
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

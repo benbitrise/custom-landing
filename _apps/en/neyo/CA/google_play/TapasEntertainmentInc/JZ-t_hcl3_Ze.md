@@ -12,8 +12,8 @@ publisher_id: '2886087'
 publisher_name: Tapas Entertainment Inc.
 rank: '2'
 release_count_in_past_year: '13'
-release_count_in_past_year_category: 14
-release_count_in_past_year_top_in_category: 14
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

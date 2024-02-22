@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/phWUFkF9Sq1hzgYN_gJpqHQnuxFUgdTmzXcAFPRR3O5pK4r6ZmNxJndW9cPv2xQ_NxE
+app_id: com.treydev.volume
+app_name: Ultra Volume Control Styles
+app_screenshot: https://play-lh.googleusercontent.com/_3osadkLQadnxtQkeXy-SBm9wmM1OhAtey3qU9IXn2tB7i5AHmyeWg3VU6uKWMwDI7E
+category: Personalization
+country: NZ
+id: IhwMlBOQOFlw
+language: en
+most_recent_release: '2023-09-11T00:00:00'
+publisher_id: '2454155'
+publisher_name: ZipoApps
+rank: '158'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

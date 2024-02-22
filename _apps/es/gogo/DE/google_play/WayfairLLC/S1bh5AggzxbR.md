@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YEkfHyo5JHEV7YKYnjnZM18V4XboWzh1MFFC6D8RqhwIOtV5g2Yz7NWTabiMV8PXxVE
+app_id: com.wayfair.wayfair
+app_name: Wayfair - Shop All Things Home
+app_screenshot: https://play-lh.googleusercontent.com/vaHfS51tjX2supn66JApWxtgg9tysedOluEWHYvAV1dWXl1-TLHUU9591r5nJDPUbQ
+category: Shopping
+country: DE
+id: S1bh5AggzxbR
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '262095'
+publisher_name: Wayfair, LLC
+rank: '123'
+release_count_in_past_year: '46'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/NCJmV5fajjikPP48pQxOAYLWdXHr7bbKsrHr7sn1smA6Yy9b1MlYJmpB6mUzvtJ5H8ac
+app_id: com.wahyuniwibowo.caragantiwallpaperwafotosendiri
+app_name: Cara Ubah Wallpaper WA Foto MU
+app_screenshot: https://play-lh.googleusercontent.com/DwS3BI1ik7F0wgvyeeeEH-FYkK_UqHwYDlBnfVRQ4zgz05-QTnZq69TZfJT7okL7sPg
+category: Lifestyle
+country: ID
+id: -Xs2HEKaedcw
+language: en
+most_recent_release: '2023-04-11T00:00:00'
+publisher_id: '2977676'
+publisher_name: Wahyuni Wibowo
+rank: '195'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

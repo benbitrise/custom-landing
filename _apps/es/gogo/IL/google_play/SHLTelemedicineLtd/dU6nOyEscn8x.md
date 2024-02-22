@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4402en4h2N9Qni83K1bz_yvFG_7fgbuXh8Jt0OyOYLgaqgOhzzHt2L36J7j2XjhDujY
+app_id: com.shl.DistressButtonApp
+app_name: SHAHAL 24/7
+app_screenshot: https://play-lh.googleusercontent.com/SIxIFBS2xLcuMZLQAUWlBgtRNHCjXMJJWwkfbTy5Lc-OHqw6egrJmWahbE-U4gUS6Zo
+category: Medical
+country: IL
+id: dU6nOyEscn8x
+language: es
+most_recent_release: '2023-10-18T00:00:00'
+publisher_id: '153964'
+publisher_name: SHL Telemedicine Ltd.
+rank: '50'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

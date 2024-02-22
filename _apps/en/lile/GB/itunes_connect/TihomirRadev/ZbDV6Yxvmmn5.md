@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/2c/2c/012c2c20-7b30-7faf-3077-261ff710ea26/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/1024x1024bb.png
+app_id: '1430975839'
+app_name: Земетресения БГ
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ab/ba/b2/abbab298-e0f6-964f-bb48-62712cbc7ffa/pr_source.png/1242x2688bb.png
+category: Weather
+country: GB
+id: ZbDV6Yxvmmn5
+language: en
+most_recent_release: '2023-09-04T00:00:00'
+publisher_id: '1403507147'
+publisher_name: Tihomir Radev
+rank: '242'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

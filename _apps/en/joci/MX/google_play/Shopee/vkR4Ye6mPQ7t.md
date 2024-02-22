@@ -12,8 +12,8 @@ publisher_id: '646850'
 publisher_name: Shopee
 rank: '5'
 release_count_in_past_year: '42'
-release_count_in_past_year_category: 50
-release_count_in_past_year_top_in_category: 50
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

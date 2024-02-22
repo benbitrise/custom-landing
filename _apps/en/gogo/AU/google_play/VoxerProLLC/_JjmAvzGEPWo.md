@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU
+app_id: com.rebelvox.voxer
+app_name: Voxer Walkie Talkie Messenger
+app_screenshot: https://play-lh.googleusercontent.com/zGyn5s7YUbCzTwysB-mEKYk0b_LF1tDsbMcsRqmFbVlQQ7cWjHO2Ds8_x1ENprJNqNo
+category: Communication
+country: AU
+id: _JjmAvzGEPWo
+language: en
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '899565'
+publisher_name: VoxerPro LLC
+rank: '131'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/e1/c1/b2e1c158-578e-90c3-fb10-73328a88a417/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1631698024'
+app_name: Weather ¨
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/cc/b2/f9ccb22b-4142-1495-d518-eb12a343c21c/ad355af7-3270-42a3-b8f6-31fcdaef1064_6.5_U00281_U0029.png/1284x2778bb.png
+category: Weather
+country: JO
+id: CLlCgMb9d8zj
+language: es
+most_recent_release: '2023-04-06T00:00:00'
+publisher_id: '1441782517'
+publisher_name: Xsa Software S.R.L.
+rank: '420'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

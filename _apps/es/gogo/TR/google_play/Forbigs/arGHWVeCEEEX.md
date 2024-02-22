@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fqmLrNrngSR_1jXD6IGeNkD50pvEflD2tmFwLWo-AKq5iBuv02U110O4IxRxdgkEhpGo
+app_id: com.forbigs.goolabs
+app_name: Goolabs
+app_screenshot: https://play-lh.googleusercontent.com/nKCIkKhE6BtgGfvKZWvopmWPqL05IreKjyE2F5SrNX6ymgmURpwdOv3Rpdp20DBhgCev
+category: Sports
+country: TR
+id: arGHWVeCEEEX
+language: es
+most_recent_release: '2024-01-21T00:00:00'
+publisher_id: '2840016'
+publisher_name: Forbigs
+rank: '50'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

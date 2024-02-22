@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bJzhxt8H3gBD5fzKrCsOEJE2G7a8RQTydzFm5qEOsmxm1GBPjBQBIzTRt55t9X4BeA
+app_id: appinventor.ai_ahmedmagdyttt.ta3ber
+app_name: كل يوم موضوع تعبير جديد
+app_screenshot: https://play-lh.googleusercontent.com/QB53BLtZtjTtKvUeSVpqXOufPZtpf0-U9kn78Mxb_fkqLB9FwY852jijQ75lLAoskA
+category: Parenting
+country: JO
+id: D0rsNtwPy4WD
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1332705'
+publisher_name: Ahmed Magdy {Magdonalz}
+rank: '34'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

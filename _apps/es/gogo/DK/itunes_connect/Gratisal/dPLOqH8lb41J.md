@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/f3/5f/30f35f10-6d13-e627-455a-4c85e297bf41/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1344796373'
+app_name: Intect
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/27/89/7e/27897ee5-10fe-c6b9-6bd2-6ee6468b90bd/331d60cc-63d4-45ea-ab24-663d510f1c9c_app8.png/1242x2688bb.png
+category: Business
+country: DK
+id: dPLOqH8lb41J
+language: es
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '1344796372'
+publisher_name: Gratisal
+rank: '110'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

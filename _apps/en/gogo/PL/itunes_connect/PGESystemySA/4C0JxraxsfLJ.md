@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/96/85/739685b9-04db-d003-98a6-b14423fa98ec/mzl.xmwkxzbc.png/1024x1024bb.png
+app_id: '1047115077'
+app_name: PGE mBOK
+app_screenshot: https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/55/a9/d3/55a9d3aa-be37-7c03-c938-01ab4f20d7f2/mzl.hxpubvhi.png/1242x2208bb.png
+category: Business
+country: PL
+id: 4C0JxraxsfLJ
+language: en
+most_recent_release: '2018-05-27T00:00:00'
+publisher_id: '1047115076'
+publisher_name: PGE Systemy S.A.
+rank: '24'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

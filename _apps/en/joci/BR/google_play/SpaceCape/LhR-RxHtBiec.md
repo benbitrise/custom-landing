@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/o6tIvuF8EYUwY-tJbNuID4t3NjEOupZU3UFrUtkcBfKTM5cUuB1tqIAZeHLjOOexag
+app_id: com.live.soulchill
+app_name: SoulChill-Connect Similar Soul
+app_screenshot: https://play-lh.googleusercontent.com/AsqCCrpRBHMasiz0YP3Bltddhgr_tYRu354PRl69petEoSdTb1eRvpfIwHGiGnr_Lm8
+category: Social
+country: BR
+id: LhR-RxHtBiec
+language: en
+most_recent_release: '2024-02-03T00:00:00'
+publisher_id: '2397199'
+publisher_name: SpaceCape
+rank: '126'
+release_count_in_past_year: '28'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

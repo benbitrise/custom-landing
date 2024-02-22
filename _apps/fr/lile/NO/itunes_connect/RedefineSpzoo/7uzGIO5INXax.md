@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/06/5e/8f065e64-c65c-e0d4-3df0-0771ae1493aa/mzl.felqreqq.png/1024x1024bb.png
+app_id: '579576836'
+app_name: TwojaPogoda Free
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/96/2b/87/962b870e-140d-8d1e-efc5-08e0927188dc/pr_source.png/1242x2208bb.png
+category: Weather
+country: 'NO'
+id: 7uzGIO5INXax
+language: fr
+most_recent_release: '2016-12-21T00:00:00'
+publisher_id: '364900801'
+publisher_name: Redefine Sp. z o.o.
+rank: '316'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

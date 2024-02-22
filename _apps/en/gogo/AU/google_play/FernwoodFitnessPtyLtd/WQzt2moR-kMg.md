@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yxAopQmGc1GtWBMRZNCgvI8VQG-6GRJPj_qAwGjyWhp2_Ud_W2BBgUnbB-cuuGQk0Q
+app_id: com.technogym.mywellness.fernwood
+app_name: Fernwood
+app_screenshot: https://play-lh.googleusercontent.com/G4m-AQ9ZtBXDE4zJsgZeCIcbdImz7lHPxYPi4jvQYEtWHdmgJHrVH8hIR0ngpsRGgQsY
+category: Health & Fitness
+country: AU
+id: WQzt2moR-kMg
+language: en
+most_recent_release: '2023-10-13T00:00:00'
+publisher_id: '2169305'
+publisher_name: Fernwood Fitness Pty Ltd
+rank: '148'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

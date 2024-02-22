@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1iyX7VdQ7MlM7iotI9XDtTwgiVmqFGzqwz10L67XVoyiTmJVoHX87QtqvcXgUnb0AC8
+app_id: com.hbo.hbonow
+app_name: 'HBO Max: Stream TV & Movies'
+app_screenshot: https://play-lh.googleusercontent.com/jMnCt4N2Z0b62HRs6NmuYPR-LE_niEIEEc7l0aEzZPE-DWRg1JNZxiquikoGzO501g
+category: Entertainment
+country: SE
+id: FIzv96cZCoKD
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2511321'
+publisher_name: WarnerMedia Global Digital Services, LLC
+rank: '7'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

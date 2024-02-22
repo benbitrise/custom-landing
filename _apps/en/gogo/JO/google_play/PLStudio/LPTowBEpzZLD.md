@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c7yv0mL4F6eodGzBKk8nHAV87x0SvbSX3Hag2CcYuwcBlaa0kwAd2Z4-DwSE6shCWQ
+app_id: com.bpfit.bloodpressure.health
+app_name: Blood Pressure
+app_screenshot: https://play-lh.googleusercontent.com/nbND7Rv5w4SktPZHJRcOPmHPxG0wBcaDx8siQQvdJsdyqYwqnkaSvz0iGc72rpCP3pp_
+category: Health & Fitness
+country: JO
+id: LPTowBEpzZLD
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '2911423'
+publisher_name: P & L Studio
+rank: '102'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fK2Jl76UkECFJdl4EUIA0z-d2CzHu1ewBqE8K5crYaUvQ9d0-K6PY78uI-26pnnLZFA
+app_id: com.forklift.cityconstruction.simulator.snowexcavator
+app_name: Real Road Construction Games
+app_screenshot: https://play-lh.googleusercontent.com/dlMFgw0vxeG6mhRZiSACHnF2a8X6zNcUXNHzImvF68eaHcwYs38y56DUBFHzU1VscK0
+category: Weather
+country: SE
+id: -Xe91-0ElJjz
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2799071'
+publisher_name: Game Pace
+rank: '131'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

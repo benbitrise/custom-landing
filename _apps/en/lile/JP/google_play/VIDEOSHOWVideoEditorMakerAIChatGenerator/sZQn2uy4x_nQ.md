@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6WvnuH1Q1t6x108-LdZja4uN8VBxd9-tx0i_TCW8WXwq6R0UScEJdT-CWzMB5jOkamk
+app_id: com.xvideostudio.videocompress
+app_name: Video Compressor Mp3 Converter
+app_screenshot: https://play-lh.googleusercontent.com/G7F0cf5tGFCNYSiTE-3HN3wyKJCly62dPJVg0ALyqNyRjth0GrrZYDmQ5J8kmNIHhTc
+category: Video Players & Editors
+country: JP
+id: sZQn2uy4x_nQ
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '2926375'
+publisher_name: VIDEOSHOW Video Editor & Maker & AI Chat Generator
+rank: '130'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

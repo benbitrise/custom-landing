@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4SlySzl_r_Sk1pSbjd2pQ4hvqajR_W-ZBk__-xN4sv6ifT9orxvwWUFX2MJp30xqHc0
+app_id: com.easytor.ronlevin
+app_name: הלהיט
+app_screenshot: https://play-lh.googleusercontent.com/ZG8Bq8PQG_Fw8Llhsl5FE-bIPZeg154nNojYh7mfImtkIGKu_4-1FFA-96_OXrScbNC8
+category: Beauty
+country: IL
+id: ZvOnfpkDZEvs
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '1120726'
+publisher_name: EasyTor
+rank: '194'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

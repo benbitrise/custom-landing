@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/E1aoMcfIsqjefpehs2gbet2CfLvgRcO4QbksR2o1025lTev1I09QE3-7GDTzmMmkEws
+app_id: com.zonadigitalofficial.android
+app_name: ZONA DIGITAL Topup Game Pulsa
+app_screenshot: https://play-lh.googleusercontent.com/71Fg2D1bIfQSzoLYPFgjd7L_GMO6Sw1UJR3ndZqr_a1ohvva2fgQmzBvsmD2AW3vbY88
+category: Shopping
+country: ID
+id: p8SmY6ghp_8r
+language: fr
+most_recent_release: '2023-09-29T00:00:00'
+publisher_id: '3004302'
+publisher_name: CV. Zona Digital Teknologi
+rank: '184'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

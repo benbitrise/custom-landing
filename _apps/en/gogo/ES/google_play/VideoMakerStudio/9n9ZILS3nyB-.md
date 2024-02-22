@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HjBsh_MogIBeR4UW94JaX8V0zfv7OXvZldRgie28MCA6LM57OBpw8BLJr2UVLp9r5mM
+app_id: com.photomovie.slideshow.videomaker
+app_name: Video maker with photo & music
+app_screenshot: https://play-lh.googleusercontent.com/JPPQd3-bg7YZqL5p4AVsCLDXeQqsTTN-K3Vpx7hr1YYoZj-uaydEV885fNPK5R4AYgwS
+category: Video Players & Editors
+country: ES
+id: 9n9ZILS3nyB-
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '2910402'
+publisher_name: VideoMaker Studio
+rank: '158'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

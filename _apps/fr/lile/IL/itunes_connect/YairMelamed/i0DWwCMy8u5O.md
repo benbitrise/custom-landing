@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/06/37/7b0637d6-1ca4-c1c1-9d2b-bbd1de1affac/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6446459065'
+app_name: Tede Barber
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/12/d3/53/12d35356-6335-9f65-4340-3f7106c9a525/78498cbd-75c5-4d5c-97e6-544629817a2b_2023-03-19_05-44-19-PM.png/1242x2688bb.png
+category: Business
+country: IL
+id: i0DWwCMy8u5O
+language: fr
+most_recent_release: ''
+publisher_id: '1612935007'
+publisher_name: Yair Melamed
+rank: '614'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

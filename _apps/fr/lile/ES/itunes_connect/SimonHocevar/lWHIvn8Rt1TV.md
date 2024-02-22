@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c8/40/cf/c840cf5e-6093-5f92-0f73-da7f2f128ea2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1588526907'
+app_name: Rain Radar App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/28/f1/25/28f12500-15be-db8b-0066-21e54361e631/9488d4db-232a-4898-bf96-874e5f118b80_1.png/1284x2778bb.png
+category: Weather
+country: ES
+id: lWHIvn8Rt1TV
+language: fr
+most_recent_release: '2023-12-15T00:00:00'
+publisher_id: '1588526909'
+publisher_name: Simon Hocevar
+rank: '375'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7mEL-9EVGeSN1zL25gtkLvTwBp4LBs0N0yVBxpleRol-n82G6DqgIF7AQQUPoyO4dA
+app_id: appinventor.ai_aditiya793.Strobo_Automation
+app_name: LedArt - Strobo Connection
+app_screenshot: https://play-lh.googleusercontent.com/r8siA1qEHLh6MzMY880xRz88-lriNbS9yhnTzp56GosgqGwkkr8-YWGuxHsWadG_q_8
+category: Auto & Vehicles
+country: ID
+id: vDF21yeXx8Xr
+language: en
+most_recent_release: '2024-01-03T00:00:00'
+publisher_id: '2963579'
+publisher_name: LedArt Automation
+rank: '136'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

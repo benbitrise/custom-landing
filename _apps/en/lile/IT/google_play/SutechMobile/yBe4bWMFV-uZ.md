@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/l9nK101od8ZAObCQs6baKdjbGZkKKFldeK714r3CctKC1wt8kAAszW2qjgCs_4vsjtA
+app_id: com.sutech.photoeditor.collagemaker
+app_name: Photo Collage - Picture Editor
+app_screenshot: https://play-lh.googleusercontent.com/vroesgGZwQwrDhdEK6GWaq1iTmURBbE4V5DRUAJRYt_989mdTQBTIQtCEXVfOb_wSw
+category: Photography
+country: IT
+id: yBe4bWMFV-uZ
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '2624234'
+publisher_name: Sutech Mobile
+rank: '134'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lOSptST2pyksHbg0mYfBo1-boGcsR_GebIuyRsPfYPv64OZD8lDgThONG4KYRrxKCUM
+app_id: au.com.aershov.uvmate
+app_name: UVIMate - UV Index Now
+app_screenshot: https://play-lh.googleusercontent.com/xHbbNC2Ev160klv37pZ40C7aTVZ4eDEx9RZriIjcd_tV1Ro_zCMkhq-a5dHvUd_C8A
+category: Weather
+country: ID
+id: 1Bw2HMvH95Fg
+language: en
+most_recent_release: '2022-10-24T00:00:00'
+publisher_id: '2556835'
+publisher_name: Full Stack Cafe Pty Ltd
+rank: '167'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

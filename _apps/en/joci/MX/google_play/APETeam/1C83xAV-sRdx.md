@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QZPLRTOi9qLhQEqGOuHjHv-QeixiT36CC9mVjtFSBcflKqHf7LaiPx7Ej7Oyat8nBQ
+app_id: cursoseduccion.seduccion.atraccion.enamorar.persuadir
+app_name: Seduction & attraction course
+app_screenshot: https://play-lh.googleusercontent.com/GRfXBPOlF1Eszn08If-5CJQZ1knJojb9mmaidEq-1Fd_BC7KGCX_nBuTJTHjlFzCFAs
+category: Dating
+country: MX
+id: 1C83xAV-sRdx
+language: en
+most_recent_release: '2023-11-18T00:00:00'
+publisher_id: '2340879'
+publisher_name: APE Team
+rank: '118'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

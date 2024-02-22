@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/75/83/d87583de-9006-04d1-ed7b-0ee01d35bdc5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '428440583'
+app_name: Uncharted Weather
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/dc/c5/dddcc5de-cad0-1d93-6d93-e1e82f324878/pr_source.png/1242x2688bb.png
+category: Weather
+country: BR
+id: WmBdoecfb_y0
+language: en
+most_recent_release: '2023-08-26T00:00:00'
+publisher_id: '428440586'
+publisher_name: Marko Radakovic
+rank: '500'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

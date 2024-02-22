@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DJI4QLlOtwdp-Of8nV-ZBAYkoJ3m_JWX7VkbIWGqkgZU_4u4VQ7HKiLWyt6B3DkxUV0
+app_id: com.truk_oleng_mbois_ix.truk_mbois_ui_oleng
+app_name: Mod Truk Oleng Mbois Bussid
+app_screenshot: https://play-lh.googleusercontent.com/2OhEhlr5SDopyNRb1zGPgXNyR7VIRbA0BICZmbJWnSS0lIOvzsqWIkvDKUZ8x3ZZj00
+category: Libraries & Demo
+country: ID
+id: j4eKHSpcE8O4
+language: fr
+most_recent_release: '2022-07-19T00:00:00'
+publisher_id: '2794817'
+publisher_name: DiddaMines
+rank: '36'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/FAIRi05OAD9JCo-kc-gdkFQaL7CorNzgl3_yudMvlVOQ1hGspTkV2EqCfVJ4LkdBTKgY
+app_id: com.ticker.pickup.truck
+app_name: Offroad Pickup Truck Driving
+app_screenshot: https://play-lh.googleusercontent.com/xEyNdr6WtLdvGd7PQEZVAHkb6fE_HmNkOUmtyni-l5LCSe_9vJxsE5mrmfRgHRDr2g
+category: Auto & Vehicles
+country: JO
+id: n7mkFR8MJnN0
+language: fr
+most_recent_release: '2023-09-21T00:00:00'
+publisher_id: '1916459'
+publisher_name: Ticker92
+rank: '238'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

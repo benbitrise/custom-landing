@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Wpu2B3jlJZN8H__ul3UJiUQfXxpE8nyxI6CpWDe16IosnD5eLNzG6qlljIHTygx5Qh0
+app_id: com.restaurangguiden.android.giftcards
+app_name: RestaurangGuiden's Gift Card
+app_screenshot: https://play-lh.googleusercontent.com/R_LBGfoAQV8800ehsPg8JnYYBKAGGg2_35gKOLocIbGqaMfEpak4o48000T0VqZHLQ
+category: Food & Drink
+country: SE
+id: uZDcNakDl5BI
+language: es
+most_recent_release: '2023-05-12T00:00:00'
+publisher_id: '1461694'
+publisher_name: '@ your service'
+rank: '85'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

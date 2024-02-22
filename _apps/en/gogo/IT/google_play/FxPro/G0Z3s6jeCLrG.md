@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/LQnSbCIa2VLc2swPCctQ1-E5S6Ajgsx7OvR4AL4hJwPdhLnRHmED1Sz9QydgnS7TmZk
+app_id: com.fxpro.direct.app
+app_name: 'FxPro: Online Trading Broker'
+app_screenshot: https://play-lh.googleusercontent.com/VWlTPX6gtuZR9mZHfI8NkLy3l5_dizGyoNE9Gg4plq0tGpenQIm6AGajHQgMokFnDw
+category: Finance
+country: IT
+id: G0Z3s6jeCLrG
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '996583'
+publisher_name: FxPro
+rank: '178'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

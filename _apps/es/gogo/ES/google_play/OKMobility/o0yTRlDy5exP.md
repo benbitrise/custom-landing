@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7nwZe6CcAxmPCESrAIL43OaYduL0uTPytRkv5-_lcLtpswfIOF6e2Ss61z49lNbkXV0
+app_id: com.okmobility.app
+app_name: OK Mobility
+app_screenshot: https://play-lh.googleusercontent.com/Ln7PNI6fr2Db1Jh26dcdhuUQQN0YM2P5GbEUtDDOvaLW7EFLjPg38Yst5rUThXAA3Lw
+category: Travel & Local
+country: ES
+id: o0yTRlDy5exP
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2703829'
+publisher_name: OK Mobility
+rank: '120'
+release_count_in_past_year: '28'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

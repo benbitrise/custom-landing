@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vBL7DNgjawWCgobvuCLQvBxqwvrTe9AbRDGvj6bNNyrIZWxwdQPaMz0xLYynofXj4aM
+app_id: com.biljartteller
+app_name: Biljartteller
+app_screenshot: https://play-lh.googleusercontent.com/jY22kT6LI1ozxt2znPzQZ01zPW0_3s3Xi74ED1-yZwxbG0-ejKuIAnh8-FOuNmUh5Pvl
+category: Sports
+country: NL
+id: TTu6CIpgHLLG
+language: es
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2460270'
+publisher_name: Scorekeeper
+rank: '148'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

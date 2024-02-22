@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/82/71/298271dd-33fa-1ced-319b-e6fdd5f159fd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1528946980'
+app_name: 'Foodease: Livraison de repas'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/50/69/0650698e-bcec-2063-d8dd-78612f9af600/a7cb2ece-0d0b-48ad-8b39-06c6c5c5fff9_Screenshot_1.png/1242x2688bb.png
+category: Business
+country: FR
+id: G2gNsRz4ePJP
+language: en
+most_recent_release: '2023-09-28T00:00:00'
+publisher_id: '1528946982'
+publisher_name: Foodease
+rank: '310'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

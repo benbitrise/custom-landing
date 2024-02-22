@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/c5/ed/19c5edaf-20e4-c10c-7144-9f57a4fe5de9/AppIcon-1-0-0-1x_U007emarketing-0-7-85-220.png/1024x1024bb.png
+app_id: '1217589960'
+app_name: BusPlanner Delays
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dc/2b/7d/dc2b7dcb-3757-1c48-ade4-263d36c28a2a/pr_source.png/1242x2688bb.png
+category: Weather
+country: CA
+id: KagtSofQKjFb
+language: en
+most_recent_release: '2023-11-30T00:00:00'
+publisher_id: '1217589959'
+publisher_name: BusPlanner Inc.
+rank: '13'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

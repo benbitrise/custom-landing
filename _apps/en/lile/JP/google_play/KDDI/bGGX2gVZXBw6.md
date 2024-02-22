@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cW3rSB3gWox4iomHhK3mcemUGzrt55YarGpSEC_Sod84Vc4Vd1cfHQKtz0zbBqhpag
+app_id: com.kddi.android.ausdbackup
+app_name: SDカード専用・データお預かり
+app_screenshot: https://play-lh.googleusercontent.com/8LxZl3f799FVLkh_IbHb38Ec6r8Qx1mm6KgMzSX7ZmagGiqhNJbHo42y200zQsWip1cX
+category: Tools
+country: JP
+id: bGGX2gVZXBw6
+language: en
+most_recent_release: '2023-08-21T00:00:00'
+publisher_id: '54869'
+publisher_name: KDDI株式会社
+rank: '185'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

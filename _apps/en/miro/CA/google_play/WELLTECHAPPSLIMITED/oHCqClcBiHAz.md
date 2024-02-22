@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8XD9QezvIkKX6qvoIsZhGGltrh8R10EKw05HD2Jh_NMbjuuCZOcPY8hIGX-DfGp8KaPK
+app_id: net.workout.lose.weight.fitness.fit.coach
+app_name: 'Home Fitness Coach: FitCoach'
+app_screenshot: https://play-lh.googleusercontent.com/jUeVrzdmAKuZPlFj3GgqRkFxcDNte_xEUXypECd152FiyLEDL9HbqSohUjkz7XW6bBY
+category: Health & Fitness
+country: CA
+id: oHCqClcBiHAz
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2843916'
+publisher_name: WELLTECH APPS LIMITED
+rank: '166'
+release_count_in_past_year: '34'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

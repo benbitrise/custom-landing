@@ -12,8 +12,8 @@ publisher_id: '341326067'
 publisher_name: Nico Tranquilli
 rank: '3'
 release_count_in_past_year: '9'
-release_count_in_past_year_category: 21
-release_count_in_past_year_top_in_category: 21
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/5a/d4/a75ad4f0-8d78-cf88-8fcd-8ebe945438cf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1313709233'
+app_name: DIY Anemometer (Wind Meter)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/9c/89/cf9c89d0-b4b0-a8e0-8f87-1a508c2eead7/7024fa94-baa6-4b37-abfb-8d1732f7d592_6_5-1.png/1284x2778bb.png
+category: Weather
+country: DK
+id: 16l8t6rhQ9bA
+language: fr
+most_recent_release: '2023-09-14T00:00:00'
+publisher_id: '817385891'
+publisher_name: Dmitriy Kharutskiy
+rank: '187'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

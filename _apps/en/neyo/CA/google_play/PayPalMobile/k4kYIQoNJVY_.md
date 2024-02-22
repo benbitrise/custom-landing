@@ -12,8 +12,8 @@ publisher_id: '17659'
 publisher_name: PayPal Mobile
 rank: '3'
 release_count_in_past_year: '25'
-release_count_in_past_year_category: 22
-release_count_in_past_year_top_in_category: 22
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

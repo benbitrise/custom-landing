@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/LlHWn36ryBVTHhSpQ4PeBOkfuGzOGigncEo6neQDP1X-ZzX7Uj2ihsvKq1XEeqTXsQ
+app_id: com.famametric.miui
+app_name: MIUUI Downloader & HyperOS
+app_screenshot: https://play-lh.googleusercontent.com/FGlkMcuJlzVjyWW56GKZx6F2g19mPvflJX4FAEfnrh65e5KAB-ylH_z7nPXtknvrip5u
+category: Tools
+country: PT
+id: X4s-l1c-tr5z
+language: en
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '3062864'
+publisher_name: Famametric
+rank: '129'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

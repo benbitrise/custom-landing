@@ -12,7 +12,7 @@ publisher_id: '632999'
 publisher_name: Grupo Boticário
 rank: '2'
 release_count_in_past_year: '17'
-release_count_in_past_year_category: 12
+release_count_in_past_year_category: 7
 release_count_in_past_year_top_in_category: 12
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael

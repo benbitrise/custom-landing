@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/waW7bbZaOvgTV2IWwYpzhFVk-1YAZUGeT8Na1c-hEhgLKXQOcaF02CkYyM8Xfoe9CQ
+app_id: com.fitstarapps.bodyweight.stretching
+app_name: Flexibility & Stretching App
+app_screenshot: https://play-lh.googleusercontent.com/wzx71CazDCMHD_uuUcyMm5Vj-SGaCuk6xxsML5ADWjkVBVQ6rjbA0HZVnTLPtgoRbao
+category: Health & Fitness
+country: PL
+id: cf8AxedjNCkb
+language: en
+most_recent_release: '2020-12-28T00:00:00'
+publisher_id: '2676506'
+publisher_name: FitStar Apps s.r.o.
+rank: '189'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

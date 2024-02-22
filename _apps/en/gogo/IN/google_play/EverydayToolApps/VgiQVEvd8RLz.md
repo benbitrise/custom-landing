@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ivMotpN_pWCab5oFde0BKhqGZmZrVZL63LOk6qtd2bvBtNiHo195HrQwEpJ9ghpLFw
+app_id: com.liveearthmap.location.route.finder.satellitemap.driving.directions.gpsnavigation
+app_name: 'Live Earth Map: Route Planner'
+app_screenshot: https://play-lh.googleusercontent.com/3A6lLSvjUyVWCMIuI9EnExSZy8sN-HqwVyLG7EUQiHEV5fgbY4kD6AOFxyMb8QnZG5s
+category: Maps & Navigation
+country: IN
+id: VgiQVEvd8RLz
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2983450'
+publisher_name: Everyday Tool Apps
+rank: '164'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

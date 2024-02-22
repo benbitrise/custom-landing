@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/1c/ae/8b1caec3-ebc4-c075-af1d-a0c70bfde921/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1615964582'
+app_name: Weather Air - Live Forecast
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/75/14/b6/7514b60f-19bb-702a-7c3f-7d8614b31d97/c304db29-7a2c-4463-a658-e334ca39e7af_1.jpg/1242x2688bb.png
+category: Weather
+country: JP
+id: k1213HKynaAW
+language: fr
+most_recent_release: '2023-08-21T00:00:00'
+publisher_id: '1316153435'
+publisher_name: Wzp Solutions Lda
+rank: '359'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

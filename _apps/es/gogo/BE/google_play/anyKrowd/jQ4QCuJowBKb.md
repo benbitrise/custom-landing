@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/K07-K5leBwgWSYertLcG4xMIEEyqX96KlUgY1xUYmlTrJ3pwxTO8x10j0aFUkwUSsg
+app_id: com.anykrowd.zuco_app
+app_name: ZUCO
+app_screenshot: https://play-lh.googleusercontent.com/1Dt2Qdb0mkEEeblYhik2FK0-9N5-sa1uQ0E4Zxc-bA8fffE4PAUjyYLHLlqDN1Pa9A
+category: Events
+country: BE
+id: jQ4QCuJowBKb
+language: es
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '2732065'
+publisher_name: anyKrowd
+rank: '65'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

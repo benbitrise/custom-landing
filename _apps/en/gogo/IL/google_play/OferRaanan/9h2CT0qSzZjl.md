@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ztQ2aEZpb0vAPUgJsqdcUDWDm-_MrL6lFqwfghGALfe7N4tarpkuOg8uwH6-sQvTzw
+app_id: com.airmap.application
+app_name: Air Map Israel
+app_screenshot: https://play-lh.googleusercontent.com/GhTiIGwTjmlzdfFK6dOt5D_FyqqnS_ESEcdAs0WFYQlPV_pSHz_JTvDAIH96a1JL6Jg
+category: Maps & Navigation
+country: IL
+id: 9h2CT0qSzZjl
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '3014557'
+publisher_name: Ofer Raanan
+rank: '103'
+release_count_in_past_year: '29'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

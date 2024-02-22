@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hDEjZQdwlcTsld_z6nYZXYHgto0rXr01dmyNDTcBhjiIkQSJaPaEfyZJgWG9n0kVQAg
+app_id: com.nanobebe.aura
+app_name: Nanobébé Aura
+app_screenshot: https://play-lh.googleusercontent.com/MACoq7tRVGNoLa3lb5Xgqgy5SpcDNooJfcQC3W3u7XJAYEeWSeZxSzbk3UTh1kETQJEb
+category: Parenting
+country: IL
+id: 7v_YnyKXm5B8
+language: fr
+most_recent_release: '2023-11-05T00:00:00'
+publisher_id: '2982975'
+publisher_name: Nanobébé Inc.
+rank: '104'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AAVV93Anw44LDDy916Y6hLl9p5B3G9WOv_gTFiq07AsuCzXaIf97JY58M7mogjBVJYv2
+app_id: com_rize.sns
+app_name: ご近所スマイル - 初心者向けチャットアプリ
+app_screenshot: https://play-lh.googleusercontent.com/JOb7dPxzWSvIVaDVb7hHXn26aqOAxRWaAR1Exv9ZMxywF08i0sRRpIIsXMbbBF_GFw5z
+category: Entertainment
+country: JP
+id: eSUYF7jwWlY1
+language: es
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '3041142'
+publisher_name: ご近所応援プロジェクト
+rank: '133'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qnqjRzQWn-mlEbFknr2nKXVn3bX2-zVsH4hUUppouuXqNLOQ4nW8AfODcDSfKuGS3A
+app_id: hyde.android.launcher3
+app_name: Hyde App Hider - Hide Apps
+app_screenshot: https://play-lh.googleusercontent.com/aI2_u1IvaK6aa3weuP2N2mwnbfL81GrAhoKjkXTYUtsrLEYYIdD4bd0vEflMzrjyWN6H
+category: Personalization
+country: BR
+id: 9bXSxTl_RsFQ
+language: en
+most_recent_release: '2023-06-13T00:00:00'
+publisher_id: '2454155'
+publisher_name: ZipoApps
+rank: '120'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

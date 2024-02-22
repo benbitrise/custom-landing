@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EFgn6DggI5k94hIJf-PeI6Gf2eVane-PldX68hpFcRyXqjfrf3dX7M7aQGRwfH2Rwd8
+app_id: co.il.amazing.sicafe
+app_name: SI CAFÉ - סי קפה
+app_screenshot: https://play-lh.googleusercontent.com/JnU4xRxiZQ_w98o1x7h6fScAmdRodomivtdXh3VMYRp6bOAtn6owmR4RSRwYEq3ixcKV
+category: Food & Drink
+country: IL
+id: Vs7-WolNQvnv
+language: en
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '2208857'
+publisher_name: Amazing Web Ltd.
+rank: '89'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

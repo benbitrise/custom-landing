@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uI3nd9jKN5OIe1bPgKLRk_KeUX9JtSvKoBtEI372i-qBwzY2SnN4Q7BtiVZUXU-6ew0
+app_id: com.daddonmod
+app_name: Mods for Dmod
+app_screenshot: https://play-lh.googleusercontent.com/9A7mzwYAQrIkjPxu8VpZJ_Vq6crQRl2P5sVsb0FouuvhuKysSm2RUbF-0K2uK8OcXA
+category: Libraries & Demo
+country: MX
+id: DJ7a4FCA8DyU
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '2937272'
+publisher_name: Dumitru Boico
+rank: '30'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

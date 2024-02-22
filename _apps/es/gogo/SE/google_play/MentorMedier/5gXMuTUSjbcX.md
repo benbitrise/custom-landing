@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MMbkFOrv5e3-vC1mSAaL3suWbosqz8I2yECc11RkFUimKyDoaNuP8E_jtxxHf4wfnw
+app_id: se.dagen.areader
+app_name: eDagen
+app_screenshot: https://play-lh.googleusercontent.com/Vi7khq72MuPfDsuk01AISC64GSsanHgUsTazTadBePEtGzSfx7NxzOkJtDQyAem4CRU
+category: News & Magazines
+country: SE
+id: 5gXMuTUSjbcX
+language: es
+most_recent_release: '2023-09-01T00:00:00'
+publisher_id: '523015'
+publisher_name: Mentor Medier
+rank: '119'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '1428138'
 publisher_name: Google LLC
 rank: '5'
 release_count_in_past_year: '117'
-release_count_in_past_year_category: 65
-release_count_in_past_year_top_in_category: 65
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

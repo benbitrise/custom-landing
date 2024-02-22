@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xBqhd45kXS9RtHQSfELTIhUCHFCa17_TFYOYmP5c7tgiRiafliNRlLvbXbP11KR8ovM
+app_id: com.secure.cryptovpn
+app_name: Ryn VPN - Browse blazing fast
+app_screenshot: https://play-lh.googleusercontent.com/9RbsBmzK1DpbMSsQr9-8NriLf8E4gR4nDKGZEc9BVWxQ22jZiTOuvziVGeTcaKMNjA
+category: Tools
+country: AE
+id: auffCFnMufm5
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2924738'
+publisher_name: ElQube Tech
+rank: '36'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

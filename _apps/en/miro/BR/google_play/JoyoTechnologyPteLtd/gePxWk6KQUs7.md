@@ -12,8 +12,8 @@ publisher_id: '2665654'
 publisher_name: Joyo Technology Pte Ltd
 rank: '2'
 release_count_in_past_year: '49'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/r01d_XjFToKTtMPZZ0Exe1sqlNMl9ZhjYWUFeKYbqD1eIYgzzhMRcUak5Cc99qUqtQ
+app_id: dk.rshm.odin_alarm_basic
+app_name: Odin Basic - 112 Puls
+app_screenshot: https://play-lh.googleusercontent.com/Fw9TN2uijOyXIGKmXUjGqH47xyFFDfKQ3xS6E6pFct3XLgQMzsS0blcXlnqm4u-wAYc
+category: News & Magazines
+country: DK
+id: UjJoKqmN8lwF
+language: fr
+most_recent_release: '2023-11-24T00:00:00'
+publisher_id: '2368397'
+publisher_name: William Dam
+rank: '42'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

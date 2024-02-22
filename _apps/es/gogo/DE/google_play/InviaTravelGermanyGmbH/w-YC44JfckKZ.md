@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/B0fq6UVlenn94VyUAuIhGa4qnmcFA-YaOC6QoFmPk9wcoYU-AVsCvEbWz4BQWdmt1g
+app_id: de.unister.aidu
+app_name: ab in den urlaub
+app_screenshot: https://play-lh.googleusercontent.com/pTmgbfKfu4RfvkBhF2Y0wbiTpdKBQ48aHJA6vHB6qJmu7qgVSLquA9NM_WMWhC672Uw
+category: Travel & Local
+country: DE
+id: w-YC44JfckKZ
+language: es
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '1224147'
+publisher_name: Invia Travel Germany GmbH
+rank: '89'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/11/cd/db/11cddbd2-0d5b-8cd0-aeb3-84056159dee8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6455259592'
+app_name: Fazer Curriculo PDF
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/61/58/4e61586d-57cf-a788-0c38-bfa84e8738fa/bd949d06-5368-4705-ac0a-39f4a0675bda_screenshot_1.png/1242x2208bb.png
+category: Business
+country: BR
+id: dhZnD1nLVPdG
+language: en
+most_recent_release: ''
+publisher_id: '1694551358'
+publisher_name: Aleff Silva
+rank: '122'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

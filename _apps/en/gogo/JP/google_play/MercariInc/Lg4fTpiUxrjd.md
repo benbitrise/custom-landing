@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tmDz1oXwu1NeH7jm0InAX_UBKIkTY8FmnzsRWNDz6tFZcF1E7uQEFXEhVLDJu94Ya-s
+app_id: com.kouzoh.mercari
+app_name: フリマアプリはメルカリ - メルペイのスマホ決済でもっとお得
+app_screenshot: https://play-lh.googleusercontent.com/ekPbngHDUQUOm6vjlK4taBNtCJcioqywIlzddLswinN2WXrIl1jrassj2sJOcb1o6ACY
+category: Shopping
+country: JP
+id: Lg4fTpiUxrjd
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2433574'
+publisher_name: Mercari, Inc
+rank: '10'
+release_count_in_past_year: '48'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

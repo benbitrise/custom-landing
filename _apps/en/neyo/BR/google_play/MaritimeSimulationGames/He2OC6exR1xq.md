@@ -12,8 +12,8 @@ publisher_id: '1728410'
 publisher_name: Maritime Simulation Games
 rank: '1'
 release_count_in_past_year: '8'
-release_count_in_past_year_category: 13
-release_count_in_past_year_top_in_category: 13
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

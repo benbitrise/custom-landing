@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/70Sz_nDayUhs1BkQmLKaP4Mnz_sAsVL1kSGeFSgIVge688QezpLYhqBj11qFxMyatf-c
+app_id: com.minar.birday
+app_name: Birday - Birthday Manager
+app_screenshot: https://play-lh.googleusercontent.com/TZ0rzIw1GrkZkypKqQuRdNaIMMY_oo_SFJLPMfeEQaAxCf4tYgzixJEc7zFV4MIOs4w
+category: Events
+country: FR
+id: fFKylNnhh2hC
+language: en
+most_recent_release: '2023-03-11T00:00:00'
+publisher_id: '547789'
+publisher_name: m.i.n.a.r.
+rank: '216'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

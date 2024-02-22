@@ -12,8 +12,8 @@ publisher_id: '975975'
 publisher_name: Bumble Holding Limited
 rank: '1'
 release_count_in_past_year: '51'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

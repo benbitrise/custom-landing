@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/b4/48/07b44883-1739-44e5-f660-50f7d6bd35f7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6452837927'
+app_name: Mini Preco App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1b/af/9e/1baf9e3c-3863-275b-0936-3fff79784185/18ebd1aa-2d79-458d-b7ba-75bf1c6873bb_1.png/1284x2778bb.png
+category: Business
+country: PT
+id: MWXZvA_8vh2B
+language: es
+most_recent_release: ''
+publisher_id: '1440999875'
+publisher_name: INOVATECH NETWORK SA
+rank: '123'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

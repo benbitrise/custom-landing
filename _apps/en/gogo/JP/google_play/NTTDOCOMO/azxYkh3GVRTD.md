@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/o0CCkYcjkVQG-xrKcYyXUKuM_TL6HJyT6oRVZmT8TSAQ1Ec3OAZ1O-yStzrS51Y3pDc
+app_id: com.nttdocomo.android.dhealthcare
+app_name: dヘルスケア -歩数でdポイントがたまる健康管理アプリ-
+app_screenshot: https://play-lh.googleusercontent.com/p1ILyPFRZNzjxg_IsPbgkoS_HIQ5rbT028DQpvg_v81Y5x6Vnm0YZz3K_NMNwaxvHQ
+category: Health & Fitness
+country: JP
+id: azxYkh3GVRTD
+language: en
+most_recent_release: '2023-10-26T00:00:00'
+publisher_id: '20468'
+publisher_name: NTT DOCOMO
+rank: '12'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

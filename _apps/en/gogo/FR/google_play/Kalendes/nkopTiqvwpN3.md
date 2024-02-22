@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/djMU5Gn8bYHtXqUDWVdlnRnyBovLxyu3LClDUfv0bvRs-sgG4kpzHlf7zq4m8h8l7yc
+app_id: com.kalendes.platform
+app_name: Kalendes
+app_screenshot: https://play-lh.googleusercontent.com/Xpw5bjnY5ffD2zgNlfiNKnCf0Ndo610u5NTjUr5DUrEN3Ypnt_iFtH_3By7z20IUZeuk
+category: Beauty
+country: FR
+id: nkopTiqvwpN3
+language: en
+most_recent_release: '2022-12-05T00:00:00'
+publisher_id: '2868440'
+publisher_name: Kalendes
+rank: '51'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

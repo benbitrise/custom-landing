@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AR46nvFn7GetXok7ox2UA1UoYZctgEMB_f_TQrJETHO8QHFOXGrckgsDuoiq8CPIcA
+app_id: com.chartreux.twitter_style_memo
+app_name: TwiNote
+app_screenshot: https://play-lh.googleusercontent.com/LtLfr_KcuOTY3zygtJ1h6VxquJxOhyUKnFlH0VhJB8ndFQaiX3v_F81PYjyfiYRrTQw
+category: Entertainment
+country: ID
+id: jANMGxSMuUey
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '821623'
+publisher_name: Chartreux
+rank: '208'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

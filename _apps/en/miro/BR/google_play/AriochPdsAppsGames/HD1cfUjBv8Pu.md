@@ -12,8 +12,8 @@ publisher_id: '2740600'
 publisher_name: Arioch Pds - Apps & Games
 rank: '5'
 release_count_in_past_year: '11'
-release_count_in_past_year_category: 13
-release_count_in_past_year_top_in_category: 13
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

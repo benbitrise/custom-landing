@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ro2wumcYyU932Ck3YtAEHeMGubeSY3es4XEcVYfoPjVxfaEqNNh-Wq68M4-sk2kEJkM
+app_id: castwebbrowsertotv.castwebvideo.webvideocaster
+app_name: Cast to TV/Chromecast/Roku
+app_screenshot: https://play-lh.googleusercontent.com/08NKnwYnr6BCQV65h8OkaYdhfHF9wHbAXYW7uzNYlk8TpDDEKOSkWDxZCQWx2DktDknC
+category: Video Players & Editors
+country: BR
+id: f31Kiusz_7zd
+language: en
+most_recent_release: '2024-01-03T00:00:00'
+publisher_id: '830873'
+publisher_name: InShot Inc.
+rank: '108'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DhsLFnIpf8ySrzAe865Uh8W9HMl5-cBPug15EWaOYrCylW2TihwpVA1I4itxJXJpNZU
+app_id: com.usereserva
+app_name: Reserva
+app_screenshot: https://play-lh.googleusercontent.com/-iLf88NMZVdO25T91eZsTlWzxvePeT3q6CLnjzqzvqkIUIRvDWzn0JS372QwRLzlPw
+category: Lifestyle
+country: BR
+id: fzRpLWvUJF1j
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2672857'
+publisher_name: Grupo AR&Co
+rank: '29'
+release_count_in_past_year: '36'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

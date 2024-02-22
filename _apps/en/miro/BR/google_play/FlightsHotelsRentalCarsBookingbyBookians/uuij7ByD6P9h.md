@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/nOr5GEgYrMjvY8MWqUVbVI2J9UEGUqWjxTQBgjRnA_x2-v-FFxxfuTCRPEF36AxHgYf_
+app_id: com.allflightbooking.app
+app_name: All Flight Tickets Booking App
+app_screenshot: https://play-lh.googleusercontent.com/CWMD-IYhh7eTRgHBlGw6Uj1wUjs8X1ZrIZC8OWEfXpEqxLx9nabgQ4YLcaxE-C4QeAsR
+category: Travel & Local
+country: BR
+id: uuij7ByD6P9h
+language: en
+most_recent_release: '2023-11-30T00:00:00'
+publisher_id: '2851744'
+publisher_name: Flights, Hotels & Rental Cars Booking by Bookians
+rank: '79'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

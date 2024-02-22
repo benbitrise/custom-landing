@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/da/de/6ddade50-5462-6bc2-cf4e-18ba2e9cd353/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/1024x1024bb.png
+app_id: '6453055213'
+app_name: My Foodics
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/85/40/6d8540b0-1f9e-2cd2-faf9-224aab90868c/47e6eefb-ae44-47d5-a9d9-5d837598044d_1.png/1284x2778bb.png
+category: Business
+country: JO
+id: yoR5hF42R6nU
+language: en
+most_recent_release: ''
+publisher_id: '640161160'
+publisher_name: ALWANS
+rank: '666'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

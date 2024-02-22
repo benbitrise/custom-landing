@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Dc1Wsu2FSK_rVVZnUCRfEZlmGyYB4kK6NR3WKlgWSwaqq0so8RY7JtEvI5N0Yeieb-s
+app_id: com.eharmony
+app_name: eharmony dating & real love
+app_screenshot: https://play-lh.googleusercontent.com/sCZCvWSWLizxXEh-3YEJDOYFX5C87tKTxWupjx9zkW7NFul4cinf_vuBCtMxicRuPoHA
+category: Dating
+country: CA
+id: mmpsBnmnCery
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '27789'
+publisher_name: eHarmony.com
+rank: '18'
+release_count_in_past_year: '29'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

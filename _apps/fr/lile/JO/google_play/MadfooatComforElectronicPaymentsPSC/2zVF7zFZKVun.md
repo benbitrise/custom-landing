@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lYP8NccT9fYGDpXpvib6zvkuZS3V3hRig3kC_9--3HFW6_DSzFtxRSTF4rsTqo_n7UqF
+app_id: com.dreamtechs.MadfooatCom
+app_name: eFAWATEERcom
+app_screenshot: https://play-lh.googleusercontent.com/G40uW0KH7zrMfCQ8uKDnHBTl0Vz0MZOwooI1bzVs72S-rpDRewBWPy8uhwo6ri1_AA
+category: Finance
+country: JO
+id: 2zVF7zFZKVun
+language: fr
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '1779446'
+publisher_name: MadfooatCom for Electronic Payments PSC.
+rank: '12'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DFWADAMJwnVddpxzeSUV7v9ig3p-whKY4-3ei2-nHqFVodct084Rwyy8LrIOVCRLtB4
+app_id: com.nts.relaxco
+app_name: 'White Noise Baby Sleep: Lullin'
+app_screenshot: https://play-lh.googleusercontent.com/8qeyeUWuPp7BYf8iMSwBQcUSnzPebQo0P86UX2if4oo1b6YGrONGKWsRlETAZMw4wzg
+category: Parenting
+country: MX
+id: 9-KvWC9FBYfO
+language: en
+most_recent_release: '2023-04-11T00:00:00'
+publisher_id: '2664976'
+publisher_name: Std Lullin:Design & Develop For NewBorn to Elder
+rank: '183'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

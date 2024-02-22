@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PYiHcNXvMGu-Lfo26MgOaoUpd2SWr5naFnNrGL_3gta6T0Rbwxw7zzmqCq916g4QiaVw
+app_id: com.fw.gps.tkstar
+app_name: TKSTAR GPS
+app_screenshot: https://play-lh.googleusercontent.com/1Bnh94sdDtpw5kwo0tPjCHeuFLgNMYU2y-k4KL29eh_A-LGRCsHvDl9lTuTntseaiaJK
+category: Maps & Navigation
+country: NZ
+id: JCh5VM8t8E3i
+language: es
+most_recent_release: '2023-05-22T00:00:00'
+publisher_id: '1026118'
+publisher_name: Location Services Software Development
+rank: '207'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

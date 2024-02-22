@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CPaxo_Vnfo6GPFvOA_BVkFWSIke29VvO84jwWTU_gprXRVvKLcHmhnkpgD5HLU4HRtY
+app_id: com.best.cool.ringtones2022
+app_name: Cool Ringtones 2024
+app_screenshot: https://play-lh.googleusercontent.com/TVWRKeQsmRCVwTczNjExkFoRtAE8yhrlvwXiXc5wT7J9PyqofvvRNfji_bA_iK7qGTw
+category: Libraries & Demo
+country: PL
+id: DFtV2SmyKYW-
+language: en
+most_recent_release: '2024-01-03T00:00:00'
+publisher_id: '2714978'
+publisher_name: Sigmapps
+rank: '112'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

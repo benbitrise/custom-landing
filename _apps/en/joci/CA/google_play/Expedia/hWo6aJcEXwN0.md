@@ -12,8 +12,8 @@ publisher_id: '6289'
 publisher_name: Expedia
 rank: '2'
 release_count_in_past_year: '47'
-release_count_in_past_year_category: 30
-release_count_in_past_year_top_in_category: 30
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

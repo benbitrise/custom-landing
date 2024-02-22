@@ -12,8 +12,8 @@ publisher_id: '2902646'
 publisher_name: Braly JSC
 rank: '5'
 release_count_in_past_year: '16'
-release_count_in_past_year_category: 41
-release_count_in_past_year_top_in_category: 41
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

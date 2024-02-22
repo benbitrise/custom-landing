@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3CaG5uSrV967LLNYV6gmsvxmQwERgj5TxyxkM5arU0IIu-OEKdkJen0-bInDgtzBNco
+app_id: com.azinova.limsrestaurentfinder
+app_name: Lims Cafe
+app_screenshot: https://play-lh.googleusercontent.com/57mqjM5z3Ot5Yb7qAAlC50pAfaX_B9bS7LT5OVjRQ8ax5kdJwr398SQn7khPr0nSWwo
+category: Food & Drink
+country: AE
+id: ZIgp4yiqd4QQ
+language: en
+most_recent_release: '2022-12-09T00:00:00'
+publisher_id: '1136484'
+publisher_name: Turnkey
+rank: '159'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

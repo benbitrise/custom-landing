@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Ryzpgc5m1JtYTha8eBm7WcN1nGYs85zc4YerbzH3m9vea9Aut5SdQrBXG3wfIa_aJ50
+app_id: net.cashpop.id
+app_name: Cashpop - Basic Income
+app_screenshot: https://play-lh.googleusercontent.com/j52GBkuIycj6ndQErWnOWT6JbW7LB_OIfHGZ50qKBunwy4lvDhPK2nQh2TF0JoLZfuk
+category: Lifestyle
+country: ID
+id: gPRQjPv39u9N
+language: en
+most_recent_release: '2022-10-27T00:00:00'
+publisher_id: '1112209'
+publisher_name: CashPop
+rank: '161'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

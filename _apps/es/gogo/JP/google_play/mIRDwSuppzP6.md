@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dIY7dUe7ZLpj3M3sfY4nGDoLov0uMGAawDezB-WIPKymlmZkLhKBM1KF9H5N_7vmvGr0
+app_id: jp.co.tacti.jms.membersapp
+app_name: ジェームスアプリ
+app_screenshot: https://play-lh.googleusercontent.com/FIEIbt9VvNqUpSti4DdxN8NcKsTCPlWqbVhIgE3F1KIZo_WLmLjwEtXYJaz0DVkFhdAE
+category: Shopping
+country: JP
+id: mIRDwSuppzP6
+language: es
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2254431'
+publisher_name: トヨタ モビリティパーツ株式会社
+rank: '121'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

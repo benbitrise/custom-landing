@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8il0Zn2y2Mx7vADh4SisyWnQ-M8AHj0EFPywrL-5VgrSa9MilNaQRu4pQHSqfwf67Wo
+app_id: com.tplink.iot
+app_name: TP-Link Tapo
+app_screenshot: https://play-lh.googleusercontent.com/FwsgDL7cONeUNqssQlTKztUL9m6OGORCll1TeAoagZo6WeMmMd9ZyfHckpg9AkCvsQ
+category: Lifestyle
+country: BR
+id: aUc1LhfY7D1N
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '3032220'
+publisher_name: TP-LINK GLOBAL INC.
+rank: '206'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

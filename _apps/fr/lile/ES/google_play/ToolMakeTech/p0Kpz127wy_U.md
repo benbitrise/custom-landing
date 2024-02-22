@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zMaUazd76RdaThN0kYH3L7OU-YTlfttZXoNoN3_OoDYplzfNhAxHW_pa1GpavS6lQQ
+app_id: com.lie.detector.funny.prank.turthtest
+app_name: Lie Detector & Prank Sounds
+app_screenshot: https://play-lh.googleusercontent.com/tRVJKMR6MziFtN8u_vItM28P1Yu2FivaStXmwdJGorkOq66d6EQ-u3M7GUsGB3vIv3g
+category: Entertainment
+country: ES
+id: p0Kpz127wy_U
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2984130'
+publisher_name: ToolMake Tech
+rank: '74'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

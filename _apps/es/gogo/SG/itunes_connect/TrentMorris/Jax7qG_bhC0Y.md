@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/37/d4/ba/37d4ba4b-59c4-a3c9-0378-d3fab3c5e2fc/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1024x1024bb.png
+app_id: '1400078107'
+app_name: Punch Time Clock Hours Tracker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/f9/07/92f90758-46a0-882b-3d3a-3f74c44f4118/pr_source.png/1242x2688bb.png
+category: Business
+country: SG
+id: Jax7qG_bhC0Y
+language: es
+most_recent_release: '2019-07-11T00:00:00'
+publisher_id: '1400078106'
+publisher_name: Trent Morris
+rank: '372'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

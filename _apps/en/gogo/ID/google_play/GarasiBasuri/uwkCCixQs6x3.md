@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5wIc4m1D2kSsQYL4j8pqU-38ceY_4vXQAICuGd-1RYWSN8Q_wS0xzG3j-tFJyjPz8g
+app_id: com.garasibasuri.modbussidtrukolengstrobo
+app_name: Mod Bussid Truk Oleng Strobo
+app_screenshot: https://play-lh.googleusercontent.com/_6lwBpUqCWvYIgDKDCemRn4n7uO5Nx7IpvJODgyGTb5PM8y7uM7kxoBl5AZIRDJj-0Vb
+category: Personalization
+country: ID
+id: uwkCCixQs6x3
+language: en
+most_recent_release: '2023-09-13T00:00:00'
+publisher_id: '2963910'
+publisher_name: Garasi Basuri
+rank: '80'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

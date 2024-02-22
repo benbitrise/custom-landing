@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VJ2IssQAk5stiaIkuPMVzbumJw_lIC0VjbjMv-N_6-p7QgmeAUh9e7PDyl1h_srUk8M
+app_id: com.boira.gasolineras
+app_name: Petrol Stations
+app_screenshot: https://play-lh.googleusercontent.com/0i8op855gBlei90atFadzzyE8CeTBV6bN9uzK3fTXKVzFUHDt7rkwlKLtiFfbryZlA
+category: Auto & Vehicles
+country: ES
+id: FTz9zMAep7lJ
+language: fr
+most_recent_release: '2023-12-14T00:00:00'
+publisher_id: '2531237'
+publisher_name: Boira Development
+rank: '64'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/C7r75zIEHu5x_j08LtW3iwLjhNSUhmGLSFA0en8AJ7Yk2m7uuFe-dHV_EpBGI5_8Bg
+app_id: com.snapwork.tcl
+app_name: TATA Capital Loan App & Wealth
+app_screenshot: https://play-lh.googleusercontent.com/WTU1wTD58K_EmtORoMjKc4uP8jhpn3LXCw07uV1A68xJVClddoU08jAi7jI7rfr-4g
+category: Finance
+country: IN
+id: B_pZVKJrP3Qe
+language: es
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2922773'
+publisher_name: Tata Capital Limited
+rank: '158'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

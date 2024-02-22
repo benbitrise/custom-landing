@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/e6NjwrZheZDTtaHILf3Sx_pm3gRLlr_MQM-07jku2L3M97EgvuHEZE-f4deqsjH96g
+app_id: co.appnation.aiphotostudio
+app_name: Fotorama AI Headshot Generator
+app_screenshot: https://play-lh.googleusercontent.com/HHCm3JpBmp20E8SPXKpYYDKK_mzAtxG5BipdCmh94owcXTxGFGXMYgv3FYiQHLhC2g
+category: Photography
+country: CA
+id: xpRbPiVRHEmA
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2952079'
+publisher_name: APPNATION AS
+rank: '41'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

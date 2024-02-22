@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ilCzgxgHDfjc89NiP2znisFCIOWi9TsDlBzzKGZNP_zynsveO1YsjDTphhdIbKWd5c5Z
+app_id: in.sweatco.app
+app_name: Sweatcoin・Walking Step Counter
+app_screenshot: https://play-lh.googleusercontent.com/BdQSvqqorcmMnXiNKzm3Fq8v1el77KbMdRpy-8xdubzmH0JWg5FnTWzIRwqnYRsFwHE
+category: Health & Fitness
+country: MX
+id: ykzx1Gx0sBCY
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1234973'
+publisher_name: Sweatco Ltd
+rank: '6'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

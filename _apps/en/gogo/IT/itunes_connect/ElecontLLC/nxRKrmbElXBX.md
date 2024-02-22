@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/0b/16/610b1691-2fb5-8d10-238d-e862372ee77a/AppIcon-ForecastMap-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '806131509'
+app_name: World Weather Map Live
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/18/94/14/189414c2-bed1-b0b1-d774-b9465dd99531/1a48da34-3804-4b84-af6b-324c28124957_1_10MaxLive_USA_iPhone2_0.png/1284x2778bb.png
+category: Weather
+country: IT
+id: nxRKrmbElXBX
+language: en
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '401533969'
+publisher_name: Elecont LLC
+rank: '327'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

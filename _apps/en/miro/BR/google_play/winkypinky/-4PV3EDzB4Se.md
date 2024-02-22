@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/573oaobOiJYHUm9nDESSHyeU6yCP25VswYEiwm4JXPCMf4cIv0l9jsv842uqB_KzHw
+app_id: air.com.winkypinky.princesscastleroom
+app_name: Princess Castle Room
+app_screenshot: https://play-lh.googleusercontent.com/iC-bCRcTI_ixt9KHB8MW2FdgDrBwOvgDsxwmDljiFN_bo4SFyiYNvjIA5k9T74MhW_JH
+category: House & Home
+country: BR
+id: -4PV3EDzB4Se
+language: en
+most_recent_release: '2023-11-29T00:00:00'
+publisher_id: '790970'
+publisher_name: winkypinky
+rank: '132'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

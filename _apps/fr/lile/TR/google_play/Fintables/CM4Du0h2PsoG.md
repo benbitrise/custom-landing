@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lNt3FNVp1ZPSKdMic2eNcYWr1FeCF6KxXUwmz4Lc-eJH7uS7lp3qCBo3Yg2YCnm3cw
+app_id: com.fintables.fintables
+app_name: 'Fintables: Hisse Analizi'
+app_screenshot: https://play-lh.googleusercontent.com/HXjW91-4LMj9PMC5v8rRkHG-CKWgb705kpKxmQWgx9bW7u2C-dx1gxTXIdB-Q8Hyxag
+category: Finance
+country: TR
+id: CM4Du0h2PsoG
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2848287'
+publisher_name: Fintables
+rank: '92'
+release_count_in_past_year: '30'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

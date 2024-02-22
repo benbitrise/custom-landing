@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JjonTU2hqkydWwiIVKI4DsykrkSMQM5of0Wy3LyKz1_3NP0QzCy9BC_fwUZhd3SUmqm5
+app_id: apposing.petrolprices
+app_name: 'PetrolPrices: UK Fuel Prices'
+app_screenshot: https://play-lh.googleusercontent.com/w1EosvZsMqbZwqYeS2bbJ-x260UA1rUE2eB1K8dST8k_BTburK8alCY9xyC4iDP-CWW-
+category: Maps & Navigation
+country: GB
+id: yP9Zz0-HrgFm
+language: en
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '2470225'
+publisher_name: Automate App Limited
+rank: '43'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

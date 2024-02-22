@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fFah80BkEQMhi2m9uYEyckBfVSYFyTB-HagVGOnHtTN97Fsb7elwb8Gr_Wyu6xv5N-_G
+app_id: de.falkemedia.zaubertopfappandroid
+app_name: ZauberTopf Rezepte
+app_screenshot: https://play-lh.googleusercontent.com/xhbrN7nRVkxg7_kLYrN1rBtUkq2-vfo1vs4t5DJqouIgEX_egliCicverYDjhp9kfw
+category: Food & Drink
+country: AT
+id: YjeQplM5toqM
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '188323'
+publisher_name: falkemedia digital GmbH
+rank: '27'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

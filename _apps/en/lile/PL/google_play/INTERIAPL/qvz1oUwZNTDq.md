@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dJGp4PQaGpXdv53BUQ0hPJWVvhoDm9arbd3tozAzmZF0Uho2WpYeS8rDLWTPOxh5uA
+app_id: pl.interia.news
+app_name: INTERIA
+app_screenshot: https://play-lh.googleusercontent.com/vhZ5r9JR2xEQBR4i8NCJntvIcJf8Q_3K3h2YS9Tsevp2fxpXorw2869cdjBKdFnMJQ
+category: News & Magazines
+country: PL
+id: qvz1oUwZNTDq
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '26837'
+publisher_name: INTERIA.PL
+rank: '10'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

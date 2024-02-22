@@ -12,8 +12,8 @@ publisher_id: '16837'
 publisher_name: Viz Media
 rank: '3'
 release_count_in_past_year: '13'
-release_count_in_past_year_category: 14
-release_count_in_past_year_top_in_category: 14
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

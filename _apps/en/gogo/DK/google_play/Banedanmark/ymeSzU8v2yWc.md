@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dqkoSP7l12vLIDeK9LZF0CM1xlwfMmECH1hLjgMViczblOjNYYHN0PtCK9pp9tlPzuCH
+app_id: dk.dinstation
+app_name: MitTog - Trains and S-Trains
+app_screenshot: https://play-lh.googleusercontent.com/BKDLJ1n3MNa-lsGFsvscUKL5qNfMYWWDjMzKRrS_TgUfby0gY-Uf82CQa8rgCxSqDA
+category: Travel & Local
+country: DK
+id: ymeSzU8v2yWc
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '521517'
+publisher_name: Banedanmark
+rank: '47'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

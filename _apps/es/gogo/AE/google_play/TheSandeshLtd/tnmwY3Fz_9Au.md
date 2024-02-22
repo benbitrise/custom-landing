@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9ToG-L9pg7k1DjQdKHWMDJO-GKWeRfKMQR0Q3JvdCrG0_WnlZ_AjJ-F2CqP5aLsrPs4
+app_id: com.sandesh.news
+app_name: Sandesh Gujarati News
+app_screenshot: https://play-lh.googleusercontent.com/qEw8Dg6V3JTnn3uC10CmzgARZpWhq3cIyIUITKlq-UIEJD10nf3RiH1vJazl7x5e58lY
+category: News & Magazines
+country: AE
+id: tnmwY3Fz_9Au
+language: es
+most_recent_release: '2023-12-29T00:00:00'
+publisher_id: '462721'
+publisher_name: The Sandesh Ltd
+rank: '193'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

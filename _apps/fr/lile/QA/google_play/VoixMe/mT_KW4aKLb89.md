@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Wabl3E-LPupCkX0XhYA_1gXtNL3vZYV-2M7MWl_8PaorysI_GwWiSnQ8bUwSMuXYp9Sa
+app_id: com.voixme.d4d
+app_name: D4D - Weekly Flyers
+app_screenshot: https://play-lh.googleusercontent.com/hnlmM2Jbm3IwN_gySYERxqcpCf96jcaqbGGO3w5j3NK3QQ_O-g00AdyYx05xlPyDooNz
+category: Shopping
+country: QA
+id: mT_KW4aKLb89
+language: fr
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1907097'
+publisher_name: Voix.Me
+rank: '6'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

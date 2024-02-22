@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cH2FMpLJGji9KE-Vcn7Jp2NTgHt1-VuXuted3M_UB3M69z82NrtZxJD1pqgZeF30_eI
+app_id: com.jazzyapps.photoeditor
+app_name: DSLR Camera Photo Video Editor
+app_screenshot: https://play-lh.googleusercontent.com/odV5j2jXKb5yWdf7u4l53Un5B4Ut4GeQPzx724udXXyB--Qr8gIeThpyh7YzjF0RIgk
+category: Photography
+country: IN
+id: nFCzYUVjdHZ4
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '1133736'
+publisher_name: Jazzy Worlds
+rank: '177'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

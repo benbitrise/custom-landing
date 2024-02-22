@@ -12,8 +12,8 @@ publisher_id: '17899'
 publisher_name: Royal Bank of Canada
 rank: '2'
 release_count_in_past_year: '12'
-release_count_in_past_year_category: 22
-release_count_in_past_year_top_in_category: 22
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

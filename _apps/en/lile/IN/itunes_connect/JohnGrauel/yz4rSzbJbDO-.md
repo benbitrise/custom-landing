@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/2e/d2/2c2ed202-d4d6-4407-087e-4fb102b20d8d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1512067196'
+app_name: WeathHist
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c0/30/fd/c030fdff-28f8-a87e-d38c-3c6b28172ce3/a14d165e-95e8-4648-8c4c-5b8309c4490a_screenshot_1.png/1242x2688bb.png
+category: Weather
+country: IN
+id: yz4rSzbJbDO-
+language: en
+most_recent_release: '2023-03-13T00:00:00'
+publisher_id: '734191840'
+publisher_name: John Grauel
+rank: '356'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

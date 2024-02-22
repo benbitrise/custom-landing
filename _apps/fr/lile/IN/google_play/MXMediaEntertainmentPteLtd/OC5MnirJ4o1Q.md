@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IwEHGY0XX8lSE4vO_yLWvCgDTWI_Kd7JX8I0xozYaTRm9MpKtlv8TJ9EqIcLf7HqpErA
+app_id: com.mxtech.videoplayer.online
+app_name: 'MX Player Online: OTT & Videos'
+app_screenshot: https://play-lh.googleusercontent.com/qs8CTr1FThu3g7mOZI3SzUPk1_j_U0sHxyKlsng8Ozdt7p8oaOanNr5fe4TcqNwQn1kk
+category: Entertainment
+country: IN
+id: OC5MnirJ4o1Q
+language: fr
+most_recent_release: '2023-09-22T00:00:00'
+publisher_id: '2710688'
+publisher_name: MX Media & Entertainment Pte Ltd
+rank: '71'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

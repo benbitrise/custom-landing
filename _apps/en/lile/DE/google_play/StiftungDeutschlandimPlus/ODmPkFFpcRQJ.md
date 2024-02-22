@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/M-zMtzwVcADoChyK2GawLjxUoZ9-LxY3Sq2gFefVxym8KMJoLoBapQkNQHUmX1czVEks
+app_id: de.deutschlandimplus.meinbudget
+app_name: Mein Budget
+app_screenshot: https://play-lh.googleusercontent.com/4fSgu4N3ys5yY8NEz1j9bM4d8SsTqGgko2fQuxqLOZI3yrM3VLj12oUhPmzHoTTciQ
+category: Finance
+country: DE
+id: ODmPkFFpcRQJ
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '173858'
+publisher_name: Stiftung Deutschland im Plus
+rank: '144'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

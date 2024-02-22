@@ -12,8 +12,8 @@ publisher_id: '2926328'
 publisher_name: ANKO Solutions LLC
 rank: '2'
 release_count_in_past_year: '39'
-release_count_in_past_year_category: 24
-release_count_in_past_year_top_in_category: 24
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tj2mV1PtUO_mRJ7jLUdL6XbovyWfVlbXXYR3yNJgxH8lryT-SNzTl4ybLHU1IlGOWw
+app_id: com.neiman.contractions
+app_name: Contraction Timer & Counter 9m
+app_screenshot: https://play-lh.googleusercontent.com/PG3J0yTfL7PuLcqvRdfX7pynAQfQ4ROO1DuxSobQmaS2iV7v6m_LzCZnEHgrfikWWEVC
+category: Parenting
+country: MX
+id: cv6Oei5LWVWe
+language: en
+most_recent_release: '2023-09-22T00:00:00'
+publisher_id: '2245486'
+publisher_name: Neiman
+rank: '34'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

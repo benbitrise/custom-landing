@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/iyARoEtbPB84Fu1oq-Zw7Sfc2cFWQrLHB6LbP2f05eca6_kCmp9P0BK6leFBs7896gY
+app_id: com.reflectio.io
+app_name: 'Pulsebit: Heart Rate Monitor'
+app_screenshot: https://play-lh.googleusercontent.com/GIme12IQBMLpV1lKQ5V2WfjeKbZS4p8SjFSdMx70tl6wigDUsmV6dIBFerWJ1obw2jw
+category: Health & Fitness
+country: CA
+id: nJ0EP_o9JS7R
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2720634'
+publisher_name: Gototop LTD
+rank: '116'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

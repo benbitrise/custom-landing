@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EtZBb_cvEcbfLlNObA2QLXFA97but1AV61ZinVJbr6EwcovIeO2iVwP-iiO_ZNsoNQA
+app_id: com.rssinteractive.paratic.haber
+app_name: 'Paratic Haber: Ekonomi, Finans'
+app_screenshot: https://play-lh.googleusercontent.com/U3gwnMFiPwcbXQwKCWeIRJvhlr2H4zjcAIcPn3kVhzSV2x83LehrCEcN6WfUuTVUVWCB
+category: News & Magazines
+country: TR
+id: NLME0c-46O7B
+language: fr
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '2251459'
+publisher_name: RSS Interactive
+rank: '58'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

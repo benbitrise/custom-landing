@@ -12,8 +12,8 @@ publisher_id: '652037'
 publisher_name: IMSS
 rank: '1'
 release_count_in_past_year: '6'
-release_count_in_past_year_category: 13
-release_count_in_past_year_top_in_category: 13
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

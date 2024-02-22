@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BguNdMMKnbH2A-58sZQC2oSwCG0kYVUHFUrAKJbaTV1FQZizk-tIAh1LZHZQ1pSyRKI
+app_id: com.djuragankamar.ids
+app_name: Djuragan Kamar
+app_screenshot: https://play-lh.googleusercontent.com/vk54YFcgMOF7Wzvsld5xIf15kTcOBUKYakWUUhhcIMEzDRhmLQj18Ba3H6gd2a68hvU
+category: House & Home
+country: ID
+id: xNmWaP6acw76
+language: es
+most_recent_release: '2023-08-21T00:00:00'
+publisher_id: '2130174'
+publisher_name: PT. Djuragan Kreatif Indonesia
+rank: '53'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

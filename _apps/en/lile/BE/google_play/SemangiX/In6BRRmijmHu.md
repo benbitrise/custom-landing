@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TgI9QSlWt2db4yHOarTQ4xM9ZjsBrt0ZvMOyMvXBOE1if0qbckUAn3DSal1B94Ou7T8
+app_id: com.semanjix.sports.livecricket.tensports
+app_name: 'CricPro: Live Cricket TV 2024'
+app_screenshot: https://play-lh.googleusercontent.com/eeFZiOkThm23RJ3ZT1f0zpCU3Kdol77BQaL6crpq64cPHuFgXWPq8P_5FD0RKB9nLqU
+category: Sports
+country: BE
+id: In6BRRmijmHu
+language: en
+most_recent_release: '2023-11-11T00:00:00'
+publisher_id: '1074759'
+publisher_name: SemangiX
+rank: '164'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

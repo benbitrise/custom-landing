@@ -10,10 +10,10 @@ language: en
 most_recent_release: '2024-01-29T00:00:00'
 publisher_id: '15078'
 publisher_name: Wikimedia Foundation
-rank: '32'
-release_count_in_past_year: '20'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+rank: '31'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

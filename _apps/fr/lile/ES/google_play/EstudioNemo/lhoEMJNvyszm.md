@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CxrX0xndmb9BcWe2WQ7xNx_UocMMbOGbHxUvBBQU40Eo4dLh_3vI2_XP4YZFm8RIwIw
+app_id: es.estudionemo.app.testsauxiliarenfermeria
+app_name: Test Auxiliar Enfermería
+app_screenshot: https://play-lh.googleusercontent.com/JBa5lbMPjZi8e2mhH8Rb1l_CI-LTlUo2c27tkS3KMgTvtrGnhANWyvOm_0nOPTh3t1g
+category: Medical
+country: ES
+id: lhoEMJNvyszm
+language: fr
+most_recent_release: '2023-08-28T00:00:00'
+publisher_id: '524873'
+publisher_name: Estudio Nemo
+rank: '114'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

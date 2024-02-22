@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: Q95qJ6tUkH7B
 language: fr
-most_recent_release: '2023-08-28T00:00:00'
+most_recent_release: '2024-02-21T00:00:00'
 publisher_id: '1367415'
 publisher_name: yit
-rank: '6'
-release_count_in_past_year: '7'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+rank: '7'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

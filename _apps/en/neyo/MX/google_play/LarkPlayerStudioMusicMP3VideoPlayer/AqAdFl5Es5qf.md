@@ -12,8 +12,8 @@ publisher_id: '2922074'
 publisher_name: Lark Player Studio - Music, MP3 & Video Player
 rank: '3'
 release_count_in_past_year: '41'
-release_count_in_past_year_category: 33
-release_count_in_past_year_top_in_category: 33
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

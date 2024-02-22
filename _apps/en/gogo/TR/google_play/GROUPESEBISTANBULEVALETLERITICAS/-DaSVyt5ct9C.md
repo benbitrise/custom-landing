@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/iZBrNZ2HR8ohPfsnmrhMbyzryOQSgSIcOGn1f5UgoSd7RohYDWzzHIOBCpPe2t16Jg
+app_id: com.akinon.tefal
+app_name: Tefal
+app_screenshot: https://play-lh.googleusercontent.com/1d_z8xLRvBRRfIl39cVxd9w6hxu1lLl_PdhYxlS8y61Ir968n3lSzC-hY2ohDbjd4hY
+category: Shopping
+country: TR
+id: -DaSVyt5ct9C
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2585208'
+publisher_name: GROUPE SEB ISTANBUL EV ALETLERI TIC. A.S.
+rank: '111'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

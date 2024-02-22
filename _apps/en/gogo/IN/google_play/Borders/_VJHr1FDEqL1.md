@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-96wCS81-y-0-hGpPF29KbloNReMgpQM5TjRtE1-F27om3yyDeNVTEgns-4NjawY384
+app_id: app.duomevideochat.chat
+app_name: DuoMe Chat - Live Video Chat
+app_screenshot: https://play-lh.googleusercontent.com/sC_wE_0Lu1rmosdrqqaSZi7wsToFRIK4ZNAjFH35NfWuDvyz8Ac2sLIgi__Kdj86Fw
+category: Social
+country: IN
+id: _VJHr1FDEqL1
+language: en
+most_recent_release: '2024-02-10T00:00:00'
+publisher_id: '2970056'
+publisher_name: Borders
+rank: '165'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

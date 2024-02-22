@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Ok66SBHOSVu9B91wRAOAQn6YIevo1y9AhLiBNEaShT4tsjD_GyLRIJww0WKJfXp7A9KG
+app_id: com.aiboo.food
+app_name: Aiboo - Delivery de Tudo
+app_screenshot: https://play-lh.googleusercontent.com/4fVw2ueMarG1KS_2B8mVhLkjQhHu8CK9U-gwmDWyhn-KpJYT9MlyuW_K-mznAztLEVI
+category: Food & Drink
+country: BR
+id: 6XasCMYNlWft
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '985188'
+publisher_name: Aiboo
+rank: '79'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

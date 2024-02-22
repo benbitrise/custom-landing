@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uvhLdSX9lA6YSVw2P4CH8tmQjfM-cF4nh78lfLLFRlJJlMw9GsN5AtVYdfqUVjFHRzA
+app_id: com.stunbystmubby.skinswallpaperslive
+app_name: Wallpaper special stumble guys
+app_screenshot: https://play-lh.googleusercontent.com/qo1WD2g2p_p2sRRmJSflbFagvMmeiFE2RXpBHlqzbz4OmlrEQ1IsE6YQKwAPcJOVTc1V
+category: Books & Reference
+country: PL
+id: 4dC2rwJ999Rr
+language: fr
+most_recent_release: '2023-05-24T00:00:00'
+publisher_id: '2578136'
+publisher_name: ORANGEBOX WALLPAPER INC
+rank: '67'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

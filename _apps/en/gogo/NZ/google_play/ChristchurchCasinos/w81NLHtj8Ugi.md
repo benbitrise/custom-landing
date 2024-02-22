@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/e-EAYL_eAXBiKZpG3W-NZdDTQlau_Lv5WOk4_yvXH_hRZzc2FzAxXhsC310q3f5Pew
+app_id: nz.co.christchurchcasino.playersclub
+app_name: Players Club
+app_screenshot: https://play-lh.googleusercontent.com/nZHvFY7p9iD5O8knOBU6J4C_IeXw_7wZn3wnRf7X31m04E8cjAIQiOP0IUfixCHS2qA
+category: Entertainment
+country: NZ
+id: w81NLHtj8Ugi
+language: en
+most_recent_release: '2023-11-29T00:00:00'
+publisher_id: '2133608'
+publisher_name: Christchurch Casinos
+rank: '88'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

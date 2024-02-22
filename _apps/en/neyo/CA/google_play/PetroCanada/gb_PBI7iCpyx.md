@@ -12,7 +12,7 @@ publisher_id: '153326'
 publisher_name: Petro-Canada
 rank: '1'
 release_count_in_past_year: '9'
-release_count_in_past_year_category: 16
+release_count_in_past_year_category: 10
 release_count_in_past_year_top_in_category: 16
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

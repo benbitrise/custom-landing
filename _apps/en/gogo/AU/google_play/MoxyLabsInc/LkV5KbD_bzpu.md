@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/pmIcTIZ0_hSl6cRW3HpFzS1uLVpYNDQQd4vUqP3CYd1V02F3RlvH4PJ-g4i_qxN6wZ1s
+app_id: two.factor.authenticator.generator.code
+app_name: Authenticator App
+app_screenshot: https://play-lh.googleusercontent.com/geC-i2079Lb_wdMSnQDRKKSq0d7zXJao-BTDq0qtSt_XQO2rsBagovXbUIDSI0dk9Q
+category: Tools
+country: AU
+id: LkV5KbD_bzpu
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2897441'
+publisher_name: Moxy Labs Inc.
+rank: '116'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

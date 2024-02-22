@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/nbP5C2Z6BOASArkhePj57tPpGhpztcQqlj_4udpwutwNpuV1eSTYYt3KvNXMFhNv0bk8
+app_id: de.pixelhouse
+app_name: Chefkoch - Rezepte & Kochen
+app_screenshot: https://play-lh.googleusercontent.com/EedNFKRI_Ccvyh9CIsv7WTxhoDUvuQvmGmZ7pL9W1Zduk3A1aJoz0xK0X6CGbGV-SA
+category: Food & Drink
+country: 'NO'
+id: 9W5Vc0xB_-DS
+language: fr
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '710690'
+publisher_name: Chefkoch GmbH
+rank: '307'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

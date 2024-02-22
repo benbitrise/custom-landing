@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8YJJL_JD_YvPnWVPSKO-5VCMXQBq4UfbGglZgliNZpT0echocWo7OY-gr0LK4e35oQ
+app_id: br.com.w12.bluefit
+app_name: App BF
+app_screenshot: https://play-lh.googleusercontent.com/5oIl-NbMxb0JAJ752SiPX68w-Wt6hDlDeXh3qIYBOL6e0K_7MLuXb9HiLTGqHyGaQwb5
+category: Health & Fitness
+country: BR
+id: z-z6ZXosPZBV
+language: en
+most_recent_release: '2023-10-13T00:00:00'
+publisher_id: '2202236'
+publisher_name: W12 EVO
+rank: '206'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

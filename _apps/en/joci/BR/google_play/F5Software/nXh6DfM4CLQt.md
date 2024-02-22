@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/j55faCsg4xl-BSRSEpaqIAOjFdyUoOJOv4TxS8rmL6K0ROSgfURkR-HEeoN_MmJeXqM
+app_id: br.com.f5sg.sieventos.appgem
+app_name: Gêmeos Produções
+app_screenshot: https://play-lh.googleusercontent.com/fNjvblPOyaDi7P3KhYzKi8azHOKOVsvlQca1rgrQizH9k75NzB6wAnWnKmGtmTQ1_A
+category: Events
+country: BR
+id: nXh6DfM4CLQt
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '1835995'
+publisher_name: F5Software
+rank: '93'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

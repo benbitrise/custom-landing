@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AGAcYSh8SGvi7bRf94_sNhoUCaSH-lRN_F7ZhZ7AvNx5Q7qki9PAGQUhfUVIYzVAEw
+app_id: videochat.juds
+app_name: Juds- Random Live Video Chat
+app_screenshot: https://play-lh.googleusercontent.com/jeglOQzJR0dc9T9IcQ7B_kHfjUGv_K2aDDsUp_LaVbd4Y6bujV4nOiJi8Kw2RUOo62g
+category: Social
+country: CA
+id: TbHMauJ-Z7Y5
+language: en
+most_recent_release: '2023-10-26T00:00:00'
+publisher_id: '2905814'
+publisher_name: Metaspeed Ltd.
+rank: '158'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

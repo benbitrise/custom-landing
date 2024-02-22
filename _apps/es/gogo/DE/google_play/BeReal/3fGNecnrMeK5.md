@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8Lu1K0dDM8hFB3wlkUgUvOOw9hc7NRwVijiEPqeXZhzz7t2Q3jktTZ_aqT3kofwurG4
+app_id: com.bereal.ft
+app_name: BeReal. Your friends for real.
+app_screenshot: https://play-lh.googleusercontent.com/WBcUgrh3me0IEecTL5Og9VnZFZ-92xcERMObk3CNmhLuL1DfbbSA8YfsOSiJP1ENEk8
+category: Social
+country: DE
+id: 3fGNecnrMeK5
+language: es
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2316202'
+publisher_name: BeReal
+rank: '13'
+release_count_in_past_year: '46'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

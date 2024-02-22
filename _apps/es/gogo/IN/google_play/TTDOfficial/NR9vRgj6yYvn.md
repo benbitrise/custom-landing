@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Qn1iMHuYqzQVJojX3x1cgDzHSjzrJMncNHMRscoMFpSNBjN2OpSj_tV6m-WxyFLPYg
+app_id: com.ttdapp
+app_name: TTDevasthanams
+app_screenshot: https://play-lh.googleusercontent.com/nIoulRI6Lg9lCtW8nzR2fzhqBgx0cuCWKR2M3YshTrMUAw1cjN3JyMlaDcxo7INarco
+category: Travel & Local
+country: IN
+id: NR9vRgj6yYvn
+language: es
+most_recent_release: '2023-10-19T00:00:00'
+publisher_id: '2225944'
+publisher_name: TTD Official
+rank: '63'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

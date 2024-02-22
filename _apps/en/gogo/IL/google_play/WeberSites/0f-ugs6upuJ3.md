@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fQXAnK3BxH55tVnMwmKfpijnNI6yDodV6QSMuAxhJXAWluw9yk_YbVJQggycoCm8X30
+app_id: il.co.PriceZ.android
+app_name: פרייסז-השוואת מחירי מזון ופארם
+app_screenshot: https://play-lh.googleusercontent.com/EvqoxrfWM5iYqjyzyNnpThw5oIH2ex8T2xhpbu10vVt-tj8stM_5Ptq1ktdW4HxkMYk
+category: Shopping
+country: IL
+id: 0f-ugs6upuJ3
+language: en
+most_recent_release: '2023-12-22T00:00:00'
+publisher_id: '39930'
+publisher_name: Weber Sites
+rank: '26'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

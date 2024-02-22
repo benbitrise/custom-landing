@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_DvlinvWgTdo1LcJ7v2JwzD5H4yj1e4hBsz2GC1p8P3WvTzbIIs6zJ79PmYeauY8J20
+app_id: com.sportigoaccess
+app_name: Sportigo
+app_screenshot: https://play-lh.googleusercontent.com/fdUmDaMSXQcr7HXot2rhBx8An8JqtS11-fmJleMaaBp_L2dlB1Wv67Yg5mRwW-9cT-g
+category: Sports
+country: FR
+id: 52I-9dU2yxVo
+language: en
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '2547833'
+publisher_name: SPORTIGO
+rank: '70'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/i9ZZRoH16KVLLQoKSVLDzVhlcdNAeaag-UcY2-r8plRcWVN2jGK-S4fxngQOpjs3sw
+app_id: com.fun.mxw
+app_name: Fun Print
+app_screenshot: https://play-lh.googleusercontent.com/izHjxnwOz53L5G_8wiJvRTyGEwm48yMousg-OdFn0XrkQhbjkalk18Lv-cG0DVXwPEo
+category: Tools
+country: GB
+id: zAztE2Nrlmn_
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2644445'
+publisher_name: yintibao
+rank: '82'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

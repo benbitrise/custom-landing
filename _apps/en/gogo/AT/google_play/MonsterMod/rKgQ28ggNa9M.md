@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qQ5PpbpeQkz22VT0x6iL21iJJRUlwsEYHu2puTdTFucVgafHYgqRYqTHKg0dJgKqHJQ
+app_id: com.monstermod.bussidindianmodlivery
+app_name: Bussid Indian Mod Livery
+app_screenshot: https://play-lh.googleusercontent.com/vR6sCk48GZsGkjC4YH1Le0I3iaMYCoVfbyat-GyQJGCjHbtHqyoptKsuE2sGQwjHEQ
+category: Events
+country: AT
+id: rKgQ28ggNa9M
+language: en
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '2125099'
+publisher_name: Monster Mod
+rank: '135'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

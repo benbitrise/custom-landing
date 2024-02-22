@@ -1,0 +1,25 @@
+---
+app_icon: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/c6/ad/f3c6ade1-3f1b-0471-690c-3be0e0b1593a/AppIcon-1x_U007emarketing-0-8-85-220.png/1024x1024bb.png
+app_id: '1623554743'
+app_name: Ecmanage
+app_screenshot: https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4c/17/f1/4c17f139-3b88-9fcf-ed8a-f2bff91dd545/b8001d94-8e5d-46f3-b1c5-0fa5b60421f6_dahboard.jpg/1242x2688bb.png
+category: Business
+country: NL
+id: m0ZzLr9Zia_I
+language: fr
+most_recent_release: '2023-08-30T00:00:00'
+publisher_id: '1623554745'
+publisher_name: eCmanage B.V.
+rank: '512'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

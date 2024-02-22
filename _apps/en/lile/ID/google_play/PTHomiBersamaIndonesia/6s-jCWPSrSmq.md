@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vn6dJEV7Lph1sEQgeRMMRjd_mvaWtygeOtkKO9K-vTUD2sVgjgHxtPGsDo6UO9KNTM9j
+app_id: id.homi.app
+app_name: Homi Banget - Rumah Baru & KPR
+app_screenshot: https://play-lh.googleusercontent.com/MipA8HH2hFjOe4teHgZ8WF5f-a1YTpafX9Zq8gR39_PBnVyKtwBaRBGTTsvFu8UZVAhN
+category: House & Home
+country: ID
+id: 6s-jCWPSrSmq
+language: en
+most_recent_release: '2023-09-15T00:00:00'
+publisher_id: '2739811'
+publisher_name: PT Homi Bersama Indonesia
+rank: '106'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

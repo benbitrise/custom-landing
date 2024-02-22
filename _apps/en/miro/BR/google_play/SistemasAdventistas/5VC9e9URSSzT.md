@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5sBH4bL7R3rsYE9gPyG3FJfPqbugzWdnsnJxWBoyJWpMIZ_IFM2k8v8sFTeZ05zFcA
+app_id: com.iatec.acms.me
+app_name: 7me
+app_screenshot: https://play-lh.googleusercontent.com/dXo9EDhWEhOkvqH_bbUUnIY3LjNYcSQOGUyr611jQECpdN4-XnPspFQsOFsv8QgR4Jpw
+category: Lifestyle
+country: BR
+id: 5VC9e9URSSzT
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '1335792'
+publisher_name: Sistemas Adventistas
+rank: '160'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

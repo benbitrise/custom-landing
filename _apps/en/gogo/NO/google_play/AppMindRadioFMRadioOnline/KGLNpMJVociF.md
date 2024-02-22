@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y0nfB2-rROlOBRIO6ahkGDNYKfHs0BAXVlaV0kRd2QjGN5zUkjedOeKvobkEyyx-jYE
+app_id: com.appmind.radios.pl
+app_name: Radio Polska - Radio FM
+app_screenshot: https://play-lh.googleusercontent.com/QPCy8RxAbwgzd_TCQ95dqsAZYfKFHQ_in2AzLLDzm0dWQ57-tIHN3OxWkenzE50eWe8
+category: Music & Audio
+country: 'NO'
+id: KGLNpMJVociF
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '2621714'
+publisher_name: AppMind-Radio FM, Radio Online
+rank: '193'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

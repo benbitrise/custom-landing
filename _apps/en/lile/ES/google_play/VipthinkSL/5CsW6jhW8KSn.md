@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9YZ58Eu_pbThBzDfoMjYKt9_NhgRdEOaFBCCdiGEFq63PuQnFVQm3g1IqFHYOApqf4w
+app_id: com.hoomvip.app
+app_name: Hoomvip | The app for your tou
+app_screenshot: https://play-lh.googleusercontent.com/0zSkyl1fj0YPEVjv3sitiMl7JjE9Wi4OCt_dM2ywSKBRezRvS944z-jEE3ZUelxp-nw
+category: Travel & Local
+country: ES
+id: 5CsW6jhW8KSn
+language: en
+most_recent_release: '2023-09-19T00:00:00'
+publisher_id: '2302430'
+publisher_name: Vipthink S.L.
+rank: '198'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

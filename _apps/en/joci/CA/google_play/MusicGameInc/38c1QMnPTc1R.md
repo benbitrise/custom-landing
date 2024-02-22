@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sUQXiNF8LSZk9924gkWGs7xsl-bpUKmwpefmDBKB7fc2ZkomHiuEdQGlzbu37MtqwQ
+app_id: com.freemusic.offline.usa
+app_name: Free Music - music downloader
+app_screenshot: https://play-lh.googleusercontent.com/IVcrFeke0hvE7xuUnTeGR_FkjqzRM6v9JkS6fkwKuxAEcoTf0Guj4PHcLwPl0XLbikE
+category: Music & Audio
+country: CA
+id: 38c1QMnPTc1R
+language: en
+most_recent_release: '2023-12-22T00:00:00'
+publisher_id: '2192192'
+publisher_name: Music & Game Inc.
+rank: '35'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

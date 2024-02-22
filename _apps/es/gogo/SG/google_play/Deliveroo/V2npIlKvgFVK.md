@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/96JMV4psTHKt8Luv0GzpEWkoUoeGJvt8WrrV2eDqbcQe6jcfjfjmwwhe9UavwwdjGg
+app_id: com.deliveroo.driverapp
+app_name: Deliveroo Rider
+app_screenshot: https://play-lh.googleusercontent.com/9YizY_LK6IRMXJnmqYAdKlTi0Fn6bKSFmE63yo-P2IDtpRLVrbF3lLj8nzO8e-kAFkY
+category: Business
+country: SG
+id: V2npIlKvgFVK
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '876442'
+publisher_name: Deliveroo
+rank: '117'
+release_count_in_past_year: '34'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

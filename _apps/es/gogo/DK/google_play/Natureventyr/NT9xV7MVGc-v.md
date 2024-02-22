@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/b9JuAGF5g_Bar4b3xI8XpCO9ghMwvubD_oifKn4MM3eflcU938WaVOl5PXKT5kVsWFg
+app_id: nu.natureventyr.app
+app_name: Natureventyr
+app_screenshot: https://play-lh.googleusercontent.com/VrHyrJMN9rdV9X6aavuEXWlyWyIr4PEvP6daF-VtMKaSutLzL23VcfUYDN1jXQ-NhQ
+category: Entertainment
+country: DK
+id: NT9xV7MVGc-v
+language: es
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '2203486'
+publisher_name: Natureventyr
+rank: '61'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

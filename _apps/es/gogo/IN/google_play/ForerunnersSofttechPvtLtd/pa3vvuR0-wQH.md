@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/achbN0GALxlnv2GgpUXBZzHYLMS7AKOSLrRVLsR_BVCzUMkzxHvY4DdVH7EWqKpynQ
+app_id: info.videoplus
+app_name: 'i2i Live  : Live Darshan, Even'
+app_screenshot: https://play-lh.googleusercontent.com/8zukFkAnM8cAWp1jKI1lbaOpTwe9i0bL8wZCutawL9IWFbk72pQRFuci-YGPJFUox5Q
+category: Events
+country: IN
+id: pa3vvuR0-wQH
+language: es
+most_recent_release: '2023-10-31T00:00:00'
+publisher_id: '1413171'
+publisher_name: Forerunners Softtech Pvt. Ltd
+rank: '135'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

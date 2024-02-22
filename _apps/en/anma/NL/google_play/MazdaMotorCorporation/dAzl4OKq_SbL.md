@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/oLcPcJfLagxkJbKmZ3vOT29aR4vYi5zX-sO7qG8b3xSyNzcWXwH8qEtkY7hbQ36btrFI
+app_id: com.interrait.mymazda
+app_name: MyMazda
+app_screenshot: https://play-lh.googleusercontent.com/RbuIe5ZNrXH51o42XB3bMflb8_8G8f7ROv3qLUNCGTxAp8SiBqjfP-c-hQYI9v5C7M2q
+category: Lifestyle
+country: NL
+id: dAzl4OKq_SbL
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '2151417'
+publisher_name: Mazda Motor Corporation
+rank: '206'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

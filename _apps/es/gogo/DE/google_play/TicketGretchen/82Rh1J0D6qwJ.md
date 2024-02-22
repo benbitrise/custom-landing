@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/NItrE0De-sEjecgz_fTviyFxAbGl2AfGXTd4uhYlxA6JbfOOnrVCMORRPe50N76gZA
+app_id: com.ticketgretchen.tgapp
+app_name: Ticket Gretchen - Event App
+app_screenshot: https://play-lh.googleusercontent.com/bGGWZK9uTh-mQEQlMxr5P4EfYHjTt3aRK4aR7PXzDI30Gl18iw3d-oGKmKuXxmXRnT4
+category: Events
+country: DE
+id: 82Rh1J0D6qwJ
+language: es
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '724869'
+publisher_name: Ticket Gretchen
+rank: '58'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

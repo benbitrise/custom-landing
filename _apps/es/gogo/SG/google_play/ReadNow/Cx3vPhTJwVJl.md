@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ipoqdpLeEICYRIuPD5zQLn_U1sdg7oAc0-Ab2wCgTdE0k9eSNCS-C9i6SN_2T6_T2w
+app_id: com.jr.cdxs.stories
+app_name: 暖暖小說 - 小說閱讀器  蝕骨蜜寵：前妻渾身是寶
+app_screenshot: https://play-lh.googleusercontent.com/7lBhvSFpJawYjc6Dp1VgA9oT1B4khPsG7f2LAvNHs0Nz3d3KAHQjpID8BpNKk8sCoQQ
+category: Books & Reference
+country: SG
+id: Cx3vPhTJwVJl
+language: es
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2629143'
+publisher_name: ReadNow
+rank: '114'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

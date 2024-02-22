@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tNsMESAPKNpbZizgyepzWh5EcKkqFJky0er96gNXby6Doy9RJb8unX8Z5h73PMReYg
+app_id: com.xm.webapp
+app_name: XM - Trading Point
+app_screenshot: https://play-lh.googleusercontent.com/t6sW4DnPMeHPj8OFA2pR9q_1BGthZFlgUcMR8e4SufmgB8KBpRhEnpqZtL3ZAwmQJBRZ
+category: Finance
+country: AE
+id: W8mXY2kAeWiZ
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2628291'
+publisher_name: Trading Point Group
+rank: '146'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

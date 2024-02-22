@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/0c/a7/ef0ca7ef-d3dc-3db0-9ece-7575e6594684/AppIcon-1x_U007epad-85-220.png/1024x1024bb.png
+app_id: '1631768365'
+app_name: INX Workforce Kiosk
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ef/9f/a8/ef9fa82f-4099-5397-67b6-ef5f04e7d597/b70195c2-77b1-4c59-9edd-2ac0575c5f52_01_signup.png/1242x2688bb.png
+category: Business
+country: AU
+id: Az7IAVTdHX-H
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '813467626'
+publisher_name: INX Software
+rank: '72'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vTvutRd1DbceBuMyXv3voaHjVY5YnYyo2L9VyDbdQZd_SAnZ7Y98YHVNfptKXxUUjbtu
+app_id: com.liverymod.modminibusbussid
+app_name: Mod Minibus Bussid
+app_screenshot: https://play-lh.googleusercontent.com/HYeMsV1Er7SFpYFnGKR1zcgBOMt2yth0ka1lQvJ43xsBz06VHXID4Kni4VnAdCrmxg
+category: Weather
+country: TR
+id: jHRmAx9lTArQ
+language: en
+most_recent_release: '2023-06-16T00:00:00'
+publisher_id: '2936894'
+publisher_name: Livery Mod
+rank: '135'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

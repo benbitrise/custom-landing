@@ -12,8 +12,8 @@ publisher_id: '2494295'
 publisher_name: Magazine Luiza
 rank: '4'
 release_count_in_past_year: '24'
-release_count_in_past_year_category: 38
-release_count_in_past_year_top_in_category: 38
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

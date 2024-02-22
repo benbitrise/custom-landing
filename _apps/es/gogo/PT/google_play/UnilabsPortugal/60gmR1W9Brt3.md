@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KuNpdOYwlsCE-hA4DLZmgVaLHKcPCZd4DkxksZ7l5TDvOVHZIbX6w1L0iJuG33A4NKo
+app_id: pt.saudeunilabs
+app_name: Saúde Unilabs
+app_screenshot: https://play-lh.googleusercontent.com/uu5lHasKauh7aQNWSQGHw55xnZrjcDn4cd-03LLQKxfhZnOLOXOxLSHj7aqJ-6trcQ
+category: Medical
+country: PT
+id: 60gmR1W9Brt3
+language: es
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '2342797'
+publisher_name: Unilabs Portugal
+rank: '1'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

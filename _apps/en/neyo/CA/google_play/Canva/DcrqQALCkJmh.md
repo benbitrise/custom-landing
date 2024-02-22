@@ -12,8 +12,8 @@ publisher_id: '1488201'
 publisher_name: Canva
 rank: '1'
 release_count_in_past_year: '52'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

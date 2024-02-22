@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/f9h5zdXDRbw-kAe0xlIfx4fhNLU_r8uMNPcGwIaxOJagf9iQXwUOVRQR640iwzvteIA
+app_id: jp.co.kahoku.digitalnewspaper.and
+app_name: 河北新報
+app_screenshot: https://play-lh.googleusercontent.com/uKax6ydr1CREuFEbGtctXSQ3QiLtDSgV4VQ8RpszHXbvtvG2V0uRE_8Y8wIWR-za11Y
+category: News & Magazines
+country: JP
+id: 3xvi23hjpwTG
+language: fr
+most_recent_release: '2022-11-04T00:00:00'
+publisher_id: '351325'
+publisher_name: KAHOKU SHIMPO PUBLISHING CO.
+rank: '75'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

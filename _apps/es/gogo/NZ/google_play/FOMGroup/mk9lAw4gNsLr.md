@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4R4crRIj_mvQBsEBHWkULAiN3xyxv51dj4L1z9dSuWzmn9Kh-AVI78yCQhsiQKjlTw4
+app_id: io.fomdev.arzonapteka
+app_name: CheapPharmacy — Med search
+app_screenshot: https://play-lh.googleusercontent.com/PH1Y0SX1hQkXxSUS2EdVTI4UKJxYZtnQD0z-KvHmZWtQ16C-s-LrHgKmR_MQtW8r9Q
+category: Medical
+country: NZ
+id: mk9lAw4gNsLr
+language: es
+most_recent_release: '2024-01-14T00:00:00'
+publisher_id: '2321723'
+publisher_name: FOM Group
+rank: '190'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

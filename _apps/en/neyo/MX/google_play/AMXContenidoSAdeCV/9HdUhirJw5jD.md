@@ -12,8 +12,8 @@ publisher_id: '2208148'
 publisher_name: AMX Contenido SA de CV
 rank: '4'
 release_count_in_past_year: '2'
-release_count_in_past_year_category: 5
-release_count_in_past_year_top_in_category: 5
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

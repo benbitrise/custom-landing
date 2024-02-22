@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TYhoh2aLiSSh6Zfo82as5ufUpMFzeq91cgZx7jzrlz-NMeiVdk_M7bERPhhELNm5zDI
+app_id: bajajfinserv.in.hrx.app
+app_name: Bajaj Finserv Health
+app_screenshot: https://play-lh.googleusercontent.com/lNp_uoMI29xG0Pkj3-B4Ol-ayK8DeJjXc810WBnZHUlmyCyXKr7SfG3zhxSBviz8bT6C
+category: Medical
+country: IN
+id: 6T0zm5CDo9zX
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2572503'
+publisher_name: 'Bajaj Finserv Health: Consult Online, Aarogya Care'
+rank: '24'
+release_count_in_past_year: '34'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

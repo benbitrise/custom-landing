@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QNP0Aj2hyumAmYiWVAsJtY2LLTQnzHxdW7-DpwFUFNkPJjgRxi-BXg7A4yI6tgYKMeU
+app_id: com.globe.gcash.android
+app_name: GCash
+app_screenshot: https://play-lh.googleusercontent.com/T4aAIlve64wBDWZ7Z9SKcGVtqyIGloHQ3OvoO8tUShYd9bkW0vtnwwmFhPKIR2gd4w
+category: Finance
+country: CA
+id: oHHJXKmkruLV
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '1609431'
+publisher_name: Mynt - Globe Fintech Innovations
+rank: '109'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

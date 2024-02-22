@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9qqRqnEfRSq4KsXq-rK7h6UwMwhDGXWVtHUbKU8NdqrtE4_MLKUJYoQFXsGo1FDs1w
+app_id: com.simyo
+app_name: simyo
+app_screenshot: https://play-lh.googleusercontent.com/XbHzm3V6J8Hvll7lpEU41bDrl9h0IpLErRLVnBgSpcTF80vAgEchdvvW3rWDnjXGeIGc
+category: Tools
+country: ES
+id: CFQGsS0AcZXp
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '541282'
+publisher_name: simyo.es
+rank: '179'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c8HAo5QBsVDMGIcokLyP2pCXsq-PgNat2G-B9Cm_iFCrbfCjIGOZZM21lH-iJRA8Zw
+app_id: com.cc.grameenphone
+app_name: GPAY
+app_screenshot: https://play-lh.googleusercontent.com/SDfjaXmwXQqeILHFkfg4zQJC9B5K7Jir0PsJFXiWEHYAGsyK3rzsCF9WoB5GdKoIRkg
+category: Finance
+country: AE
+id: E5lr2YQ0DEKB
+language: fr
+most_recent_release: '2023-03-30T00:00:00'
+publisher_id: '1068640'
+publisher_name: Financial Services GP
+rank: '79'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jcBDe3o4Z_SFh_2DhLgOW-M_fil0OtZLXSVtRdpJL0jCjZRE4ImQH-sWdej0BxIkeA4
+app_id: pl.sephora.sephorapoland
+app_name: SEPHORA - Perfumy i Kosmetyki
+app_screenshot: https://play-lh.googleusercontent.com/vi82ucPuT34Dg6TlqBqhXMmdxFyStsSGKYqMhzD1CGJfTolsLSCHIvVBsbfCJholMfkf
+category: Shopping
+country: PL
+id: qTT2DWjmUPvb
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '741297'
+publisher_name: SEPHORA
+rank: '75'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

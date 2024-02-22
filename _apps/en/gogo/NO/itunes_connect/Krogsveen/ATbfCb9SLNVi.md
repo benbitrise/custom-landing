@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/be/a4/a5bea436-f926-d0ce-57d1-03faef9bfb0b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1629673454'
+app_name: Krogsveen MeglerApp
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ac/59/b6/ac59b625-0788-0645-3af1-d58515526876/636056dc-510e-4962-bb2f-dc2da617588b_Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2023-06-16_at_22.54.46.png/1284x2778bb.png
+category: Business
+country: 'NO'
+id: ATbfCb9SLNVi
+language: en
+most_recent_release: '2023-10-02T00:00:00'
+publisher_id: '650813971'
+publisher_name: Krogsveen
+rank: '404'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

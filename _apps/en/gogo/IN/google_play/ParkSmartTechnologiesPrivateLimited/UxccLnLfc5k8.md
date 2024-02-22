@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KTC0MyKBd3LigQM1TxjRaQtFPmutqFffEes2SKur3u981IHPm_2hJX1EtmoRtaZHK44
+app_id: in.parksmart.user
+app_name: ParkSmart FASTag, RTO, Parking
+app_screenshot: https://play-lh.googleusercontent.com/bUSUj819VM59Tn7Izbzmj3L6avyrgAA59zyuLcZkseSqhOaBiGHNa4veSeynTmCrZrw
+category: Auto & Vehicles
+country: IN
+id: UxccLnLfc5k8
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2492372'
+publisher_name: ParkSmart Technologies Private Limited
+rank: '182'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HxBiN_p0rYRA9XMw1MXURd0VVGNTv5QbFKs704IrovspspXY-fOt_amYw-Cj2xL88q0
+app_id: com.partannasoftware.scherzo
+app_name: scherzi telefonici illimitati
+app_screenshot: https://play-lh.googleusercontent.com/SSgCOe68jmP-FET_RnN3MiySbdn2nYbWiKZ3Hh6hD9lbaXtHDtH5Eh5UYoSuGp_NcKE
+category: Communication
+country: IT
+id: bxl8D21g76rz
+language: en
+most_recent_release: '2023-02-15T00:00:00'
+publisher_id: '551231'
+publisher_name: partanna software
+rank: '61'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

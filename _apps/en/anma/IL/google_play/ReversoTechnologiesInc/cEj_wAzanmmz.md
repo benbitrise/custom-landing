@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: cEj_wAzanmmz
 language: en
-most_recent_release: '2024-01-30T00:00:00'
+most_recent_release: '2024-02-20T00:00:00'
 publisher_id: '2221701'
 publisher_name: Reverso Technologies Inc.
-rank: '5'
-release_count_in_past_year: '22'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+rank: '13'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: anna.magnussen@bitrise.io
 rep_first_name: Anna
 rep_full_name: Anna Magnussen

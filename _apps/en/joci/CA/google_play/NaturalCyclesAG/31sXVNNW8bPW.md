@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/LBQ0Fvw1ZgBZAzvSNOGkGYXNuA-4TZpX8OcGdtvoqQncUHBjCXu_eTGHcDDb_PvI-ajx
+app_id: com.naturalcycles.cordova
+app_name: Natural Cycles - Birth Control
+app_screenshot: https://play-lh.googleusercontent.com/M17kCUezyaaIz3MB5lGVY2snsoGjSFAnGuo8vRx3BioE-Bm8OeSvdFmpk_njBovT_g
+category: Medical
+country: CA
+id: 31sXVNNW8bPW
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '392124'
+publisher_name: NaturalCycles AG
+rank: '41'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

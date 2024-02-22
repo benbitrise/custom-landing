@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fyynlwd1dW_tFo9a3T4mLgjr3asjsz_oWsnDNNQqXjS-lEnRgF0jSje89NaL4WTYyA
+app_id: jp.summervacation.shiftna
+app_name: 看護師 ナースのシフト管理カレンダー：シフトナ
+app_screenshot: https://play-lh.googleusercontent.com/TIDuTCaOD1Qk1e970Aw9aHxLzrtiFCdcsHo4a6O2CczjN1dwbCmWImvlU178kgdg_NI
+category: Medical
+country: JP
+id: MlmINNOd2pdx
+language: en
+most_recent_release: '2023-10-27T00:00:00'
+publisher_id: '177524'
+publisher_name: Medicle Inc.
+rank: '129'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

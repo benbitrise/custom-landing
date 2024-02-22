@@ -12,8 +12,8 @@ publisher_id: '2231587'
 publisher_name: Too Good To Go Aps
 rank: '1'
 release_count_in_past_year: '25'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

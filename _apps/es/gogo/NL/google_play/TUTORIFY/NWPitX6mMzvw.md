@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ctGBhaDzJmrAnGaQPODVKPUtNZ7QcERvb6u7h3dQ6xZh99kaBrzW3IMeuv9NCg7hkgk
+app_id: what.a.woman.want.in.a.man.ttf
+app_name: What A Woman Want In A Man
+app_screenshot: https://play-lh.googleusercontent.com/frKRqM8w7AurbM7Zri1R8FgUj8V1D6Qsw68Edj7dAYDaIpTzAGoKyE1oM7W6BWrKCw
+category: Dating
+country: NL
+id: NWPitX6mMzvw
+language: es
+most_recent_release: '2023-08-13T00:00:00'
+publisher_id: '1836294'
+publisher_name: TUTORIFY
+rank: '290'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

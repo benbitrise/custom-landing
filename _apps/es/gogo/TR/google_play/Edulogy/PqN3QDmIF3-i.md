@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VqOGXEuefNOHJ4JsaL9gtl-tZWNvPAddRhNB_w07uZ5aGrXuG6KtIRcbVZ96sr1r1w
+app_id: com.ozelguvenlik.sinavsorulari
+app_name: Özel Güvenlik Sınav Soruları
+app_screenshot: https://play-lh.googleusercontent.com/3YKT336DDybHu4ZNxchT665SOZW845zURTQwND_0p9Q3FcauR5Ubvl9r40ci_YEJ0Q
+category: Education
+country: TR
+id: PqN3QDmIF3-i
+language: es
+most_recent_release: '2023-09-13T00:00:00'
+publisher_id: '2302982'
+publisher_name: Edulogy
+rank: '99'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

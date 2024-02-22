@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XlilVvAKqPZI41OEcCwMzVewJEmiODolHY17aRsCdf0M1CCxrIGeZswX4CuwWcSf2g
+app_id: com.name.latest.babyname
+app_name: Latest Baby Name
+app_screenshot: https://play-lh.googleusercontent.com/U-jAt5Ya5-SBAl_8WwAjbtg_YlbDA_UPT-lZq1xBcJ71vEaKXx-yE3c2rLVZ-U4NMck
+category: Parenting
+country: IN
+id: bdJ5QBaxw4Tf
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '1945194'
+publisher_name: rhp developer
+rank: '80'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

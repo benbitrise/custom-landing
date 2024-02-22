@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TwRDT0Evi16_QxafjupXa7ZNFlp1_emjtke8xJ2sfJu7MpN4kogrP-xV-15dDZa1liA
+app_id: ch.monstar.android
+app_name: モンスター・チャンネル
+app_screenshot: https://play-lh.googleusercontent.com/BCz_mOcXzkOCidt3CuNnDK86sP3-2xYbYN-FiSHouoeapgtlhYQYW7araDvyKVA1vh8
+category: Music & Audio
+country: JP
+id: R2CeCYCqIya3
+language: fr
+most_recent_release: '2023-12-12T00:00:00'
+publisher_id: '2245166'
+publisher_name: モンスターラボミュージック
+rank: '205'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

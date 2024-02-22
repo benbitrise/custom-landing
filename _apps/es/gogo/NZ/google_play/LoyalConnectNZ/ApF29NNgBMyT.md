@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3eA0VMzByJzsFu0PVs42KRBHzIatTC_3OX8TlgdyhvjkyiK7LHZ3sfwQ4a0yPfZEA0y5
+app_id: com.loyalconnect.maestro
+app_name: Maestro Hospitality Loyalty
+app_screenshot: https://play-lh.googleusercontent.com/qNDfItuTXDDnUH0SVQiibNMegyCDuH_8E-lX3LDL03553eQmRIQ2ewHoGisO252TmM9W
+category: Lifestyle
+country: NZ
+id: ApF29NNgBMyT
+language: es
+most_recent_release: '2023-09-26T00:00:00'
+publisher_id: '2390432'
+publisher_name: Loyal Connect NZ
+rank: '144'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

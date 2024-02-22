@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/e3/45/83e345e5-697e-89cd-0221-495d81df51d2/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1122019108'
+app_name: LeadSuccess
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/0b/75/ad/0b75ad01-4202-189e-c2fe-5767dca7a0ce/pr_source.png/1242x2688bb.png
+category: Business
+country: BE
+id: Avci_eS6hylH
+language: fr
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '605391890'
+publisher_name: convey Information System GmbH
+rank: '407'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wTk_X2SLhEV17mA_RCUiDeVpF2o9jd8b7H9yzV0r7w1wXr6yIY1FBKHev1vfuwU7pg
+app_id: com.team.assistivetouch.easytouch
+app_name: Assistive Touch IOS 16
+app_screenshot: https://play-lh.googleusercontent.com/cAtssyK-ArmNZ1CuUjou8tuz4mgOSLAo5zZONbgvWXhhQbxYVSCJwcgpYYfyP1jkVw
+category: Personalization
+country: ID
+id: W45p8YaHdTBq
+language: en
+most_recent_release: '2023-11-07T00:00:00'
+publisher_id: '628267'
+publisher_name: Assistive Touch Team
+rank: '148'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

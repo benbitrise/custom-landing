@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PuR_O1jY0ij2yLO0rgz8_2fhE4GfPODLHIZG0XdnQfKR126f97gDaK_rQx2f-gP4vkY
+app_id: com.coastsoccer.csl
+app_name: CSL
+app_screenshot: https://play-lh.googleusercontent.com/_FVwth1wHcr8OoQlUMlyHSsdgZKIHXn13hyRt9DUhxGtmkoU3gQIDpD1xTnID6WmIw
+category: Sports
+country: IN
+id: 9O_vQCBWirPw
+language: en
+most_recent_release: '2023-11-28T00:00:00'
+publisher_id: '712004'
+publisher_name: CSL Media
+rank: '56'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

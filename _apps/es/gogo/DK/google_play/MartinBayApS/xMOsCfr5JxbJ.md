@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/38uNutOhURxBFrGLhbxRZnGVWCFoKxrVt_SMrYLCZSotKoNW-WX1ZN04BwYr7bCOk1g
+app_id: dk.redmaden.customer
+app_name: RedMaden (rescue the food)
+app_screenshot: https://play-lh.googleusercontent.com/i8oUxyyGFZX1KLkPXfuOjUGzNsbrt5GSpnyj6Ev46_NSxWWTqAtjvE3Hyh2acQGL1WU
+category: Shopping
+country: DK
+id: xMOsCfr5JxbJ
+language: es
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '1204373'
+publisher_name: Martin Bay ApS
+rank: '139'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

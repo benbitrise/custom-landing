@@ -12,8 +12,8 @@ publisher_id: '2935647'
 publisher_name: Smart AI DEV
 rank: '5'
 release_count_in_past_year: '20'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

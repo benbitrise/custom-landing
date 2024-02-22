@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xz1z_U6XlnZZwXotxH8p6ju-kdsmeu74aXX-528si8jOcV-YXApmI1b2GFeAh-fjN4u7
+app_id: be.gps.android81
+app_name: Emprova 8.1
+app_screenshot: https://play-lh.googleusercontent.com/R14oR1Uvn7FMioHCObkO0PCYZf8M3hMHfeSRCzLJkIO3muBa0jJaSyyI6WShRRhoOQAN
+category: Business
+country: BE
+id: 6xf4RzdQjgCa
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '1018947'
+publisher_name: GPS nv
+rank: '67'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

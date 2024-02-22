@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7Cu_ZidoVQls2BmrFFkhX-i-xIA0SpOO54gaSRW-29gpKhXNESEgOCm-7DnQNNyyqw
+app_id: com.balaji.alt
+app_name: 'ALTT : Web Series & More'
+app_screenshot: https://play-lh.googleusercontent.com/LJPhhz0rsLcIIP6EamMRvs8nwrZ6A46v4A0XBRghrmVpqJdXefVLUELwLYYZEuqAYlmr
+category: Entertainment
+country: IN
+id: 0pXi4GGGAQdR
+language: es
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1188059'
+publisher_name: ALT Digital Media Entertainment Ltd
+rank: '78'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

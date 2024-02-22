@@ -12,7 +12,7 @@ publisher_id: '1187933'
 publisher_name: Code Art BR
 rank: '4'
 release_count_in_past_year: '7'
-release_count_in_past_year_category: 12
+release_count_in_past_year_category: 7
 release_count_in_past_year_top_in_category: 12
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael

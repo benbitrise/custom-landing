@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a8/68/83/a86883bf-8f2e-4093-8eee-bc28db94e7d8/AppIcon-1x_U007emarketing-0-85-220-0-9.png/1024x1024bb.png
+app_id: '592062781'
+app_name: Samsung SMART CAMERA App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b0/ee/dd/b0eeddaf-9500-10f4-23ef-15a2dcb27728/mzl.wpllsiet.jpg/1242x2208bb.png
+category: Business
+country: MX
+id: cDG-N85T12Ml
+language: en
+most_recent_release: '2018-05-25T00:00:00'
+publisher_id: '359580642'
+publisher_name: Samsung Electronics Co., Ltd.
+rank: '519'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

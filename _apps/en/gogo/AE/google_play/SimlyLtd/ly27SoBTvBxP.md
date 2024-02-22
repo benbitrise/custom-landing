@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Yxvdmn5XyqB_5rIOloQ2VHRiurlC43DOPKopEJ1kH4ATdJ4NEndcimjUdEjB-CDZHpzZ
+app_id: io.simly.simlyandroid
+app_name: Simly - eSIM Internet Plans
+app_screenshot: https://play-lh.googleusercontent.com/VNHqnqAKnqqdsSBmd824NS0Po35-7UOwVRlK1gU06ECzHhlcQXwUAcJR9G3lSTiX768
+category: Travel & Local
+country: AE
+id: ly27SoBTvBxP
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2895363'
+publisher_name: Simly Ltd
+rank: '178'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

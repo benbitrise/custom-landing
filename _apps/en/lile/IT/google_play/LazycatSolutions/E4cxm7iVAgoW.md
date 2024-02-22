@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sy2eE_0ONRt1Pq34fRZs05EIUqznV0mSRshL6iiTs_vJN30r-YGogj1gI8TJ_fQ_kXk_
+app_id: it.lazycat.bonusapp
+app_name: Bonus e Pagamenti App
+app_screenshot: https://play-lh.googleusercontent.com/Tos2eL_zLreGsN2PUR827eZyipDBNFU9bNQW61IkyB_ri6G1-cEaOIrNaJ7mMtQEI9mP
+category: Productivity
+country: IT
+id: E4cxm7iVAgoW
+language: en
+most_recent_release: '2023-08-23T00:00:00'
+publisher_id: '2681806'
+publisher_name: Lazycat Solutions
+rank: '70'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

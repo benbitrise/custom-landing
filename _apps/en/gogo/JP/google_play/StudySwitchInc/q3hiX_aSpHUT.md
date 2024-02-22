@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YwdcYpH3XMbsCAkJRE47p13RXubvjlsQO1IRjqcbh2tfEFG_jh06ovg5wrCd3LbdL_U
+app_id: jp.co.studyswitch.dictionaryeiwa
+app_name: 英和辞典アプリ - 発音や例文、オフライン対応の英語辞書
+app_screenshot: https://play-lh.googleusercontent.com/-YAgrUnlVh-zSyU1m1Sz-nF2h6G-WY5E3E4Of-vdWb1W6Gx4SXP-8enuHp4xY2wZenY
+category: Books & Reference
+country: JP
+id: q3hiX_aSpHUT
+language: en
+most_recent_release: '2023-11-13T00:00:00'
+publisher_id: '1474966'
+publisher_name: StudySwitch, Inc.
+rank: '33'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BBZWuTAh2CPtR-BkH3dnaaJqmTfxLxxw8u-9wGBk8sSyO6dNNQa-xv5GLzN7a-auog
+app_id: com.videochat.dateu.online
+app_name: Join - Meet & Live chat
+app_screenshot: https://play-lh.googleusercontent.com/7p-4hcSMqLi_WAYlXstdl4sfVImrPf_eBxH5Jmcb2R1h0VfjcS-0TqQCumAjT7ZbOL4
+category: Dating
+country: ID
+id: r4Am0MxkHMdx
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2189437'
+publisher_name: sweet.dating.you
+rank: '54'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '19679'
 publisher_name: Caixa Econômica Federal
 rank: '3'
 release_count_in_past_year: '4'
-release_count_in_past_year_category: 31
-release_count_in_past_year_top_in_category: 31
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

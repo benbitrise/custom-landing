@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/loYnT1JeFhcaVS3DaaH6_SZUo1rkhHbOAkNo-7b78lW8bJhoX767dTLDFrnwAG9pfQ
+app_id: com.konest.map.jp
+app_name: コネスト韓国地図 - 韓国旅行に必須！完全日本語の韓国地図
+app_screenshot: https://play-lh.googleusercontent.com/kt3sMCsLBET1eU2RO_oByksqMCy2XplvULeoPH7-kDbm36VB2qTstwiEHa0mN1aN8kPF
+category: Travel & Local
+country: JP
+id: YpL_mv1tsqg9
+language: es
+most_recent_release: '2023-11-09T00:00:00'
+publisher_id: '2958556'
+publisher_name: KONEST
+rank: '81'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

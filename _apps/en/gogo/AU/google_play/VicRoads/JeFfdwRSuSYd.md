@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gmqykUYiLH333C20duTO-jMzABfeliOspgJ0N5-EWZA_WT6oBlrNbxrUKPSIfyY4Ag
+app_id: au.gov.vic.vicroads.dlk
+app_name: myLearners
+app_screenshot: https://play-lh.googleusercontent.com/10xv-3GW650sUP-Tp3bU0p0d2UwwyF-3Mw8_-d79Si5eQ7a1uX0Yxu0sBQlfFhQEOfXv
+category: Education
+country: AU
+id: JeFfdwRSuSYd
+language: en
+most_recent_release: '2023-09-13T00:00:00'
+publisher_id: '224996'
+publisher_name: VicRoads
+rank: '41'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

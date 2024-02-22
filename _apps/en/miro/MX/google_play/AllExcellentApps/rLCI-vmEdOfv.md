@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6GTF5Z0HGlsrSlw1R7rFuQPnWbSbqibXZESXCWSKJeZ9h8oXTuB6-Grmqbqmjm88BgA
+app_id: com.gpsnotecam.photonotesandgeotagging
+app_name: 'Note Cam Lite: GPS Camera'
+app_screenshot: https://play-lh.googleusercontent.com/k5owKfolRBdxn5Fq0B1rmamB_O-LXegPmnI9Vtz6BIwtMfSs7CgPpxv3EQJZm6Zj9N4
+category: Travel & Local
+country: MX
+id: rLCI-vmEdOfv
+language: en
+most_recent_release: '2023-12-25T00:00:00'
+publisher_id: '2301308'
+publisher_name: All Excellent Apps
+rank: '174'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

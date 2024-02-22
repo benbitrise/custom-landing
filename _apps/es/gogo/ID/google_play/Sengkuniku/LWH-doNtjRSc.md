@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/q2I53PaDqfFkqJ5VOsszS8kTEYHREDNkPLA0cTE9ctsK9AGBMxL9fF07eshG-6k3Rg4
+app_id: com.sengkunidev_bussid.modbossawitbussidterbaru
+app_name: Truck Bos Sawit BUSSID
+app_screenshot: https://play-lh.googleusercontent.com/JlchFmLfW9yqcjELSTPkaWdM3qcRssFwESb3BkN9aP6j0VRZzRLvskmpy4iJDS252A
+category: Art & Design
+country: ID
+id: LWH-doNtjRSc
+language: es
+most_recent_release: '2024-01-02T00:00:00'
+publisher_id: '2786351'
+publisher_name: Sengkuniku
+rank: '114'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

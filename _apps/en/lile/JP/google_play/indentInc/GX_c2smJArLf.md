@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/eKqAdkMENagox6aEiTmnbSBkyZ6tGnPa1--SNPdHlmo3bhlTKsw0kwMSYH9mOh8WDA
+app_id: com.nola.app
+app_name: Nola(ノラ) - 小説や漫画の創作エディタツール
+app_screenshot: https://play-lh.googleusercontent.com/bojVwEW3m71AWFw5q_e_hB5SA_MOrlnGEKZsTRXvSLkHEiSZb9phRRzcjwG0nYOWjZc
+category: Productivity
+country: JP
+id: GX_c2smJArLf
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '2360010'
+publisher_name: indent Inc.
+rank: '125'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

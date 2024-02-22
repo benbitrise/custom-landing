@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zdnoS9GBI8PoQ6MDRIYZ6ZIKL7drCre6Jr_lE5pD5p3M_PC-DTD-sMXUGAaY31SY_A
+app_id: com.mettaniadev.mettania.djterbaru
+app_name: Lagu DJ Remix Terbaru Offline
+app_screenshot: https://play-lh.googleusercontent.com/LpANebhMtvbLE0lX-Hl5TFVhi1yqfd_ZVkhOjJQBY0OcMY0yNXCBgOaKqziJDqGSJA
+category: Music & Audio
+country: ID
+id: rK1liNuHJwNX
+language: es
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2939562'
+publisher_name: mettania
+rank: '65'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

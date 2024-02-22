@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/e9U2rwLewfgmnDt8kFBC5DXHvegjWTenu-Wrlnmt2_2cic_pGWuYG95HQH5EnEnP4LI
+app_id: pt.cetelem.homebanking
+app_name: Cetelem, App Mobile!
+app_screenshot: https://play-lh.googleusercontent.com/0jN03gmPHHP7ko2CnID8P9zZ3rxiDrNFnoaw-xjcFtzg_6hfXVBkVSslTEoqxWNoZg
+category: Finance
+country: PT
+id: 1qdl69SPrcPN
+language: en
+most_recent_release: '2023-09-04T00:00:00'
+publisher_id: '2261420'
+publisher_name: BNP Paribas Personal Finance, S.A. - Suc. Portugal
+rank: '30'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

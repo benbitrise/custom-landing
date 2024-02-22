@@ -12,8 +12,8 @@ publisher_id: '2661616'
 publisher_name: Meta Platforms, Inc.
 rank: '5'
 release_count_in_past_year: '53'
-release_count_in_past_year_category: 96
-release_count_in_past_year_top_in_category: 96
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

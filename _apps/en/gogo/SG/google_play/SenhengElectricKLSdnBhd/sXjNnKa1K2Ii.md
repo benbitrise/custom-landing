@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zD66tFc2QLp3AJ0M5NGluMoGr8yE7U5dv3Pb0TbWxPFjhOS33YLhVqHA-cMqnBqhvfE
+app_id: com.cloone.senhengios957151
+app_name: 'Senheng: Cashback & Rewards'
+app_screenshot: https://play-lh.googleusercontent.com/Gohji7ZZv9KMCVuej83cpEXHS_Oe6qyh7b2RQ-h2gVcsqj_lr3D4Ys_ptkaFb3-8f5w
+category: Lifestyle
+country: SG
+id: sXjNnKa1K2Ii
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2782936'
+publisher_name: Senheng Electric (KL) Sdn. Bhd.
+rank: '143'
+release_count_in_past_year: '28'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

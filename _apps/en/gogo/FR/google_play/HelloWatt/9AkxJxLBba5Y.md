@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/q-T26qmbb8FEkB7KC5gIeHCuh_B5W_KAWtnDWk79ftcOHZ7mbimgGR8FFxM89ynJUZQ
+app_id: fr.hellowatt.app.tempo
+app_name: Tempo Infos Couleur du Jour
+app_screenshot: https://play-lh.googleusercontent.com/bPZQ8L8tmiR0Ekz4SotT1b60xkkjL5hcAJ1PEPoGro2UWq3t2qXI_ZFscH6WrAvYyg
+category: Tools
+country: FR
+id: 9AkxJxLBba5Y
+language: en
+most_recent_release: '2023-12-19T00:00:00'
+publisher_id: '2693478'
+publisher_name: Hello Watt
+rank: '154'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

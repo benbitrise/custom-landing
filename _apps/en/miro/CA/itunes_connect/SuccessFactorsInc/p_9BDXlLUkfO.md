@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/40/9c/ad409c02-ab48-a5f1-2ad2-1dad8212996a/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1024x1024bb.png
+app_id: '426562526'
+app_name: SAP SuccessFactors
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1e/97/07/1e97072d-6afa-fb3d-e1e9-349665d97cd0/afdfaa58-fb49-45e9-94db-eb579a5f356e_SF_iPhone_Homepage.png/1242x2688bb.png
+category: Business
+country: CA
+id: p_9BDXlLUkfO
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '426562529'
+publisher_name: SuccessFactors, Inc.
+rank: '81'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

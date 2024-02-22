@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1I_jthtSpe318rQ-HxNOZFMDORbZRR-WOXmWA_kaiIAXL0-V9eaEcdzeFO8YDvNbznHS
+app_id: de.dm.fotoparadies
+app_name: Foto-Paradies
+app_screenshot: https://play-lh.googleusercontent.com/NmvtgPgsh5YtvSEB8oSByewi6B5uhfMd56JI8KjrcN8gyRI4NhvvXRc3zygscXbQhBQ
+category: Photography
+country: DE
+id: qXbyMbZw_4dS
+language: en
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '1075309'
+publisher_name: dm-drogerie markt GmbH + Co. KG
+rank: '25'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

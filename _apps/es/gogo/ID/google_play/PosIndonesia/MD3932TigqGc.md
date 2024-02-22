@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/K6yis3g8YjEl64B8PXKVuB9Be2ox8VljRGoCAQ0Zn7kH_347N-aiKMjnLdOZvM3APL8I
+app_id: com.posindonesia.giropos
+app_name: POSPAY
+app_screenshot: https://play-lh.googleusercontent.com/_w1950gAeBdTf3mjFPx_0H4AhxHJjz8li5FTWxrZ3u2ea9-j5wXYnErcwAJdyzC1Zg
+category: Finance
+country: ID
+id: MD3932TigqGc
+language: es
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '1510582'
+publisher_name: Pos Indonesia
+rank: '188'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

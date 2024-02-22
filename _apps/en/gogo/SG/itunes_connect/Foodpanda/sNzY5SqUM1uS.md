@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/5d/a8/de5da882-15f7-8d66-3e5f-3b7efd96e045/foodpandaProdAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6446288842'
+app_name: foodpanda partner
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/97/b9/16/97b9162b-4c72-53ab-3934-d954f9b2390b/b7d14ecd-35e3-45e4-8ae4-6ea10cc77e00_AppStore_6.5in_01.jpg/1242x2688bb.png
+category: Business
+country: SG
+id: sNzY5SqUM1uS
+language: en
+most_recent_release: ''
+publisher_id: '606917985'
+publisher_name: Foodpanda
+rank: '396'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

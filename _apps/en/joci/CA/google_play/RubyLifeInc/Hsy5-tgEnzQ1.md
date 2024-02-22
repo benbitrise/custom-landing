@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/po3DigFhOVgQFDjeY0Vdstm-39ijIpXW4bI51HCSx68OVLHnrJS8zn0hWZkXviZnUao
+app_id: com.ashleymadison.mobile
+app_name: Ashley Madison
+app_screenshot: https://play-lh.googleusercontent.com/VNbVKjC8hEZdYHGrgVq8rYBubtes6O3-6z3IQDC55JctOarPB0EZ-v-SD7KgEQsmz6g
+category: Dating
+country: CA
+id: Hsy5-tgEnzQ1
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1504129'
+publisher_name: Ruby Life Inc.
+rank: '30'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

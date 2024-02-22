@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/08/df/f008df0d-3ea8-6c9e-26fb-90c62c70232a/AppIcon-1x_U007ephone-0-0-85-220-0.jpeg/1024x1024bb.png
+app_id: '6477306185'
+app_name: Call Recorder, Rec Voice App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/44/8b/9e/448b9e5f-ca9c-91a3-03ca-94cd1a5f8e7a/202ef5a5-c1dd-455b-a808-4f0fb5d3d05d_1242x2688_1.jpg/1242x2688bb.png
+category: Business
+country: MX
+id: ilcvZGUj0ILP
+language: en
+most_recent_release: ''
+publisher_id: '1685875627'
+publisher_name: Yulii Shevchenko
+rank: '131'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

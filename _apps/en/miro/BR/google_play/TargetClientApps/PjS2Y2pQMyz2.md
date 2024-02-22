@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ksk1wW21-LIq3B4okzomX49ugPa-voKkhUOHOC8IHfA-C4-fXJGTqr5JgsB_D7v-Vf8
+app_id: br.com.poraoassis
+app_name: O Porão
+app_screenshot: https://play-lh.googleusercontent.com/1AD0tcjeAQbu2Ytfkuy5oMpENRSvsgZlxZSSi6OkR2JZLt83hgqOzVisZFbOR9RQYg
+category: Events
+country: BR
+id: PjS2Y2pQMyz2
+language: en
+most_recent_release: '2023-12-26T00:00:00'
+publisher_id: '2979637'
+publisher_name: TargetClientApps
+rank: '192'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

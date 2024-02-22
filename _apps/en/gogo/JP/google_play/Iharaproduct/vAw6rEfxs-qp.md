@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hsobQTp8VQuOXBCTTdJC3Ih_WxoEBmANoLMHd_ibiPyntSeN89rjyMZtA0nemU6ZU_Hc
+app_id: com.ihara_product.SmartMetronome
+app_name: Smart Metronome & Tuner
+app_screenshot: https://play-lh.googleusercontent.com/cx-jQis6Dl5BWI9DMB4lLuiewbt7voftivOlw7CqKEc6cAxh5Y8KXhO00d1GB654kw
+category: Music & Audio
+country: JP
+id: vAw6rEfxs-qp
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '2354737'
+publisher_name: Ihara product
+rank: '77'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

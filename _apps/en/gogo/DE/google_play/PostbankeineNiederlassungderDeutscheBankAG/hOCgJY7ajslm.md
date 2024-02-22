@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/kp1ZaFnkhPQEyH-0P-klXlE3UH7wFwFah6yLlBlP8FyDYIoJfm8Y_QwuPxGPSL8NPS1y
+app_id: de.postbank.bestsign
+app_name: Postbank BestSign
+app_screenshot: https://play-lh.googleusercontent.com/t9at_7E2vTxUE6Ob0HUw4OQBeGEuK08yk8Cy6Gz1m9AULIWGYTAGM448ijdMNnlYc11c
+category: Finance
+country: DE
+id: hOCgJY7ajslm
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2313236'
+publisher_name: Postbank - eine Niederlassung der Deutsche Bank AG
+rank: '82'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

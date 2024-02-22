@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vzWpHOJbMbaWc2FgHWNcp_xIQyn0qHxZVaG1ly0kYTxrhNfWD3DAnwmnQRPx36yauxs
+app_id: de.dwd.warnapp
+app_name: WarnWetter
+app_screenshot: https://play-lh.googleusercontent.com/eioNDiFWaFqzSzYWbc8gCzKvUvQSdSnuizf4p63DziQQPjp7hC4Xxj04ujzCqyEMyA
+category: Weather
+country: AT
+id: 2piNUCRFwWDO
+language: en
+most_recent_release: '2023-08-23T00:00:00'
+publisher_id: '184328'
+publisher_name: Deutscher Wetterdienst
+rank: '159'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

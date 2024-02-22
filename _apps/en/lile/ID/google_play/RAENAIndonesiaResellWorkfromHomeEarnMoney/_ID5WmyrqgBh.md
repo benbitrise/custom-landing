@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6-Hse0L4duWSHseUn-OHPoU_56p4UKBSms8xvtrCniZFe-GTjA0IZJ2GFErlgwZ-qQ
+app_id: com.raenaapp
+app_name: RAENA Reseller & Dropship App
+app_screenshot: https://play-lh.googleusercontent.com/CE-K5mV8IUUUIu99z_RmlhB8NG3JoO2-JzUyX0Pk6D1n4Z8pRTW5L8JfgFkCnrnWOI0
+category: Business
+country: ID
+id: _ID5WmyrqgBh
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '2786247'
+publisher_name: 'RAENA Indonesia: Resell,Work from Home,Earn Money'
+rank: '165'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

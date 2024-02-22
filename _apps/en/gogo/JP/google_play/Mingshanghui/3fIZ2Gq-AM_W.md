@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/S2ORJ7DM96PGcVxyI4iVQ3Vct9a5lyaPYjPpI7OYj1jyMuxcu0bLnzEwSQ3YptxrHQ
+app_id: com.safetyeye.maiheng
+app_name: safetycam
+app_screenshot: https://play-lh.googleusercontent.com/m0Y3KI7Zcta14rgtxBWMTZeU5yu1d9JkNQibMeM0_kMNvQeSx0NYs41gLy2VVaV86cY
+category: Auto & Vehicles
+country: JP
+id: 3fIZ2Gq-AM_W
+language: en
+most_recent_release: '2023-08-05T00:00:00'
+publisher_id: '2255922'
+publisher_name: Mingshanghui
+rank: '147'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '2229970'
 publisher_name: TOLAN
 rank: '2'
 release_count_in_past_year: '19'
-release_count_in_past_year_category: 10
-release_count_in_past_year_top_in_category: 10
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

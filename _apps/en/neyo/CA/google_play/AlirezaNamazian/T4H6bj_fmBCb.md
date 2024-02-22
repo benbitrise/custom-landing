@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/beaOQbirCA47d_Y18gddktDHu056hZL0Kt8st3Vb6v3sjC_dN9DoxsfsEDUhhZxcq9s
+app_id: com.storyfont.android
+app_name: StoryFont for Instagram Story
+app_screenshot: https://play-lh.googleusercontent.com/Uj-HTEkp4TYi95w1Qg3f3gDwS77NQYW-nEPiYWkFg7g3UeLplMqvcMbMANiy0okjFHU
+category: Art & Design
+country: CA
+id: T4H6bj_fmBCb
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2800917'
+publisher_name: Alireza Namazian
+rank: '116'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

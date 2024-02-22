@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/NNsJT1uyqKNz2QaXb-RJX1HosmS3csomZ1SG6_BMAbrtpPiq-SWcJC4H24k9fK1B6NhH
+app_id: org.owline.kasirpintarpro
+app_name: Kasir Pintar® Pro
+app_screenshot: https://play-lh.googleusercontent.com/H43P04InImU9mWFQNxkEbcDAZHaZJuny_Cx1cKRXgo2fU883XufeAy178mGY2glQfQ1u
+category: Business
+country: ID
+id: qMG-c2tO08OS
+language: en
+most_recent_release: '2023-12-18T00:00:00'
+publisher_id: '2009061'
+publisher_name: PT Kasir Pintar Internasional
+rank: '48'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

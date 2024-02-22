@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OEzpbib2BCyNpVTgcrI9WmMEOIcQVwQZR12S3bYt7qYk14omP4CqKAIwwDuhk5PLmFxN
+app_id: asi.education.language.learnkoreanfree
+app_name: Learn Korean Offline For Go
+app_screenshot: https://play-lh.googleusercontent.com/c_eeQ_ZwLAvwQB6vNPAlY4epCe-gpwG8c2Kzovimf2xOpdDtjGZt-Lyw9gndy1SO1bw
+category: Education
+country: MX
+id: JlXN1ONW9oUE
+language: en
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '1668359'
+publisher_name: ASI Edu
+rank: '198'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

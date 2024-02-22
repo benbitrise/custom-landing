@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WoaTuNRcuhI4xE-xbUXsdZU9Ymmy1mHi4zbrIim4HjV22YLOTnxeddQzHeP0dkweqOw
+app_id: com.pip.studio
+app_name: Pip Studio
+app_screenshot: https://play-lh.googleusercontent.com/_YPzEgXY2MMpO76lVD7rB-PKtgIihode_4R_vWlLKDGGaIsbLSlt-R-7jNWcJeZSrIY
+category: Shopping
+country: NL
+id: YZCX4x5tmQ10
+language: es
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '3046469'
+publisher_name: Pip Boutique B.V.
+rank: '167'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

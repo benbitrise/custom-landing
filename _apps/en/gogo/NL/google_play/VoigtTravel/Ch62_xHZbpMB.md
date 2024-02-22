@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gSCEEPk81LefeXR0pngpoR4UjntCf3vZ-5e2MUcau-hQ-hvNu7dRFhTmWvYTklQYJUc
+app_id: com.noorderlicht_app.voigt
+app_name: Noorderlicht App
+app_screenshot: https://play-lh.googleusercontent.com/uH66OjNW__jo7UlpDBrildomlKCve-GSHi5ydDuiP2lMsLMfcwOWz1NQXwK-wN_3Q1I
+category: Weather
+country: NL
+id: Ch62_xHZbpMB
+language: en
+most_recent_release: '2024-01-05T00:00:00'
+publisher_id: '184185'
+publisher_name: Voigt Travel
+rank: '37'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

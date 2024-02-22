@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/oheK9z10zPUinBOsTTGEm166789BeqrvRa5K7QcoHzFvKVoA0Bklins-tj11pj0Q8c4
+app_id: realtime.gps.maps.mapas.navigation.traffic.directions.online
+app_name: GPS Maps and Route Planner
+app_screenshot: https://play-lh.googleusercontent.com/H9WY1vNvodl9S7iOeiNzlDS8fgKzCuEtAIBBlsRTSsFp_fsWovvmL6VLY9PhT5YcGEj8
+category: Maps & Navigation
+country: DK
+id: aFyatcPfeLmX
+language: en
+most_recent_release: '2023-10-17T00:00:00'
+publisher_id: '2345933'
+publisher_name: Maps and Navigation
+rank: '169'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

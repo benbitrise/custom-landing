@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Mt0tE93p9BjP1WCF2peCYsnt7aaV-sID-g0v6EUupGPVitJj6w3fIsH7kIAqZlVvJA
+app_id: de.swm.parken.handyparken
+app_name: HandyParken München
+app_screenshot: https://play-lh.googleusercontent.com/0rJDidxSqSaJ7Yu3TJK__0WgHroxoR5dde7NnU4SHygqX6Ds1wULVqf8E7zxjFYLTA
+category: Auto & Vehicles
+country: AT
+id: 4RMdXwC7g1IR
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '189284'
+publisher_name: SWM Services GmbH
+rank: '59'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

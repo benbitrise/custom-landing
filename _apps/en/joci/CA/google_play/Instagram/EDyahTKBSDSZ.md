@@ -12,8 +12,8 @@ publisher_id: '18758'
 publisher_name: Instagram
 rank: '3'
 release_count_in_past_year: '22'
-release_count_in_past_year_category: 73
-release_count_in_past_year_top_in_category: 73
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

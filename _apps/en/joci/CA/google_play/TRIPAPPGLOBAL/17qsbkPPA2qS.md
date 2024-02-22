@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0Tui7Bxdd_xT9u6pWDLfVteni_a7108vhKGsFaexqlAFD1lKLtFJbKaILMEWMCaxLA2n
+app_id: com.muslim.quran.muslima.muslimpro
+app_name: 'Muslim: Azkar Prayer Times'
+app_screenshot: https://play-lh.googleusercontent.com/ptjjsIjrWA2Xr52LidXGDZtAU-1v9W88uKNfs4MuiDsRThfm_O6wZzrr2EcXdQV4YOwe
+category: Lifestyle
+country: CA
+id: 17qsbkPPA2qS
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2972619'
+publisher_name: TRIPAPP GLOBAL
+rank: '96'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KgrgLhprs_w9gge3ZG1LH0UvEn-nJJzDsjgmbPd6D__7ei4m2BrFjrCwSkzf8sDkjpg
+app_id: com.papasgamingcrush.virtual.airhostess.modern.sky.attendant.simulator
+app_name: Virtual Air Hostess  Simulator
+app_screenshot: https://play-lh.googleusercontent.com/gBumYrXHbHLQh2xCU88mr23s9Z5LV9vMiSs6_YakOgjN8u2BD9t-AFKmHEr2aFHslLY
+category: Comics
+country: IN
+id: 2IZ7maHWj5xS
+language: es
+most_recent_release: '2022-11-30T00:00:00'
+publisher_id: '1972633'
+publisher_name: Game Nitro Studio
+rank: '115'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

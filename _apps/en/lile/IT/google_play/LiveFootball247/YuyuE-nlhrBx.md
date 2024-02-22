@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/I1L-sBovsw774wPaORR_tb0lxdRLBGPFad-KoV-0MjsGu0NUnWn7BVclrs92Q7QEWW4
+app_id: football.live.tv
+app_name: Live Football HD
+app_screenshot: https://play-lh.googleusercontent.com/TKMwbo32xzSgj-KNKeJNvJPPu_fh6DKmjiBV7eY6YGeDETqY--MWnTzLbMNIkvXGBw
+category: Beauty
+country: IT
+id: YuyuE-nlhrBx
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '3055716'
+publisher_name: Live Football 247
+rank: '56'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dZp2F0cncHigvrDlIbxaWNFVQFr25dc7tYvap3pGlQJYyszmHBZs6N2_hos0hS959g
+app_id: com.toyota.mobile
+app_name: MY TOYOTA, נעים איתך קדימה
+app_screenshot: https://play-lh.googleusercontent.com/TaK6pmYGOrP8CO3_vRjO2W3xVeSBss-VqKj1tUwbh0gyDDgp_HuKxadxs-oYqdslGg
+category: Lifestyle
+country: IL
+id: 3hVeoIFjKZbr
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '714554'
+publisher_name: TOYOTA ISRAEL
+rank: '34'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

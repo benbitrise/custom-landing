@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JwBzTLMbCLqMioLfKaJ0neNkbPyqi0daic9fjORciLYwNVIqoDahPtUu6tkeS7v6IA
+app_id: nz.co.tournament.tpark
+app_name: T-Park
+app_screenshot: https://play-lh.googleusercontent.com/x6b3Og4G33wHDby97uRJI70HUaDpfoMxl57LrDl7EYV9RspYWzkHGTVLrQGDUQv5Gw
+category: Travel & Local
+country: NZ
+id: Sb-v5RHJJxW6
+language: en
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '2674878'
+publisher_name: Tournament Group
+rank: '113'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

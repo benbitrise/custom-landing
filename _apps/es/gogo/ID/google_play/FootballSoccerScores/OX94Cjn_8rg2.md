@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/e1b7UrFvtoFQi0i_mvEdF2JXRz2TrIFUmfIsW8TuwTTHsii2wDLbr3_hraovFpUYXw
+app_id: holoduke.soccer_gen
+app_name: Football Live Scores
+app_screenshot: https://play-lh.googleusercontent.com/oAEOs-fhZytOmGLkKMUe9RBzVXE1wql4XHPYjfLcjL1aS79N6wO2qqxD19Af9HnYMx4t
+category: Sports
+country: ID
+id: OX94Cjn_8rg2
+language: es
+most_recent_release: '2024-01-22T00:00:00'
+publisher_id: '510697'
+publisher_name: Football Soccer Scores
+rank: '185'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

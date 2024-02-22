@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OaCIUheGMXBeSTLZATO5aBE1pRp2nTL07Ur7BrP9cJPSSwPXveL3Gh0e2s6oANo1og
+app_id: com.speedwayekstraliga.app
+app_name: PGE Ekstraliga
+app_screenshot: https://play-lh.googleusercontent.com/J3uBpp5_z7GT2EgZLopJBDKpFed9eU1RtXmvWb9DUcGg-j8P4a9_SWSEx4HRhLwRcQ
+category: Sports
+country: PL
+id: PAm1vLQZ2Zfk
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '1238517'
+publisher_name: Ekstraliga Żużlowa sp. z o.o.
+rank: '147'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rRs1BS5o86lBeUhkVNceXr9BgnMzvintpYM1_zHDVzfSgR6SMoF8kWePTpdMPMEDYA
+app_id: com.cinchapp
+app_name: cinch - Cars without the faff
+app_screenshot: https://play-lh.googleusercontent.com/M24IKmrDfSRS-9i8ewZjTt2boQ6oej4ytjWhBOT9X1I3Yb-0lTi3026c_zfqi8swC2M
+category: Auto & Vehicles
+country: GB
+id: YuzFz_sYgHYP
+language: fr
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2917059'
+publisher_name: cinch App
+rank: '16'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

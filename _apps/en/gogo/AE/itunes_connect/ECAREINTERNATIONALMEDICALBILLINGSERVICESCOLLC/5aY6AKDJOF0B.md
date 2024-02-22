@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/69/4e/ba694ebf-dad6-7ce1-c422-eb2116d3b5c2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/1024x1024bb.png
+app_id: '6450008715'
+app_name: ECare - International
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/8d/67/dd8d673a-008a-2fc4-86c1-a1cfc99362ee/dce2f780-08df-4a46-a003-bf9c2ae6eba7_1242_2208__5.5_1.png/1242x2208bb.png
+category: Business
+country: AE
+id: 5aY6AKDJOF0B
+language: en
+most_recent_release: ''
+publisher_id: '1691519453'
+publisher_name: E CARE INTERNATIONAL MEDICAL BILLING SERVICES CO. L.L.C
+rank: '436'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EBlWmpGjM2R5FRStWssPUn8VzPp0JJllZMTfPXLQfUg3fRQ_EQnmUAiq42G2l2c8-yzg
+app_id: com.cmbilisim.cmnews.yenicag
+app_name: Yeniçağ
+app_screenshot: https://play-lh.googleusercontent.com/SQYtUH9py63kitIappsSD186VBIFpczjXArQH__E7lSTnd71KdmnRa9Vgznck8eFt_0
+category: News & Magazines
+country: TR
+id: F7IQLlCmhXN4
+language: es
+most_recent_release: '2023-11-01T00:00:00'
+publisher_id: '1585273'
+publisher_name: Yeni Çağ Gazetesi
+rank: '96'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

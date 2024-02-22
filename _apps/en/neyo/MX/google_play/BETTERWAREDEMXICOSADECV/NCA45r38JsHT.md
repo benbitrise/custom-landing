@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0Fae7jTcKinBoFsoBdmhkWP-HuQOIeAr9m0-UzmSomatZRXZS5eLwCif8UNYLpzCh-4
+app_id: mx.com.betternet.bn3.app
+app_name: Betterware+
+app_screenshot: https://play-lh.googleusercontent.com/CYpKgpmgeopOUtvFz5MmTF9BCYM9hsrgwJCWGz5JWEjFEKxTSTMrT4htTpT6I8QLbDM
+category: Lifestyle
+country: MX
+id: NCA45r38JsHT
+language: en
+most_recent_release: '2024-02-03T00:00:00'
+publisher_id: '880413'
+publisher_name: BETTERWARE DE MÉXICO S.A. DE C.V.
+rank: '31'
+release_count_in_past_year: '42'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

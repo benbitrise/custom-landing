@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0J5AP16M0zuvbVa6sknwzRs4Egq3yvvZH1d1-NBiOiv4uM-oceMchiaH-zmBdNzHgv4
+app_id: com.ms76la66.mjdalaw
+app_name: مسلسلات تركيه مترجمة ومدبلجة
+app_screenshot: https://play-lh.googleusercontent.com/YZfqaoSYgL66Z4J0tN12kZkebnT5rayvTU3iZ0ZBlxcK-ESMYxe9hLEqSFFroG4Kdw
+category: Entertainment
+country: JO
+id: Gm-bdXSGXGz1
+language: en
+most_recent_release: '2023-10-12T00:00:00'
+publisher_id: '2987811'
+publisher_name: Motasemviedo dev
+rank: '210'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

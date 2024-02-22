@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/90/87/e9/9087e9c4-ef5c-f130-cdf0-6cdf42cb6271/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6450001017'
+app_name: The Feed - Subway
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e5/67/5d/e5675d8c-3dd0-0daf-4d7e-b23545c0b769/54c5a9c3-cb1e-4af5-b588-6fca79fdb0e1_Frame_63.png/1242x2688bb.png
+category: Business
+country: SG
+id: A0cx0EzgQK7Q
+language: es
+most_recent_release: ''
+publisher_id: '602077069'
+publisher_name: Odyssey Interactive
+rank: '252'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

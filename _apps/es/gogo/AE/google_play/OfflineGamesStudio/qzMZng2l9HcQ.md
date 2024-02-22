@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/d_wPFkq7nDSc57OXfqoxczvSv8YS0rS_Pz6PCeRN9Q1WylMHBvQ7R1NMbTINRUc49A
+app_id: com.technet.live.video.wallpaper.setvideoaswallpaper
+app_name: Video Live Wallpaper - HD Wall
+app_screenshot: https://play-lh.googleusercontent.com/1nC112Z9raijnAvlnuN5_OB6SHrLXNmTuUWZpAfJDN9PhoNCbPD5aatlI-qjiRwhFQ
+category: Personalization
+country: AE
+id: qzMZng2l9HcQ
+language: es
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '1898483'
+publisher_name: Offline Games Studio
+rank: '139'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

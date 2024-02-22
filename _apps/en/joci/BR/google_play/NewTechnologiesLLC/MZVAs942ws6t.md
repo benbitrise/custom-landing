@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/G1QHCU6PMohLacxbTtadxZrW9_Cmvl-l4udTsA7taHoiUl9P00ffzkRdbzgWGmsZmpHl
+app_id: ru.chocoapp.app
+app_name: Live Video Dating Chat - Choco
+app_screenshot: https://play-lh.googleusercontent.com/5pKgpQ8sq1VE7vi4lHYtcI15sxI8UrtirhKfPlryaPH4RoD4yIgIZrNM0sf2UBV-i8i9
+category: Dating
+country: BR
+id: MZVAs942ws6t
+language: en
+most_recent_release: '2023-10-13T00:00:00'
+publisher_id: '1171188'
+publisher_name: New Technologies LLC
+rank: '101'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

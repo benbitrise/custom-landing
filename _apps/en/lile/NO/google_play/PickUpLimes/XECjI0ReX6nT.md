@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/69OW_71jwFjWYKnhweCX9BkROrfTpgLqWlpV69j84782oZZUp3Jzjgu1jZiJF2RL28E
+app_id: com.pickuplimes.pulapp
+app_name: Pick Up Limes
+app_screenshot: https://play-lh.googleusercontent.com/1Mbpv2S6cZhYT9h3EqPD45N5A4Qvbo7z6NT04tzKbt53f-es0pASdQOJYWO2BEKSH6I
+category: Food & Drink
+country: 'NO'
+id: XECjI0ReX6nT
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '3022717'
+publisher_name: Pick Up Limes
+rank: '207'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

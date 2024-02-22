@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7G2xVXTDQ3b3JcfURkgsN2ppyGFl-JnH9KtjvMKr7eycuQ8SBAzcr44YuuvKBMA1Vhw
+app_id: es.mobify
+app_name: Mobify
+app_screenshot: https://play-lh.googleusercontent.com/0ePZFdlx2kou_RWN1UPKnT1zE5sCK0HRgUZCdVDoNALiGexsFq3FVeMnXLLEj3tHMw
+category: Auto & Vehicles
+country: ES
+id: Ac36sweUZVNw
+language: fr
+most_recent_release: '2023-09-18T00:00:00'
+publisher_id: '1284286'
+publisher_name: Táctica TIC
+rank: '149'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

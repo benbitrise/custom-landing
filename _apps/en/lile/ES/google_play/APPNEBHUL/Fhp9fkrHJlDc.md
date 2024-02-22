@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dN13TKqI51Tmjp4LY8Z-OH_8KRltAIQApYy_8cv7seQ-XdV9tzj30ORGC_V04KCLbHGi
+app_id: org.socnas.app
+app_name: SOCNAS
+app_screenshot: https://play-lh.googleusercontent.com/jtrOoJaAEwpk47B4HkMpvA7qbClxTAJ9xjOgOfHtmYQwNHpvrayub_QQUtteKDzfC4K1
+category: Social
+country: ES
+id: Fhp9fkrHJlDc
+language: en
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '3024565'
+publisher_name: APPNEBHUL
+rank: '144'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

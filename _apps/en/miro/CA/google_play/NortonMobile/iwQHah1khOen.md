@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PXpkblSvtJtdYG7s9gONdwl52AGkfRJRpZXp2DWei9yA1FHY0YcoUO_dsuPhnJoS1-M
+app_id: com.symantec.lifelock.memberapp
+app_name: LifeLock Identity by Norton
+app_screenshot: https://play-lh.googleusercontent.com/uALqca0QN6okBxA6SyJdU9LOXIT6DRB960aXLXzCRB8qGGo5bix73_R2CL2qP21Ad-M
+category: Finance
+country: CA
+id: iwQHah1khOen
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2199'
+publisher_name: NortonMobile
+rank: '199'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

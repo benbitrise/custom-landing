@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: A4aiVyBOITmN
 language: en
-most_recent_release: '2024-02-09T00:00:00'
+most_recent_release: '2024-02-16T00:00:00'
 publisher_id: '1034399'
 publisher_name: Storytel Sweden AB
-rank: '28'
+rank: '22'
 release_count_in_past_year: '58'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: gonzalo.gomez-llera@bitrise.io
 rep_first_name: Gonzalo
 rep_full_name: Gonzalo Gomez-Ilera

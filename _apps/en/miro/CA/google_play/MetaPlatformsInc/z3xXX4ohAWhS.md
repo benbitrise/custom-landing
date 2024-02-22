@@ -12,8 +12,8 @@ publisher_id: '2661616'
 publisher_name: Meta Platforms, Inc.
 rank: '5'
 release_count_in_past_year: '41'
-release_count_in_past_year_category: 49
-release_count_in_past_year_top_in_category: 49
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

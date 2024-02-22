@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/GsXS_SLB5FBu8DsN7w6F8J18zSPEr-lcBZR6TW_uH4BCk9YC04KxoQF8AeekcsSshwIu
+app_id: addon.rainbowfriends.mcpe
+app_name: Rainbow Friends For Minecraft
+app_screenshot: https://play-lh.googleusercontent.com/__n76KeEhxNSQK2joU4qs6RqKjfC1TRaB-gSMTCGOZ5rVU0cTRfusWlTx0ytnZiuYNE
+category: Events
+country: MX
+id: L6J50v5YKIzC
+language: en
+most_recent_release: '2023-05-05T00:00:00'
+publisher_id: '1684097'
+publisher_name: Peter Cook
+rank: '117'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-kALfhmh71hl0x-a0GmS50qIQ6BCtecgRKxx3ft7UE1CQpskdvJvVi7tEor05OYiDMM
+app_id: tr.com.pizzahut
+app_name: Pizza Hut Türkiye
+app_screenshot: https://play-lh.googleusercontent.com/eJIirbKI4I2SmOpsn9EQbxPNCmI1uUNxlKdBTBQSJKgD_dWXfIAKlSuCBkPNRdOgh0Kn
+category: Food & Drink
+country: TR
+id: l1CzG5hOL2uw
+language: en
+most_recent_release: '2023-11-29T00:00:00'
+publisher_id: '2853142'
+publisher_name: IS GIDA ANONIM SIRKETI
+rank: '18'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

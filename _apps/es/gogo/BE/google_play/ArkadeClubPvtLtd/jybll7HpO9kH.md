@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sl7KWNHo5Dm8Sltb1XDRMLbfBd2EwSuTKl1ICDqHU_Fr-cLjXGp60aSAMz3Ug8F-L9o
+app_id: club.boxbox.android
+app_name: Box Box Club
+app_screenshot: https://play-lh.googleusercontent.com/juWnFVUSVWd_lbjQVfabL0vRYRNHy2FkDyDMTIFYiwWxhrmhFE0SrSeVyQqJ5OLB2-MS
+category: Sports
+country: BE
+id: jybll7HpO9kH
+language: es
+most_recent_release: '2023-11-26T00:00:00'
+publisher_id: '2920031'
+publisher_name: Arkade Club Pvt. Ltd.
+rank: '77'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

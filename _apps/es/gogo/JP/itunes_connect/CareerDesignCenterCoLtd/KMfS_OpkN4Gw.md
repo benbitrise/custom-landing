@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/9d/84/8b9d84b6-cdfd-dd9c-bdf2-e5fcb25d9f3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1511106786'
+app_name: type転職エージェント
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/75/bd/84/75bd84bc-0471-6b8c-621f-90a79dc201dc/pr_source.png/1242x2688bb.png
+category: Business
+country: JP
+id: KMfS_OpkN4Gw
+language: es
+most_recent_release: '2023-07-27T00:00:00'
+publisher_id: '393476186'
+publisher_name: Career Design Center Co., Ltd.
+rank: '248'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

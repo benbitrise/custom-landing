@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9Au3cHvuVyNSGzikuifsilv4K3SZLH-OK7vU__LrK33aYCSnhRDk7lc2fXjGBBJaag
+app_id: com.huckleberry_labs.app
+app_name: 'Huckleberry: Baby & Child'
+app_screenshot: https://play-lh.googleusercontent.com/lxMLKftXL-LoCIMj8xKxI6SrH_y2x_QfaPfXs28WsdYuGCQC_ke5yzsWq7PQ8U01zk8
+category: Parenting
+country: CA
+id: HIMksrV80_lk
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1330047'
+publisher_name: Huckleberry Labs
+rank: '6'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

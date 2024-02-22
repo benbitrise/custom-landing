@@ -12,8 +12,8 @@ publisher_id: '2643393'
 publisher_name: HouseSigma
 rank: '3'
 release_count_in_past_year: '20'
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 17
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

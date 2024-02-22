@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AOetTKY-UHBcawcBGyMt_ow6Uzq-kSyNRqvdwwESQW-JB2cJiwucSKGEwdYHkLdZzw
+app_id: com.vehicledatabases.cnv
+app_name: Consultar VIN
+app_screenshot: https://play-lh.googleusercontent.com/owJmGz9Vo7-nKYUv0XImt_Im3cyjseDXrFErHYZx99-QO-yNySGNKgbF9Y7nKV8ZaAU
+category: Auto & Vehicles
+country: MX
+id: 9d4luFRipYw0
+language: en
+most_recent_release: '2023-09-14T00:00:00'
+publisher_id: '2772112'
+publisher_name: Vehicle Databases Inc.
+rank: '87'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

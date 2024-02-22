@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/c9SlFmBt4AW-ikmhX2uSNysxRIy4XdjLw_rB0m0HdobDm3e78HtgTrk5nq8djXrv4w
+app_id: com.embarcadero.AuroraForecast3D
+app_name: Aurora Forecast 3D
+app_screenshot: https://play-lh.googleusercontent.com/iBYTdnAHKed1w-rPRwTOHrWDj1i80chnwv1hHDLARnunO9QOiMZXx7pFIBs0DbAmB8Q
+category: Weather
+country: 'NO'
+id: TUQ0ayTK2CtK
+language: fr
+most_recent_release: '2023-12-28T00:00:00'
+publisher_id: '1113402'
+publisher_name: Fred Sigernes
+rank: '41'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/mH1YVl3HWTlFrEUsNGivcDWcDYlhavM_cgutG4ttOqzu1UZ_IiZSld6SZnMYdBQ3xFo
+app_id: com.zumimall.protecthome
+app_name: ZUMIMALL
+app_screenshot: https://play-lh.googleusercontent.com/dE6aJxd-h0LP8oAFAXJnpe1uLeU8PSz_TrwYtUp1a4aSoofK2L7zVzqMKf6ZSGCjGQ
+category: Business
+country: AT
+id: Yhl0FPpe6Dr6
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '2449264'
+publisher_name: 'Shenzhen Junan Technology Co., Ltd   '
+rank: '129'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

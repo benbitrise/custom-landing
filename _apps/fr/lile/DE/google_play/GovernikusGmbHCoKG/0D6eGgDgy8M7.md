@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Ohykc7_WVm-T0YtS9gO5PYy1JmAByB9A8dhLVSteGpP-mXOc2W6iwQUqaEipBRPAZNg_
+app_id: com.governikus.ausweisapp2.dev
+app_name: AusweisApp Bund Preview
+app_screenshot: https://play-lh.googleusercontent.com/WG1sWCfBzeFY6C2jBlAB4BdXewaCEqn27bmi85k9xnw1v9h_1mYlKIEEsTFcO4fY0A
+category: Libraries & Demo
+country: DE
+id: 0D6eGgDgy8M7
+language: fr
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '437420'
+publisher_name: Governikus GmbH & Co. KG
+rank: '17'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

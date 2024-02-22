@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7VueQP9Hws6b6ZxYwR39ZV7uMR9ZwzN6ivu4bR5s6sk3lfKfT1NKRPM8267Kc47mStny
+app_id: mobi.charmer.collagequick
+app_name: Grid Photo Collage Maker Quick
+app_screenshot: https://play-lh.googleusercontent.com/9IucpsrXeCtgA-b3xLt_RQpuNlM-7eAvBf1nPx19tv0Fc75eTUpw9vEDRDAguAh0aFc
+category: Photography
+country: SG
+id: fkpxVwYhiadt
+language: es
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '2218824'
+publisher_name: MyMovie Inc.
+rank: '158'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

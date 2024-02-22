@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MeRu2gqrJeywOdz-r5NHL3m7gYp242b2MPfw-kQ57rgg1BzFA3Q-kjzK9RDp9G6lqQ
+app_id: com.gardify.android
+app_name: Gardify
+app_screenshot: https://play-lh.googleusercontent.com/d7jeSz8xdWt-Xm9dgHVgjNnNHjTbpALnA-vyV22OZEWcPHq0g1JA7iS4zKnTmOl3dQ
+category: Lifestyle
+country: DE
+id: Cb9PEd9a8BuA
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2562610'
+publisher_name: netzlab GmbH
+rank: '91'
+release_count_in_past_year: '36'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

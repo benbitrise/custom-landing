@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sUumgjTbcW4Nuq7DNFDOK2qy6g4xw1kQL2RmZvPySm53cDFdFSLpfWMkhw2e_C6eg28
+app_id: com.femi.patient.femi
+app_name: רופא און ליין
+app_screenshot: https://play-lh.googleusercontent.com/ISQPQquPVZc9GbAM6ccbFnNNfQEhyJfXieYMEVKDTAk4eIoG6oWBnUKL2zuiwlFlCqzl
+category: Medical
+country: IL
+id: YQGvLhdBjwwv
+language: en
+most_recent_release: '2024-02-03T00:00:00'
+publisher_id: '1664499'
+publisher_name: Femi Premium
+rank: '21'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/blaXfcryXOQ_rg-GQD1mlsCwFLvd010lAY7h3YJ6N6HY8NwdjfBaY4iJsOytzadLkQ
+app_id: com.theaudiobible
+app_name: The Audio Bible
+app_screenshot: https://play-lh.googleusercontent.com/7EyWiyNwfTq0i7IwKEFX8JzfsPQC_8eu0-42OuF42Y55e2ciprOCBwz7SS-X54hL190
+category: Books & Reference
+country: PL
+id: sA6nCcmNbpUk
+language: es
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2980271'
+publisher_name: Osorno Media Sp. z o.o.
+rank: '13'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

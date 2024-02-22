@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2JYRvoP1tgy3L8c7M3-RY8cdgQZTvGcsOkQu2BdYBFCvXvm0_dsAGVt1AMFnSbhowQ
+app_id: no.hardanger.getbright
+app_name: Hardanger Energi
+app_screenshot: https://play-lh.googleusercontent.com/LOWjMoKo9fK_WBkCcCQruaYPrsMlAlt-bXliAKY2u3yDf9gYs_C-1DjtALyl8QsPo-w
+category: House & Home
+country: 'NO'
+id: hIhBUIKzovG2
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '3035828'
+publisher_name: Hardanger Energi AS
+rank: '80'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

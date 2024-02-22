@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/O342wK6iwvX-oRRtzqP4cCCns5AyFRQXLUkATpqU3xLFsVsI46jOwhV8UO-YjnK9dQ
+app_id: com.mecom.bt
+app_name: B.T.
+app_screenshot: https://play-lh.googleusercontent.com/24wdjxE_fCnt7cqwxb2qDrF2-I_8kGmikfKQEvGh6p1UuXOyJXE3MVTIwUujPD3z9vI
+category: News & Magazines
+country: DK
+id: JHRp5dBqyzbg
+language: es
+most_recent_release: '2023-10-11T00:00:00'
+publisher_id: '44284'
+publisher_name: Berlingske Media A/S
+rank: '7'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

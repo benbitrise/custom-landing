@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UJ3ASzMcG9TbRMGpX7Yk1z9eo5Cvo0lB9UEhJfAU1A0RrLFn13s7rIm8VTiimwtYpw1w
+app_id: com.promotons
+app_name: 'Gazetkowo: Gazetki Promocyjne'
+app_screenshot: https://play-lh.googleusercontent.com/EF-32RWQ1wyrDpX0Liz32BzUjX84zuMZv61-Nv0mIUTD1b4wkyd0KX1nd245Z3gJONxZ
+category: Shopping
+country: 'NO'
+id: gYwP5NqAGSGY
+language: fr
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2412940'
+publisher_name: Gazetkowo – Gazetki promocyjne, Promocje, Sklepy
+rank: '173'
+release_count_in_past_year: '57'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/ed/41/96ed41a3-9dec-1ee5-2d91-76ee3a36a1f4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1247749074'
+app_name: EmpLive
+app_screenshot: https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/18/a0/f2/18a0f20f-9ff7-e480-6e3e-06240b1f754b/7e3c76ab-87dc-4b0f-b30d-5781247fef8e_6.5-inch_Screenshot_1.png/1242x2688bb.png
+category: Business
+country: NZ
+id: o8wc9Des2_0p
+language: en
+most_recent_release: '2022-11-13T00:00:00'
+publisher_id: '1095172260'
+publisher_name: WFS Australia Pty Limited
+rank: '199'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

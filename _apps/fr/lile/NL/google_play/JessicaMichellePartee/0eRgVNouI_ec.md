@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ERERkY72WAc3NadTLmTfWwVJWks75dru7bMQa9IphFCgnZmDjWAX6DXExt2puhXwPEY
+app_id: com.bwheadpillowent.pacetritonroute.creartpost
+app_name: CreArt
+app_screenshot: https://play-lh.googleusercontent.com/Oru2QfhlMXcX6TKKAHbF828uFO-g8kHa5kuooGl2MzOEmhLEIh8RMaQMcHsuI6gfrQ
+category: Art & Design
+country: NL
+id: 0eRgVNouI_ec
+language: fr
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '3075557'
+publisher_name: Jessica Michelle Partee
+rank: '190'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

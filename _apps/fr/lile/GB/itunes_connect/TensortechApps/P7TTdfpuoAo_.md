@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/ac/36/efac364d-b4e6-2a84-d975-df3b33653d9e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '1588147214'
+app_name: Scanner App‧
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/30/10/4a/30104a0d-0e4b-4e34-e9f7-27c0a36eace0/db45dcc5-7f08-45cb-af2f-e9f61a6b7eae_Frame_1.png/1242x2688bb.png
+category: Business
+country: GB
+id: P7TTdfpuoAo_
+language: fr
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1605599894'
+publisher_name: Tensortech Apps
+rank: '123'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

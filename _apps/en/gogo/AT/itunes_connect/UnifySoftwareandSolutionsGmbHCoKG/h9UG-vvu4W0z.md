@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/30/12/6730124f-4b06-2f70-cdae-598b4cd1c14c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '875816429'
+app_name: myPortal to go
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c7/09/a5/c709a558-428e-627b-403a-21124f939060/pr_source.png/1242x2688bb.png
+category: Business
+country: AT
+id: h9UG-vvu4W0z
+language: en
+most_recent_release: '2023-08-09T00:00:00'
+publisher_id: '302973846'
+publisher_name: Unify Software and Solutions GmbH & Co.KG
+rank: '448'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

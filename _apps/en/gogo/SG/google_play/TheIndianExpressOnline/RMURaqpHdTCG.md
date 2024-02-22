@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dSS5OclMxGTasbTH1PYsxZ9bmXZyv7xcU4elR7afSqXns-6MEo1ZYteZi-l75E3g5kY
+app_id: com.indianexpress.android
+app_name: Indian Express News + Epaper
+app_screenshot: https://play-lh.googleusercontent.com/beB106NYqIUOcGEb0g2lx7ujqM47Uhq8ZEzYGBWOebWp9u9JM-c1grO9Jal4aYe1P6Q
+category: News & Magazines
+country: SG
+id: RMURaqpHdTCG
+language: en
+most_recent_release: '2023-11-17T00:00:00'
+publisher_id: '30745'
+publisher_name: The Indian Express Online
+rank: '184'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

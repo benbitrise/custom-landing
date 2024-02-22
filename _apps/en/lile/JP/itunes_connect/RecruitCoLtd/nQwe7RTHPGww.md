@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/b7/dc/25b7dcde-3d47-01aa-ae94-4fe2027404f6/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '1407670441'
+app_name: シフオプ
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0b/aa/a9/0baaa960-73a0-791f-9224-fee6b2c66497/83b2d588-f077-4bd7-ae19-52246ef729e6_screenshot_Xs_01.jpg/1284x2778bb.png
+category: Business
+country: JP
+id: nQwe7RTHPGww
+language: en
+most_recent_release: '2022-06-10T00:00:00'
+publisher_id: '290033993'
+publisher_name: Recruit Co.,Ltd.
+rank: '289'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: wulXzwXEaG55
 language: fr
-most_recent_release: '2024-02-09T00:00:00'
+most_recent_release: '2024-02-16T00:00:00'
 publisher_id: '14289'
 publisher_name: Wattpad.com
-rank: '10'
+rank: '8'
 release_count_in_past_year: '51'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/1f/79/331f7941-fc39-45d1-c821-411a516b7f84/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '6470203797'
+app_name: Bitcoin-Bank-Breaker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/1f/92/4a1f92fe-f9f1-f202-4c5c-b5c0a1fbc8ac/c09a68e8-8770-43c1-8be0-1c6afa90cfe6_appstore-asset__U00286_U0029.png/1242x2688bb.png
+category: Business
+country: IT
+id: tMxWVmEmlAWy
+language: en
+most_recent_release: ''
+publisher_id: '1710022490'
+publisher_name: Tazeem Ul Hassan
+rank: '361'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/nDDmQEansSwg6my5DlI5ZA-eBxgWOI287S4TpFJWGxgaYP7pPqTYxe06HGMeWOdQBJQ
+app_id: com.gopub.showtahree
+app_name: 昭和名曲-昭和歌手社區
+app_screenshot: https://play-lh.googleusercontent.com/67QFi20huE8Y3XINMCruJejqZeW-jVvsVuWoNe7NKXbIcC0-SA-SmyOnlmQQQLawn_yF
+category: Music & Audio
+country: JP
+id: W1HXM2OfWmro
+language: en
+most_recent_release: '2023-09-06T00:00:00'
+publisher_id: '1518083'
+publisher_name: FastHeadLine
+rank: '112'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

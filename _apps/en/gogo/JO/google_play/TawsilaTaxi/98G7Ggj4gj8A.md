@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cwlO7PDJQd092X_m_A0p8LEjpCmNqsGm4kAyXnoXwq9WL_SZ9wllzAWlILi6tu3Vyg
+app_id: com.ontimeapps.driver
+app_name: Tawsila Captain  توصيلة كابتن
+app_screenshot: https://play-lh.googleusercontent.com/NUxKd3AbZUtWjY0djnjE3TWq9TrUbsvenOHzpLgX4OQpUbnOEq_SlRJns7wQSsL6sxo
+category: Maps & Navigation
+country: JO
+id: 98G7Ggj4gj8A
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '3027325'
+publisher_name: Tawsila Taxi
+rank: '70'
+release_count_in_past_year: '55'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

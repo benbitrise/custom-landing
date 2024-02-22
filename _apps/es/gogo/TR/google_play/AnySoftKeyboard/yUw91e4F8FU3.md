@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BBtuxkLGKGXqmU2-lT28hhaxICKerY0gpS6Y_s6_s2_wRgVX4dcSlxrsCtYFDycN3g
+app_id: com.anysoftkeyboard.languagepack.ossturkish
+app_name: Turkish for AnySoftKeyboard
+app_screenshot: https://play-lh.googleusercontent.com/L0LeCbXCDkvmVSLQlJLYhxNkKKyyQUEkV_kt71ScFQX13qSO4YSoE3jgRYg9-BA-GQ
+category: Libraries & Demo
+country: TR
+id: yUw91e4F8FU3
+language: es
+most_recent_release: '2022-01-29T00:00:00'
+publisher_id: '2672687'
+publisher_name: AnySoftKeyboard
+rank: '182'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

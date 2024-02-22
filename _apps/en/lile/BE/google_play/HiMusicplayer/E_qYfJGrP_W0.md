@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/t2pDQ2dfocvF36wkzB7HaDjItt45IiTWZZBCywU682scIGtcVwZc8pYeeMyKMDzdRuWk
+app_id: com.freemusic.himusic.us
+app_name: HiMusic： music player no wifi
+app_screenshot: https://play-lh.googleusercontent.com/ykJJ2i29aDJitDdulPIh8qts7ZNTfdc17w0QYFTpVlkmrB1SM1Yyb4UB04TkkR26QH8-
+category: Music & Audio
+country: BE
+id: E_qYfJGrP_W0
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2356080'
+publisher_name: Hi Music player
+rank: '182'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/B7bOagbfRx2NJ3Ca-faKj0CWV-U_u5vM4SGoFcLM3MrZxWVBK6wLq-Jh2ZXk4NnKwss
+app_id: br.com.rogerionapoleao.frasesparapai
+app_name: Phrases for Father
+app_screenshot: https://play-lh.googleusercontent.com/v2kSxxQl9ITtpH1aTKIVse9lJTh5GabTwl0qroP2DMSeUlJ9TYOy12MXmCFdT5O6qZg
+category: Parenting
+country: BR
+id: FMCJNbeGvWQt
+language: en
+most_recent_release: '2022-03-04T00:00:00'
+publisher_id: '2244888'
+publisher_name: NPL Tech
+rank: '203'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

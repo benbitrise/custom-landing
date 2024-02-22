@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/9d/2c/0b9d2cbd-1475-5f69-64e4-9ae34a745401/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '1586438267'
+app_name: 'Weather Forecast Live: WeaDrop'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b2/86/d8/b286d8e7-db58-4cab-cd27-c5094aa4c970/32e796db-8c16-4c93-b61f-33474a81eed8_1.PNG/1242x2688bb.png
+category: Weather
+country: TR
+id: Tnnw7ghwgnAe
+language: fr
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '942889525'
+publisher_name: Coocent Ltd.
+rank: '130'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

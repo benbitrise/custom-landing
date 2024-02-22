@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Vmx9Q2qWvK5P9wJypWGCMiKGTCSKUljwHG36zamBLnRpbTf4Xv9VY-B1MFGxw18dAA
+app_id: com.lucasigle.competitionmanager
+app_name: Tournament Competition Manager
+app_screenshot: https://play-lh.googleusercontent.com/G52lIZzwUZ8-iRjJB06ZdZ1vUFBOaz-qvSa0wZsU7LYLgNvnk7uC0NmJIZoI1Lhz_8iy
+category: Sports
+country: DE
+id: lcC1QpCHCWxB
+language: fr
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2728484'
+publisher_name: Luca Sigle
+rank: '183'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

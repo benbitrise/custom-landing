@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/46/91/a7/4691a7bc-2719-2e00-bb51-156dc913e6d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/1024x1024bb.png
+app_id: '946458430'
+app_name: 123erfasst III
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/53/6b/f1536b3a-d7d3-537b-b695-9b6418272f90/2e75f287-8a3e-467a-9e5a-c4e4c6db18f6_Bild_1__U00281_U0029.jpg/1242x2688bb.png
+category: Business
+country: DE
+id: o68zLTAS6A1L
+language: es
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '946458429'
+publisher_name: 123erfasst.de GmbH
+rank: '263'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

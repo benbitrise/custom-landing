@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yzv2qGAoI5E3EvhItWUOq9ZBTK6n6Vd37RJGJ-Ovr0s-82oGAxXVbJi5pkDQfZ5q2qM
+app_id: de.kika.kikaplayer
+app_name: 'KiKA-Player: Videos für Kinder'
+app_screenshot: https://play-lh.googleusercontent.com/3YdZcaktcbGQfP6eoGltaczwDrdyT67mj6R12Q4O-SblNGu9NU_WKWsOo2-wQPeu1bI
+category: Video Players & Editors
+country: AT
+id: PVhPlo6VVurJ
+language: en
+most_recent_release: '2023-11-29T00:00:00'
+publisher_id: '1497935'
+publisher_name: KiKA Der Kinderkanal von ARD und ZDF
+rank: '73'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

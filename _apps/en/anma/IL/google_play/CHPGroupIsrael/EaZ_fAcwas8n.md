@@ -12,8 +12,8 @@ publisher_id: '871346'
 publisher_name: CHP Group Israel
 rank: '3'
 release_count_in_past_year: '4'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: anna.magnussen@bitrise.io
 rep_first_name: Anna
 rep_full_name: Anna Magnussen

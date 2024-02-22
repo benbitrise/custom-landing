@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DYSTJs236lfOaZ7BG59jBVY6yD_ohs2apeboYWqeO2jiVhge9jPczW7KrkX9c34sRVg
+app_id: com.booksource.novelread
+app_name: NovelRead
+app_screenshot: https://play-lh.googleusercontent.com/0f7ej6VBb8l1Xb3psCelsxxKv8rRQGD0d4X9zDTCv1TyrQP8YAUpZddtkRmrZYdh40k
+category: Books & Reference
+country: AE
+id: -32be7b6J1le
+language: es
+most_recent_release: '2023-12-17T00:00:00'
+publisher_id: '2739195'
+publisher_name: Booksource Technology Limited
+rank: '45'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

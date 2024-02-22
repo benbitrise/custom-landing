@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bINhCcN48tf5pzc5Ld342g1L6kD0yWTGHp7LcTHSsIwOTTvg1XQfrnAfPDqfm6qi
+app_id: co.kitetech.dialer
+app_name: Phone calls app
+app_screenshot: https://play-lh.googleusercontent.com/fILAF6LlCKCumqnym1_Oe3U8w554lPBc-VVO7rMlh0Sn5K8dh_iFBQj4LogliDRO3Q
+category: Communication
+country: JP
+id: Olkxg_ANDJmQ
+language: en
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '2215397'
+publisher_name: KiteTech
+rank: '179'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

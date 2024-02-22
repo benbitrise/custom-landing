@@ -12,8 +12,8 @@ publisher_id: '2213349'
 publisher_name: Danggeun Market Inc.
 rank: '5'
 release_count_in_past_year: '64'
-release_count_in_past_year_category: 73
-release_count_in_past_year_top_in_category: 73
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

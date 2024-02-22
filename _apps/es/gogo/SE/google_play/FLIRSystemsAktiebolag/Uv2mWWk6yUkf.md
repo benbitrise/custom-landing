@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/StleR7ZTRP1Bt2MOGlv-bmXzYB7eNJal2Ky53efhR8YNfjqeTmSfW61McMPI9Q-Diw
+app_id: com.flir.flirone
+app_name: FLIR ONE
+app_screenshot: https://play-lh.googleusercontent.com/abGlSs-AMQxjKb4S0TUsv9cVuJu278gTDd0-84D9sFTB1dK8PWltoKyN-S51fP8JDADk
+category: Photography
+country: SE
+id: Uv2mWWk6yUkf
+language: es
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '2957900'
+publisher_name: FLIR Systems Aktiebolag
+rank: '106'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4bj4rK_ItRVG3ypS4ubpmqjuhlyRcZaq5xhFCn4jlXQDzpqyzh5jZmVfRx08LWTGfg
+app_id: com.bose.bosemusic
+app_name: Bose Music
+app_screenshot: https://play-lh.googleusercontent.com/XLRGdup1gXIo431uKRy9e5vrKdv1M-T2F6iQ59mMk7xNYSp7MMx074d6lnpdXfTZtA
+category: Music & Audio
+country: FR
+id: c74Ur8gD6M-7
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '178433'
+publisher_name: Bose Corporation
+rank: '52'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

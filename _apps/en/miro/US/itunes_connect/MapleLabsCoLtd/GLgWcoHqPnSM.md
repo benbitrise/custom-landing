@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/14/4b/80144b4f-fb25-4c6c-d1f4-2366b86b7a5a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '1602635337'
+app_name: Printer App - Smart Printer
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/23/35/d82335ec-e29b-9a10-427d-a63a19ff6aab/4ba4c87a-af13-4b25-b93c-87d5c153e6fd_231214_SC_SAP_iPhone5.5_3.jpg/1242x2208bb.png
+category: Business
+country: US
+id: GLgWcoHqPnSM
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1320450180'
+publisher_name: Maple Labs Co., Ltd
+rank: '155'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

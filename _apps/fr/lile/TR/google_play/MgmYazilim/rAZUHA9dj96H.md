@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6M77zgQxcnRsLW4l5Zx7W2Wlb8IQN8g_KaDIFlw9sbcLl2XYiCTIi1lwyD0dSqNwX-6y
+app_id: gov.mgm.pirireis
+app_name: Piri Reis - Marine Weather
+app_screenshot: https://play-lh.googleusercontent.com/21_hUhYL1AKXZqk0Lq4Vr6287AaZM20ppRFei9-Y315js6kAz_faQbncD1GLALTqPozZ
+category: Weather
+country: TR
+id: rAZUHA9dj96H
+language: fr
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '480566'
+publisher_name: MgmYazilim
+rank: '111'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

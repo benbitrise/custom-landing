@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/038Cyj7vEq4O8-x1w08vWtLpYC7iBeZPrIfYGU-gAP6axZc2I-hS3GIetNP0CYwAAg
+app_id: net.hyttetjenester.serviceapp
+app_name: Hyttetjenester Leverandør app
+app_screenshot: https://play-lh.googleusercontent.com/MslTMEq5gMHwEIfZlxlkS8eoBjcw1KcFpTcOoD9DeE3oMjoXOPez7lls0-ku_W_Qrg8
+category: Maps & Navigation
+country: 'NO'
+id: fYKF5oB0NLSP
+language: en
+most_recent_release: '2023-05-26T00:00:00'
+publisher_id: '1962940'
+publisher_name: Netsense Software Services AS
+rank: '195'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

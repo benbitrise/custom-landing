@@ -12,7 +12,7 @@ publisher_id: '2509003'
 publisher_name: Árvore
 rank: '3'
 release_count_in_past_year: '13'
-release_count_in_past_year_category: 8
+release_count_in_past_year_category: 4
 release_count_in_past_year_top_in_category: 8
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe

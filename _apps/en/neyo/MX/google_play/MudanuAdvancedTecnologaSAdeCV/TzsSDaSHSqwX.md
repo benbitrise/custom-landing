@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qkY4iRCEWe0f3eoO-2Vmrw4M5vPrVNDcFeaQik3rHGuXPkQf7Rx7MCp5TaK2JgV9J6M
+app_id: com.promotion.dinero
+app_name: Dinero Credito
+app_screenshot: https://play-lh.googleusercontent.com/lvbGMS5G1oTO8Se2m6_mcySSAyJnrmcNYx2NdWXNULh6OMLWiMueltPdnfQecjpU-ss
+category: Finance
+country: MX
+id: TzsSDaSHSqwX
+language: en
+most_recent_release: '2023-12-06T00:00:00'
+publisher_id: '3045520'
+publisher_name: Mudanu Advanced Tecnología, S.A. de C.V.
+rank: '196'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

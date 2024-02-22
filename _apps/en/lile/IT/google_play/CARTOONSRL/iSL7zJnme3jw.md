@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JQG9iVoGopbeSXPcZ3Ko8A6TeHNIB8x9xtlTINaLmqSPVloH7QV6gLV-06g10NxMPQ
+app_id: net.youcartoon.justbrickme
+app_name: Just Brick Me
+app_screenshot: https://play-lh.googleusercontent.com/06jG36v7Tcvjxn_35zaeDIBjq6IAxizWh_gnxCVzfoI0sT7G6l6fKQeyq8toa6Zn5z8
+category: Art & Design
+country: IT
+id: iSL7zJnme3jw
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '3071823'
+publisher_name: CARTOON SRL
+rank: '104'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

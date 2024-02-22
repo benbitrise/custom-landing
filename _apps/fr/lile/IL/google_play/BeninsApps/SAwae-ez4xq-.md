@@ -12,8 +12,8 @@ publisher_id: '2192466'
 publisher_name: Benin's Apps
 rank: '34'
 release_count_in_past_year: '0'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

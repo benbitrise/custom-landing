@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AkmibjzNpD4ewVNrrJigFPgjmGFnBK5EgZMbTLsgAQYttqy0YEwo_IqeceOR472Kyw
+app_id: ezanpro.com
+app_name: 'Azan Pro: Prayer, Quran Time'
+app_screenshot: https://play-lh.googleusercontent.com/9YLXv8j22USBCqg-1sUkeY9vx_J9hw_ygWGsU8SRRtqNNnb5VwREQJERx6Y4nwuXAAME
+category: Lifestyle
+country: TR
+id: DEALF1SdmM_r
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2712696'
+publisher_name: İSTSOFT
+rank: '125'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

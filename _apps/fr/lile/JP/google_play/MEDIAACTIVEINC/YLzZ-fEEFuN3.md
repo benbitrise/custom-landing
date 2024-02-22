@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/d3yh77j8px94A-NNEWhftUdoEJ0Prf2sxLcFQbHsgM8CfxMcOpfYqcLU5Nmb6UgxFHQ
+app_id: com.oni.oni
+app_name: 鬼から電話　子育てシーンに役立つサポートアプリ
+app_screenshot: https://play-lh.googleusercontent.com/gxQR-0UrvKrMcJzc43Ig8Mx-PWdcTfWr6_NcSzqpO6koCeNJ_-f-ZmMsJYwYgbdZly0
+category: Education
+country: JP
+id: YLzZ-fEEFuN3
+language: fr
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '1122441'
+publisher_name: MEDIA ACTIVE.INC
+rank: '14'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

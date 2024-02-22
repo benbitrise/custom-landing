@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bnNXOQArdyPxQie9cPOlZHuUrPMevx1Kppfi5twX64eFUoYubOidwVOwWG2fVBDNdg
+app_id: cat.catradio.eng
+app_name: Catalunya Ràdio
+app_screenshot: https://play-lh.googleusercontent.com/Ru8GKRv1FLdnu-8Pzzmb0gJiUWddhP40jYkMCdYB9_-c_oCzbsdXvneXfwVoVs8x2SpW
+category: Music & Audio
+country: ES
+id: Qol8Z9jkoQXl
+language: fr
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '1553819'
+publisher_name: Corporació Catalana de Mitjans Audiovisuals, SA
+rank: '162'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

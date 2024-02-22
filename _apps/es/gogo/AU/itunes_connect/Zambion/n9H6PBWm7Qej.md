@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/36/20/3136204d-1d18-e6b8-f658-d4ee54079a33/AppIcon-1x_U007emarketing-0-3-0-85-220-0.png/1024x1024bb.png
+app_id: '635818505'
+app_name: Zambion
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/2a/0d/ad2a0d99-9c49-d92f-f036-fe5e6b488c2c/528bb112-7f6f-44c9-bee3-fd6ef36243cc_1.png/1284x2778bb.png
+category: Business
+country: AU
+id: n9H6PBWm7Qej
+language: es
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '635818508'
+publisher_name: Zambion
+rank: '322'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

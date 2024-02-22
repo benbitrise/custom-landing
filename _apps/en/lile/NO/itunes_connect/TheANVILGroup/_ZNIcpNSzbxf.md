@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/af/8d/14af8d60-50e7-c2e0-1ac8-19b76c2825ca/AppIcon-1x_U007emarketing-0-2-85-220-0.png/1024x1024bb.png
+app_id: '1553930131'
+app_name: Anvil App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5a/86/02/5a860238-b6d1-5c98-9a24-5408681d9bd0/069af208-540f-469d-be9a-5ca754c243ed_iphone_10_1.png/1284x2778bb.png
+category: Business
+country: 'NO'
+id: _ZNIcpNSzbxf
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '458640930'
+publisher_name: The ANVIL Group
+rank: '444'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/whofycduDsZXWvthjALXjVw0zidPDIXC7zPpPMuPEp4T5T2pm_rQZC7ETuSKi1tynA
+app_id: com.riefuwa.gstaraftar
+app_name: Cimbom - Taraftar
+app_screenshot: https://play-lh.googleusercontent.com/0RcMNxDnJ2YDptWKq9Lys7Dp7k2AaOuY_vemNsQuMAnn74fHQ41FetyB_gqbny4PObU
+category: Sports
+country: TR
+id: r1TvW8GT_BEW
+language: en
+most_recent_release: '2022-04-28T00:00:00'
+publisher_id: '2701883'
+publisher_name: RIE FUWA
+rank: '154'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

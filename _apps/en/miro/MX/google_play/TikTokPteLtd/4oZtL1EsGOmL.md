@@ -12,8 +12,8 @@ publisher_id: '1905756'
 publisher_name: TikTok Pte. Ltd.
 rank: '3'
 release_count_in_past_year: '179'
-release_count_in_past_year_category: 96
-release_count_in_past_year_top_in_category: 96
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

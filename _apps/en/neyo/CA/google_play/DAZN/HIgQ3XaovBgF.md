@@ -12,8 +12,8 @@ publisher_id: '1008032'
 publisher_name: DAZN
 rank: '3'
 release_count_in_past_year: '73'
-release_count_in_past_year_category: 30
-release_count_in_past_year_top_in_category: 30
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

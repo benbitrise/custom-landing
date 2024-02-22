@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OSfGj33xb1JdfYWN9sM2_443h80-1_4ZXTF2FHsjfxb2inhueufGbHZFqQkr6BojO6I
+app_id: com.bostik.bostikpro
+app_name: Bostik Pro
+app_screenshot: https://play-lh.googleusercontent.com/MrH8iozMBRg91RKqewhvlc9Kzj2b3soYUUpi5q81DVF70fOvt3izHoFM3lCtrpKCxWQ
+category: Business
+country: BR
+id: FWXAkXBSW0wk
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2437804'
+publisher_name: Bostik Adhesives
+rank: '88'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

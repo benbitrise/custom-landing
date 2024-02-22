@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/haJU0Y80pVM3DMgnJapS2PlFRIvk3uuzyLfnXAuB0Yr2eROW5myEJWGBNGY0JjwaSeI
+app_id: de.c24.bankapp
+app_name: C24 Bank
+app_screenshot: https://play-lh.googleusercontent.com/yVxlXyMDhjSqEqkwxywpoVeZlVgz0OOld--JVoUJDsMx_EqQZlSAwsPH9zOKsk_9aXU
+category: Finance
+country: DE
+id: LsdMwe6kVbj8
+language: fr
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2419830'
+publisher_name: C24 Bank GmbH
+rank: '46'
+release_count_in_past_year: '54'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

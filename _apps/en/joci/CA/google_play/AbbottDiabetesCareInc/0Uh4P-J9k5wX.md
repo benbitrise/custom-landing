@@ -13,7 +13,7 @@ publisher_name: Abbott Diabetes Care Inc.
 rank: '5'
 release_count_in_past_year: '2'
 release_count_in_past_year_category: 8
-release_count_in_past_year_top_in_category: 8
+release_count_in_past_year_top_in_category: 9
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

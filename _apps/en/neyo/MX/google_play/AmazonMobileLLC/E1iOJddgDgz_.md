@@ -12,8 +12,8 @@ publisher_id: '371'
 publisher_name: Amazon Mobile LLC
 rank: '2'
 release_count_in_past_year: '35'
-release_count_in_past_year_category: 33
-release_count_in_past_year_top_in_category: 33
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

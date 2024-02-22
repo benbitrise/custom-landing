@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6kmcgGWQfEMaA_mDKbvygDshvNnP4Yoo9KqllPlzAMJs_o-3yw7BCZxKq5pB4XJAlac
+app_id: com.biocompany.bcapp
+app_name: BIO COMPANY
+app_screenshot: https://play-lh.googleusercontent.com/xCRBAZOkgBwik2U-ygwV-O-ayuhpnzwp5_dAAsuiWjAmGKaBovQW9tSmIbGznWn9Ta3k
+category: Food & Drink
+country: DE
+id: -bvX7h5DJOuP
+language: en
+most_recent_release: '2023-10-02T00:00:00'
+publisher_id: '2554141'
+publisher_name: BIO COMPANY
+rank: '216'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

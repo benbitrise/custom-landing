@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JAbH4CP-ZKpSv8lGspaziEOm_gJwNwP4_zxFmMwWtC4DlGJNih2xscNhMTy1BrdPAhI
+app_id: com.remotecontroller.tvremoteforall
+app_name: Remote control App for All TV
+app_screenshot: https://play-lh.googleusercontent.com/u_Uub8mpkcekLRaaP4VaENjkmqvErtrX0QhoiXZzfPI5UfOkMVNu87s56dVPhqaL_BE
+category: Tools
+country: SE
+id: -5Kkjelu0QKy
+language: es
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2905044'
+publisher_name: Smart Reader Team
+rank: '176'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

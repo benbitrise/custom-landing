@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/72/b6/6b72b664-0d64-8c4b-17a2-4c11af470ffc/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1318091114'
+app_name: Dubai BPS
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/b0/e4/57b0e458-e98c-a9d8-a14b-ba2123ab83f8/mzl.jzaiqeuq.png/1242x2688bb.png
+category: Business
+country: AE
+id: lMmRNVCwSw1T
+language: en
+most_recent_release: '2023-09-01T00:00:00'
+publisher_id: '427718653'
+publisher_name: Dubai Municipality
+rank: '171'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -12,8 +12,8 @@ publisher_id: '1031071'
 publisher_name: Pinterest
 rank: '1'
 release_count_in_past_year: '76'
-release_count_in_past_year_category: 38
-release_count_in_past_year_top_in_category: 38
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

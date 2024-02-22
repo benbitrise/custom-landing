@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5ZJtrP5Bo8EKVSbxrfPtdbpqDGP6hYxfEtTV_brOif8YybA2n2e_q4mlIhNVLPnJ5XZW
+app_id: com.rubik.citypizza.CityPizza.lapergoladue
+app_name: La Pergola 2
+app_screenshot: https://play-lh.googleusercontent.com/TaBQgqroDalcBKGVzOOn-SOalXJ-ZazFV-1tPvg1W-e4fjnqAEUxgd2ENei1QLl_uugI
+category: Food & Drink
+country: IT
+id: VCB6oRazvM_w
+language: fr
+most_recent_release: '2023-08-07T00:00:00'
+publisher_id: '2732199'
+publisher_name: Coobi - Officina digitale
+rank: '112'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

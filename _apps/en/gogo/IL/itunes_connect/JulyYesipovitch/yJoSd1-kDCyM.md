@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/87/4e/5d874e06-16e9-b6fe-1bc6-19206f95e74c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1550975442'
+app_name: חורי קומסטיקה
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/22/39/65/22396593-8e46-f9df-cafd-3d38e24fea08/5f70af99-f3ad-492e-a065-78ce7b332e21_111.jpg/1242x2688bb.png
+category: Business
+country: IL
+id: yJoSd1-kDCyM
+language: en
+most_recent_release: '2023-02-03T00:00:00'
+publisher_id: '1187927914'
+publisher_name: July Yesipovitch
+rank: '391'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

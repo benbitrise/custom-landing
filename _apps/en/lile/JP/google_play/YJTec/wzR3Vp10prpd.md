@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ccKx4BZ8eUKj5F3jJlfnmYz3QkczOHhVIoMg7BkqnMfofOK132cdb2U4AsQ4uyvATNk
+app_id: com.happy.happywalk
+app_name: walk to earn-Make Money Online
+app_screenshot: https://play-lh.googleusercontent.com/b_roYceW79ZMYXriJ5MJxJats4ZKjuCEr0M7fsKYlWLa-7qggJqP63elKp1Lt5CEinw
+category: Health & Fitness
+country: JP
+id: wzR3Vp10prpd
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '2984527'
+publisher_name: YJ  Tec
+rank: '182'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

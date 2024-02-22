@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/0a/72/1b0a7297-27a3-f3af-bde6-4c8f7ed180fd/AppIcon.micks-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6450611493'
+app_name: Micks Telecomunicações
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/42/fc/1142fc7f-bab2-8fcb-72df-4a0865cef690/7ee40e84-767b-4319-8145-48910258b17f_1.png/1242x2688bb.png
+category: Business
+country: BR
+id: 7jzYb_nUlOyA
+language: en
+most_recent_release: ''
+publisher_id: '1475693267'
+publisher_name: HubSoft
+rank: '556'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

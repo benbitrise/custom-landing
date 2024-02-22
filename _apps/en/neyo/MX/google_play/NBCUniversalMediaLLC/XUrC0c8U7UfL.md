@@ -12,8 +12,8 @@ publisher_id: '168186'
 publisher_name: NBCUniversal Media, LLC
 rank: '5'
 release_count_in_past_year: '4'
-release_count_in_past_year_category: 5
-release_count_in_past_year_top_in_category: 5
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

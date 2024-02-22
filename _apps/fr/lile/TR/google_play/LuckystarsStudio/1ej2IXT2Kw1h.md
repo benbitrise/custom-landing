@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TioTtsqVnvcwG57VTF_yQt_OsBVBX2a-S_pVU8BqYx8d9nuy2E4ik9eUJVwAT6d-9Q
+app_id: com.luckystars.hairstylesstepbystep
+app_name: Hairstyles step by step
+app_screenshot: https://play-lh.googleusercontent.com/IxQf28CmKitOXzOk2yqeDg6XmCrsleFC8NHfftNjCvP985qrTsW3-2HSYrAZ02bGbh2u
+category: Beauty
+country: TR
+id: 1ej2IXT2Kw1h
+language: fr
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '1947300'
+publisher_name: Luckystars Studio
+rank: '77'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

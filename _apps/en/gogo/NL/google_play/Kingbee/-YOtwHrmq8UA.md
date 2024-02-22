@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UJk_JCxBMm8E0pvXbcn0XzwnVua7u8QHEPfJD90J7xdmMt_tDefaJmJPGkNZft2oRws
+app_id: nl.folderz.app
+app_name: Folders & aanbiedingen Folderz
+app_screenshot: https://play-lh.googleusercontent.com/ccKF8uFebrPLaEy9H99zVgk_beb24ytoGOqhwqnF5D_pKAB6d_qNQFiTrDykz8X6CBY
+category: Shopping
+country: NL
+id: -YOtwHrmq8UA
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1879725'
+publisher_name: Kingbee
+rank: '65'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

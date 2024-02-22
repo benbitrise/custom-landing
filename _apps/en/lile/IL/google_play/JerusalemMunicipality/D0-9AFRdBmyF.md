@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CKAb_axbvxdYv4P6U3lDRFUtHJUtKa5MLbSyWz8B8bXwvMiy7cgwggnjQzCMCI9D4IbQ
+app_id: com.jerusalem106
+app_name: עיריית ירושלים 106
+app_screenshot: https://play-lh.googleusercontent.com/SiHXBboFpGf-wijXDjEmjGpeTMtIsfB4p7g6S2OGGm_n1ra0iKGouU9s1hS-NdOjSRA
+category: Communication
+country: IL
+id: D0-9AFRdBmyF
+language: en
+most_recent_release: '2023-06-25T00:00:00'
+publisher_id: '2037765'
+publisher_name: Jerusalem Municipality
+rank: '127'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

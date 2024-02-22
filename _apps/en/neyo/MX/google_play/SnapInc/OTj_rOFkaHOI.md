@@ -12,8 +12,8 @@ publisher_id: '1049569'
 publisher_name: Snap Inc
 rank: '5'
 release_count_in_past_year: '54'
-release_count_in_past_year_category: 45
-release_count_in_past_year_top_in_category: 45
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

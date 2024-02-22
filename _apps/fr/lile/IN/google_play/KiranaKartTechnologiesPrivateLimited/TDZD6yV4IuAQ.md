@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/tjzK0-TCkXB1zxkmiRr5WNGJxQy87s1RdBx10nqLbdxRIH7bPWxTkH_YiUMbYPFRfmj7
+app_id: com.zepto.rider
+app_name: Zepto Delivery Partner App
+app_screenshot: https://play-lh.googleusercontent.com/gKbG5b8klk6CoG5RHfkKK7tocYhOebGCPW-PM16W0lZ74wW4WVT3DZfWmNpk-Ou8xg
+category: Shopping
+country: IN
+id: TDZD6yV4IuAQ
+language: fr
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2485998'
+publisher_name: KiranaKart Technologies Private Limited
+rank: '58'
+release_count_in_past_year: '43'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

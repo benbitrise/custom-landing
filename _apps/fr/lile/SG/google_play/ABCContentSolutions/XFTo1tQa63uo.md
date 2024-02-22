@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ
+app_id: com.abccontent.mahartv
+app_name: Mahar
+app_screenshot: https://play-lh.googleusercontent.com/Zspk_ycgEy8Fy1nOTMBaZzOsbRRlChEtx33tDin9upjVhb5mAa-A1BUHd_hOVxasfDy7
+category: Entertainment
+country: SG
+id: XFTo1tQa63uo
+language: fr
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '1450372'
+publisher_name: ABC Content Solutions
+rank: '66'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

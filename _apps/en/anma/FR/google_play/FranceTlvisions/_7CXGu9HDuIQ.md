@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Lm1LJLTrTSDBJLqF7dE8zaS-nKEiJTtOrjJzwNejsNSMWv3PmNcS4dDEpoG75iUT_JI
+app_id: fr.lumni.www.twa
+app_name: Lumni.fr - Cours & révisions
+app_screenshot: https://play-lh.googleusercontent.com/y1ljzl825VUpnLJ99j9UKfbhgJCjj1zLgsnCKLQcJ3A_77uJG-mVXge59m47zTiScdrx
+category: Education
+country: FR
+id: _7CXGu9HDuIQ
+language: en
+most_recent_release: '2023-09-13T00:00:00'
+publisher_id: '20062'
+publisher_name: France Télévisions
+rank: '154'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

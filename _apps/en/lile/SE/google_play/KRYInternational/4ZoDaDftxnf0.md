@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3h9wUG6jjJyk7M1IwXNjlnsX1XLQA_z_G4BuxNZ-rA5KicXsQypr_4pV4Ps4ueAxSQ
+app_id: se.kry.android
+app_name: Kry - Healthcare by video
+app_screenshot: https://play-lh.googleusercontent.com/mwzEWON2zhZm8yCsCaz6xEdeSQQ2jAP8xLJq-sxwFwWVevXigL-ixl2iVKgoNk3tHw
+category: Medical
+country: SE
+id: 4ZoDaDftxnf0
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2119438'
+publisher_name: KRY International
+rank: '3'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

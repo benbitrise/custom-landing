@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DMEdf-C4OYl7b_FizqrH5aZRPDbvcRyK_6uWPtbHIOZhJr-l-F_M5ouKfbjOwVEb4ig
+app_id: id.tokovoucher.app
+app_name: Tokovoucher - Topup Game Murah
+app_screenshot: https://play-lh.googleusercontent.com/jj4QSG2xnb42xYgwWVKeg_tzgMxUawBb6LEGZGi1S0u-_d8397bPEm8weoYPAeXZWnpQ
+category: Business
+country: ID
+id: ydid3zaiVZ-D
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2760730'
+publisher_name: PT Bukakios Teknologi Indonesia
+rank: '29'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

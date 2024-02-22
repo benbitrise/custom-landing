@@ -12,8 +12,8 @@ publisher_id: '2363614'
 publisher_name: TV Master - Smart TV Remote Control
 rank: '3'
 release_count_in_past_year: '22'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 15
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

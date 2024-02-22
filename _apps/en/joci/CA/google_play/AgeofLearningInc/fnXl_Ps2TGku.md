@@ -12,8 +12,8 @@ publisher_id: '195289'
 publisher_name: Age of Learning, Inc.
 rank: '2'
 release_count_in_past_year: '5'
-release_count_in_past_year_category: 31
-release_count_in_past_year_top_in_category: 31
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

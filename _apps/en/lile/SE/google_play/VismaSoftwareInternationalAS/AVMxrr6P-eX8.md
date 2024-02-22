@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/pWCEsBFUAma0MSfxRSCPRT5BKeWlesaUsS-lqxHhfDxmoj6DPXrqqBe6t71lAMZ-7Spa
+app_id: com.visma.topaz
+app_name: Visma Lön Anställd
+app_screenshot: https://play-lh.googleusercontent.com/HsBhDJWtcudCcoImL5MKNntXL9NTszIwI5ju8tDVVEbT07tTd1M23qKKCFY-NhwCtps
+category: Business
+country: SE
+id: AVMxrr6P-eX8
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '406423'
+publisher_name: Visma Software International AS
+rank: '14'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

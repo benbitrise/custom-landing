@@ -12,8 +12,8 @@ publisher_id: '2918255'
 publisher_name: NEWSDELIVER LIMITED
 rank: '2'
 release_count_in_past_year: '6'
-release_count_in_past_year_category: 5
-release_count_in_past_year_top_in_category: 5
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/n7OtL-le-602p-4R1faIWM3wOKZAEm9hxYuU0StJ25vU9IRpgENds0Zyn-Ka1s6jjA
+app_id: de.solebich.app
+app_name: SoLebIch - Homestories
+app_screenshot: https://play-lh.googleusercontent.com/HYfc8dUrIuSzNjyS6Acbfi7AiEJFv3QnaEn_eLkX_eCSccedUP-759-3ZDvuQNsWiIM
+category: House & Home
+country: DE
+id: sEoMtpP9h-le
+language: en
+most_recent_release: '2023-10-12T00:00:00'
+publisher_id: '2222261'
+publisher_name: SoLebIch
+rank: '151'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

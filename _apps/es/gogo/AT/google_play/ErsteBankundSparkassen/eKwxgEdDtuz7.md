@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/iO3mw3CXFdTFhH_IMBirs-caiJO301aEeOXzPgr13J22W1U0z-PWr6GSnTgbZeu6vCA
+app_id: at.erstebank.george
+app_name: George Österreich
+app_screenshot: https://play-lh.googleusercontent.com/XQUSHPGfrXZ9KAe0DqWXKPU4qYNQF8YRfl-a0MrcE3JSaJFNBkSEy3L7xnTzpPbqDXg
+category: Finance
+country: AT
+id: eKwxgEdDtuz7
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '18098'
+publisher_name: Erste Bank und Sparkassen
+rank: '2'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

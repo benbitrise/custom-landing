@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sYR8WkFj1tHF9DOD1qupXV9vy5GzfWCX3AwVawp_yIPJrcoQ8TYZoDxbDHlJysb18fI
+app_id: au.com.betfair.rnapp
+app_name: Betfair - Online Betting App
+app_screenshot: https://play-lh.googleusercontent.com/gSOqmGKo_6ePn-ciZSJDweRvJ2lNp7xirGGEJRUN4wiiT-D4-9WyGG9vXaDU4DGpUk47
+category: Entertainment
+country: AU
+id: gbPgmxVTG_XT
+language: en
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '2540953'
+publisher_name: Betfair Pty Limited
+rank: '143'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

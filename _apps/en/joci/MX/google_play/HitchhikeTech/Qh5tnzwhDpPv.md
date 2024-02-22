@@ -12,8 +12,8 @@ publisher_id: '2722099'
 publisher_name: Hitchhike Tech
 rank: '4'
 release_count_in_past_year: '6'
-release_count_in_past_year_category: 33
-release_count_in_past_year_top_in_category: 33
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

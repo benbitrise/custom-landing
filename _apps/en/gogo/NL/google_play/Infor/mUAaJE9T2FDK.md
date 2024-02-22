@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cgS8yD5UxAktf64w3ax8CK5CZPvLhADOdZs0nU-DwdNmJLLmPq3jZgumAYeVBlEN1t0
+app_id: com.infor.go
+app_name: Infor Go
+app_screenshot: https://play-lh.googleusercontent.com/6Orwip0MO3lkEAo5SIOQr9ldb0DeulUo2Juxx8u36UJkkb9Vdwe5QMuRw3wqlYVRIGc
+category: Business
+country: NL
+id: mUAaJE9T2FDK
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '103962'
+publisher_name: Infor
+rank: '149'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

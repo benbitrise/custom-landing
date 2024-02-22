@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/12/54/1f12545a-6a90-521b-8640-11fbb21fcaed/NextWMAppIcons-1x_U007emarketing-0-5-0-0-85-220-0.png/1024x1024bb.png
+app_id: '6474294690'
+app_name: WMKAT+
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/ea/84/e5ea843e-7af6-a539-5b37-ba8a3cc9ba5a/a0c0c929-20ee-4756-aa32-02afe1d94981_Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2023-12-14_at_12.45.51.png/1242x2688bb.png
+category: Business
+country: DE
+id: CnVCtjb9x9aa
+language: fr
+most_recent_release: ''
+publisher_id: '436130172'
+publisher_name: DVSE GmbH
+rank: '223'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

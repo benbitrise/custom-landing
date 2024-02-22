@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MbGaT4WJNOjAmaHfRs7cfdaXyhEOckr7SS98OjKZiUr6VnUIQvk70sJfS7Hxvo_TNXc
+app_id: com.d2d.android
+app_name: D2D (Doctor to Doctor)
+app_screenshot: https://play-lh.googleusercontent.com/ltzmvFz7-OydppvSzYNsi7V0lOB9wsN-EukWVcEtluSwu9HmJenuTXg6kApdpFbqiwM
+category: Medical
+country: ID
+id: 2mqqKScB1bo4
+language: es
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '1369604'
+publisher_name: Global Urban Esensial
+rank: '176'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

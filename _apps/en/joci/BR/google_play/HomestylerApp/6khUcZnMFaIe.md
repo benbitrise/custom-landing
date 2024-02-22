@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3h9d_mo3zpy4LDhq2qUdb1Q5kzoDplffRjIbR4mBTG5yFeOJ_wQHwEn6XdUvNicI5Cs
+app_id: com.autodesk.homestyler
+app_name: Homestyler-Room Realize design
+app_screenshot: https://play-lh.googleusercontent.com/yNUEV3pe_KOfXBo7TQJ5QKrMl8V82WMsmP7S99iE1wFlpIoytclvlcEfJIX8f-AgWg
+category: House & Home
+country: BR
+id: 6khUcZnMFaIe
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '2747987'
+publisher_name: HomestylerApp
+rank: '29'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/l9V4Pt3K83FOYgp-jixR6IWcXvnJ7LnlYrT8K5gtLguf6a_KAD4H6wFm8wxnrETzgg
+app_id: sg.mediacorp.android
+app_name: 'mewatch: Watch Video, Movies'
+app_screenshot: https://play-lh.googleusercontent.com/RJr2HZzXE7hA6hHT-VaHPFUEiPYg-2HkIJHdspyvlZRVilbtJssLol7YP6PwxrkD6PI
+category: Entertainment
+country: SG
+id: kQAfYQXcFAv6
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '1174593'
+publisher_name: Mediacorp Pte Ltd
+rank: '5'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

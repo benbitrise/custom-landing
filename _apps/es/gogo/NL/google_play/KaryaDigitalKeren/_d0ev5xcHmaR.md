@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ouehFeqS9icpL52oK-eKhfR9lvPQZnXCmdOAAdOs0OSfARCMiXCgvyYvIeG0VrX8q10p
+app_id: com.girlslivetalk.videocallingchat
+app_name: Girls Live Talk - Video Call
+app_screenshot: https://play-lh.googleusercontent.com/o2HxDCMuasu5yIPrsJINj4qhoUrp0DMvd6b-olmbKRWzbMxiYsHVecjDmTo2VTOsDb8
+category: Dating
+country: NL
+id: _d0ev5xcHmaR
+language: es
+most_recent_release: '2023-11-01T00:00:00'
+publisher_id: '3009617'
+publisher_name: Karya Digital Keren
+rank: '295'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

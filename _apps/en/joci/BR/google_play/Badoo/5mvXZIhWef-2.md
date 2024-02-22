@@ -12,8 +12,8 @@ publisher_id: '11119'
 publisher_name: Badoo
 rank: '1'
 release_count_in_past_year: '46'
-release_count_in_past_year_category: 32
-release_count_in_past_year_top_in_category: 32
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

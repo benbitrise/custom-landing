@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/d7sUx2e1kEmKY7UsySJVUgMOVwcf8IB_u-_eDzQSmB4bjAoJ4kmQ-EZcS5Dz8I_XjcI
+app_id: com.akerlund.uppskattadindag
+app_name: Appreciate your day
+app_screenshot: https://play-lh.googleusercontent.com/9QerS6NyKH-05I8ZBeUO5s43BKnPs-lAFm5ywhKKKhPEUrbJMM-TGnhxMQZyAZydVMi2
+category: Medical
+country: SE
+id: tAmQUDt5wiTi
+language: en
+most_recent_release: '2023-10-16T00:00:00'
+publisher_id: '999003'
+publisher_name: akerlund.com AB
+rank: '85'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

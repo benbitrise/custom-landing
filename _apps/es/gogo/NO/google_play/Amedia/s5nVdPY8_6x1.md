@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3hBXGi9wGYTTsYZ61Pbwr4q6fmpdEMdbdM8yoze6vOS2jbGWhSpWzcvKMbCrNRK5Mw
+app_id: no.nyhetsvarsel.an
+app_name: Avisa Nordland
+app_screenshot: https://play-lh.googleusercontent.com/Sb4DsMxJRpmm3F9GxEQ7_tYgpFZs0-MCGHtm6Dd02YIrQ4f2-4ck9gZ2QVpGu4Zw-bQ
+category: News & Magazines
+country: 'NO'
+id: s5nVdPY8_6x1
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '76053'
+publisher_name: Amedia
+rank: '70'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

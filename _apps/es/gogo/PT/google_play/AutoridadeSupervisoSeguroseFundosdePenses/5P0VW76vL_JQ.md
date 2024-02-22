@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/j2r5KMKHPOFl6wP6pGQM-xBBYwdnSGSd7Hq8MPuFxEronHNH_tEiTHkqzwoFHQxIj40
+app_id: com.mobinteg.temseguro
+app_name: TEM SEGURO?
+app_screenshot: https://play-lh.googleusercontent.com/WeRHz2jIpNyURs1Yx1wItkWWCIiiItx8vz6vMW2-MR7Y997CRYwCP_D1kp3R3RsY0Q
+category: Tools
+country: PT
+id: 5P0VW76vL_JQ
+language: es
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '1847864'
+publisher_name: Autoridade Supervisão Seguros e Fundos de Pensões
+rank: '149'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

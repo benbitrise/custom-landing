@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gIUljcmCH1r0Oop0w_8walko4s5Is4Vwrh8-cyGl82a7PZTOUGFYuktCR7-1Vj3qGek
+app_id: pt.mimed.portal
+app_name: miMed
+app_screenshot: https://play-lh.googleusercontent.com/KbHygbxYXNONnczu0c_4NSwM5Jeo4ZmlzPzTVNOFjBvnP6bVDQK_KTF2p5mJJA689Zk
+category: Medical
+country: PT
+id: -dz28df2JbkS
+language: en
+most_recent_release: '2023-09-18T00:00:00'
+publisher_id: '2723411'
+publisher_name: miMed - Cuidados de Saúde S.A.
+rank: '7'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

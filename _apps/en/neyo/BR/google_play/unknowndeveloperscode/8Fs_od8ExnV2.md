@@ -12,8 +12,8 @@ publisher_id: '2819144'
 publisher_name: unknowndeveloperscode
 rank: '2'
 release_count_in_past_year: '2'
-release_count_in_past_year_category: 10
-release_count_in_past_year_top_in_category: 10
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

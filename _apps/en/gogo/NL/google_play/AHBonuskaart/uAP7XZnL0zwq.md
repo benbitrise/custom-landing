@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/kWNgYKt8U9buxWWeagmmkeOG5MDp-dsirhwcvTp1XCtdzGpDxBG07xxluloQj1JoFkI
+app_id: com.app.imageapp
+app_name: AH Bonuskaart
+app_screenshot: https://play-lh.googleusercontent.com/8VKueggwdgbWumV2rppXTZvTTrGCrUiI7Y4KuZwY3Nr4_VxDLiH2Ndu5egrzHi92Q2Y
+category: Lifestyle
+country: NL
+id: uAP7XZnL0zwq
+language: en
+most_recent_release: '2023-02-05T00:00:00'
+publisher_id: '2895499'
+publisher_name: AH Bonuskaart
+rank: '49'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

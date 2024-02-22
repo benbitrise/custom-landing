@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lbhjsvliHFpxeCPJBg9bT1hmedqt7IhLr4BzQoSF1MKnWzxvIVB52A665oDmPFaNy3g
+app_id: com.guruwalk.web
+app_name: GuruWalk - Free tours
+app_screenshot: https://play-lh.googleusercontent.com/PAF8QR2zu5QHAuAd16CVs55czXosEOIGxkCIH9yBgWXwzZigXwX1sgnrTMDekheOLBU
+category: Travel & Local
+country: PT
+id: 3M-iCNd0n0Dr
+language: en
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '2744282'
+publisher_name: GuruWalk
+rank: '16'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

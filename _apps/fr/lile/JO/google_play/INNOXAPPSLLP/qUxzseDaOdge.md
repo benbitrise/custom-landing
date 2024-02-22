@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_JHHb9kqy1HaWsjktpyLM3C15XBxK4VT4E2W1FxleRkUD-kXM6d6Ut2VO8HgZLn6
+app_id: com.stayfocused
+app_name: 'Stay Focused: App/Site Blocker'
+app_screenshot: https://play-lh.googleusercontent.com/6aVsuul4oO6VuPhZhM-LxOO2MIWG4LVxjNH_KTEL1UXRcUd17xK8siR2jBfSvyDJJr0
+category: Productivity
+country: JO
+id: qUxzseDaOdge
+language: fr
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2962972'
+publisher_name: INNOXAPPS LLP
+rank: '179'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

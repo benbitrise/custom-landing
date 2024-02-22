@@ -13,7 +13,7 @@ publisher_name: HENRY GMBH
 rank: '2'
 release_count_in_past_year: '26'
 release_count_in_past_year_category: 12
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_top_in_category: 15
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

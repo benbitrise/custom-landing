@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CfxZmZDMF75xnHVtU5lN2oJUs2wscLmGpG_cUiabmWHicvHDGZcUw6EV66ctChDy0Lg
+app_id: es.lacaixa.mobile.android.newwapicon
+app_name: CaixaBankNow
+app_screenshot: https://play-lh.googleusercontent.com/IKVBBNrWy3qwegO0r5ikNdAEVd2UceZPlnQvMHsleyLnf2f8vrJ_BdPIwB6zlPTgc8o9
+category: Finance
+country: BE
+id: AglZCafyEtAr
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '742489'
+publisher_name: CaixaBank
+rank: '161'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

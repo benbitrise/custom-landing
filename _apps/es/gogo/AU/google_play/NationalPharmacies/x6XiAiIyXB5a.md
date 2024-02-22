@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Oy5JdOIhhGc_AQdlyuZIlRg3lq1wsCgsiPeWMNlsFTi4VQ0DenqEJ2Ko_JvbQkbq0ew
+app_id: au.com.nationalpharmacies
+app_name: National Pharmacies
+app_screenshot: https://play-lh.googleusercontent.com/uhlLz2kXQQtcQfODVJjlaRsec9g3wiTrawZhY40Lf4wGBKRNJu45y805AGw6gJc31uM
+category: Medical
+country: AU
+id: x6XiAiIyXB5a
+language: es
+most_recent_release: '2023-08-04T00:00:00'
+publisher_id: '742613'
+publisher_name: National Pharmacies
+rank: '68'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

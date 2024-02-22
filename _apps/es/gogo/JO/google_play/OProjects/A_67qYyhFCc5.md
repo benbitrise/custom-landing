@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ElTqaOD63VmXcwhZbvZpMt9XWCgdNTS62t0PwaQOMg5QNb6r-ZdiAISpBL8AIKs2EJ5e
+app_id: com.OProjects.FLS
+app_name: Flat Earth
+app_screenshot: https://play-lh.googleusercontent.com/SgxuvPISM9wgYBCWWCFs1dtNNAt6b58mkTlq4HWQtq5wvCF9QofBzXdGuU9Mt_W7Dg
+category: Maps & Navigation
+country: JO
+id: A_67qYyhFCc5
+language: es
+most_recent_release: '2023-09-11T00:00:00'
+publisher_id: '2214857'
+publisher_name: OProjects
+rank: '92'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '1523888'
 publisher_name: Telegram FZ-LLC
 rank: '2'
 release_count_in_past_year: '61'
-release_count_in_past_year_category: 45
-release_count_in_past_year_top_in_category: 45
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

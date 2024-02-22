@@ -12,8 +12,8 @@ publisher_id: '2661616'
 publisher_name: Meta Platforms, Inc.
 rank: '3'
 release_count_in_past_year: '41'
-release_count_in_past_year_category: 45
-release_count_in_past_year_top_in_category: 45
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

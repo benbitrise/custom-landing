@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XsGzTzBNaVJt8GkSulxUr4Y9WiAwG6ecYuHXIBuN5cvbWw7Kwgy6tuXV__bXGfQ4v8bZ
+app_id: com.prenly.varlden_idag
+app_name: Världen idag
+app_screenshot: https://play-lh.googleusercontent.com/HQUGKCvivDfkWR3pm5k0OapIgYyqERnWWED5wP0Ej49RHhZx7aicFPdkV5qoMEu6_0k
+category: News & Magazines
+country: SE
+id: 5wN2rlBO8tCd
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1420466'
+publisher_name: Världen Idag AB
+rank: '188'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

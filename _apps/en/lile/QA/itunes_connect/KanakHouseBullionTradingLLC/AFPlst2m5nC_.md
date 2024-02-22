@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/bd/11/bebd11d6-3a70-e86e-e409-2ba1b68e75bf/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1608770670'
+app_name: Kanak Capital Markets iTrader
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/82/06/f28206eb-0803-13bc-bdf3-0020b2669531/44d0e21b-a72f-4e49-a787-9e615df0eac0_1.png/1242x2208bb.png
+category: Business
+country: QA
+id: AFPlst2m5nC_
+language: en
+most_recent_release: ''
+publisher_id: '1413720748'
+publisher_name: Kanak House Bullion Trading LLC
+rank: '599'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

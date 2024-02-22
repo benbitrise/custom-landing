@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WaOCVKsxNlZmLT_Wghi6AxwSdE3v341W-UdyHjokX0n5W2SM92FYv2I0ysJ9rZFZuw7Z
+app_id: com.yanan.voicegame
+app_name: Mr7ba - Group Voice Chat Room
+app_screenshot: https://play-lh.googleusercontent.com/qLjoMNTvfi6Mgf6bgb4u5UneB43wLlOnpwEgsiHUZoTjhsmCp8KXnNi5DClyV5bGjxQ
+category: Entertainment
+country: DE
+id: d9LJxPXImhx5
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '3028243'
+publisher_name: Guangzhou Maidong Investment Co., Ltd.
+rank: '173'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

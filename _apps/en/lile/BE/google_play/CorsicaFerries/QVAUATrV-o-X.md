@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/abXso4NjeLHINb_UNKAfgqYnV5hPEf5K8EstnoFHE5tL_OE11DqjCXWy4wL7YQQtUfY
+app_id: fr.corsicaweb.corsicaferries
+app_name: Corsica Ferries
+app_screenshot: https://play-lh.googleusercontent.com/24UZhKcaOX-6zIwjABKknG3aRextg-WgH_Xp1CHRbiHzLvMW3p79TXs9-I9UbG0Ex8A
+category: Maps & Navigation
+country: BE
+id: QVAUATrV-o-X
+language: en
+most_recent_release: '2023-12-28T00:00:00'
+publisher_id: '2748818'
+publisher_name: Corsica Ferries
+rank: '206'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/v8w4BjwjRInQSJBaUDAc2vvtu3Tm08SrCyHaJ7qwkV2cZwRo95ibHZnpowNvmXtEtEud
+app_id: com.cherisher.face.beauty.editor
+app_name: 'Becoco: Selfie Camera & Editor'
+app_screenshot: https://play-lh.googleusercontent.com/cRM0TzDYt6DqYascbyMmSV-NEIB7j6zL4sfTcn_8IfHwGKWpP65KZMOIhu7O3vSMsA
+category: Photography
+country: JO
+id: ZIMJ5tEAUmTB
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '1705959'
+publisher_name: changpeng
+rank: '159'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

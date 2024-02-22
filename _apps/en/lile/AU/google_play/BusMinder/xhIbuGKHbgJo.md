@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YoPUsmaV3zXCRhYQ4JL0JIesWKEODzPBN4dec7Xejna5xTm6lb9S5Bxeild6QqnO9Yk
+app_id: com.busminder.willunga
+app_name: Willunga Charter
+app_screenshot: https://play-lh.googleusercontent.com/p4VzrJw_bfM3aBfZ-xiXq1FB91cSj115WE8NyqV_zdqSrEJMkeqyt-rsKz18H2x60WM
+category: Travel & Local
+country: AU
+id: xhIbuGKHbgJo
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '682777'
+publisher_name: BusMinder
+rank: '178'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

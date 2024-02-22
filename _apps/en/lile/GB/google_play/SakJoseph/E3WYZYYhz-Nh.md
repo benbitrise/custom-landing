@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WyLfAgJy2uNM4c9FntWH6WX_DxBBZXzYNIe_vntqAGz2_5CD7haH_FMQt21UGpciOEE
+app_id: com.obkrut.android.tony
+app_name: POK VPN - Easy Fast Proxy
+app_screenshot: https://play-lh.googleusercontent.com/AtprMwCm-1vnqA0_Pb8mK2XWj_UjTkF1YaAVexGlYKrccxB5yZAlfCS85XOGJpYKog
+category: Productivity
+country: GB
+id: E3WYZYYhz-Nh
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '3022798'
+publisher_name: Sak Joseph
+rank: '79'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

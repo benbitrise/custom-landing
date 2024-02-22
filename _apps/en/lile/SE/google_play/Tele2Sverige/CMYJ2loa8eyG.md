@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-UiND0i3hFCCWGXGp9VxIlccOESl_d__vwhcv5YAwyYr_VNcIHZVsFoxfC0GctElTQ
+app_id: swe.tele2.mittTele2
+app_name: Mitt Tele2
+app_screenshot: https://play-lh.googleusercontent.com/f7DFDrYD1zs_XFD7RRfbyaSXT_mlaUuFSfkT6QfaRl8inytViBypSUooj4rxNG2UiU8
+category: Tools
+country: SE
+id: CMYJ2loa8eyG
+language: en
+most_recent_release: '2023-11-20T00:00:00'
+publisher_id: '40508'
+publisher_name: Tele2 Sverige
+rank: '34'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

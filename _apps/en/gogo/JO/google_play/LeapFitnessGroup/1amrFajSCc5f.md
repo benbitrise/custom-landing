@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OCjMV7BV3Vx5ZXHc1LZPb4rpl_TVJ4JFCFLjGVpgGx61uuaSlcSVkXa0E3euy1EbqUQ
+app_id: legsworkout.slimlegs.fatburning.stronglegs
+app_name: Leg Workouts - Tone up & Slim
+app_screenshot: https://play-lh.googleusercontent.com/e-qihLVN8bYOI9Cx9w-J8g4qTLnBmrAB9DBhl9FAM99CksuVpSTy3KxZLSDeEPQRTss
+category: Lifestyle
+country: JO
+id: 1amrFajSCc5f
+language: en
+most_recent_release: '2023-11-06T00:00:00'
+publisher_id: '1114124'
+publisher_name: Leap Fitness Group
+rank: '175'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

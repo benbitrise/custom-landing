@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/kKHC6TupSJWwAjUB1-6ZGH3-FbYDzF3SsVnZextipBfcIN6kvFhbredY4AmBJvl_fg
+app_id: jp.ne.mkb.MKBFortune
+app_name: 超当たる！的中占い大集合～恋愛、結婚、相性、本格占い選び放題
+app_screenshot: https://play-lh.googleusercontent.com/SXZ4_lWlF0sWl5mBvJ8N_k_zab6GWNTBV_3fBlrOYrcWU8itKtvXLcOR1MCxowMQtZns
+category: Entertainment
+country: JP
+id: wU1cY_hB43r3
+language: en
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '191698'
+publisher_name: Media Kobo,Inc.
+rank: '166'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

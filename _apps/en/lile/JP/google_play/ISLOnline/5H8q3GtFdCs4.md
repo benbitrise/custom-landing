@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/E7TDOxBP0X82luuMGMENOzc3wRDrdw4r5m04gBwRoRJZdAUZpvw6H_xnAHHC6ChpXyVA
+app_id: com.islonline.isllight.mobile.android
+app_name: ISL Light Remote Desktop
+app_screenshot: https://play-lh.googleusercontent.com/Lv0jNtuR_f9Y_RKqsMejuRlhjjvpIeg5ye_sB0bl1XuU-x01ceQr8B9Y9pG37aw6MmzM
+category: Productivity
+country: JP
+id: 5H8q3GtFdCs4
+language: en
+most_recent_release: '2023-09-14T00:00:00'
+publisher_id: '74163'
+publisher_name: ISL Online
+rank: '124'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

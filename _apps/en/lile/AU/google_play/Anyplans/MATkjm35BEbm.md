@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JPwpkajpdt4uAcrIDW-_3SSPJVgG1aJDhDmwmzEv8F_m0gr5TYhqWtlLxNv7DQhxcvg
+app_id: com.dateway.anyplans
+app_name: Anyplans Dating & Social Plans
+app_screenshot: https://play-lh.googleusercontent.com/zbEcoPCO55X3lTokhe7wrTQ1FWti1fKKG_BZ_FqkaKJpPC-OqjKpMrjcaci3CSkmfaM
+category: Social
+country: AU
+id: MATkjm35BEbm
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '3065261'
+publisher_name: Anyplans
+rank: '76'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

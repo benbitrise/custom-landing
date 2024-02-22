@@ -10,10 +10,10 @@ language: en
 most_recent_release: '2024-02-06T00:00:00'
 publisher_id: '1217894'
 publisher_name: READERA LLC
-rank: '12'
+rank: '10'
 release_count_in_past_year: '15'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: anna.magnussen@bitrise.io
 rep_first_name: Anna
 rep_full_name: Anna Magnussen

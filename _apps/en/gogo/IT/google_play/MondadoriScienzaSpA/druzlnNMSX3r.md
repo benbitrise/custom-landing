@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vIIROwSg1Oh19zRnMQDX3UToLHt7Lo3opk4srSu817kRBUUfK3JmiEEhY8B-HUYdc-U
+app_id: it.Gruner.FocusStoria
+app_name: Focus Storia
+app_screenshot: https://play-lh.googleusercontent.com/Ebuj-l0zasUqse8swkJHO3HOQhCQfk66Ggp-0suB63BRhLsVXdvoashvIYk-XeMJ4opI
+category: News & Magazines
+country: IT
+id: druzlnNMSX3r
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '825773'
+publisher_name: Mondadori Scienza S.p.A.
+rank: '114'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

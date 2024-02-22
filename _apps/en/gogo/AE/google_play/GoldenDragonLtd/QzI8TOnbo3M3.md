@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/FVnhBWq1GrB1leaBvYRuJ0GYmSd8CRSAueZ6-_zYElWkE5_q7-bu1-GwWibCbj6Uaw
+app_id: com.ace.freevpn
+app_name: Ace VPN (Fast VPN)
+app_screenshot: https://play-lh.googleusercontent.com/GuFUjEgFIAnGQZgLtvbS9otaKMpKmXNwbsJ1bohOZgIVLZFn242PeYfiCMtTcjIuba8
+category: Communication
+country: AE
+id: QzI8TOnbo3M3
+language: en
+most_recent_release: '2023-11-14T00:00:00'
+publisher_id: '2143225'
+publisher_name: Golden Dragon Ltd
+rank: '52'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

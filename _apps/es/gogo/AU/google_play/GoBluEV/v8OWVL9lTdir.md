@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/26t3NgpCe7JvgeVPFj6Ge8-JwJ2nz7ivFAOv0e1U4NR9-06nEc_axYnPEqu5O4OKrQ
+app_id: com.goblu.user
+app_name: GoBlu-EV
+app_screenshot: https://play-lh.googleusercontent.com/9dB9XIL4w_f6yD51E--kS-XxpY2XNTm-Eaag7uv5IRDMtnY32cUf3byp6JNARHIsGH8
+category: Travel & Local
+country: AU
+id: v8OWVL9lTdir
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '3018221'
+publisher_name: GoBlu-EV
+rank: '203'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

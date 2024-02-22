@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HfLOj_mZvrmQWp-qILGuPcc6XGn9HmKIQ5MbM10U5o7FCfP_N1CE38dRcaeX0jVglMU
+app_id: net.diflib.mp3clip
+app_name: MP3 Melody Cutter
+app_screenshot: https://play-lh.googleusercontent.com/iMGhf70x3tfKE7xn5FIxoG_c3Dv-fYFAZbj-J81_VK3fpZBOjwt7HIDZMyFO_uPwjA
+category: Music & Audio
+country: MX
+id: Iw-9VpKyvIB0
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '2732452'
+publisher_name: Maude Green
+rank: '152'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

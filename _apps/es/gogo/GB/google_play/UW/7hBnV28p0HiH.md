@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/C-GHiSuNzt8gFe7XtkOUHQr95lCWiRSjHfwJcccPk3Hqicedp5oe4LjFvA7hPzwOoerF
+app_id: com.uw.partner
+app_name: UW Partner
+app_screenshot: https://play-lh.googleusercontent.com/sIAZmfzvvG0oGpy6Qk4PJMO_7YgFGK0ZiXqSPW08OyiAhd_xB4MR8lhZL4iPs704zg
+category: Business
+country: GB
+id: 7hBnV28p0HiH
+language: es
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '2437919'
+publisher_name: UW
+rank: '172'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

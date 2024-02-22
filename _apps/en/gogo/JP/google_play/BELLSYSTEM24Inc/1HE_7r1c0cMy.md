@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/SMKGPp7kiFlAyC-Q5TbDVJ0VQ6usOq-BuwSu_mlR407Eq6o2MiNOY4RP4ks9TFPWJ1s
+app_id: jp.co.pocke.android.zutsu
+app_name: 頭痛ーる：気圧予報で体調管理 - 気象病対策アプリ
+app_screenshot: https://play-lh.googleusercontent.com/cY3e9ioLAEDkXVWi0x4MbHjA0TW2u-Nygzxfzy3mJO66MHzBsXCTZmtSETge9BGaKhar
+category: Weather
+country: JP
+id: 1HE_7r1c0cMy
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '3031776'
+publisher_name: BELLSYSTEM24, Inc.
+rank: '2'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

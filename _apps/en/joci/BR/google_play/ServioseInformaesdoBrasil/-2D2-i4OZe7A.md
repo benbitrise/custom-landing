@@ -12,8 +12,8 @@ publisher_id: '2776126'
 publisher_name: Serviços e Informações do Brasil
 rank: '3'
 release_count_in_past_year: '27'
-release_count_in_past_year_category: 18
-release_count_in_past_year_top_in_category: 18
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hwb8nnsgsKvTzuE1lxZcjN7DS01vIOIXwbvArL4QjxCA-vkJRpwL4NdSp3FFLiEYbzQ
+app_id: se.anticimex.consumer
+app_name: Anticimex
+app_screenshot: https://play-lh.googleusercontent.com/80rqF9NLhLtaWudEDWFBJItv0cxi_G2jaO1F6bDhBYd68CFkU98StmO9_ljkW-u08ME
+category: House & Home
+country: SE
+id: EBWgBVmx_gt0
+language: en
+most_recent_release: '2023-12-14T00:00:00'
+publisher_id: '2540901'
+publisher_name: Anticimex Försäkringar AB
+rank: '92'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/pSWEDJfETAeXMLEpyZbRodlc29YR0ButK-xPOyim5z9wmWpfequLGVSrJk7i2c1KtEA
+app_id: ua.chichi
+app_name: AirAlert (Повітряна тривога)
+app_screenshot: https://play-lh.googleusercontent.com/GNgpeRP-T120riAoCQt3UgIKLsgrD4W7kEJSj_jCrWR4n5znUVJb7NnUjnsYqxpheS4
+category: Beauty
+country: NL
+id: DOqiLAnBIBzl
+language: en
+most_recent_release: '2023-02-03T00:00:00'
+publisher_id: '2157638'
+publisher_name: chichi.com.ua
+rank: '185'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

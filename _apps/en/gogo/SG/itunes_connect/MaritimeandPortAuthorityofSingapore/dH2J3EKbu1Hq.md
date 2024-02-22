@@ -1,0 +1,25 @@
+---
+app_icon: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/5e/11/5a/5e115a95-12b9-5536-f6d1-224179f96924/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1458474671'
+app_name: myMaritime@SG (NEW)
+app_screenshot: https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/29/9c/79/299c793b-f3da-71f1-d450-0596225fb75b/pr_source.png/1242x2688bb.png
+category: Business
+country: SG
+id: dH2J3EKbu1Hq
+language: en
+most_recent_release: '2021-06-28T00:00:00'
+publisher_id: '895843513'
+publisher_name: Maritime and Port Authority of Singapore
+rank: '369'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

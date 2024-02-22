@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/JCQ1opom-Kay8f3xVs9VfKmDKsKD3md5uKLJf93gsYAawE6UpzgN_2fALgS0mKOcNw
+app_id: jooble.org
+app_name: Jooble Job Search
+app_screenshot: https://play-lh.googleusercontent.com/kgptlENbr-9o5qWNcuIqtKwTOSEekFJH_hyGcqnBKc58du_Dch3pjJURnL0BuvZXeVA
+category: Business
+country: CA
+id: H5zG6rfx7bCw
+language: en
+most_recent_release: '2023-09-18T00:00:00'
+publisher_id: '2758725'
+publisher_name: Jooble
+rank: '134'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

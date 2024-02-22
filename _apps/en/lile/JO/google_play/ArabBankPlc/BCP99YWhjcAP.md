@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lUtKGgfrZmDEf_ZEY22wk8-ULDn-9Lxzf-3ib2-LKMQWEL1Hr2vn-LtP_ZAsR7QAFg
+app_id: com.arabbank.abjunior
+app_name: Arabi Junior
+app_screenshot: https://play-lh.googleusercontent.com/427FHqulFzdcPsbeJnQytG5ai7RifBzuAIRzaeOj7wH2myLhmwT3DnIxjXe_pyd5dw
+category: Finance
+country: JO
+id: BCP99YWhjcAP
+language: en
+most_recent_release: '2023-03-27T00:00:00'
+publisher_id: '173988'
+publisher_name: Arab Bank Plc.
+rank: '194'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

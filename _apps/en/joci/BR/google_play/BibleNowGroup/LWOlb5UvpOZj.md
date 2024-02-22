@@ -12,8 +12,8 @@ publisher_id: '2787228'
 publisher_name: Bible Now Group
 rank: '2'
 release_count_in_past_year: '17'
-release_count_in_past_year_category: 22
-release_count_in_past_year_top_in_category: 22
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

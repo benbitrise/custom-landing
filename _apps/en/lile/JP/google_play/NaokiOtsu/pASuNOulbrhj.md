@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UIMP4zIHxSRhxLSe-K3CixQhQsCDy_YMApEcC1ljRgni1T3dAyy_79FvK6OPqibaqNM
+app_id: com.weeklychecklist
+app_name: Habit Check Calendar
+app_screenshot: https://play-lh.googleusercontent.com/uH99MZiAlGmxFrnJXEIkJdmQI5kW0ZyVedLg23CfFF5dS3ZLNOKx_tjq7vbCP2yDKRh2
+category: Productivity
+country: JP
+id: pASuNOulbrhj
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '2964556'
+publisher_name: Naoki Otsu
+rank: '127'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

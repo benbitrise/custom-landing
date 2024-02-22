@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wgojbgn1VUItsZzype8nnQnT_vzpGdE2Jn0Brs4eGS2WNDBQxpZM8P8zEHLAidj6qtwY
+app_id: com.gamelegends.make.earn.rewards.gift.cards.money.surveys.paid.real.cash
+app_name: Game Legends
+app_screenshot: https://play-lh.googleusercontent.com/7Rcl3Fk9roevs6IjPVzH0jibDIytSMyYBjpRGmvpH00MdKxF9DfFe-rlxgN_QlGhNzU
+category: Lifestyle
+country: CA
+id: II_ka2sfJLLw
+language: en
+most_recent_release: '2023-12-14T00:00:00'
+publisher_id: '2972545'
+publisher_name: Make Real Money LLC
+rank: '172'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

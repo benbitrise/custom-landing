@@ -12,8 +12,8 @@ publisher_id: '2426474'
 publisher_name: ® SUOL INNOVATIONS LTD
 rank: '4'
 release_count_in_past_year: '52'
-release_count_in_past_year_category: 38
-release_count_in_past_year_top_in_category: 38
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

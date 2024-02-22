@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BMSgE-Y7LaRcyPpOkE6r_-6iRiKw6SLijkLA5YNAxflNyqnIPM6e8cs8dxM6X5Gol3g
+app_id: in.tipsydrinks.app
+app_name: 'Tipsy: Alcohol Delivery'
+app_screenshot: https://play-lh.googleusercontent.com/UtP0VIQyodKwzRNaeiqSGUAhpFP3wdjnkL-wPmQl957yN3Wz7qjMaRZsI9OEJ2xks2Sd
+category: Food & Drink
+country: IN
+id: diRIeGqaITPT
+language: fr
+most_recent_release: '2023-07-12T00:00:00'
+publisher_id: '3026805'
+publisher_name: Cloutlabs.in
+rank: '97'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

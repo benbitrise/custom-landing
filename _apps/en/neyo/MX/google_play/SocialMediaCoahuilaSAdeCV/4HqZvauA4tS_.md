@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/oG36LUjO8I5Tp1pZM9Q6oK-1aIJKC-1w7OqHA28QdsvPgee127UqawPy-bXjW51-HHA1
+app_id: com.gruporegion.news
+app_name: Grupo Región
+app_screenshot: https://play-lh.googleusercontent.com/J9Smoaq_-brDMVUg5RUM65reeeXe6lkLnbK1SyKqU3xzpDeKnaq354gtTid4qGWeQ-3L
+category: News & Magazines
+country: MX
+id: 4HqZvauA4tS_
+language: en
+most_recent_release: '2023-11-29T00:00:00'
+publisher_id: '2603943'
+publisher_name: Social Media Coahuila, S. A. de C. V.
+rank: '87'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

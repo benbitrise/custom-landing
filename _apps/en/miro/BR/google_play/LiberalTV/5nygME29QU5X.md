@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hgso4PRVWCWBUuojUXI7nYtfdoo276WdJTF1sXV5cMxrlgzx7Gc8JKGOi0FFI1Zj9H4
+app_id: com.app.theliberalworld
+app_name: LIBERAL TV
+app_screenshot: https://play-lh.googleusercontent.com/ZW9cQ4MMJzeXEP3NLOHMKISVtIKoI2eRd63z9HsOksstlukd7LGRQmVz4p7swuQU7Es
+category: News & Magazines
+country: BR
+id: 5nygME29QU5X
+language: en
+most_recent_release: '2023-12-13T00:00:00'
+publisher_id: '2860587'
+publisher_name: Liberal TV
+rank: '191'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

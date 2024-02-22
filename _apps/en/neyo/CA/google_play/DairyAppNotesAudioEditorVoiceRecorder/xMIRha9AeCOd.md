@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/buclS0jpbhvJJF0KG2PhwfXtt0VkVTE3jI4E2oPZsEAXkzHxvXu9rHIc8SXHznNjwDY
+app_id: voicechanger.voiceeffects.soundeffects.voiceavatar
+app_name: Voice Changer - Voice Effects
+app_screenshot: https://play-lh.googleusercontent.com/UN4E7FAPlIqn5HKiZ6fu6Ix3wn_5mQp7CSvbI4la36g1mR1n8Z1xl6vRNBG8GyqnAQqU
+category: Music & Audio
+country: CA
+id: xMIRha9AeCOd
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2403132'
+publisher_name: Dairy App & Notes & Audio Editor & Voice Recorder
+rank: '83'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

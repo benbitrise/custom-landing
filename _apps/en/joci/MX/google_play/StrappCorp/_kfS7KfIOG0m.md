@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ZKefXUDwJzlq76wDqItRRQrNWOJJT92Li1id9PNGZGhXm5_tEZHU52QSINUcGxvDvyFD
+app_id: com.strappcorp.smatchme
+app_name: SmatchMe red social deportiva
+app_screenshot: https://play-lh.googleusercontent.com/d1Xi7qq9NSlhqT9Fh8zvNiGj9tWBguoHVDW703qmc989kP_B4zfdkAMWvndkXY-kJn8
+category: Sports
+country: MX
+id: _kfS7KfIOG0m
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '1734506'
+publisher_name: StrappCorp
+rank: '55'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

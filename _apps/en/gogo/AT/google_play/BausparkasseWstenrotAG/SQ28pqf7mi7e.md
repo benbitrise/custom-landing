@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4yrfwGxkPaaHX0njtEh5eyXbnVWhchYqGutLsoGHWc85tZh_K1KMhmJmP0SWzcBhwZU
+app_id: at.wuestenrot.klickmal.android
+app_name: Wüstenrot App
+app_screenshot: https://play-lh.googleusercontent.com/695xSqXUpPTA17nulP1MLu-K92of0FFQCbDjTrZIjONyHXmyev6MVgXiXlo_jsrfl5E
+category: Finance
+country: AT
+id: SQ28pqf7mi7e
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '1960139'
+publisher_name: Bausparkasse Wüstenrot AG
+rank: '24'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

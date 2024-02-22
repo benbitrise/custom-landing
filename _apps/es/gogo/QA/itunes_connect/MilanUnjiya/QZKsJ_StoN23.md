@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/22/e5/5c22e51f-e363-4cf3-f82c-e598cb13b490/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1532606784'
+app_name: Photo Translator - Scanner App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/5b/65/a65b65fb-c09b-b003-eead-0bf0a816120e/a103950f-16f5-4ec3-b460-c389f440c612_4.png/1242x2688bb.png
+category: Business
+country: QA
+id: QZKsJ_StoN23
+language: es
+most_recent_release: '2022-02-20T00:00:00'
+publisher_id: '1490152913'
+publisher_name: Milan Unjiya
+rank: '684'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

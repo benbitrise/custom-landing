@@ -12,8 +12,8 @@ publisher_id: '21829'
 publisher_name: Globo Comunicação e Participações S.A.
 rank: '3'
 release_count_in_past_year: '95'
-release_count_in_past_year_category: 41
-release_count_in_past_year_top_in_category: 41
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

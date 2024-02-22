@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yBOONzsO-ItDf7vulDoopS-NGKLUmn-g4fv1MsQG89URBLVkrGt2ql0KiJSlBCEgAg
+app_id: pt.rtp.play
+app_name: RTP Play
+app_screenshot: https://play-lh.googleusercontent.com/q1at3FqbLN8lBmnX4pd3UQ8XxnIlz2oDudXcst32OThR1m0Hh2CAHHNcaai0RU0ykw
+category: Entertainment
+country: PT
+id: 14A-9ZkK0fmn
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '327274'
+publisher_name: Rádio e Televisão de Portugal
+rank: '26'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

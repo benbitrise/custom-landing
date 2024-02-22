@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/cb/50/e9cb509f-2395-e79a-6a7b-6f1e964370aa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1568704666'
+app_name: VC360 Photo App. VirtualCar360
+app_screenshot: https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/f8/ca/fff8ca8c-5bb7-6cb7-660b-5f244fc4e25f/27c9ab48-0073-4e5c-9c5a-7806292a8767_VC360_1.jpg/2778x1284bb.png
+category: Business
+country: PL
+id: qUVr26ghldgN
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1568704668'
+publisher_name: VirtualCar360 Sp. z o.o.
+rank: '505'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

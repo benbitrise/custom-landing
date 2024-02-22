@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bJaTZJBFMtmyyvP_SKN1QebFQXvSv1S7fcUwI-AyihcskygUX0XUBY3-hsUgetkRhQo
+app_id: com.dmarket.dmarketmobile
+app_name: DMarket - Trade CS:GO Skins
+app_screenshot: https://play-lh.googleusercontent.com/pBU49nDTtYS-rtnwPSDWYyHINX02Cf3EcOlt64aCYYX3O7SqZR4cFXJaQtxJLPgCKmz8
+category: Shopping
+country: SE
+id: uPRMfPfO5p36
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2263408'
+publisher_name: DMarket Inc
+rank: '177'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

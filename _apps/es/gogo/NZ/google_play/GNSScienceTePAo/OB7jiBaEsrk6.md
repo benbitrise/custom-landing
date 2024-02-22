@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3yZMFN9072EDfKmoUkKJNgyHfIIciupUQPNGvPISXlIrrrRZ3s8cem8KCdP8upuFPZ0
+app_id: nz.org.geonet.quake
+app_name: GeoNet
+app_screenshot: https://play-lh.googleusercontent.com/ubeCo5UaM0FRlGX_Ap3D2SpXryoUwA-EGpGmgRvrzzLnmL444fLC02bRqe_GHRjs_-s
+category: News & Magazines
+country: NZ
+id: OB7jiBaEsrk6
+language: es
+most_recent_release: '2023-11-15T00:00:00'
+publisher_id: '2964321'
+publisher_name: GNS Science, Te Pū Ao
+rank: '2'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

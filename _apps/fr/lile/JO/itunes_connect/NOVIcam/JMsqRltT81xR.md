@@ -1,0 +1,25 @@
+---
+app_icon: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/74/81/f47481a9-40b3-891b-8407-04004aedd2d2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1321334766'
+app_name: iVMS 4.5 PRO NOVIcam
+app_screenshot: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/ce/02/8fce02b6-6cad-480d-3b85-ceafcab20d71/pr_source.png/1242x2688bb.png
+category: Business
+country: JO
+id: JMsqRltT81xR
+language: fr
+most_recent_release: '2023-04-18T00:00:00'
+publisher_id: '680447165'
+publisher_name: NOVIcam
+rank: '221'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

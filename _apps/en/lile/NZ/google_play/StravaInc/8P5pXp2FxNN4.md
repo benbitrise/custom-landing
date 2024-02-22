@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU
+app_id: com.strava
+app_name: 'Strava: Run, Bike, Hike'
+app_screenshot: https://play-lh.googleusercontent.com/wMhkyQaXRiRMdp-1atKLRkel0SXmZ5Vf5tmTgQnsmqrRO4Byfr5hcHwPdFO6WCGAYCA
+category: Health & Fitness
+country: NZ
+id: 8P5pXp2FxNN4
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '9231'
+publisher_name: Strava Inc.
+rank: '7'
+release_count_in_past_year: '64'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

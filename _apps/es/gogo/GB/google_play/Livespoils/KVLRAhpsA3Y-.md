@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/pi7rb5hTNGzzgVGnC7yX4GC4pM89jM8L4zASGvfek5QAnKrs3vHY1ZceB-ElTgUzhho
+app_id: com.mianii.thesis
+app_name: Thesis
+app_screenshot: https://play-lh.googleusercontent.com/6EkY6M-nP7IhODXZvtaWpG2eToHqW7Ds53KGvJ9618G84xpIKD-h9FwPnZqOxM4U3nJK
+category: Entertainment
+country: GB
+id: KVLRAhpsA3Y-
+language: es
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2911087'
+publisher_name: Live spoils
+rank: '165'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

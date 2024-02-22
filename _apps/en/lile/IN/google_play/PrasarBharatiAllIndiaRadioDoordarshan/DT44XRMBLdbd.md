@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qCU_DeJIY2vSVltBJ-QVqy2BJm9qCJI-yeDNT5x_5Ywmenhwhvdfm_XgupBWk5mEbVc
+app_id: com.ddindia
+app_name: DDIndia
+app_screenshot: https://play-lh.googleusercontent.com/Is0b1Wm6cpbDDxEmAgqcBNAI5KZelbMlOMRyIXq128qWxk7BgljXNgtPqrDIxWfy9o4o
+category: News & Magazines
+country: IN
+id: DT44XRMBLdbd
+language: en
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '2235669'
+publisher_name: Prasar Bharati (All India Radio, Doordarshan)
+rank: '186'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

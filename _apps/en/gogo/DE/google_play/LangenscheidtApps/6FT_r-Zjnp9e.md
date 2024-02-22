@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/klo4_ibYEgA5XokUPHezCBa3VOOsCqEC99_Kj7_pbLEYqkdEZHDiI9dVuJilv4IPi5AQ
+app_id: de.langenscheidt.swb
+app_name: Schule Wörterbuch
+app_screenshot: https://play-lh.googleusercontent.com/6UUdUUYc9mPXMhxHe4rH-WhBFfwgqUPLoVHpzhbOLaKjq6b2wniFVSu-pJVsV1xb5PlO
+category: Books & Reference
+country: DE
+id: 6FT_r-Zjnp9e
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '2071188'
+publisher_name: Langenscheidt Apps
+rank: '97'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

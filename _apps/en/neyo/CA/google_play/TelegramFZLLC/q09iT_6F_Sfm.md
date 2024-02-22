@@ -12,8 +12,8 @@ publisher_id: '1523888'
 publisher_name: Telegram FZ-LLC
 rank: '3'
 release_count_in_past_year: '61'
-release_count_in_past_year_category: 49
-release_count_in_past_year_top_in_category: 49
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

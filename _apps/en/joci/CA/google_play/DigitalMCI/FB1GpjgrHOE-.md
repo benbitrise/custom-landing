@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/D6pgWXNzIp8bUHxTjbkPn5Rak7qI3uf71iPiwlqp2coCo5B6u0oqkMEERIiy5sj8KQ
+app_id: ir.mci.ecareapp
+app_name: MyMCI
+app_screenshot: https://play-lh.googleusercontent.com/AsROjmTnIPh7QvygZtlOrJiT030nWg-HB9l329j8L3Q8H44h5rYgG6BQwboiFpiisoth
+category: Lifestyle
+country: CA
+id: FB1GpjgrHOE-
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '2251599'
+publisher_name: DigitalMCI
+rank: '177'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

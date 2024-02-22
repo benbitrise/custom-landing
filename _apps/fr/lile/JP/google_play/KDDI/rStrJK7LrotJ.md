@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qOBMW3HGkQbg-BWp2IXP59x_Kpm5eXmGgb_nEcegXa0gRrYFQeOEAh_nebHV_ZwWuQ
+app_id: com.au.app5g
+app_name: au 5Gチャンネル-ポイ活もできる！ショート動画アプリ
+app_screenshot: https://play-lh.googleusercontent.com/svIudIu_n1LrFsh0SzFxSuoowZQ3Bqkgc0WrlVBbtyevCUovo_0LhcGKvtHWL0pYzxU
+category: Entertainment
+country: JP
+id: rStrJK7LrotJ
+language: fr
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '54869'
+publisher_name: KDDI株式会社
+rank: '35'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

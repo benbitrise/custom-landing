@@ -1,0 +1,25 @@
+---
+app_icon: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/30/8a/d3/308ad39c-d643-e314-a839-5645809cd733/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1232154721'
+app_name: Islami Mobile
+app_screenshot: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/58/af/7e58af48-5a02-941c-a546-59ccb84adf69/pr_source.png/1242x2688bb.png
+category: Business
+country: IL
+id: Jy3qvQhcqxOU
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1232154720'
+publisher_name: Palestine Islamic Bank
+rank: '66'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

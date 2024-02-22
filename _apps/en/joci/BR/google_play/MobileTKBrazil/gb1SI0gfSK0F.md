@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/szI8hyd4zPI_ooKb31hucemL-RerFtJfGG5FK_B5pG_IpjEPfxgzanPVH_kuEpTz8Jk
+app_id: tk.andrekunde.minhasdespesas
+app_name: My Expenses - Simple Cash App
+app_screenshot: https://play-lh.googleusercontent.com/HCIq84LUFed2RFYVaamMCbI87llnodJd22LAqGbIYF72Lc2AE4kNLsZ1SqE9Gz8dIrM
+category: Finance
+country: BR
+id: gb1SI0gfSK0F
+language: en
+most_recent_release: '2023-09-14T00:00:00'
+publisher_id: '1727630'
+publisher_name: Mobile TK Brazil
+rank: '201'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

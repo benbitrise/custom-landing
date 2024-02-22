@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2Uxwb24XXPg7RwR4CIQkj7rnGfHyVCfIps926AD4WQB4c1Vls8MKTvVpDBelqjpvIQ
+app_id: com.marmitek.smartme
+app_name: Marmitek Smart me
+app_screenshot: https://play-lh.googleusercontent.com/VpP8le7gK81dJ8qU42CXwS9GZQ5qzTPMoUy3cTDNbbwQzYZNBvV6pBXW2Zpo2S_tf2M
+category: Lifestyle
+country: DK
+id: vw3jIJ6lJBFI
+language: en
+most_recent_release: '2023-11-07T00:00:00'
+publisher_id: '201611'
+publisher_name: Marmitek
+rank: '117'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

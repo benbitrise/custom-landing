@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jpOBOOM0oYxX_eJ_Sax7l68TtchU-Q8DcKYsJ558EgQE0trAm69mcx5M0Ey3ELMdtFj9
+app_id: com.kart2023.girls_police_dz
+app_name: شرطة البنات الجزائرية المطورة
+app_screenshot: https://play-lh.googleusercontent.com/WZsqVed5DadckAv4OgzjGhBafazCevHEc4Y5T2XoODXwRXKZ7QoizIibFAgNpPeJ2Q
+category: Parenting
+country: JO
+id: KOdzupytuWF5
+language: en
+most_recent_release: '2023-07-14T00:00:00'
+publisher_id: '2840831'
+publisher_name: naif212
+rank: '110'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

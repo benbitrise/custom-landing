@@ -12,8 +12,8 @@ publisher_id: '298856275'
 publisher_name: Microsoft Corporation
 rank: '1'
 release_count_in_past_year: '50'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

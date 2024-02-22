@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Zg7R-WirtFJM86fnAPtLSxTM8O2EeaONYKTogarryWqARH_tXu8z2LdVkMdudjQmf2s
+app_id: be.colruyt.xtra
+app_name: Xtra
+app_screenshot: https://play-lh.googleusercontent.com/4PfYGpNr8fbmqkcK2uMf3OIBd4UdGj_ZBApVMOrbZ8oCoWsBCTcnuELByt8jkgbsNthn
+category: Shopping
+country: NL
+id: K4k_zgCG5M3F
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '57610'
+publisher_name: Colruyt Group Services
+rank: '202'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

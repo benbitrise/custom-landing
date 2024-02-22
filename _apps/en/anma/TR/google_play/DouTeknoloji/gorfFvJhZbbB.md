@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Rj9-LU-NF8jdCw_lusGg41TX7V9vO6EaqvTN15RYfH82n81ENy_wBtIPCkOBfGxutUw
+app_id: tr.com.dteknoloji.vwticari
+app_name: Volkswagen Ticari Araç
+app_screenshot: https://play-lh.googleusercontent.com/DivTWNyh5zegLtaHVJdrw6iylARmWOhM4BO5lcIBIdMm15lYXHq-PIxIz5Skpmp7LDcM
+category: Business
+country: TR
+id: gorfFvJhZbbB
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '887584'
+publisher_name: Doğuş Teknoloji
+rank: '146'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

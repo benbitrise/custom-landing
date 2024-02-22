@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/b9/5c/32b95ca2-3cc1-b020-58f2-b6bc477c6c59/AppIcon_go5benefits-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1150108976'
+app_name: GObenefits
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/f6/a5/3cf6a587-44de-1b2d-bc07-dfe623edccb7/pr_source.png/1242x2688bb.png
+category: Business
+country: MX
+id: tP8FWuZnG2Fc
+language: en
+most_recent_release: '2023-10-18T00:00:00'
+publisher_id: '737629149'
+publisher_name: GOintegro
+rank: '298'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

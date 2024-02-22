@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BAOZn7BhvsrID5sbtcozDd2FZj55FFL86TENaVj2jpv6zuNmRPIUUgKQbA88V6kKfw0
+app_id: com.yaoming.keyboard.emoji.meme
+app_name: 'Emoji Keyboard: Fonts, Emojis'
+app_screenshot: https://play-lh.googleusercontent.com/LlAteCndYTGsM_Eaba82I1i6CBSvdIK4aW022tAErfI_asWSz1D-5rQaxb6OAHujtw
+category: Personalization
+country: BR
+id: BiDv4Vm_TyO6
+language: en
+most_recent_release: '2023-06-22T00:00:00'
+publisher_id: '2614368'
+publisher_name: YM, Inc.
+rank: '167'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

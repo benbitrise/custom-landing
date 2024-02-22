@@ -12,8 +12,8 @@ publisher_id: '483443'
 publisher_name: Tubi TV
 rank: '4'
 release_count_in_past_year: '42'
-release_count_in_past_year_category: 28
-release_count_in_past_year_top_in_category: 28
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

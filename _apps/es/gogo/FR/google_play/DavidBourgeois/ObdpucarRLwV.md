@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/72KvVVPI-l1YJJI_qeg8iWr16OKKhSva_OK1fESJMD_hL9l0mky7MW1i6xqkYvbVZGc
+app_id: com.moulinsbourgeois
+app_name: Moulins Bourgeois
+app_screenshot: https://play-lh.googleusercontent.com/Qd7Scyf_evbAMdfG6lEsyhwtzjMXJyNhTc_-wVLM01ecpt5Cm_sncJNh-RMb2fOQxjk
+category: Food & Drink
+country: FR
+id: ObdpucarRLwV
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '3061029'
+publisher_name: David Bourgeois
+rank: '158'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

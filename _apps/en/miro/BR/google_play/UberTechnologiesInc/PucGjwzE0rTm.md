@@ -12,8 +12,8 @@ publisher_id: '28994'
 publisher_name: Uber Technologies, Inc.
 rank: '4'
 release_count_in_past_year: '56'
-release_count_in_past_year_category: 32
-release_count_in_past_year_top_in_category: 32
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

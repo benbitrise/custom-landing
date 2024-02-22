@@ -7,13 +7,13 @@ category: Books & Reference
 country: IL
 id: AhDNopVh8WQk
 language: fr
-most_recent_release: '2024-02-14T00:00:00'
+most_recent_release: '2024-02-16T00:00:00'
 publisher_id: '37602'
 publisher_name: Pakdata
 rank: '11'
-release_count_in_past_year: '30'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year: '31'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

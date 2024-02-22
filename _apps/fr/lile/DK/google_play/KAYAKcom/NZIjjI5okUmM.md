@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/os2nMGSSawnCl1UOcgmggZ_Vbbv4-xzw--kaYW6iFs6gj8AEAdsgIrZS8do4ibTQVpY
+app_id: com.kayak.android
+app_name: 'KAYAK: Flights, Hotels & Cars'
+app_screenshot: https://play-lh.googleusercontent.com/A8D7JN3ciQ1yZXeb7KyOl2UKBcx06b1a4_ErtP7gCRmggv4XgwW9dNqdXHVh5QL7kLEj
+category: Travel & Local
+country: DK
+id: NZIjjI5okUmM
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '15882'
+publisher_name: KAYAK.com
+rank: '196'
+release_count_in_past_year: '42'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

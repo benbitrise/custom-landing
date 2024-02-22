@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/65/e4/9965e419-060d-010e-ceac-440e00722f22/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '6445849909'
+app_name: UKG Pro
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/a4/d3/d3a4d3a9-ce7c-be53-d819-f5a2e96d210a/c1f334ff-19cb-4d1a-9043-46f0648f700c_1290x2796_1b_M.jpg/1242x2208bb.png
+category: Business
+country: CA
+id: W4HKg2K23-IY
+language: en
+most_recent_release: ''
+publisher_id: '404059116'
+publisher_name: Kronos Incorporated
+rank: '35'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

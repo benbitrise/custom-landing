@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/bCAxb8BK619c6XnlGK7uXzQPnUkomjJhgL0ngB7LBSUZqFK_2OYG1VnxblFeDAO0hnw
+app_id: com.bilsem.zeka
+app_name: Bilsem Zeka
+app_screenshot: https://play-lh.googleusercontent.com/LhZr2ifnBfgM1kh-E-pjHQcGejTg4YEodCo0MtQhqq8uE3stlY8MA31_3vhIA1QUwb8
+category: Education
+country: TR
+id: _XjhhFvLFAYk
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2873690'
+publisher_name: Meta Beyin
+rank: '8'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

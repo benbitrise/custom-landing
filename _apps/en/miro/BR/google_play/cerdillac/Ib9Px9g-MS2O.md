@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/r3c5ngCuMROgTyiJj17Vu_GFG-RQ4MmmRgRDPzvvFBsg7u6zDO7uVDyQ61PRWC6gmw
+app_id: com.cerdillac.persetforlightroom
+app_name: Presets & Filters - Koloro
+app_screenshot: https://play-lh.googleusercontent.com/VwgBAvwpNbCEQwqJhwCBF51kHT4bN3GR8aoHjynHDo-bbpPFq3li6D4Mnz4RhBXaxqE
+category: Photography
+country: BR
+id: Ib9Px9g-MS2O
+language: en
+most_recent_release: '2023-12-25T00:00:00'
+publisher_id: '1800700'
+publisher_name: cerdillac
+rank: '213'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

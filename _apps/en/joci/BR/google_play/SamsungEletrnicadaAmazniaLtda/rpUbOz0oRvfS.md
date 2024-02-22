@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0ql8qs8bh4CWB9KmdhXvJKtiUP01lc5xVc0164Wzi2OcdFYqh_4JhLKAuNw0KA4lAQ
+app_id: com.samsung.shop
+app_name: Loja Online Samsung
+app_screenshot: https://play-lh.googleusercontent.com/_CsXU-QBtoZaknYIbCDoy9J47FaxlxTLfBzJRdUl_G823VG8Rj8_akCGn3RT4GlUR64
+category: Shopping
+country: BR
+id: rpUbOz0oRvfS
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2246173'
+publisher_name: Samsung Eletrônica da Amazônia Ltda
+rank: '23'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qO-PsVxro13jQhcjVU5Ga4a_4Z79F1Zp0AXQBGtHuOGAbCJLwRsFjrGhRBvuA_ktDf0
+app_id: com.tukxi.ride
+app_name: Tukxi - Affordable Auto Rides
+app_screenshot: https://play-lh.googleusercontent.com/UJWII-FiKzq54_FYIOm14fr4Muje852rAJzm4k5tbb5jIA9pHadWypbMXfmLReaydQo
+category: Maps & Navigation
+country: IN
+id: 1hvJGeYuQMKL
+language: en
+most_recent_release: '2023-12-08T00:00:00'
+publisher_id: '2476851'
+publisher_name: Tukxi
+rank: '139'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

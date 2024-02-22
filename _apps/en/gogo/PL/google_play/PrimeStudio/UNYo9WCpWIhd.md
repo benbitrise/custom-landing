@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IDezYF2u8QpqLsj8YbtKwSn190fAvxAO5nyqEPZPvvepphdVtXU8XzTDafW9cKFB6C4
+app_id: com.beautycontroller.beautysweet.sweetcamera
+app_name: Beauty Sweet Plus - Beauty Cam
+app_screenshot: https://play-lh.googleusercontent.com/yD1qQXMpMBF07MH-6TeWXVIHxzSluIqC1b1D1HIE_vYlJkaUHhffd_3w3SRSXmOCINg
+category: Photography
+country: PL
+id: UNYo9WCpWIhd
+language: en
+most_recent_release: '2024-01-18T00:00:00'
+publisher_id: '2524074'
+publisher_name: PrimeStudio
+rank: '197'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

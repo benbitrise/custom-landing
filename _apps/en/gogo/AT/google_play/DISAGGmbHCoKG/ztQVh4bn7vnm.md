@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7rShAwqOmLSuuOHGtc80YnzaoKNremmfhdzA0hRjToKGb2R-v2CydSQOyvdM0q9CeQ
+app_id: com.disag.shotsapp
+app_name: DISAG ShotsApp
+app_screenshot: https://play-lh.googleusercontent.com/YMad9yuKMmS3f1YQ01nVv-Zeia8uXzbIB7xOy4FUcLfRqSU4fy-BhcJ4NljwuwO0Y_M
+category: Sports
+country: AT
+id: ztQVh4bn7vnm
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '2964807'
+publisher_name: DISAG GmbH & Co KG
+rank: '147'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WL9oSrJxfO6XDrSnuERVcjFXN--XztDibPGtAxIJsJBfm2ZAv4WvkR5yFuOcFKKR0_A
+app_id: com.app2u.magnifier
+app_name: Magnifier + Flashlight
+app_screenshot: https://play-lh.googleusercontent.com/PkTRLLM-aAsmwAtR37tXjOfY4ykNZfulvrHXxrhsgG7l41SH4zVJYeDkxUEib630yOM
+category: Tools
+country: IT
+id: cOV3zOUzSVL4
+language: en
+most_recent_release: '2023-06-18T00:00:00'
+publisher_id: '472843'
+publisher_name: App2U
+rank: '198'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

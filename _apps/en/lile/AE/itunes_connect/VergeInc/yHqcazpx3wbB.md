@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/bb/d6/82bbd648-1dda-5c6e-cec8-7ebdd8dcc660/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/1024x1024bb.png
+app_id: '1540556441'
+app_name: WebHR
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a5/25/d2/a525d23b-6185-97ef-7bce-02a98b3fb167/c5c751cb-0b22-4af4-8053-ee8f00fe1651_1.png/1242x2688bb.png
+category: Business
+country: AE
+id: yHqcazpx3wbB
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '1518950496'
+publisher_name: Verge Inc.
+rank: '288'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

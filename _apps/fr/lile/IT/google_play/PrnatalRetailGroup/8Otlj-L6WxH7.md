@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ER8h5YL4VlnjqGCR4e3kFWXWGZV9H4tvsnlOynHyKo5i42F1gkY7kRJHU-ICseI7qBIy
+app_id: com.clickntap.prenatal
+app_name: Prénatal
+app_screenshot: https://play-lh.googleusercontent.com/6eo3PT85kgtp0ia0ZxGnsRa3mk5TaovRq6_HJ6X7tYl7rHv4PdT-uyQaxQoJtpzlFQ
+category: Shopping
+country: IT
+id: 8Otlj-L6WxH7
+language: fr
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '1668464'
+publisher_name: Prénatal Retail Group
+rank: '104'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

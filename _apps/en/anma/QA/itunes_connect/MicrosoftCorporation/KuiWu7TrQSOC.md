@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/02/f5/6b/02f56ba7-11ab-c95c-b1fd-d51a0bdd8421/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '697958533'
+app_name: TakeLessons for Teachers
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d7/b5/96/d7b5962e-89da-ddaa-8cc9-6e8c2c7a6529/be8f588b-53f5-43c6-b41c-cce8fc731eb0_6.5in_Intro.png/1284x2778bb.png
+category: Business
+country: QA
+id: KuiWu7TrQSOC
+language: en
+most_recent_release: '2023-01-11T00:00:00'
+publisher_id: '298856275'
+publisher_name: Microsoft Corporation
+rank: '739'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

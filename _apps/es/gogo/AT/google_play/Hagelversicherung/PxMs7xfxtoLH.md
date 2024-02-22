@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EFfPHVZa6Xk9W8ou2u2xA16ErVMp3cdavODea5JHOw-612coIXLfEk-UV-lEIk0PAcjO
+app_id: at.bluemonkeys.mobile.oehv
+app_name: Hagel App
+app_screenshot: https://play-lh.googleusercontent.com/2rNmBrWdeutm87G-qZkY6jaEsQfV1xS8SZd0GwwZ0ox7qDqgUED7mLw2iClp4l3SPmw
+category: Weather
+country: AT
+id: PxMs7xfxtoLH
+language: es
+most_recent_release: '2023-11-02T00:00:00'
+publisher_id: '98193'
+publisher_name: Hagelversicherung
+rank: '49'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

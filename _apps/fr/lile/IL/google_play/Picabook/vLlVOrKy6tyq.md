@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AsgvCyp4KAdnIrYvonj-fAlSRG6zxC20JAhi_XB_w35Bs2ELmKe5N3iK5_txRfbhCKY
+app_id: co.picabook.photobook
+app_name: Picabook AI אלבום תמונות חכם
+app_screenshot: https://play-lh.googleusercontent.com/8ZUgo_2_XEp73VVnpzdVE04nwKeTj8Xh7fdWa4i2KpTo7tnmBJfcm2yAn7hnMA1E9eI
+category: Photography
+country: IL
+id: vLlVOrKy6tyq
+language: fr
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '2424733'
+publisher_name: Picabook
+rank: '48'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

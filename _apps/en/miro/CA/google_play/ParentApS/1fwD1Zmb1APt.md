@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jmzQoeQgu9K7XCuOjsWkiozvlonr_bjah3HODehVTEavGia5KfamWMFX4bu-EdIPZw
+app_id: eu.parent.android.app
+app_name: 'Parent: Child Care App'
+app_screenshot: https://play-lh.googleusercontent.com/Zq-LH8LCETQiDXYNpFqDO7C6uiRNcCZSIiCDILW1dYhY18N3IciO-66THudfhxOtJNyr
+category: Social
+country: CA
+id: 1fwD1Zmb1APt
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1036893'
+publisher_name: Parent ApS
+rank: '149'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

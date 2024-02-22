@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Hm3KSfq9qixUVjcE9wWbfNzyrJasOC0zOYwmSsQCn4FvrlJ6XS1qfmj-ir6UNpL3zTSw
+app_id: com.belandsoft.orariGTT
+app_name: MooveTO - Turin and Piedmont
+app_screenshot: https://play-lh.googleusercontent.com/7Qbgi3UXS8HM6UrU-d5CxvmfNByAW_D6kXqQ7gYNdgwfH6SBFkSqFMDqpJm6Ol9rUXc
+category: Maps & Navigation
+country: IT
+id: bnWaybiVjT8X
+language: es
+most_recent_release: '2023-08-28T00:00:00'
+publisher_id: '78055'
+publisher_name: Andrea Bellitto
+rank: '71'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

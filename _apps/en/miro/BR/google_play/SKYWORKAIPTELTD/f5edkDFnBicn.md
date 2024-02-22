@@ -12,8 +12,8 @@ publisher_id: '2962975'
 publisher_name: SKYWORK AI PTE. LTD.
 rank: '4'
 release_count_in_past_year: '40'
-release_count_in_past_year_category: 42
-release_count_in_past_year_top_in_category: 42
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

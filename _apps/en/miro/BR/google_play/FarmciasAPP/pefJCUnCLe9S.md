@@ -12,8 +12,8 @@ publisher_id: '2959698'
 publisher_name: Farmácias APP
 rank: '3'
 release_count_in_past_year: '41'
-release_count_in_past_year_category: 28
-release_count_in_past_year_top_in_category: 28
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

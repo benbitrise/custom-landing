@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Hw_bwTsYJ13ZmsHodw8V-g31LuCqBjjUmQn1qYSExZF-pYlEfN54tEV4oqZ55NUEpA4
+app_id: com.blink.academy.nomopro
+app_name: NOMO CAM - Point and Shoot
+app_screenshot: https://play-lh.googleusercontent.com/GnEJ2gYHQeNwhpE5L9ZuJSvtr8_JM8hJwdJopnIX4Pnj2JV2Biltr8IvT1CAbRiEyv0
+category: Photography
+country: ID
+id: XKydgAbAxvEl
+language: fr
+most_recent_release: '2023-11-22T00:00:00'
+publisher_id: '2545812'
+publisher_name: Beijing Lingguang Zaixian Information Technology
+rank: '107'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

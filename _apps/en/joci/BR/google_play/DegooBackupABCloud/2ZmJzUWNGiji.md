@@ -12,8 +12,8 @@ publisher_id: '772283'
 publisher_name: Degoo Backup AB - Cloud
 rank: '5'
 release_count_in_past_year: '52'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

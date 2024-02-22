@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/67/4f/27674fb8-9ca0-8e5b-b97b-debc24612328/AppIcon-1x_U007epad-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1521982528'
+app_name: Schultz Sag
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c0/df/21/c0df21ca-e5d0-c966-2566-e3b430edda53/df2ebf83-d997-434e-911c-2d1f2b162740_1.png/1284x2778bb.png
+category: Business
+country: DK
+id: 7BLwArIntoA-
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '897463209'
+publisher_name: J. H. Schultz Information A/S
+rank: '635'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

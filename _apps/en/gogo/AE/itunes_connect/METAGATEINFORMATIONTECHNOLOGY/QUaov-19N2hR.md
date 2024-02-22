@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/67/88/366788ab-6c8b-81ee-2502-9a13a75ed00b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6455378185'
+app_name: S-Plate
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7e/8b/80/7e8b80a2-a577-5dde-c2f0-9e3927a4846f/9d1b0edc-9449-4894-a6fc-0c8fc73b84fc_Simulator_Screen_Shot_-_iPhone_14_Plus_-_2023-12-06_at_13.15.16.png/1284x2778bb.png
+category: Business
+country: AE
+id: QUaov-19N2hR
+language: en
+most_recent_release: ''
+publisher_id: '1650783531'
+publisher_name: METAGATE INFORMATION TECHNOLOGY
+rank: '257'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

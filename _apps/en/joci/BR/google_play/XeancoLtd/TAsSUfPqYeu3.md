@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1AHYBUDcZyY48U2UAFgIXhwQ_RJ0BmU7Sa9vOZ7JVla9Qum5Xxp5fndJ62qKQKXtmBQ
+app_id: com.udates
+app_name: 'Once: Perfect Match and Dates'
+app_screenshot: https://play-lh.googleusercontent.com/GXqJRWfbTiITY1XEqtdGYQ1iepkjwyykTnVayKACzVNuLeh7_z-aLcvcf78Ke7DxwAE
+category: Dating
+country: BR
+id: TAsSUfPqYeu3
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '2790173'
+publisher_name: Xeanco Ltd
+rank: '138'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

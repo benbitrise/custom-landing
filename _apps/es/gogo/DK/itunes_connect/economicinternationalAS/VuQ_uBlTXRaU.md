@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/bf/81/c0bf8121-34f4-235c-c03a-d0d8a6a31599/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '945682668'
+app_name: e-conomic
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a1/fd/96/a1fd96bc-b82d-bb37-d469-c695eb6a62b9/84202b99-156f-42f6-ad98-df641f33d4a0_ENG_5_U002c5_A.png/1242x2208bb.png
+category: Business
+country: DK
+id: VuQ_uBlTXRaU
+language: es
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '362283189'
+publisher_name: e-conomic international A/S
+rank: '9'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

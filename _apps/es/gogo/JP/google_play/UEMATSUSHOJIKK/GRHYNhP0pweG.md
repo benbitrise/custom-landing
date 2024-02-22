@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6Tur699slMilQ4aOneyjpA69Sy0p8h2RvPYdHim56v_NGpYMgiw6ACKO6w6Daq6jMJ5z
+app_id: jp.co.uematsugrp.uematsuapp
+app_name: UEMATSUアプリ
+app_screenshot: https://play-lh.googleusercontent.com/DAKVmD5XObH9qY96nBVY1Mdxr0DO6ytuj-769nICexI0oWfMBtPK09nBsiOtR7FA-w
+category: Events
+country: JP
+id: GRHYNhP0pweG
+language: es
+most_recent_release: '2023-12-29T00:00:00'
+publisher_id: '2511272'
+publisher_name: UEMATSU SHOJI K.K.
+rank: '83'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

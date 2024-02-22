@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/z6YpaoiSjvwIhd__w3mi7_51h6pWp9T0_k7w769ZrY39xu7iRJGYQug-v8TeEkEbais
+app_id: com.fattureincloud.dipendentincloud
+app_name: Dipendenti in Cloud
+app_screenshot: https://play-lh.googleusercontent.com/sidMriRG0RzqntiiFeZgkW9OD8hovPta1kGAlB6hHixMDz2zoyCKvT76DgRI2NTXLw
+category: Productivity
+country: IT
+id: kUtmNm0cJePr
+language: fr
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '2981468'
+publisher_name: MadBit Entertainment S.r.l.
+rank: '193'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

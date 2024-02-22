@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qJSe6N6cvF4H77yqYsZek8tnc8dAY1qW4F1abw-hcEeUtQJtVIYMHsWMyPxcfn-eNaU
+app_id: com.greenvest.neobet
+app_name: NEO.bet - sports betting
+app_screenshot: https://play-lh.googleusercontent.com/N-zFYuo9E1JEDRPkM2XiwGs7O0WT8LsTNWygAkGsoLhwb1iD1ZOIm1fPQ_NvpCjdoA
+category: Sports
+country: DE
+id: rabC1ZrgqUiL
+language: en
+most_recent_release: '2023-11-27T00:00:00'
+publisher_id: '2922810'
+publisher_name: Reactive Betting Ltd
+rank: '60'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

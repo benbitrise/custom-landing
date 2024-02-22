@@ -12,8 +12,8 @@ publisher_id: '981138'
 publisher_name: Mercado Libre
 rank: '4'
 release_count_in_past_year: '28'
-release_count_in_past_year_category: 31
-release_count_in_past_year_top_in_category: 31
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Y3yMnVOLilKFYhLa-Bo4O_1s_Js4-wZlUd-0QuHanzI_jnx7prYaNvI08mZqjv5gRqYA
+app_id: com.EmllikGamesStudio.ModernHouse
+app_name: Modern House Map for Minecraft
+app_screenshot: https://play-lh.googleusercontent.com/bMhRu0x_t4naIDZ2FAbT7Mdofyxp7uHHmlkqYPqdlbTJ6KeyWdSsL7KZj7_FF8Sf0A
+category: Personalization
+country: PT
+id: LEROqJrg7CPL
+language: en
+most_recent_release: '2023-06-18T00:00:00'
+publisher_id: '2738495'
+publisher_name: Surjyik Company Craft
+rank: '208'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

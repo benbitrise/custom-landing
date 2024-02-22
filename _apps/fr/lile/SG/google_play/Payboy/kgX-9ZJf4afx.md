@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ueBGj4QHI2T2Ew_Rubx6oqZfZObrOeQE84cnMW50HDH0UGmxonuxWnmtEJD_UjwjTBI
+app_id: biz.payboy.payboy_android
+app_name: Payboy
+app_screenshot: https://play-lh.googleusercontent.com/7imWnnUBegFn0soUHC67VSps8wEZYmndIXQlG6r1p3zZ1RVjpcEYgx8xtpjqSDseLdk
+category: Business
+country: SG
+id: kgX-9ZJf4afx
+language: fr
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '1416034'
+publisher_name: Payboy
+rank: '86'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

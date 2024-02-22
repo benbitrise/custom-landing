@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rMvITCSR0Kzn6oQDP8xI0R_8kz1LoScvnFq8bqdanz6S2Z2gb4mzOxbGHrOIWNJPdpk
+app_id: net.moneykit.SonyBankApp
+app_name: ソニー銀行－残高確認、振込、外貨取引を簡単に
+app_screenshot: https://play-lh.googleusercontent.com/_XHOsfkvjIwoJ0rwECO_YbEt5OdRk4oPSnQIr0H95qqCqo33IvCXj2-s_DTe3JfY7w
+category: Finance
+country: JP
+id: kAl2TnvcUuY6
+language: en
+most_recent_release: '2023-10-20T00:00:00'
+publisher_id: '40641'
+publisher_name: sonybank
+rank: '114'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

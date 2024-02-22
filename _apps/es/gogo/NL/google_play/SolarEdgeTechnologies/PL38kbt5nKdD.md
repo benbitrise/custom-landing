@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/B8NNLrLnQfB3XDQauQXKr6YL1cPhR4I_WYp3JhhOIfPyjpIQtsW6wVDMwZBBg8WoOA
+app_id: com.solaredge.homeowner
+app_name: mySolarEdge
+app_screenshot: https://play-lh.googleusercontent.com/lp4vxDjHRSVBUF4PxEWpWIFm6Je_VKiflGW10Nt5so0_LvA-t2wOwTCSooVmw6NczAxT
+category: Tools
+country: NL
+id: PL38kbt5nKdD
+language: es
+most_recent_release: '2024-01-21T00:00:00'
+publisher_id: '958287'
+publisher_name: SolarEdge Technologies
+rank: '123'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '2549387'
 publisher_name: Hinge, Inc.
 rank: '3'
 release_count_in_past_year: '32'
-release_count_in_past_year_category: 41
-release_count_in_past_year_top_in_category: 41
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 28
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

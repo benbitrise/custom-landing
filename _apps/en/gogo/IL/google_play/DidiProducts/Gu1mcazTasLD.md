@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ebjI0hVmaxopEc7QTGiC_T2LKJhbWcjxZuMlA-hO6lPAkW_LnleZRlJBCaZzhb3iBQ
+app_id: com.didi.createstickers
+app_name: Create Stickers for WhatsApp
+app_screenshot: https://play-lh.googleusercontent.com/g7erzdAOoPISLsR9glaR_naC_UTUG9Lw0aLE8zuYhNEcqqxXYCI6WTLBppeEEJdcqQ
+category: Communication
+country: IL
+id: Gu1mcazTasLD
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '970194'
+publisher_name: Didi Products
+rank: '13'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -12,8 +12,8 @@ publisher_id: '2263784'
 publisher_name: iFood Delivery de Comida e Mercado
 rank: '1'
 release_count_in_past_year: '61'
-release_count_in_past_year_category: 27
-release_count_in_past_year_top_in_category: 27
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

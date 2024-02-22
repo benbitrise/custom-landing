@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/nfDq8xm5ueWPIZswiRD8PxzjmFAmOBgByV1CpFfAhau1_D_XCP2jW0EZ3VMEtZwbVRk
+app_id: com.coolkit
+app_name: eWeLink - Smart Home
+app_screenshot: https://play-lh.googleusercontent.com/emDL9JxGSq-PcKNMU1YSMYcXoiH4AAbMhmg_bDSnXEgRWJeLEEnSm3nSdFyxOCRtg08
+category: Lifestyle
+country: MX
+id: K7BxHlkrGh4N
+language: en
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '2399943'
+publisher_name: CoolKit Technology
+rank: '129'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

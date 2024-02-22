@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KMkHVjNLVBOJ-28iz25oCQEJ0Y_aC2BwPVWd76unmalPCneE3sWxG-CotpPqxFfj8u8
+app_id: com.stickify.stickermaker
+app_name: Sticker Maker
+app_screenshot: https://play-lh.googleusercontent.com/D_3qa_L05KRCZynH7RxTPUg0wIKUphF_-QX1z7sXFDrNNk1debQZWth0XidZin58ucNy
+category: Tools
+country: BR
+id: BwK5maZY6mS4
+language: en
+most_recent_release: '2023-10-12T00:00:00'
+publisher_id: '1883336'
+publisher_name: Stickify
+rank: '148'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_mHHv8vs7kKh3eusAOV-hFFsGGPLWNsmSiKLCVwvN8oisVUbA92cfgadtift2Sfdb4o
+app_id: com.ofss.fcdb.mobile.android.phone.kbz.launcher
+app_name: KBZ Mobile Banking
+app_screenshot: https://play-lh.googleusercontent.com/QDGUkt0m44btgydH5SmiTucyKods00CtwCSuJ39MwN5gqsw5AD6vf47et-GC0f7-hg
+category: Finance
+country: SG
+id: Kvt9Lm3AWAuE
+language: en
+most_recent_release: '2023-07-07T00:00:00'
+publisher_id: '596539'
+publisher_name: KBZBANK.COM
+rank: '178'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

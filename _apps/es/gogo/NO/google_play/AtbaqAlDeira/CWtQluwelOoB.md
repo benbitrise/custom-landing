@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yBzymntKXEWvqmBtVLF5J1QhhwnystqhyFzKFZsNWIMn9J25FGoXthSVsrIaINl2LQ
+app_id: com.alsaree3
+app_name: Alsaree3 - عالسريع
+app_screenshot: https://play-lh.googleusercontent.com/5odosYmQNn9CNDSt3daYCc3IYHz7-LV8ACr1IIRXBLlG8vVaWXiquOEg5ZIGFBMQKg
+category: Food & Drink
+country: 'NO'
+id: CWtQluwelOoB
+language: es
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '1726188'
+publisher_name: Atbaq Al Deira
+rank: '142'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

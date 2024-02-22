@@ -12,8 +12,8 @@ publisher_id: '286860'
 publisher_name: Sephora USA, Inc.
 rank: '1'
 release_count_in_past_year: '20'
-release_count_in_past_year_category: 24
-release_count_in_past_year_top_in_category: 24
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

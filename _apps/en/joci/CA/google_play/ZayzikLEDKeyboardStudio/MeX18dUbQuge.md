@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ob3Brd7XPlg53TBfhRfF1rd4cXRkptetHohc3c1DFq_650HB2Fr2--vMyu-e-y9EfIM
+app_id: com.flashkeyboard.leds
+app_name: 'LED Keyboard: Colorful Backlit'
+app_screenshot: https://play-lh.googleusercontent.com/qdwb1uJR8o30pnCmezrjFFZpMjzVO6DJMhv58ZBYI7cbVUTeGcjf4bCC9Orm3MjjMEw
+category: Personalization
+country: CA
+id: MeX18dUbQuge
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '2494750'
+publisher_name: 'Zayzik : LED Keyboard Studio'
+rank: '22'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

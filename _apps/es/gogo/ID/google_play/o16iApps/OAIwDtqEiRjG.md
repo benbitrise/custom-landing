@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TAIGndrishwlCjjkDzRVDFs8NLnzimC5vBT6VHtY2rrxkDr0weAxp3rRSYgTqI-e58E
+app_id: net.cupla.sendmylocation
+app_name: Send My Location
+app_screenshot: https://play-lh.googleusercontent.com/TsPTGWWRpuB756c66sXy2W0OXCXAEThsWLTjGZO501O_Y9yyey8DfJcbxjkRk-Xqkg
+category: Maps & Navigation
+country: ID
+id: OAIwDtqEiRjG
+language: es
+most_recent_release: '2024-01-22T00:00:00'
+publisher_id: '1086832'
+publisher_name: o16i Apps
+rank: '171'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

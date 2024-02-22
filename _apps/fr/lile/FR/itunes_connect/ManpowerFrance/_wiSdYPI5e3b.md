@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/0b/24/e40b2476-8ce6-3259-0a3a-a23b9f49b190/AppIcon-1x_U007emarketing-4-0-85-220.png/1024x1024bb.png
+app_id: '922027365'
+app_name: Mon Manpower – Offres d’emploi
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1d/ee/84/1dee846f-7c3e-f251-8c5d-2d2559b5977f/15b6df7b-7bef-454e-9542-28c2acdd260c_1242x2688_1.jpg/1242x2688bb.png
+category: Business
+country: FR
+id: _wiSdYPI5e3b
+language: fr
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '922027364'
+publisher_name: Manpower France
+rank: '17'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

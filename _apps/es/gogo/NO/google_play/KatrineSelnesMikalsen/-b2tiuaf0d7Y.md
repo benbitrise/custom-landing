@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xbe1j7q9rdJcZuWhkFzDdudJeHsFoMLrzy1b1R0F0fp0PTxI7RSE-Eg5-o34nJGAG-4
+app_id: com.katrinedev.moomugs
+app_name: Moomugs
+app_screenshot: https://play-lh.googleusercontent.com/JZMxuBCBdso2F0xKC7FrOH3zOMdBzn4MwahIk2OI2cXGdSTNC1xr4ChN6_kesPVzark
+category: House & Home
+country: 'NO'
+id: -b2tiuaf0d7Y
+language: es
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '2657552'
+publisher_name: Katrine Selnes Mikalsen
+rank: '42'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/etQzEjRWhI4q9v7QP-l2XjiQWvKcuIPP7f79Gkibv94BcS5cMyY4fp8OnSnxwg8qmg
+app_id: io.gmt.app.twa
+app_name: 'GoMining: Revolutionizing NFTs'
+app_screenshot: https://play-lh.googleusercontent.com/92r4hFjm7nuM_jGKuH4S6AVl7nbKo458QhzH83OzzpuTIi3V3fMsSjcn-fKyLLbfWrXC
+category: Finance
+country: CA
+id: Tblc6QSZXJxH
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2868546'
+publisher_name: YuccaDigital
+rank: '126'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

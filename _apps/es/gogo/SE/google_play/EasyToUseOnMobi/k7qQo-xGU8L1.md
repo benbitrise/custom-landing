@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DN5Vf2wzipKuYOF9ek25Z3Sf0-6XPPxsfE6NLHV1n-AIk40Z3lhLP9uqQMvG6ddVr_Y
+app_id: hidef.photovideolocker.hidephotovideo
+app_name: Photo & Video Locker - HideF
+app_screenshot: https://play-lh.googleusercontent.com/ttc5KUSPkdbtX5VJYWDorVhaWjtKbD2ohRMW-Fa5_7j6ppXbUNqqcz96Bot26Y6HPXye
+category: Tools
+country: SE
+id: k7qQo-xGU8L1
+language: es
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2512554'
+publisher_name: Easy To Use (OnMobi)
+rank: '158'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

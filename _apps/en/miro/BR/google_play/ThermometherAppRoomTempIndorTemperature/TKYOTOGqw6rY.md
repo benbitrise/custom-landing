@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/kR2WpKT4l6b1ZLHwJrM4t4c3veKgF8kGNhh8QLi4o5QeiM9n2GNZgQJ9O7mPhrtycZ4
+app_id: com.roomthermometer.interior
+app_name: Room Temperature Thermometer
+app_screenshot: https://play-lh.googleusercontent.com/Ge1YNPlXZ9-6oLFVh4mg06-8yBDNtc4S-cDQbHBuftme5Bj2kQNmTBY3oYSBlSRsAJU
+category: Weather
+country: BR
+id: TKYOTOGqw6rY
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '3027697'
+publisher_name: Thermomether App & Room Temp & Indor Temperature
+rank: '63'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ZdGYzeIyf8QMIyZEHf6ncXBzjIaswWJmq0k8_s4NtpZbYPpHFwjeRfP_04EUNIA2QHU
+app_id: com.rosteam.gpsemulator
+app_name: GPS Emulator
+app_screenshot: https://play-lh.googleusercontent.com/uhqkCVeV9_yMGz-mQzC5Ow4EFGwixo5DKA5uc1mJg8JiKwIT-N1a9xESvXP0WP7n-XU
+category: Maps & Navigation
+country: BR
+id: bo1vmFtlLGHX
+language: en
+most_recent_release: '2023-11-23T00:00:00'
+publisher_id: '2973505'
+publisher_name: DigiTools UY
+rank: '197'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

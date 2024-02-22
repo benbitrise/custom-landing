@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/QcpFZhvk6xOCgj-FUgSDSFZswlHt5-aC9O9JaEiOzhMnXljbtXhgj4Ra5lpEa1hcT6LD
+app_id: com.bilendi.mingle.at
+app_name: mingle
+app_screenshot: https://play-lh.googleusercontent.com/4-eDpyV722kNLnwTMSbzZ2rCYVMj4VanMgQRoxf240OqnwsziVHKsyPPb6uNV2Me7-vT
+category: Shopping
+country: AT
+id: pFyu-hdITYhy
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '1546656'
+publisher_name: Bilendi
+rank: '179'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

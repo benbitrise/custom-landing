@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/d3/b8/93d3b85e-de4b-ff4f-9364-bf92f1f18290/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '1465685195'
+app_name: Clock-in KING OF TIME (Admin)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/25/c3/62/25c36288-7663-1d1a-07cf-7e05fc3802c4/9159bc84-b4ac-444a-8dd0-377efd504e59_01_EN_iOS6.7.png/1242x2688bb.png
+category: Business
+country: JP
+id: 3pGXpO8NXJl_
+language: en
+most_recent_release: '2023-09-24T00:00:00'
+publisher_id: '1465684711'
+publisher_name: Huubap Pte. Ltd.
+rank: '327'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

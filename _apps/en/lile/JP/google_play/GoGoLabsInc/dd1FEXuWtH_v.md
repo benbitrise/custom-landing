@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YmiBU7_nAJ2dEcRr587NKR7NQq9G54_AgyryP5fEEq1Ng0vn8LpW_ZFHBXqp-bkKfA
+app_id: jp.gogolabs.gogogs
+app_name: ガソリン価格比較アプリ gogo.gs
+app_screenshot: https://play-lh.googleusercontent.com/MC73sA__qIVXTBa-n4uERUL8DIx-xqm2W8xeRFWKxhDMxLEbeoXeRjPpLi5BFUTTzg
+category: Auto & Vehicles
+country: JP
+id: dd1FEXuWtH_v
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '2138394'
+publisher_name: GoGoLabs,Inc.
+rank: '12'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

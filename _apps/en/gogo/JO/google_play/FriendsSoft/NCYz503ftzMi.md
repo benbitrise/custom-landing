@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/w-fEVIoplYos8Mi2BPXmc-P3ug8lxb_Yyci-Ezd0jd-jWuFD3ilkRrVjYOlPi4SRWA
+app_id: com.friends.jordan.calender
+app_name: التقويم العربي الإسلامي 2024
+app_screenshot: https://play-lh.googleusercontent.com/aq8XFU1Aqth13zuJmbhBf4QtXC7SJFs0nKWRF4yJp_nb4xBAhJo729J5RwMJNDcQTQ
+category: Lifestyle
+country: JO
+id: NCYz503ftzMi
+language: en
+most_recent_release: '2023-12-31T00:00:00'
+publisher_id: '410222'
+publisher_name: FriendsSoft
+rank: '49'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

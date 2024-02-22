@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/c6/8a/6cc68a39-252f-6948-1235-f4a71d236c39/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1436711979'
+app_name: DATEV Tabellen und Information
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c2/e1/8d/c2e18dbc-d06f-45a7-0f91-3172076168ba/9f3d631f-d353-48e0-9cce-cb231e8370c7_1.PNG/1284x2778bb.png
+category: Business
+country: DE
+id: wVjg4kgKwWwt
+language: en
+most_recent_release: '2022-11-21T00:00:00'
+publisher_id: '1435894627'
+publisher_name: Druckerei C. H. Beck test
+rank: '426'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

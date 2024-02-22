@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/4b/97/534b9778-e469-d458-ab45-ad7e29cf3936/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '1610348769'
+app_name: InStaff
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c0/ef/c8/c0efc82f-af5f-eba9-c7c1-471dc60d8b0d/e70e91b9-70d1-4625-a631-8dec86c92d23_1.png/1284x2778bb.png
+category: Business
+country: DE
+id: TVavNunmq9tS
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1610348771'
+publisher_name: InStaff & Jobs GmbH
+rank: '134'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

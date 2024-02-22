@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/BXM97jxhj-VUeordaI2cJDcotU2C0a07xs63SrkcbXP7m5pkJXQ3N2HMdpIfH0I_0mJ-
+app_id: io.rockr.app
+app_name: RocKr - Motorcycle App
+app_screenshot: https://play-lh.googleusercontent.com/VZqkt9ff-iNsW_OeGMdo5i7_ubpuyShQ5HbfuywnwEiVUD9E8k0hEcELQL1WAIXf_Hc
+category: Auto & Vehicles
+country: ES
+id: rm18JX74ItEl
+language: es
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '1765868'
+publisher_name: RoadStr Enthusiast SL.
+rank: '76'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

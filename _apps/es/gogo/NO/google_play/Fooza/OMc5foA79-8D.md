@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0e-7nuuR7ZzQHqYzYhg2em787_AXlyRyolZnYz7Krhv-VnRfiuQQR29nF4hUTk84-Ns
+app_id: com.fooza.app
+app_name: 'Fooza: Food & Drinks Delivery'
+app_screenshot: https://play-lh.googleusercontent.com/aAZowwEXkMNp0ruxI9dSakT2zt0DMjgl0tJcXFUjPyEM1FmWHbRt49HBMg9EXgdR6LM
+category: Food & Drink
+country: 'NO'
+id: OMc5foA79-8D
+language: es
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '2451152'
+publisher_name: Fooza
+rank: '186'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

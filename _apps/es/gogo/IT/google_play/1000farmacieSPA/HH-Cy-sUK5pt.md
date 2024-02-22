@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WGAbCaf-AItMq-ACp_qDwSlqkGKqUxUygSwX_etY1E4iyHx-YRNiPmsKrW3CZGsgdYlF
+app_id: com.millefarmacie
+app_name: 1000Farmacie
+app_screenshot: https://play-lh.googleusercontent.com/aVvnNjby8-kQ8NNaaeP3mlEWPa0MMnqiV0xvLTdK0IZn40UoLDGPg2EE2kwPqII8AME
+category: Medical
+country: IT
+id: HH-Cy-sUK5pt
+language: es
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2954243'
+publisher_name: 1000farmacie SPA
+rank: '33'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

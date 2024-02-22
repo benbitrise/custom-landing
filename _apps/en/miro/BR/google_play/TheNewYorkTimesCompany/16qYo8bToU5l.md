@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg
+app_id: com.nytimes.android
+app_name: The New York Times
+app_screenshot: https://play-lh.googleusercontent.com/q3XXzQ4pTtdq0oQtCAty1oVqh9AVQEizZWDeghL7FBbmLZ96Iag33ROzD2YlttGURFQ
+category: News & Magazines
+country: BR
+id: 16qYo8bToU5l
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '6526'
+publisher_name: The New York Times Company
+rank: '43'
+release_count_in_past_year: '49'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

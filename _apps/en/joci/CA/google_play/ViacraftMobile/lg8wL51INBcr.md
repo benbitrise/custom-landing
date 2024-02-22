@@ -12,8 +12,8 @@ publisher_id: '2818269'
 publisher_name: Viacraft Mobile
 rank: '1'
 release_count_in_past_year: '19'
-release_count_in_past_year_category: 9
-release_count_in_past_year_top_in_category: 9
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

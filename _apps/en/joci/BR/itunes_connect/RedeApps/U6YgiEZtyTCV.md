@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/14/3e/6c143ee6-b4ee-cda4-b444-bbf4f0694ced/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1020661630'
+app_name: 'Rede: maquininha, Pix, vendas'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d7/16/17/d71617d9-3a5b-dd06-59bb-46200d6cfdde/ecbd2956-be82-49be-b834-d30e8889f62a_01_16_24_rede_iOS65_01.png/1242x2688bb.png
+category: Business
+country: BR
+id: U6YgiEZtyTCV
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '715897907'
+publisher_name: Rede Apps
+rank: '72'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

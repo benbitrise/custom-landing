@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y3WkcjDgK3J5eWuN9IETajCHLWFOAhPegS7HwIJmVN4HLo39Zuup5BglM-HxRLoB25Ym
+app_id: no.vol.push
+app_name: Vol.no
+app_screenshot: https://play-lh.googleusercontent.com/lp7_cb-kVAmAls0RISm_GxgXXGWdA_nfCYE-gbWTXfHAg8kGJEvas-Y21LhVXLUuNEw
+category: News & Magazines
+country: 'NO'
+id: U9JQVh23r7Gu
+language: es
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '500074'
+publisher_name: Polaris Media ASA
+rank: '141'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

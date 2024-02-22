@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wSMVAhoiC5aMhlkv7OdP18ikT5lvweydAaflE6uvtKWdLvTkKWYjilbkkRD6X4ypOg
+app_id: com.burungindah2024wallpaper.burungindah2024keyboard
+app_name: Pianika Bus Telolet Basuri V24
+app_screenshot: https://play-lh.googleusercontent.com/60YLPJEM-KexWmqO-SJt_GfbzadAMhUXenozuvSiOcjW4edn7tcCsr_jt39GXRlIbh4
+category: Music & Audio
+country: ID
+id: 1XB_0cMhlr4D
+language: es
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '3070539'
+publisher_name: Vitara Studio
+rank: '9'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

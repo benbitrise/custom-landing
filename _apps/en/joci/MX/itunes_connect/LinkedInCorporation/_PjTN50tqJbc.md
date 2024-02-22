@@ -12,8 +12,8 @@ publisher_id: '288429043'
 publisher_name: LinkedIn Corporation
 rank: '5'
 release_count_in_past_year: '51'
-release_count_in_past_year_category: 39
-release_count_in_past_year_top_in_category: 39
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hpoD4t-breJTSp1fEa3-ock8FMIR3cbnAP8nTUAmaLv8KXR7SOUZ3fSTZo5tHoFFz9o
+app_id: low.budget.recipes.app
+app_name: Cheap Food Recipes App
+app_screenshot: https://play-lh.googleusercontent.com/-dQ9-O7GNk9QCh2vJuU4AYzP719OR3Rbl1CBeQ0dQDYrgQJjvGSzrxu5qoq_7vJ7jdZZ
+category: Food & Drink
+country: ID
+id: 3xsICu_9ZeoD
+language: en
+most_recent_release: '2023-08-17T00:00:00'
+publisher_id: '47565'
+publisher_name: Riafy Technologies
+rank: '187'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

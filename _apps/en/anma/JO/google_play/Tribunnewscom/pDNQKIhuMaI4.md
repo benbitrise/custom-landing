@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gj_v5WuOIeMTGDnfXh5AcOdK5A5sSTLCQTH1nLX5cLlS6czT_zI4Lngi1RtYJCl4I1CD
+app_id: mobile.android.tribun
+app_name: TribunX - Berita Terkini
+app_screenshot: https://play-lh.googleusercontent.com/t8R9ciAzJTYTXxYVBIJCs9_ncyFMEMcN0TNueh-j4Py91k3JbI_bv76XSpy--Rc4yN0
+category: News & Magazines
+country: JO
+id: pDNQKIhuMaI4
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '49198'
+publisher_name: Tribunnews.com
+rank: '169'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

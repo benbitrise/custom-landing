@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/wUfsodpzEwA0bM1rTv1HeNj5XTY6rf-bCWf8PmTaQL7fWYH3ORVyXbKzzg_mEC560k8
+app_id: com.onlyfeets.app
+app_name: FootLove (feetfinder)
+app_screenshot: https://play-lh.googleusercontent.com/V2a3wxK_rcVnYeRKqeebmD5mJfrJkc6ebFYIx6V4zkFoXsep3MC1q2ZrBbL_DATHTg
+category: Social
+country: ES
+id: 8hy_jylN5FGw
+language: en
+most_recent_release: '2023-08-18T00:00:00'
+publisher_id: '2823910'
+publisher_name: The Feets Company
+rank: '252'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

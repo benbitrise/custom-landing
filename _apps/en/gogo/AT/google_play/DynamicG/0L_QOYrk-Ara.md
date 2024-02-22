@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/l7rXY7S872bTIdvRZBuj9mMV3tTBKP-XrUzo4Dmx0_XwD2YHpCZwunlCpLDiuNs-1FkD
+app_id: com.dynamicg.timerecording
+app_name: Time Recording - Timesheet App
+app_screenshot: https://play-lh.googleusercontent.com/iV3_PYq4Z1FFIXRonJzPSie-1QttCLFH7ZQ9rE59BqOr9a3MJ3lpgyTEIVDDLYdBoY4
+category: Productivity
+country: AT
+id: 0L_QOYrk-Ara
+language: en
+most_recent_release: '2024-01-13T00:00:00'
+publisher_id: '2539'
+publisher_name: DynamicG
+rank: '200'
+release_count_in_past_year: '18'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

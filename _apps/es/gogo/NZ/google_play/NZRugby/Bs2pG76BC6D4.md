@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ygNs7jtFX7-3xLZPOLozsjO-xTZJTkj-ONBbLTSUKIoddvC1Lq_JW8LJdHm5fVr0a1M
+app_id: nzr.myrugby
+app_name: MyRugby
+app_screenshot: https://play-lh.googleusercontent.com/Lr_D27tSrg10xpgfa0OBIzc6HkAR_dJi6uB0d8YSADy4KctC7D4tELVyDXO9g9G6OzE
+category: Sports
+country: NZ
+id: Bs2pG76BC6D4
+language: es
+most_recent_release: '2024-01-14T00:00:00'
+publisher_id: '1268041'
+publisher_name: NZRugby
+rank: '112'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

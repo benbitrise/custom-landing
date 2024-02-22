@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CXix7vKeM8v-Z185gWziFxJ31nxn-VbI8ZhwOZvgTVpQNdOHznPof6h5wpXmMIA4Hw4u
+app_id: com.msf.kbank.mobile
+app_name: Kotak Mobile Banking App
+app_screenshot: https://play-lh.googleusercontent.com/D4mH18xJjVQbob5kM3HF5Jl_rYDxgsu3JZ45d34J8SYcpYDLIYnsZE12HWEfJ3RqUQ
+category: Finance
+country: AE
+id: IBDt0qJBTVur
+language: es
+most_recent_release: '2023-12-18T00:00:00'
+publisher_id: '19616'
+publisher_name: Kotak Mahindra Bank Ltd.
+rank: '158'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

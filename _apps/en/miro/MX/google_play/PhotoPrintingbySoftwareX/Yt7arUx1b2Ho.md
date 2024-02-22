@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XsitAN96Cg28G7DGckpJRZI4D5SC9DNFadeUoM0ALfm5jH7K6etEVHXn8NWq1Ukc5Vw
+app_id: com.fotoimpresiones.android
+app_name: 'Foto Impresiones: 1 Hr Photo'
+app_screenshot: https://play-lh.googleusercontent.com/4JhtxHK1lOpVWbkK_gDzVi-5cAZm0Rf-APpqRCYFfpHHXNgX8F6uDKGj-dhbeglVxLI
+category: Shopping
+country: MX
+id: Yt7arUx1b2Ho
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '710884'
+publisher_name: Photo Printing by SoftwareX
+rank: '117'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

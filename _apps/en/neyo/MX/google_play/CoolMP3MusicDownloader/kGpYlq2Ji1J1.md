@@ -12,8 +12,8 @@ publisher_id: '2471700'
 publisher_name: Cool MP3 Music Downloader
 rank: '5'
 release_count_in_past_year: '4'
-release_count_in_past_year_category: 33
-release_count_in_past_year_top_in_category: 33
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 24
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

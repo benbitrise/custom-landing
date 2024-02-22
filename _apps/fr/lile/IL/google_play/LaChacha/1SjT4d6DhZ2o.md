@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Tgl4eO5PtNRiUZdRBkoKGutBhocefT9vv8fRHWXVPuyEOx6iOfH5JXfMi27t1PvIFrc
+app_id: com.como.prod971020230618
+app_name: לה צ'צ'ה - La Chacha
+app_screenshot: https://play-lh.googleusercontent.com/Skzi1S5BxfN7qmDcF-LRf02Flu6Ks2jv6QW8Yr9dg3olk1lXAZaDRpC7XDq8xdz3HHM
+category: Food & Drink
+country: IL
+id: 1SjT4d6DhZ2o
+language: fr
+most_recent_release: '2023-11-15T00:00:00'
+publisher_id: '2945863'
+publisher_name: לה צ'צ'ה La Chacha
+rank: '161'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

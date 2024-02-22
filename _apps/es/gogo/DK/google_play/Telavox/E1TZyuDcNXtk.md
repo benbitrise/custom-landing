@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7KKTkzQ3BzFOzK8op8IhU4BNE1jD_NaVS0v5bMjYBolpg4nInCd2KAd_WZ_Pa--Bis0
+app_id: se.telavox.android.otg
+app_name: Telavox
+app_screenshot: https://play-lh.googleusercontent.com/JfncDuwD-dDQ7JewCdCWfHVhZs7OLYgE8xNalbFYJysk--fbR02JQlKtmcbkuvCvUAs
+category: Communication
+country: DK
+id: E1TZyuDcNXtk
+language: es
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '65690'
+publisher_name: Telavox
+rank: '112'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

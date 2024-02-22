@@ -1,0 +1,25 @@
+---
+app_icon: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/78/40/02/7840028c-95e5-b5d7-0815-5f32d3729737/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1063703947'
+app_name: SPOTdeal QR-Scan
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a2/0d/59/a20d5931-b5e9-6294-5be3-29a5435e26bb/2aff0178-f24d-45f4-aced-47016c1b6423_Apple_TastKode_6.5.jpg/1242x2688bb.png
+category: Business
+country: DK
+id: MRcLeRP5aFNE
+language: es
+most_recent_release: '2021-05-18T00:00:00'
+publisher_id: '1147524513'
+publisher_name: Deal.dk
+rank: '526'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

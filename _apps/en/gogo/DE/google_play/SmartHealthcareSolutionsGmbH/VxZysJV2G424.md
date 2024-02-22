@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/moodxXd91oiB3VQldwxh4EKXvapHNqz1wxJ4tarjPI8cnk0ue25EyM2yhXOMia8ImTU
+app_id: com.lemonsystems.care
+app_name: smartAware My School anywhere
+app_screenshot: https://play-lh.googleusercontent.com/yxqIEgncccTNsdxlkSPCC4Xj8eJkr7qMJqqJHRKoFlE85EcaiH9iZ6IsWf6jn9-2j2I
+category: Education
+country: DE
+id: VxZysJV2G424
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '2826840'
+publisher_name: Smart Healthcare Solutions GmbH
+rank: '194'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

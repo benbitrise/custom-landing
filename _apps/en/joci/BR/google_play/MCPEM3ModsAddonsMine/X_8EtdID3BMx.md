@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/CwfQC-7pSkLh5v8THhesXvRladgSd7nNu7IYSKHG1sHQEvnLVlX74hMM0R56XpMFXg
+app_id: com.lotsoffood.lotoffoodsmodformcpe
+app_name: Food mod mcpe
+app_screenshot: https://play-lh.googleusercontent.com/JFkEJ2zJxHlXYktXxVgiWhEIlvw3pY6Y3qxk-VfJow_eSaZgIXNmS3hA3Lykeb-heA
+category: Comics
+country: BR
+id: X_8EtdID3BMx
+language: en
+most_recent_release: '2023-08-26T00:00:00'
+publisher_id: '2734821'
+publisher_name: MCPE M3 Mods Addons Mine
+rank: '159'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

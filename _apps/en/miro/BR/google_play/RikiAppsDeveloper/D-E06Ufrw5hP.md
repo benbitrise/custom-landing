@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uiZfy8fBWH0RNlikPqIwZ-JD-5DhkmOesyN6M7fAJQJsMR18CEqVTsBj4YzLBh-HEQ
+app_id: com.whatweb.clone
+app_name: WhatWeb Cloner
+app_screenshot: https://play-lh.googleusercontent.com/Al-qn9p3MdzPyaLWKF_EDtkP8ufrscKF8jKBT7jIw47NnA60DS5abg9LHl48rTTNq3A
+category: Communication
+country: BR
+id: D-E06Ufrw5hP
+language: en
+most_recent_release: '2023-11-10T00:00:00'
+publisher_id: '1857209'
+publisher_name: Riki Apps Developer
+rank: '62'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

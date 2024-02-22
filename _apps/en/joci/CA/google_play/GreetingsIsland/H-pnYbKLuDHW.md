@@ -12,8 +12,8 @@ publisher_id: '1678346'
 publisher_name: Greetings Island
 rank: '5'
 release_count_in_past_year: '5'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

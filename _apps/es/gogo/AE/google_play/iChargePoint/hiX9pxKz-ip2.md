@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WqqCv0Vu_EpQdHJkMOCxhyS4V1hg6mGdF0DVYwBiXNqncU1X16e5uzYLjuJXq8_eEuA2
+app_id: com.ichargerpoint.android
+app_name: iCharge Point
+app_screenshot: https://play-lh.googleusercontent.com/s3CpcrAuLfP5NG1XREloyDJ27FtpDvi6MMfloKvlJRb57_XLrKzZU-6M83GEo4sv0ePo
+category: Lifestyle
+country: AE
+id: hiX9pxKz-ip2
+language: es
+most_recent_release: '2023-08-25T00:00:00'
+publisher_id: '2978417'
+publisher_name: iCharge Point
+rank: '70'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

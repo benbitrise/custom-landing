@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uJDngvFBrDHsYkZnv1Q9fAoOBmJB6Wee9oey27BTRBO7wwa6mA_75P09j0nXo97MNoIZ
+app_id: com.weejim.app.sglottery
+app_name: SG Lottery (4D, Toto, Sweep)
+app_screenshot: https://play-lh.googleusercontent.com/SV-jZwHFAn8f-himVqeq3qeIQsg2FUmYDJ_DC5EpgS1EXOuolwZ70g01mWLOWPI_D9-p
+category: Lifestyle
+country: SG
+id: 07I32D1KnrJY
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '3034137'
+publisher_name: Wee Jim-b4
+rank: '102'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

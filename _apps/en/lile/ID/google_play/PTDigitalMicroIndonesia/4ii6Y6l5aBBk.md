@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0X-Yb9mVyfwDGXMUpoetQtuT4G6lJANtVK3ezvmnLcTBtILDEuoDHSxuBqjo8EMk-zkR
+app_id: com.danabijak2.mobile
+app_name: 'danabijak: Pinjaman Online'
+app_screenshot: https://play-lh.googleusercontent.com/9Q3NZFM7XssX_2Y8qxonwpfOumPkSHNV94CrhU1ekIjiLGwWn6h2KJkrBpwMq_s-SLM
+category: Finance
+country: ID
+id: 4ii6Y6l5aBBk
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1850090'
+publisher_name: PT. Digital Micro Indonesia
+rank: '98'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

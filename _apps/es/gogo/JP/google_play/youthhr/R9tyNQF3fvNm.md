@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y74QZtnYUSIwWw2AUZa4FyBQzay9SNWHL10MnLnyqw2w4sKNgJiX-fuzW33w_RYAKCI
+app_id: com.youthhr.vont
+app_name: Vont - Text on Videos
+app_screenshot: https://play-lh.googleusercontent.com/vBkoNCNxLze_HJpblTBfsI-KYb6Uu4NSd8Cjaskvn1hYP9iZ3wZiz5dq18seJYQuV5Uk
+category: Video Players & Editors
+country: JP
+id: R9tyNQF3fvNm
+language: es
+most_recent_release: '2023-09-05T00:00:00'
+publisher_id: '18216'
+publisher_name: youthhr
+rank: '126'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 42
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

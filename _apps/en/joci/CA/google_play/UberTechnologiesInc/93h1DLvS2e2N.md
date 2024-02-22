@@ -12,8 +12,8 @@ publisher_id: '28994'
 publisher_name: Uber Technologies, Inc.
 rank: '4'
 release_count_in_past_year: '54'
-release_count_in_past_year_category: 37
-release_count_in_past_year_top_in_category: 37
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

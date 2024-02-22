@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Wl2GUUzlRKCWg5MkZeUVtk4wPypFM9hIumIdHQxlvpbsQKVhU1Sx1MaAj8o2FwEcTg
+app_id: com.nokoprint
+app_name: NokoPrint - Mobile Printing
+app_screenshot: https://play-lh.googleusercontent.com/J0XuaxqtYPMQKA2dFpS-JroUGM6QiXZIj3AoOPExE3-lk9Okt8n9gof9yJ2DfB-cQw
+category: Productivity
+country: MX
+id: JXpOkupBbB_E
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '2835114'
+publisher_name: NokoPrint LLC
+rank: '176'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

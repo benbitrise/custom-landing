@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/ba/c5/41bac5be-1cf8-2f35-7953-cbcaf01e2e61/AppIcon-1x_U007ephone-0-0-85-220-0.png/1024x1024bb.png
+app_id: '687291321'
+app_name: Kisi
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/79/54/aa/7954aa07-4838-285f-760c-ac8ed33ae354/dbe9c1f6-2c9d-47c0-86d7-a451e4e9d8a1_1.png/1284x2778bb.png
+category: Business
+country: DK
+id: n5aDccn4XNet
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '687291324'
+publisher_name: KISI Incorporated
+rank: '521'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

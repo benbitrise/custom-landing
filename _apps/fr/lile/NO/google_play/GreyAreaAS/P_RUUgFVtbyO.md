@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8wGh-PVWsquu0FkH5fLOGRXWLvloYRmIvfuazjm7uMQMFkQiRB4JxgRLTwiwGWXjeNo
+app_id: com.greyarea.batforerappen
+app_name: Båtførerappen - båtførerprøven
+app_screenshot: https://play-lh.googleusercontent.com/KbQ6x9TMtKcmWmDTZb95_xGC5e8RedWySzJbpvTJful4SF-6g8-cjb3ywZM35g5x4pM
+category: Education
+country: 'NO'
+id: P_RUUgFVtbyO
+language: fr
+most_recent_release: '2024-01-28T00:00:00'
+publisher_id: '811022'
+publisher_name: Grey Area AS
+rank: '185'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 28
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

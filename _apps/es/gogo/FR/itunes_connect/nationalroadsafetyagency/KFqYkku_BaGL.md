@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/b9/6a/5fb96a94-6973-cb83-821e-835a5400b84b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6443977521'
+app_name: Infraction Routière
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7f/e7/d1/7fe7d1d5-8c88-4c32-ee8c-fcd01e77663c/ea016625-a3b5-4659-b75d-e39bde90f36b_appstore-asset__U002837_U0029.png/1242x2688bb.png
+category: Business
+country: FR
+id: KFqYkku_BaGL
+language: es
+most_recent_release: ''
+publisher_id: '1651145169'
+publisher_name: national road safety agency
+rank: '171'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1o7o-kNE0WSzax37LkY2D6KN45UZRG05dz4aBmE-JkSJ-ZhCQD2aaLBIeQt1f6K7OztH
+app_id: com.gasnasandroiduser
+app_name: GasNas
+app_screenshot: https://play-lh.googleusercontent.com/B1dOW5jF1YraCgBeny6tH0R6Okvd8DlQAxjPM9-VeX7B42x9bavZbnCftswm78LuIEw
+category: Shopping
+country: JO
+id: blbDc0t3Cx8Q
+language: en
+most_recent_release: '2023-10-29T00:00:00'
+publisher_id: '2474574'
+publisher_name: GasNas
+rank: '75'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

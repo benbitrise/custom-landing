@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/IiXn0vWaE_QhaKcRmwlOWzCh6feLABw-EYmiWEM0XRP5f5Qve3ehlfZQHR_FyZi9XQ
+app_id: dk.jobindex.Jobindex
+app_name: 'Jobindex: Søg job og arbejde'
+app_screenshot: https://play-lh.googleusercontent.com/D6hyhkvC5RI0h0utmuGUa__kPifovHJR7yp9geT_12gGwrurjEXzoqnUWUYJkoTgmD8
+category: Business
+country: DK
+id: FrN7fkxvutUw
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '50514'
+publisher_name: Jobindex A/S
+rank: '10'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

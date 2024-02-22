@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/511StxA2a7yDtn_3lSH4AfB1HoSUGybt0ylckJfeccfmlv-vVnkc13iL62-0OGmHgGY
+app_id: jp.univas_plus
+app_name: UNIVAS Plus 学生のスポーツ観戦・スポーツライブに
+app_screenshot: https://play-lh.googleusercontent.com/idIeFZ8aYSVQBnLBXV8x0fWvE-udI7bwcKMhEX2TluXSJDvhR3vUsY3VCetTx4RZLg
+category: Sports
+country: JP
+id: qKStWfS5PBqe
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '2602184'
+publisher_name: 大学スポーツ協会
+rank: '120'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

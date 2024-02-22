@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/J2Gw68Qeq2Iv3UsnJ3A9SVidJD2zXB5Eie14vHMOtckSpAYKzzseaIRHCAU6LHIWyxo
+app_id: se.st1.b2b
+app_name: St1 Business Sverige
+app_screenshot: https://play-lh.googleusercontent.com/dooWP0iZADYjH9Onf0iASY2Ob-ZVjw17bGvZ1YV9a1UCZjN2CWkD_AXHpS3QICWGrEA
+category: Business
+country: SE
+id: fpzlr8yjO-QI
+language: en
+most_recent_release: '2024-01-29T00:00:00'
+publisher_id: '3038178'
+publisher_name: St1 Nordic Oy
+rank: '140'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

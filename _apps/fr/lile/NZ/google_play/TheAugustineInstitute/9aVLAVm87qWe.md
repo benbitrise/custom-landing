@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_y22QgxdwgsLxkkrBGyMasXLo4C7OFxoUIz5OfTomY-Y2XFz60UC3R8H0WVo7a1m0eg
+app_id: org.amenapp.amen
+app_name: 'Amen: Catholic Bible & Prayers'
+app_screenshot: https://play-lh.googleusercontent.com/2cllp7GLSbyka86gJ9BGpJUbqGbI8jtDKqsK-mfP-G8DKf8pGnelL0GUmJx15H-L2zVW
+category: Books & Reference
+country: NZ
+id: 9aVLAVm87qWe
+language: fr
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '1500624'
+publisher_name: The Augustine Institute
+rank: '135'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

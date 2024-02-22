@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VAR2KRxf6Mv1zIJCTuhHScdk3B0S6cIN8WB8zVE0KaH1SrFAahKscuurHwG8g-n9VFk
+app_id: de.medicolab.besamexapp
+app_name: besamex
+app_screenshot: https://play-lh.googleusercontent.com/QvpRbG-T-tIRc6hgPbp8fftpNCKgDTma94qUddfUgNBFYbkXr4zHyicze-phf2Giu1E
+category: Medical
+country: DE
+id: Y2xXdGnKw5hG
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '3043427'
+publisher_name: Medico-Lab GmbH
+rank: '172'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

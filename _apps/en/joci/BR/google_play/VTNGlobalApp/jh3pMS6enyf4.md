@@ -12,7 +12,7 @@ publisher_id: '3019686'
 publisher_name: VTN Global App
 rank: '5'
 release_count_in_past_year: '5'
-release_count_in_past_year_category: 8
+release_count_in_past_year_category: 4
 release_count_in_past_year_top_in_category: 8
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe

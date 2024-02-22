@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9uy9IoCetw4PQMpY5bBOdnFjK2pBNFH-cEUNGBJSVElqAQh6_gscat25hRw20A_5jnc
+app_id: net.omobio.dialogsc
+app_name: MyDialog
+app_screenshot: https://play-lh.googleusercontent.com/2E82jBIa38xipdwCZpHos1spqF2ZOMleVwmBGTJjogYg858y1rA0UgezSZ4dd5-1ysU
+category: Communication
+country: AU
+id: shlYbB3-fdA1
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '202915'
+publisher_name: Dialog Axiata PLC.
+rank: '199'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

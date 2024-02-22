@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/T1MLZNcCWReg__EborUNOON9myrUh-3-Wu-NKIJszRzriFfo_UcckwjoPNvVkHOm3YE
+app_id: com.magaza.paytr
+app_name: PayTR Mağaza
+app_screenshot: https://play-lh.googleusercontent.com/Y1PZhzSjL593-Wy03Gsbd5-eGIE6vZXo3afgnOuobjl3GJRJ4jrxYXbExJ6JafQ8ijE
+category: Finance
+country: TR
+id: qdU5xFaj0ZS2
+language: fr
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '2513302'
+publisher_name: PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş.
+rank: '200'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

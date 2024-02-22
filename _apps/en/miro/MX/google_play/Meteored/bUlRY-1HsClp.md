@@ -12,7 +12,7 @@ publisher_id: '1466872'
 publisher_name: Meteored
 rank: '1'
 release_count_in_past_year: '18'
-release_count_in_past_year_category: 14
+release_count_in_past_year_category: 10
 release_count_in_past_year_top_in_category: 14
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael

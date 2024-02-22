@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU
+app_id: com.mapfactor.navigator
+app_name: MapFactor Navigator
+app_screenshot: https://play-lh.googleusercontent.com/5jnNhFR5cR-ZRb5JYjJGUpG3thZggG-99RflwCmVEzwWItBOo42U3Lqx2HiSrPjP-fU
+category: Maps & Navigation
+country: NL
+id: l5l_EKqfGR0V
+language: en
+most_recent_release: '2024-01-09T00:00:00'
+publisher_id: '20305'
+publisher_name: MapFactor
+rank: '201'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

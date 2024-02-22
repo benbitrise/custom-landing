@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1DekafWvNx8cgd6M6OsUsZrDRS9PP6Ibh-cpcUJbBRL0Wg_38ODOO_aq10PvFTNa4vc
+app_id: com.rookiestudio.perfectviewer.pdfplugin
+app_name: Perfect Viewer PDF&DJVU Plugin
+app_screenshot: https://play-lh.googleusercontent.com/Vyt9fJZjF1rU3GpPzc55V5OMaOIadggM0AdTgQSk7tQTxZW8G7QqHeTuLBgosIBNetU
+category: Comics
+country: MX
+id: 5wtS6EXP1-pk
+language: en
+most_recent_release: '2023-09-27T00:00:00'
+publisher_id: '226'
+publisher_name: Rookie001
+rank: '97'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

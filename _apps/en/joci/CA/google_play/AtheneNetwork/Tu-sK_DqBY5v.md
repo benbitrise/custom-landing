@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Yazh5R_IFNWUQDv5dUjSp5gsxu1T9x88PZZsJRXC6wxnbNQeilGnBMS1p3GyjY3Ehag
+app_id: network.athene.app
+app_name: Athene Network
+app_screenshot: https://play-lh.googleusercontent.com/KnGm7CbTup2069UTD0V8q8_mImDeUOXMwmOPVrqS0aTTrMh-k8VACxLVttBPWkREojkL
+category: Finance
+country: CA
+id: Tu-sK_DqBY5v
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '3041370'
+publisher_name: Athene Network
+rank: '161'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/4a/11/2e4a11d6-542e-51a9-2ad2-e64ad7cce0dd/AppIcon-0-1x_U007ephone-0-10-0-85-220.png/1024x1024bb.png
+app_id: '6449831566'
+app_name: Worldline Tap on Mobile – AU
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e1/fc/7d/e1fc7de2-362d-5400-61fe-768ebb3f293f/84a2fa5e-61a1-492b-a49c-4d9078dd90f8_WRLD0133_-_PRODUCT_MARKETING_ENABLEMENT_TAP_ON_MOBILE_IPHONE_APP_IMAGERY_9X19-5_V5.png/1242x2688bb.png
+category: Business
+country: AU
+id: BbqR9qK2y5Mk
+language: fr
+most_recent_release: ''
+publisher_id: '1575744604'
+publisher_name: equensWorldline
+rank: '502'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

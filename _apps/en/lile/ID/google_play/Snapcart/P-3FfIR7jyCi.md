@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zF2FO4Cx5i_Kx0S5_mUbZc-ue2U434goctMVEDxszurCy_5jFTeOaiDanpT2OazVG2Cf
+app_id: com.snapcart.android
+app_name: 'Snapcart: Snap Play Cashbacks!'
+app_screenshot: https://play-lh.googleusercontent.com/fvHrvp5KICG8N2aI0wnJ-JbBTJ5CyApFzKpABvjumOa0sxET4pvXm2M3Bu6Zoj1m4Q
+category: Lifestyle
+country: ID
+id: P-3FfIR7jyCi
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '670726'
+publisher_name: Snapcart
+rank: '69'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

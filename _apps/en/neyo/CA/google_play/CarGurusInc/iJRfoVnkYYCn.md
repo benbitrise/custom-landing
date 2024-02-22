@@ -12,7 +12,7 @@ publisher_id: '742480'
 publisher_name: CarGurus, Inc
 rank: '2'
 release_count_in_past_year: '35'
-release_count_in_past_year_category: 16
+release_count_in_past_year_category: 10
 release_count_in_past_year_top_in_category: 16
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

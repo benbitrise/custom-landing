@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9jGm4rUKUyt01IXVQVNg5sLeTQlR3gQlnyqqR0gEem0YjCs1bebGromdMuDt5oZpkh2x
+app_id: org.owline.kasirpintar
+app_name: Kasir Pintar® - POS & PPOB
+app_screenshot: https://play-lh.googleusercontent.com/MesYKALrS5tYGjnDmRj_6OUkfKwoglEA-0shaH3gm4x2pNmxNmV5xfywhTd51qx4yw
+category: Business
+country: ID
+id: agNc4v4Vv2wm
+language: es
+most_recent_release: '2023-10-31T00:00:00'
+publisher_id: '2009061'
+publisher_name: PT Kasir Pintar Internasional
+rank: '57'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

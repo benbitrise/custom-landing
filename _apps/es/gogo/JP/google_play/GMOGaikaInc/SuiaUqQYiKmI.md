@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7Py2z-swJWumEtU6ekflFjQZWcXgk8DxKGBV9ftEEf9iLJRA-hprHHHBQ3u171_n8x8
+app_id: jp.co.yjfx.gaikaEX
+app_name: 外貨ex - FX取引アプリ
+app_screenshot: https://play-lh.googleusercontent.com/25eyrqWK0qJRne1vHs8-GM7R0sIkFur21ytZ8uNdvywtDQf8kCxck_gClIaVo5wMqPY
+category: Finance
+country: JP
+id: SuiaUqQYiKmI
+language: es
+most_recent_release: '2023-11-30T00:00:00'
+publisher_id: '2969084'
+publisher_name: GMO Gaika, Inc.
+rank: '183'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

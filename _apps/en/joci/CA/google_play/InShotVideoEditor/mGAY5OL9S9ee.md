@@ -12,8 +12,8 @@ publisher_id: '2447870'
 publisher_name: InShot Video Editor
 rank: '4'
 release_count_in_past_year: '13'
-release_count_in_past_year_category: 24
-release_count_in_past_year_top_in_category: 24
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

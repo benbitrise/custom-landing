@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/hRyrY3ZYyAchyeM6wAQfKdNhCv4k1nkNuLe3Y27KDs4Kv9pTqMWutfzJS1iqr3IP14pO
+app_id: weatherradar.livemaps.free
+app_name: 'Weather Radar: Forecast & Maps'
+app_screenshot: https://play-lh.googleusercontent.com/oaSS6H-6h1uR4xwnjDTdJcXLL5CzvqquZHx-wNx02PkbkdhB7JKLnQ-FFSTv98_EMhI
+category: Weather
+country: MX
+id: dH4_vnnd6IbY
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '3044059'
+publisher_name: SmarTeam apps
+rank: '89'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

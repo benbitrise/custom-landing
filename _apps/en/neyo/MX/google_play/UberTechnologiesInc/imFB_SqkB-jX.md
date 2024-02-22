@@ -12,8 +12,8 @@ publisher_id: '28994'
 publisher_name: Uber Technologies, Inc.
 rank: '2'
 release_count_in_past_year: '61'
-release_count_in_past_year_category: 35
-release_count_in_past_year_top_in_category: 35
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

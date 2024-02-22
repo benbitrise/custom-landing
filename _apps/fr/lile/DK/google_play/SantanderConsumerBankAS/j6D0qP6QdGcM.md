@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gIPPG-A581Lem0QGp_4CZ1DD0QZvTQDLF8rMj9xEMoDdWXbKzhQpeU-To49msBwJiQ
+app_id: dk.santanderconsumer.mobilebank
+app_name: Santander Danmark - Mobilbank
+app_screenshot: https://play-lh.googleusercontent.com/e0LrHKWxkgdiN8E0S7msbl0U-9mlWXYhXNuwt54XoLOvZHibfSSu4ANhgfGHYzcWy5U
+category: Finance
+country: DK
+id: j6D0qP6QdGcM
+language: fr
+most_recent_release: '2023-12-20T00:00:00'
+publisher_id: '671640'
+publisher_name: Santander Consumer Bank AS
+rank: '17'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

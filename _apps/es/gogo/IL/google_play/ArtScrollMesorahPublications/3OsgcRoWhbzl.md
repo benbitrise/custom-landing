@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6l2acKdYH3f-JIjGLzCzMlch58CqcHkjFAlyj4-RGWY71GCB7CTPnUAaiHtBX7qyYw
+app_id: com.artscroll.digitallibrary
+app_name: ArtScroll Digital Library
+app_screenshot: https://play-lh.googleusercontent.com/c8_s45Toz99OgjtT8TDtDRLyPVVOGKGlKDYq62RjlCenoMqxPaVzndX7vglvr74KyiE
+category: Books & Reference
+country: IL
+id: 3OsgcRoWhbzl
+language: es
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '47408'
+publisher_name: ArtScroll / Mesorah Publications
+rank: '166'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

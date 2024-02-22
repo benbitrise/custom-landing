@@ -12,8 +12,8 @@ publisher_id: '1965340'
 publisher_name: Saby Baby monitor Ltd
 rank: '5'
 release_count_in_past_year: '7'
-release_count_in_past_year_category: 17
-release_count_in_past_year_top_in_category: 17
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 18
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

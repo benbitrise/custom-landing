@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EM8phjm9ha---T5Kwtbf3fFcC-6KJyLz8mzr75e4I7jkfSqJWJyNsgST0ThH_GV4sSTY
+app_id: nz.co.anz.android.mobilebanking
+app_name: ANZ goMoney New Zealand
+app_screenshot: https://play-lh.googleusercontent.com/jaL-VOTfVfnMa_o0qqYgn5fjTs4-lUXLAbRAVSVCBEbeI2dS_oBK2OF6EcYAGaZOkmg
+category: Finance
+country: NZ
+id: jl9fpAt64mn7
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '21578'
+publisher_name: ANZ NZ
+rank: '2'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

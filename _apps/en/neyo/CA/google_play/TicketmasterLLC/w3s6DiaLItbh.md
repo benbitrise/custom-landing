@@ -12,8 +12,8 @@ publisher_id: '14197'
 publisher_name: Ticketmaster L.L.C.
 rank: '1'
 release_count_in_past_year: '6'
-release_count_in_past_year_category: 23
-release_count_in_past_year_top_in_category: 23
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

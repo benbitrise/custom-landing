@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YOZnVtTxZW0qmJZNGyB6P00LtMc56vSHg1WVs0TR3kxxjPaovMYGY5tAh1x7MT3jdw
+app_id: com.ai.voice.messaging.vocalz
+app_name: 'Vocalz: AI Voice Messenger'
+app_screenshot: https://play-lh.googleusercontent.com/XJG5Xy-INpmBhrzK--aWiHE1lTRVStMNHLRe9ATDTr4AamNMv8zrNy8pD4u3LXAfjIA
+category: Communication
+country: FR
+id: Mb2VMn5ta3ge
+language: es
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '2963620'
+publisher_name: AI Voice Messaging
+rank: '31'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 44
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/q4s4UwGwtb4svI4VMs4Y6eFCUFfEi9OaH1-hcyY35GLKbRfgzT8b-IEEfd5daZVMwWk
+app_id: com.msf.angelmobile
+app_name: 'Angel One: Stocks, Mutual Fund'
+app_screenshot: https://play-lh.googleusercontent.com/71-phoL1s4AJxvfAlJ1s5NPmXwSqZbDCRG3DGACRxPuw6DJBYmdWTnKY8KdNxyn0tg
+category: Finance
+country: IN
+id: _RWTJPgEn7eg
+language: es
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '2771148'
+publisher_name: Angel One - Stock Market, Demat Account & IPO
+rank: '10'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

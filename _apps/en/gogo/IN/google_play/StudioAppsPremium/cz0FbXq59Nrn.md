@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/RfQtqq23OWy-p72Q45ITqI3YaVopfHie5njoXuprVIEO_bnXAT1B18ToaDYl9MvgvGU
+app_id: com.studioappspremium.rlcraftmcpe
+app_name: RLCraft Mod for MCPE
+app_screenshot: https://play-lh.googleusercontent.com/NMTMOqrVIk_Iro_PhRveKt7M6LMfa2xPUxuYRN6wsc5aC0kCjr3FTpUmN_SV-Qt1WUo
+category: Libraries & Demo
+country: IN
+id: cz0FbXq59Nrn
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '2387747'
+publisher_name: Studio Apps Premium
+rank: '140'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

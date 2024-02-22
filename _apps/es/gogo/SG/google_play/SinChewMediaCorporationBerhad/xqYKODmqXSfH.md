@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Nv8ND-UPHkO1PluXTzNNk5fYAMyVZ6MxoF2JYO9Wax75kcueqeEw8aqu32WBP0tOi1LZ
+app_id: com.sinchewnews
+app_name: Sin Chew 星洲日报 - Malaysia News
+app_screenshot: https://play-lh.googleusercontent.com/hI7WhA8xl8Ot2toZZ3Q2kXWjaUCt9MwRbWmdmRynAuKWq1BGzi0D80cYazmBMIstST8
+category: News & Magazines
+country: SG
+id: xqYKODmqXSfH
+language: es
+most_recent_release: '2024-01-22T00:00:00'
+publisher_id: '2616686'
+publisher_name: Sin Chew Media Corporation Berhad
+rank: '26'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

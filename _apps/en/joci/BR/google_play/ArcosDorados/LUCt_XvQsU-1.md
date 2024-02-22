@@ -12,8 +12,8 @@ publisher_id: '201682'
 publisher_name: Arcos Dorados
 rank: '4'
 release_count_in_past_year: '20'
-release_count_in_past_year_category: 27
-release_count_in_past_year_top_in_category: 27
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

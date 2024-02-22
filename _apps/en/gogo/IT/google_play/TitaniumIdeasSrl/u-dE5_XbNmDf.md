@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fTHa6lvh8vKyg6v2gLJFqEajDa4C6gOkwm_rD2d0cQD8fMUIWVGtBES2OR0Xq6W7a0E
+app_id: com.seerene
+app_name: Seerene
+app_screenshot: https://play-lh.googleusercontent.com/nWWW0iTBy9WbdRmQRLywckDNBfD-fbR5nmlLwrhYepaE89ribW-F7nldYn0XvhpaUQI
+category: Social
+country: IT
+id: u-dE5_XbNmDf
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2946488'
+publisher_name: Titanium Ideas S.r.l.
+rank: '233'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 54
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

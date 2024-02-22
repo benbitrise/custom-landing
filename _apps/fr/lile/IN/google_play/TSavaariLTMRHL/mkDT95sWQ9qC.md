@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xgbtX8nwlgdkBJfI2f4uxAO6k3Z6UgIw7GSN1EcV6QDBRwlttRv4N5Ssc1PQSqCx9ZR7
+app_id: com.minfy.tsavaari
+app_name: TSavaari - Official App of Hyd
+app_screenshot: https://play-lh.googleusercontent.com/-Sbk1GYtyplA5l2G1mmBCe9rYxQz575Dx5F95PTzyAXw8auA_mF-pPZax6xSqndIow
+category: Travel & Local
+country: IN
+id: mkDT95sWQ9qC
+language: fr
+most_recent_release: '2023-09-21T00:00:00'
+publisher_id: '1488630'
+publisher_name: TSavaari L&TMRHL
+rank: '160'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

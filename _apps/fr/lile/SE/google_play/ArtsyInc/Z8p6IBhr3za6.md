@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/amG_p8G_4q2ABfEutlA_h7lnjbbX9LCecicXmNaQx_gzFwXiVDxYCCiH1rXV7PWtNY0
+app_id: net.artsy.app
+app_name: 'Artsy: Buy & Resell Artwork'
+app_screenshot: https://play-lh.googleusercontent.com/X02uAiK3QEM_eLOrwGGepaHfRDEtG9UdTNJTT3phjIuZcYo_Qvh18immld9MSyn3Jg
+category: Art & Design
+country: SE
+id: Z8p6IBhr3za6
+language: fr
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2544248'
+publisher_name: Art.sy Inc.
+rank: '189'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

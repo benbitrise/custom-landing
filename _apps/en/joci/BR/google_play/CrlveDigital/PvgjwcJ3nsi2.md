@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/I1BA_2jDNCLR-XNa8bHHH6WYI5OYPH3YJADP8FSaG0_JhiOXdemVzWW_Ztzv2Fv58eA
+app_id: br.com.crlv_digital
+app_name: CRLV-e Digital  Doc pela placa
+app_screenshot: https://play-lh.googleusercontent.com/BRm_CagL1C9-fEGxELmZJzoIQ2nYZf4PloAUvjAku1e07dlUACUvbB1RUsI2lIUmRBs
+category: Auto & Vehicles
+country: BR
+id: PvgjwcJ3nsi2
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '2966396'
+publisher_name: Crlve Digital
+rank: '35'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

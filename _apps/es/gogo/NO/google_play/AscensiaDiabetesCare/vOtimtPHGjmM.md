@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qsit4emQQMtGp_f6X5R9U6MTzsoErJinORUFb8YPoOYAdL9KVHEh8IQRKW4FPPJtYMn1
+app_id: com.ascensia.contour.no
+app_name: CONTOUR DIABETES app (NO)
+app_screenshot: https://play-lh.googleusercontent.com/PhoV0u51PBFZwk-UL216xN85g26XFqpElzRhYozG5_nc2Y9ZNOoq9fqvYsKrWRp0ihI
+category: Medical
+country: 'NO'
+id: vOtimtPHGjmM
+language: es
+most_recent_release: '2023-11-13T00:00:00'
+publisher_id: '946067'
+publisher_name: Ascensia Diabetes Care
+rank: '31'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 9
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

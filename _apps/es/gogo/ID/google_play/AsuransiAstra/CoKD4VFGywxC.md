@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/V66FyYl487bsmIjFnMHN-ZOcNmh9U8mYBty40W4NUOfquX6EC5oAsHnyPQleNTqY2AQ
+app_id: com.asuransiastra.medcare
+app_name: Garda Mobile - Medcare
+app_screenshot: https://play-lh.googleusercontent.com/aZz3cetCp7VxV6T_fTyEE-rFQRdgTavuKnUn_AWZDEEGpfHv9NNhQYV6--af_iKl2Ren
+category: Health & Fitness
+country: ID
+id: CoKD4VFGywxC
+language: es
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '653266'
+publisher_name: Asuransi Astra
+rank: '170'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

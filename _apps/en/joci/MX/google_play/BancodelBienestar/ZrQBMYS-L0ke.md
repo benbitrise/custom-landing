@@ -12,7 +12,7 @@ publisher_id: '2687599'
 publisher_name: Banco del Bienestar
 rank: '1'
 release_count_in_past_year: '0'
-release_count_in_past_year_category: 23
+release_count_in_past_year_category: 19
 release_count_in_past_year_top_in_category: 23
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe

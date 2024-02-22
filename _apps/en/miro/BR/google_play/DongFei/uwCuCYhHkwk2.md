@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_OFl-Wy9zIGCb9GMJ1q364GVDTj5xMHUgUwI1wfHGA_q2y8ACSXtmYhWmZaZ1_MlfDo
+app_id: com.whasa.machine.whasa.machine
+app_name: Callin
+app_screenshot: https://play-lh.googleusercontent.com/oyeBIQ1c_bSuZx5G3CgxjkmKglSQ44qEIV1uICzxnxHoDpESXXkU_B9pZfuWoCVvYOpw
+category: Lifestyle
+country: BR
+id: uwCuCYhHkwk2
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '2986022'
+publisher_name: Dong Fei
+rank: '65'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/37/8b/2d378b1d-40c9-847c-99bf-2dcc01575b38/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1024x1024bb.png
+app_id: '321934718'
+app_name: wetter.de
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/97/f6/fe97f6ca-931e-14bc-4f59-11b8241a8c65/a31ec25a-c7cf-4a0e-b819-e85937fe171f_1_Hintergrunde_202301.png/1242x2688bb.png
+category: Weather
+country: FR
+id: HDdmNe9EPi1r
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '310266588'
+publisher_name: RTL interactive
+rank: '351'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/UNo9mbokYTQDjZO35SGd4HHNq-LEBsbjwU4AjHVOwgDNMOoH-tsOWAt_sf6jJrQQKKkW
+app_id: app.redia.dk.biblioteket
+app_name: Biblioteket
+app_screenshot: https://play-lh.googleusercontent.com/4YGCDD_mohSvNQd8yzVovNh7QDvnDPi6BYC12h-O6VCAMbr6k68KH3OOe4itl1o3iA
+category: Books & Reference
+country: DK
+id: Vp9APrnG9z0V
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '96101'
+publisher_name: Redia A/S
+rank: '3'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/3f8QIqXIYUPU3fO3S1IgwP5v3aygv7JX1_MD6i4CVz7M3LIHCZSQ7_RvL9mDffI1eg
+app_id: com.jp.newsapp
+app_name: 日本のニュース速報 - ニュース閲覧
+app_screenshot: https://play-lh.googleusercontent.com/eC-M6Gyl5iM48lXoj2-iEMZ2iFdGm8fHTNFVSr5gNqgIBgi1UbYSMn_1T5DTizt0i-W0
+category: News & Magazines
+country: JP
+id: 1vq5b7dr-Jg_
+language: fr
+most_recent_release: '2023-01-25T00:00:00'
+publisher_id: '2616348'
+publisher_name: Seasonjp
+rank: '39'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

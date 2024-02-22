@@ -12,8 +12,8 @@ publisher_id: '1031071'
 publisher_name: Pinterest
 rank: '2'
 release_count_in_past_year: '76'
-release_count_in_past_year_category: 36
-release_count_in_past_year_top_in_category: 36
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

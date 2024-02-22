@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/q1Noyr2ZQySWlrmjaLeUIn6BPk5stzuqXU44sTZ2vTpwbQKPhJh5qDK83gtK-9Lr_PA
+app_id: com.orange.ocsgo
+app_name: OCS
+app_screenshot: https://play-lh.googleusercontent.com/u9wXOfmSF_5rTJECySR7mt71HULuDtXcbJDzT9oMIz8FOZvogfJUMHxszKef0DWcmvzu
+category: Entertainment
+country: FR
+id: wp_JwCspzU7N
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '354843'
+publisher_name: OCS
+rank: '213'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

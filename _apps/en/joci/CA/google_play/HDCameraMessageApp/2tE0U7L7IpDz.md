@@ -12,8 +12,8 @@ publisher_id: '3044794'
 publisher_name: HD Camera & Message App
 rank: '4'
 release_count_in_past_year: '9'
-release_count_in_past_year_category: 24
-release_count_in_past_year_top_in_category: 24
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

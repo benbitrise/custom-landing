@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/35KN6S-QZoYU0V4Nss1pAJtXBlVJmyGDSkYIUD8i44Bh3kpUH8p0-8qLledAEGjafWs
+app_id: de.com.bic.gowait
+app_name: cleverQ
+app_screenshot: https://play-lh.googleusercontent.com/23ybLpwp9j8qFHwcnOYp8DEt_rvCeJx-jUIncUGIq4uJTWFpakBCDGSEWhaOmLfqpA
+category: Business
+country: DE
+id: KnqnYilYxD0v
+language: en
+most_recent_release: '2023-05-19T00:00:00'
+publisher_id: '967832'
+publisher_name: B.I.C. GmbH Business Intelligent Cloud
+rank: '202'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

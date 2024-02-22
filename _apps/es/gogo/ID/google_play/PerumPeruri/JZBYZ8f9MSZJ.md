@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/m4_rDBUypMwCMYP8j7LCb5mZs44VRwKqhWuZwqaW5itERTDpk_sVNZpHI-TyEFnu4A
+app_id: com.peruri.peruri_ppid
+app_name: PERURI PPID MOBILE
+app_screenshot: https://play-lh.googleusercontent.com/Ij3FTwHJiEMVokaatTNXcqJ13L7LORNIIUXpcdpRovlhXESh1BgdD8QTY3rp_Bx8ObjI
+category: News & Magazines
+country: ID
+id: JZBYZ8f9MSZJ
+language: es
+most_recent_release: '2023-08-23T00:00:00'
+publisher_id: '1791885'
+publisher_name: Perum Peruri
+rank: '173'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

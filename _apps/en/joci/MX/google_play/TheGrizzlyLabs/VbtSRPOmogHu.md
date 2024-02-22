@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/pvQPJdQjkiEkok37xigdMYWrH0eW_S4BcUEwOcaQfboNJDU6b_RfyBaM-WH4Azojs0M
+app_id: com.thegrizzlylabs.geniusscan.free
+app_name: Genius Scan - PDF Scanner
+app_screenshot: https://play-lh.googleusercontent.com/olkn3Cek1vU_RIvq5whWai7e2xCkNpwYR3EH2sg_AVFAErOYg6N8Eo7ufGBxMV48a7I
+category: Business
+country: MX
+id: VbtSRPOmogHu
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '16552'
+publisher_name: The Grizzly Labs
+rank: '104'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

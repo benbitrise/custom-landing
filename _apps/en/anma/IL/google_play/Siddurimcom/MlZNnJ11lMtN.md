@@ -12,8 +12,8 @@ publisher_id: '1330466'
 publisher_name: Siddurim.com
 rank: '19'
 release_count_in_past_year: '5'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: anna.magnussen@bitrise.io
 rep_first_name: Anna
 rep_full_name: Anna Magnussen

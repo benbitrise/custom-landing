@@ -12,8 +12,8 @@ publisher_id: '2382663'
 publisher_name: Roadget Business PTE. LTD.
 rank: '1'
 release_count_in_past_year: '43'
-release_count_in_past_year_category: 38
-release_count_in_past_year_top_in_category: 38
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah
 rep_full_name: Nehemoyiah Young

@@ -12,7 +12,7 @@ publisher_id: '3027688'
 publisher_name: Seasonal Color Analysis AI
 rank: '5'
 release_count_in_past_year: '17'
-release_count_in_past_year_category: 12
+release_count_in_past_year_category: 7
 release_count_in_past_year_top_in_category: 12
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

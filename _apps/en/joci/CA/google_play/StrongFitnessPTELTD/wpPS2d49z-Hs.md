@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4oDSXUQmbO6D7Y7a1qXYc8fkXest3HGy7wzkTHV_ePxZpscCh4NsF29eciniJkjctYI
+app_id: io.strongapp.strong
+app_name: Strong Workout Tracker Gym Log
+app_screenshot: https://play-lh.googleusercontent.com/B3xSDezmbXBZYaeUPQ7GLVu1NdA-CJGd_qZZXIs90OUauKz7T2wIvxZf--v3yCnpEA
+category: Health & Fitness
+country: CA
+id: wpPS2d49z-Hs
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2220100'
+publisher_name: Strong Fitness PTE. LTD.
+rank: '187'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

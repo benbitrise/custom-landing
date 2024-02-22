@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WlnKrqkzt4wSwuIVkr1J8Lev_ATE7k8NSs6819iNEQFJvhtNdLrvbW8UsQlMenCyLg
+app_id: it.wind.myWind
+app_name: WINDTRE
+app_screenshot: https://play-lh.googleusercontent.com/Rb87E3mBgSTPMGKosNCxz2hsfYqb5vDmQlcuQwH_FclssT-Rz58AsJpRLuWNzI7ydnE
+category: Tools
+country: IT
+id: FKqkq9f6M1aU
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '1155792'
+publisher_name: Wind Tre S.p.A.
+rank: '15'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

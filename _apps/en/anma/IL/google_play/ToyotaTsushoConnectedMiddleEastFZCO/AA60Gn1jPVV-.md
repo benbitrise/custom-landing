@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/4joSGO0D6czdDm5c2wdTfz6nh-Z2HgWxz33c_39HS43Mc9GModL17H3QOovzvjlPCu8
+app_id: me.co.tsp.tconnectme
+app_name: TOYOTA CONNECT Middle East
+app_screenshot: https://play-lh.googleusercontent.com/7JxWTnYs1r8x0-XwIsSbZht8zzClRaXjxlSoBTq2-cfRUgIXcR2KUn8g1qYFtvHeqw
+category: Maps & Navigation
+country: IL
+id: AA60Gn1jPVV-
+language: en
+most_recent_release: '2023-12-04T00:00:00'
+publisher_id: '2479764'
+publisher_name: Toyota Tsusho Connected Middle East FZCO
+rank: '117'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/b0/20/ceb02019-c224-ee47-ebed-99199935cfc7/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1132394222'
+app_name: BP Plus app
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/bb/dc/d2bbdc43-e2bc-9cd4-0099-76db782707eb/pr_source.png/1242x2688bb.png
+category: Business
+country: AU
+id: tFaHCL49thkJ
+language: fr
+most_recent_release: '2022-08-25T00:00:00'
+publisher_id: '650690362'
+publisher_name: BP Australia Pty Ltd
+rank: '79'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

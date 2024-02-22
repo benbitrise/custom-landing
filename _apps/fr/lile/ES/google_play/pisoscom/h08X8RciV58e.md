@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vohILWi8cFol1USbG9igeI-pf8dlN9r8XOUO2S0W9JOpW9NnJqu57IWzVWbT2Gu1cLI
+app_id: com.vocento.pisos
+app_name: pisos.com - flats and houses
+app_screenshot: https://play-lh.googleusercontent.com/Ggn_81V81EWO8oVC3zijbkoP7CCY3OpRrBnH4ahfMFxvo5vceqUp8cGLbazJN7P7XrBX
+category: Lifestyle
+country: ES
+id: h08X8RciV58e
+language: fr
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '26208'
+publisher_name: pisos.com
+rank: '14'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

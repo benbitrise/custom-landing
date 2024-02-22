@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/54/95/c4549530-fb81-b99f-161f-4e9a205eb9f8/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1601025694'
+app_name: Me QR Generator
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/6b/c2/7a6bc2d1-4788-c1cf-a5fa-34d31cbd72b1/615cef7c-8052-4b5c-87c2-76b53ce1fc94_6.5-inch-01.png/1284x2778bb.png
+category: Business
+country: ES
+id: HtgaeN216rBB
+language: es
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1582135130'
+publisher_name: ME TEAM LTD
+rank: '366'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

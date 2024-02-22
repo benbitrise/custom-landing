@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/0f/43/b70f4357-5bab-edf9-c8c8-aa626c1238d4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1439199060'
+app_name: Bredband2 Växel
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c1/34/36/c1343647-6dbd-01f1-dd05-59604ced9f31/7f409388-175e-488d-8acc-9faa58996b13_iPhone_13_Pro_Max-Side_Menu.png/1284x2778bb.png
+category: Business
+country: SE
+id: 9dSVua7I7Ruz
+language: en
+most_recent_release: '2023-11-05T00:00:00'
+publisher_id: '1439199059'
+publisher_name: A3 Företag AB
+rank: '397'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jpOBOOM0oYxX_eJ_Sax7l68TtchU-Q8DcKYsJ558EgQE0trAm69mcx5M0Ey3ELMdtFj9
+app_id: com.kart2023.girls_police_dz
+app_name: شرطة البنات الجزائرية المطورة
+app_screenshot: https://play-lh.googleusercontent.com/WZsqVed5DadckAv4OgzjGhBafazCevHEc4Y5T2XoODXwRXKZ7QoizIibFAgNpPeJ2Q
+category: Parenting
+country: JO
+id: KOdzupytuWF5
+language: en
+most_recent_release: '2023-07-14T00:00:00'
+publisher_id: '2840831'
+publisher_name: naif212
+rank: '110'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 22
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/7klFv5jO6DWhklFJRujs195qdodaZJZ8xqabUO3eDLET2Ll_UsSnnaiexRI-gjx3CL8
+app_id: com.marvel_databadge.expo
+app_name: Databadge Events
+app_screenshot: https://play-lh.googleusercontent.com/18AgjNhICqi4bS7mRW1BA390z4J6kCR_j_F2liiATVBTMEX-fH38s2Jd5qbp8O3Aa1U
+category: Events
+country: NL
+id: Y4LVIVSIlJPF
+language: es
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '481434'
+publisher_name: Marvel, the Databadge Company BV
+rank: '153'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 5
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

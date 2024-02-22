@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gDQxif3ZSmv8HlbawvsBCY9lD0XMBg-DEv0HbQ6KYklDOo5PTYUDBn0CkGjQ6DQCdok
+app_id: com.gpsmapcamerastamplite.gpsmaplocationstamponphotos
+app_name: GPS Map Camera Lite
+app_screenshot: https://play-lh.googleusercontent.com/GCPd-owS07ZDZ9sT7kGrbr4WD0lcR2g3ge02VG2CzUa1RExvVGPKepQgnaHZo1ZaPiE
+category: Photography
+country: IN
+id: fAoMjo66F_NK
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '2384522'
+publisher_name: Susamp Apps
+rank: '42'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

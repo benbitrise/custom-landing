@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8I6K_i6jwDYmbUyGcnmHx8XEffUUuRBGNFQHgLbqB98YiU7S3PZlgzEghdV4ghtrGg
+app_id: com.timewarpscan.timewarpfilter.warpscan.facescanner.slitscan.warpfilter
+app_name: Time Warp Scan - Face Scanner
+app_screenshot: https://play-lh.googleusercontent.com/I2quYWieh64mk3jhPzw2SXmj1UF1D4yLcWUJWAyrtw9bsKxesqwjjGeRp0IYxT4H2g
+category: Photography
+country: AT
+id: CFAZMe4m32YQ
+language: fr
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '2868731'
+publisher_name: FeaturedApp
+rank: '175'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

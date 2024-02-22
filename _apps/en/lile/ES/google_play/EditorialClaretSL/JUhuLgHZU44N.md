@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/qyyOm6AXBV94-X4DuHAU3yE5Db3fDb0cN8CL2IFyY9xv68oWtt_MxBKKzySoNqea6lRy
+app_id: cat.claret.missadecadadia
+app_name: La Misa de Cada Día
+app_screenshot: https://play-lh.googleusercontent.com/5lKTzgzAbzvPypqf0hYFSruggoNGseFAUdt5ceXf7LhrtNNmwMUrpzXN948EYnAiGvk
+category: News & Magazines
+country: ES
+id: JUhuLgHZU44N
+language: en
+most_recent_release: '2023-09-27T00:00:00'
+publisher_id: '1895663'
+publisher_name: Editorial Claret, SL
+rank: '117'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

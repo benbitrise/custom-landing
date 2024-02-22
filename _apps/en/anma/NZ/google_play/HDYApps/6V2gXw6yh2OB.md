@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fLw5gPYqjj4yuzeutrGcV5WJmHJ8lPy4B5qkjkEtdgQZJupFzHT2Zgau8Zxl--Zs7g
+app_id: com.timewarp.scanface.selfiephotoeditor.videopopulartiktok
+app_name: Time Warp Scan Cam&Face Filter
+app_screenshot: https://play-lh.googleusercontent.com/35brbaIfIzZUxOgcbhc2IuSJu9dnBuW-ih5K9mFut8cAzLaZI0davI4SWi3djROQH0Y
+category: Photography
+country: NZ
+id: 6V2gXw6yh2OB
+language: en
+most_recent_release: '2023-05-19T00:00:00'
+publisher_id: '2983449'
+publisher_name: HDY Apps
+rank: '32'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: anna.magnussen@bitrise.io
+rep_first_name: Anna
+rep_full_name: Anna Magnussen
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: 0044 73 918 00286
+rep_photo: anna.jpg
+rep_title: Account Manager
+store: google_play
+---

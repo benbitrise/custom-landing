@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rd_MrvoXSAy235fm2wCHYuLjkV_xNpECGlyL76PXGD6GOs-4RrZsIQFQpm-1SXOtv_s
+app_id: com.mobisoft.kitapyurdu
+app_name: Kitapyurdu
+app_screenshot: https://play-lh.googleusercontent.com/N-3v1sSNeb8VZOol06x82oNZv_GFbk6nKIkmGx8NvCayFkLg_85wli3w0iJ3-PN0Lb0
+category: Shopping
+country: TR
+id: DF8Z2_6K08iv
+language: fr
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '764097'
+publisher_name: Kitapyurdu Yayıncılık ve İletişim A.Ş.
+rank: '83'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 41
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

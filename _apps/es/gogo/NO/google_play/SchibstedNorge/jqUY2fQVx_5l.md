@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/76NghKSjnDkIyc2_j7qBhHENL5em_kv9UC3sqFsC54LnaV0eOpnGfv6-pN5z-PSdWQi1
+app_id: no.stavanger.areader
+app_name: Aftenbladet eAvis
+app_screenshot: https://play-lh.googleusercontent.com/FMhPS16ed5XTL3OtUbCDba7Ij5LItC2gh8kU18aNpqsQUKLuMjIGlyG5mNPepCIyT-o
+category: News & Magazines
+country: 'NO'
+id: jqUY2fQVx_5l
+language: es
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '1286135'
+publisher_name: Schibsted Norge
+rank: '33'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 13
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

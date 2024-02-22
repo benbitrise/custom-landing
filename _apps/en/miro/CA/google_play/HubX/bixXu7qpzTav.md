@@ -12,8 +12,8 @@ publisher_id: '2822182'
 publisher_name: HubX
 rank: '2'
 release_count_in_past_year: '15'
-release_count_in_past_year_category: 25
-release_count_in_past_year_top_in_category: 25
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
 rep_email: michael.roguly@bitrise.io
 rep_first_name: Michael
 rep_full_name: Michael Roguly

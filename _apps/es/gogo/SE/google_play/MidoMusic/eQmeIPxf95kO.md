@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/puLYJM0wpaPF3TFTY2H-xZMD_f2hh8ABIf12uas-oXUtPyODgefnad6oaNb-zDSaG2tw
+app_id: com.screen.edgelighting.notification
+app_name: 'Edge Lighting: Border Light'
+app_screenshot: https://play-lh.googleusercontent.com/JwjXOLXxCEW8AQsKBKKSjI2tmcSTLAzmmfHMlFzVi0ZcGQdAH1fpu3F-HP39_TXZEyw
+category: Personalization
+country: SE
+id: eQmeIPxf95kO
+language: es
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '2972056'
+publisher_name: Mido Music
+rank: '178'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 15
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

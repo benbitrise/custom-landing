@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rmm531fSvbZZGZ4NXrncCCgjudbmF0cV0Tzdbs0rXkUk4ZODRlDAccHooojyFD3-xw
+app_id: com.alarm.alarmmobile.android.pronet
+app_name: Pronet Plus
+app_screenshot: https://play-lh.googleusercontent.com/UxWDggOpB5PAgzMxINFGxJPKxDUlOYX9DGD--0fLmcGhzopAO9kyjFCLKQgoihEDnw
+category: Lifestyle
+country: TR
+id: SFPeCxQcccms
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '540443'
+publisher_name: Pronet Güvenlik
+rank: '204'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

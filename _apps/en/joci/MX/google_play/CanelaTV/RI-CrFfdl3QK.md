@@ -12,8 +12,8 @@ publisher_id: '2327475'
 publisher_name: Canela TV
 rank: '5'
 release_count_in_past_year: '17'
-release_count_in_past_year_category: 26
-release_count_in_past_year_top_in_category: 26
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

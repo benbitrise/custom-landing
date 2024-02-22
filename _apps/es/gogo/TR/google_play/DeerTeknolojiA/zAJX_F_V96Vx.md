@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/HXo3mSpAZ4O0UaVdrbC5rFrYQnr4ryM9oUxflC5Hah5VDQ7cAptXmyFszsR9dKCPgeA
+app_id: com.deger.hantal.goshopier
+app_name: Shopier
+app_screenshot: https://play-lh.googleusercontent.com/WDpIU5msmwl3mAwmXDwdGkAD71gH7Iyc5bb8zmmB6kBWImqKQqwXvwS2CLbk0Fip8PU
+category: Business
+country: TR
+id: zAJX_F_V96Vx
+language: es
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '1233146'
+publisher_name: Değer Teknoloji A.Ş.
+rank: '12'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

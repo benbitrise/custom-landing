@@ -1,0 +1,25 @@
+---
+app_icon: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/24/b1/3c/24b13cff-3293-e709-a96b-07a4752aa013/AppIcon-1x_U007emarketing-0-7-85-220.png/1024x1024bb.png
+app_id: '427763647'
+app_name: A.Vogel Hooikoortsweerbericht
+app_screenshot: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/48/55/ba485578-154b-b1de-bf29-697ca4ef9e23/bce2bf03-6f75-4b6c-9158-15f95d00f2fa_Hooikoorst_apple4.jpg/1242x2688bb.png
+category: Weather
+country: BE
+id: 8Sr3PSo7VZbK
+language: fr
+most_recent_release: '2023-09-18T00:00:00'
+publisher_id: '427763650'
+publisher_name: A.Vogel Nederland
+rank: '39'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

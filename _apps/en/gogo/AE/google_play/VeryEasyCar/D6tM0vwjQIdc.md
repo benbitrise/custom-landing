@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/GAWnW2ATA06kfv6gLaXH9P3q-4IH-VRmPFAtyOsMv62WEZW7Eo54iYpwFUH_tI8W4QG8
+app_id: com.VeryEasyCar.applications.CarShopDubai
+app_name: Car Shop Dubai
+app_screenshot: https://play-lh.googleusercontent.com/kbnCvbn2Q9lorBiGrTKF9ER5XrOdFDT6Iv6OIft6J3xLcFPZtLBznf82G_-3eCYbVT4
+category: Auto & Vehicles
+country: AE
+id: D6tM0vwjQIdc
+language: en
+most_recent_release: '2023-05-10T00:00:00'
+publisher_id: '1914953'
+publisher_name: VeryEasyCar
+rank: '181'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

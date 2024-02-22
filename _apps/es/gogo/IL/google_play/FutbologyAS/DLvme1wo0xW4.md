@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/FYGQIMhUw0_FSBQrFgP6Q1vmtxI2ZlohMzR4eDiIWb4FwQ-jLu-Gd47RNBbW0adWyEsn
+app_id: com.kepermat.groundhopper
+app_name: Futbology
+app_screenshot: https://play-lh.googleusercontent.com/MzD9KYdobit4dBLB2es9TP0PP_iNHSGehuqAsd5-H-NRqbyCaH0ivQOIUVTs6krY_m4
+category: Sports
+country: IL
+id: DLvme1wo0xW4
+language: es
+most_recent_release: '2024-01-02T00:00:00'
+publisher_id: '3047443'
+publisher_name: Futbology AS
+rank: '110'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

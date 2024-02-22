@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/76/04/687604df-4a46-add7-f809-bb56ca6d95f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1671432692'
+app_name: Verify 365
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/d1/63/84d16351-7b88-f9e4-99ab-55bd21ea7e29/5146fa4f-9bf7-45f4-a724-86168a161df3_Screen_1.png/1242x2688bb.png
+category: Business
+country: GB
+id: GGIgx-nAYkM8
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '1561129616'
+publisher_name: Lawtech 365 Limited
+rank: '232'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

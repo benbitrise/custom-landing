@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/toI0tx-k0lq3FAbvKdMWAJrCeWgcSflAyjiN7YXURHtcK-QcZM8PjdbxxlOgvQxjQIU
+app_id: com.art.generator.ai.moe
+app_name: NeoMoe - AI Art Generator
+app_screenshot: https://play-lh.googleusercontent.com/5FTYh3R-w1y7qv7MVda_1feumzwuJRMzVtcxnL8Ua_ByyIlQrrf0gHpprk0ZrSXOrUDt
+category: Photography
+country: CA
+id: wn4qklzSnvbt
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '3059173'
+publisher_name: CelestialNova
+rank: '43'
+release_count_in_past_year: '48'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

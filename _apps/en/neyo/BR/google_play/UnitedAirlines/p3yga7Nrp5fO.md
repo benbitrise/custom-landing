@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ksMkNKYrH89qrIvuoLOtgElqPqjFMyHaWStkTTZGqWMCymFI6FW3uwyuLWyZxlVgwXc
+app_id: com.united.mobile.android
+app_name: United Airlines
+app_screenshot: https://play-lh.googleusercontent.com/HOETkwqL06X6V24u8nobZJa7_UMVRArtkQFGeKjfyVeqGjpsd2jTyWgXHSM54YlmeTFJ
+category: Travel & Local
+country: BR
+id: p3yga7Nrp5fO
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '25034'
+publisher_name: United Airlines
+rank: '149'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 33
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

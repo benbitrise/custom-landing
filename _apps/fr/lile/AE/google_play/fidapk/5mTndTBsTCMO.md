@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XOCP6LHZckjVHmeTguR8NEzPA2-8rBiHkRL2z1iqeT_jXX6evF5mO7pyGqMfeWmtzPA
+app_id: fida.pk.urduonpicturepro
+app_name: Urdu Designer Pana Flex Poster
+app_screenshot: https://play-lh.googleusercontent.com/IakWcQVSzQMAriFr-L__oUF-oSYk_A8w3I8x-oEEH1xsOi_Yt4JmbZIfaOvjkRXKros
+category: Art & Design
+country: AE
+id: 5mTndTBsTCMO
+language: fr
+most_recent_release: '2024-01-13T00:00:00'
+publisher_id: '1084610'
+publisher_name: fida.pk
+rank: '47'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: lionel.lejeune@bitrise.io
+rep_first_name: Lio
+rep_full_name: Lionel Lejeune
+rep_linkedin: https://www.linkedin.com/in/lionelbitrise/
+rep_phone: 0044 73 918 00286
+rep_photo: lio.jpg
+rep_title: Account Manager
+store: google_play
+---

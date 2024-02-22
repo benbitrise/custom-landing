@@ -12,8 +12,8 @@ publisher_id: '2878359'
 publisher_name: Aleluya Studio
 rank: '5'
 release_count_in_past_year: '25'
-release_count_in_past_year_category: 33
-release_count_in_past_year_top_in_category: 33
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
 rep_email: joseph.cillis@bitrise.io
 rep_first_name: Joe
 rep_full_name: Joe Cillis

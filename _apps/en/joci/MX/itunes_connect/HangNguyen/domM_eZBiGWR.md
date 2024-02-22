@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/8d/1f/678d1f9c-99fd-d129-f330-c8342852fbf3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '586167688'
+app_name: 'Fast Scanner : PDF Doc Scan'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5d/2c/26/5d2c26fe-822c-0ef7-62c5-709aaa4c190a/pr_source.png/1242x2688bb.png
+category: Business
+country: MX
+id: domM_eZBiGWR
+language: en
+most_recent_release: '2022-02-10T00:00:00'
+publisher_id: '579580966'
+publisher_name: Hang Nguyen
+rank: '555'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

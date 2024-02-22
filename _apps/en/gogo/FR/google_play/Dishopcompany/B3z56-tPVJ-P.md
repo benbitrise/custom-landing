@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/AB813zYevgHymvWxg6IrmyPyz1rwI2K7MNGHTJ0Tb6Dh5SEYw1maNT75ILkGkY57VZk
+app_id: com.dishop.gladallelivraison
+app_name: G La Dalle Livraison
+app_screenshot: https://play-lh.googleusercontent.com/C_-DzEKq7cKQotoeAkAH1itUMnci4eQiSWMXBYQu2cfbI6V6Y9SplrigaiXJN0TC-kA
+category: Food & Drink
+country: FR
+id: B3z56-tPVJ-P
+language: en
+most_recent_release: '2023-10-11T00:00:00'
+publisher_id: '2942566'
+publisher_name: Dishop company
+rank: '184'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 21
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

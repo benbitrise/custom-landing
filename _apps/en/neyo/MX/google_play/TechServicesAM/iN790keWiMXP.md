@@ -12,7 +12,7 @@ publisher_id: '3060108'
 publisher_name: Tech Services AM
 rank: '5'
 release_count_in_past_year: '15'
-release_count_in_past_year_category: 14
+release_count_in_past_year_category: 10
 release_count_in_past_year_top_in_category: 14
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/126WRpfx8uM3GS2YFRhjHNEgjZz8g5e0Ii5_cP73LU3pLF0joDUq3hFiKxIPGaSSQiA
+app_id: mensajes.amor
+app_name: Mensajes y Frases de Amor
+app_screenshot: https://play-lh.googleusercontent.com/E9QLrZSiBzRrDFJBUg4f7csLimmZZ0fJvdUjQR-0cEly4ti6CduGLAHg7XDnxxM0gt4
+category: Lifestyle
+country: MX
+id: LHkwNk-VAQry
+language: en
+most_recent_release: '2023-09-08T00:00:00'
+publisher_id: '1470833'
+publisher_name: Gio Apps
+rank: '194'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 30
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -10,10 +10,10 @@ language: en
 most_recent_release: '2024-01-26T00:00:00'
 publisher_id: '3052405'
 publisher_name: Hong yang
-rank: '23'
+rank: '18'
 release_count_in_past_year: '2'
-release_count_in_past_year_category: 15
-release_count_in_past_year_top_in_category: 12
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
 rep_email: lionel.lejeune@bitrise.io
 rep_first_name: Lio
 rep_full_name: Lionel Lejeune

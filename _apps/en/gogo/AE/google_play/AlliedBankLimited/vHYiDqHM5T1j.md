@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/aItVARlJhepYoUHG5Rr4Fkdgm1rF49hkeBsuP1eZ0I51l9p31Pcgd7pGUUNUTNTRfQ
+app_id: com.ofss.digx.mobile.android.allied
+app_name: myABL
+app_screenshot: https://play-lh.googleusercontent.com/tIkvlnzdcRwHXZFOdZnnNMIDni3bxEB9C6sZb-uCIQtXXttj9AU5OzSrywXNpED7WuPC
+category: Finance
+country: AE
+id: vHYiDqHM5T1j
+language: en
+most_recent_release: '2023-12-22T00:00:00'
+publisher_id: '424498'
+publisher_name: Allied Bank Limited
+rank: '118'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 23
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

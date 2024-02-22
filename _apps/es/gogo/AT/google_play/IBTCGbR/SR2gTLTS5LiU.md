@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lbP1cwzUXpxRH4RiGE1GlW3v-RPpJUWKt6trjjNtYXiwVeEMC5KorbqG7JmLDxAw3-0K
+app_id: com.ibtc.bibkatapp
+app_name: bibkat
+app_screenshot: https://play-lh.googleusercontent.com/bo23ye0WTtoMRpzgXdgBsc-cTQ24TKp0_0qgywFqGe5VxDyM3VCQO2ZvN_xDXxY1anY
+category: Books & Reference
+country: AT
+id: SR2gTLTS5LiU
+language: es
+most_recent_release: '2024-01-02T00:00:00'
+publisher_id: '2766033'
+publisher_name: IBTC GbR
+rank: '128'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 25
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---

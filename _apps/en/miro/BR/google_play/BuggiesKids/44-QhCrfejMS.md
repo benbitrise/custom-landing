@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/RlPaqVzJbZhYfM1GTIEkND5wmh3ye8-aYb7j17v4f5rNj28Eu7CK4ycomgHpberOtQ
+app_id: com.bekids.cake.maker.games.girls
+app_name: Real Cake Maker Bakery Empire
+app_screenshot: https://play-lh.googleusercontent.com/La9fNSRuI9P0IlWyv3SEtqiktGCMlseDc_MjOfbJGm3QFaKf3VbP_HWgoMM-kZ_4dnc
+category: Weather
+country: BR
+id: 44-QhCrfejMS
+language: en
+most_recent_release: '2023-12-26T00:00:00'
+publisher_id: '2668165'
+publisher_name: Buggies Kids
+rank: '126'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 14
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

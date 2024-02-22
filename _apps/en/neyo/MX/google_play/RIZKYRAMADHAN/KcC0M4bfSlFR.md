@@ -12,7 +12,7 @@ publisher_id: '2958210'
 publisher_name: RIZKY RAMADHAN
 rank: '4'
 release_count_in_past_year: '6'
-release_count_in_past_year_category: 23
+release_count_in_past_year_category: 19
 release_count_in_past_year_top_in_category: 23
 rep_email: nehemoyia.young@bitrise.io
 rep_first_name: Nehemoyiah

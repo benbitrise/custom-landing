@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/TC5RJ59aUQd0poERjQazykF5TnM4Z_RnEcKupCxjgqwKHgnWLi5cuaCNmngkA4rwDgo
+app_id: com.prosoccerdata.app
+app_name: ProSoccerData
+app_screenshot: https://play-lh.googleusercontent.com/l5YkmRnkx6DqQGy0gmTaMNcRUuhRILVbxGUUQKvYkjt5AYvo0pplbOdMaoxRli4oun4
+category: Sports
+country: BE
+id: rzqBEc7JVfp2
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '1382571'
+publisher_name: ProSoccerData
+rank: '26'
+release_count_in_past_year: '30'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 16
+rep_email: gonzalo.gomez-llera@bitrise.io
+rep_first_name: Gonzalo
+rep_full_name: Gonzalo Gomez-Ilera
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +353 838374524
+rep_photo: gonzalo.jpg
+rep_title: Business Development Rep
+store: google_play
+---
