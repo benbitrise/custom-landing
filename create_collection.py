@@ -241,8 +241,9 @@ def main(country_code):
             
             # Submit tasks to the executor
             for rep in reps:
-                future = executor.submit(worker_task, rep, country_code, store, filename, averages, companies_dir)
-                future_tasks.append(future)
+                if country_code in rep['countries']:
+                    future = executor.submit(worker_task, rep, country_code, store, filename, averages, companies_dir)
+                    future_tasks.append(future)
 
         # Wait for all tasks to complete
         for future in as_completed(future_tasks):
