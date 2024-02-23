@@ -122,6 +122,7 @@ def get_app_details(token, store, app_id):
 
 def create_rankings(token, store, country, top_charts, filename):
     fieldnames = ['country', 'store', 'category', 'rank', 'app_id', 'app_name', 'publisher_id', 'publisher_name', 'icon', 'screenshot', 'most_recent_release', 'release_count_in_past_year']
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
@@ -148,7 +149,7 @@ def create_rankings(token, store, country, top_charts, filename):
                     }
                     writer.writerow(row)
                     print(' '.join(str(value) for value in row.values()))
-                if os.getenv("TEST") == "true" and test_ctr > 4:
+                if os.getenv("TEST") == "true" and test_ctr > 2:
                     break
 
 def get_releases(token, store, country, app_id):
