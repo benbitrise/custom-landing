@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/66/97/9d6697f3-f2a1-c60a-f0d0-03d4d09b500e/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/1024x1024bb.png
+app_id: '1345594447'
+app_name: 'Hunting Points: Deer Hunt App'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e8/53/07/e85307ab-8848-52f2-6c07-0ca56637618d/c3bfd4cd-8ab1-4a82-a314-a42e95f05a1e_us_parcel.png/1284x2778bb.png
+category: Navigation
+country: US
+id: gno0Kg7aW25n
+language: en
+most_recent_release: '2024-01-28T00:00:00'
+publisher_id: '1203032511'
+publisher_name: Fishing Points d.o.o.
+rank: '522'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

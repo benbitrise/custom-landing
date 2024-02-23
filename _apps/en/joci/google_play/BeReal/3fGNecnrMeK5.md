@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8Lu1K0dDM8hFB3wlkUgUvOOw9hc7NRwVijiEPqeXZhzz7t2Q3jktTZ_aqT3kofwurG4
+app_id: com.bereal.ft
+app_name: BeReal. Your friends for real.
+app_screenshot: https://play-lh.googleusercontent.com/WBcUgrh3me0IEecTL5Og9VnZFZ-92xcERMObk3CNmhLuL1DfbbSA8YfsOSiJP1ENEk8
+category: Social
+country: US
+id: 3fGNecnrMeK5
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '2316202'
+publisher_name: BeReal
+rank: '45'
+release_count_in_past_year: '46'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 54
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

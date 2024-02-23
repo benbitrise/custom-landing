@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/bd/c7/54bdc7be-bc8b-33ef-a5ee-4bb72de280d5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '337602896'
+app_name: WSOC-TV
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a4/91/77/a491770f-b526-bfb4-3741-ae8d1b6d688b/99829c57-0154-4572-9e11-73bf4494c1a9_WSOC-6.5_1.png/1242x2688bb.png
+category: News
+country: US
+id: a08DJmTnSqUn
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '365102482'
+publisher_name: Cox Media Group
+rank: '585'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

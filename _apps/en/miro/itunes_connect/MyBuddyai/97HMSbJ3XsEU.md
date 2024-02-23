@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/1a/0e/0e1a0eeb-ed71-ef39-02eb-e396295da6e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1255783056'
+app_name: 'Buddy.ai: Early Learning Games'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dc/45/be/dc45be26-0364-dfc1-f90e-67d6def0d677/e656dbd1-2563-47f3-be4e-d5c181ab07fd_iPhone-X-EN-1.png/1242x2688bb.png
+category: Education
+country: US
+id: 97HMSbJ3XsEU
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '1255783055'
+publisher_name: MyBuddy.ai
+rank: '234'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

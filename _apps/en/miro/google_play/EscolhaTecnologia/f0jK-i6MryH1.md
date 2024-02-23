@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y5Zf0H15zTMdsatrDrUvK5UYB5eDPo0LPtk5TTfs2SdJpl2W-GU4Q2RaRMuTAKUjsdQ
+app_id: br.com.escolhatecnologia.voztradutor
+app_name: Translator Woman's Voice - TTS
+app_screenshot: https://play-lh.googleusercontent.com/LU_VCkZEjwW2bFW1z7Oy1ucpFfJIqAOQjiWGtxMmqWIlHt9FkPF-jQTHMNk0o_kMmg
+category: Comics
+country: US
+id: f0jK-i6MryH1
+language: en
+most_recent_release: '2023-11-27T00:00:00'
+publisher_id: '564616'
+publisher_name: Escolha Tecnologia
+rank: '71'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

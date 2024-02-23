@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/06/c0/0306c0a5-8fbf-e122-2e69-1a1a3879abcf/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1536579599'
+app_name: BluetoothAssistant
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/39/5f/86/395f861a-2240-e2bb-03e8-290d6f508e87/b1ccd97e-8742-49c8-b98c-a31cf19e7e35_1.png/1242x2688bb.png
+category: Developer Tools
+country: US
+id: QQJAsRGndEqC
+language: en
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '1509434108'
+publisher_name: 杭州橘汁科技有限公司
+rank: '92'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

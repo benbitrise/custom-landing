@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/_QusNYnt6bAX0hqpUV9jylG51UWouoaxrm_VAjlvWketNUZTMbslCusm2q5QEKpySTc
+app_id: com.eco.note
+app_name: Notes - Notebook, Notepad
+app_screenshot: https://play-lh.googleusercontent.com/nV09bYNIs6LMfAkZqtA1N1pDjs_5Z4RVVNp0u9Yl95v3QRYFE45YQpqDcBC40YGWxabN
+category: Productivity
+country: US
+id: 7uDjfrLpXk9Z
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '3066340'
+publisher_name: Eco Mobile for Work
+rank: '133'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

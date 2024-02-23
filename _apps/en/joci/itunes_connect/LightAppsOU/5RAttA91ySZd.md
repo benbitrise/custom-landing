@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/45/67/77456712-7e69-0457-81e5-55c4ac5f351a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1024x1024bb.png
+app_id: '6449421897'
+app_name: Alarm Clock for Spotify◉
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/64/db/fa64dbd2-fab3-15c1-af64-7259899c6a98/c65ed112-2643-40ef-9599-7664bbc0124d_1.png/1242x2208bb.png
+category: Utilities
+country: US
+id: 5RAttA91ySZd
+language: en
+most_recent_release: ''
+publisher_id: '1683318905'
+publisher_name: LightApps OU
+rank: '531'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

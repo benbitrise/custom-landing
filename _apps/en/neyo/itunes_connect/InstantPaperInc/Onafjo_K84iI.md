@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/d2/4f/75d24f22-fc61-43b6-f5ab-8b1774e3e7e7/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/1024x1024bb.png
+app_id: '288545208'
+app_name: Instapaper
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/cd/29/3ccd2937-7170-742e-68e4-756881871424/pr_source.png/1242x2688bb.png
+category: News
+country: US
+id: Onafjo_K84iI
+language: en
+most_recent_release: '2023-12-05T00:00:00'
+publisher_id: '284942716'
+publisher_name: Instant Paper, Inc.
+rank: '295'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/7d/6b/527d6bcd-3f58-8f9e-34ca-35c8a4a9d33e/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1024x1024bb.png
+app_id: '1304504954'
+app_name: WeatherLink
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cf/04/84/cf0484ae-895b-ac13-8dfe-817f691e3aa3/pr_source.png/1242x2688bb.png
+category: Weather
+country: US
+id: l0rkFFFmSoeX
+language: en
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '329074190'
+publisher_name: Davis Instruments Corp.
+rank: '109'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 23
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

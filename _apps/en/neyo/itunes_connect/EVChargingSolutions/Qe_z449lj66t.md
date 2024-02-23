@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/14/08/981408ff-1210-eda9-ca4e-be768546b66c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '1643179789'
+app_name: EVCS (new)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d2/63/5c/d2635c3a-b11f-f96c-92fd-82a8e8da0c3b/6b0f2187-1f14-49f7-a649-55109b2184e7_app_store_-_01.jpg/1242x2688bb.png
+category: Navigation
+country: US
+id: Qe_z449lj66t
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '1514570518'
+publisher_name: EV Charging Solutions
+rank: '344'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

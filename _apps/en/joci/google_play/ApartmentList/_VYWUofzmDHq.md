@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/p0IrMK3Bn-9lnt8iKFHAUhHYEEOD_1KYwtwXoMBg1mRUOFf5YLnCuv5n6Z1NGytAlA
+app_id: com.apartmentlist.mobile
+app_name: Apartment List
+app_screenshot: https://play-lh.googleusercontent.com/m_G7IBOXuZChrUnMrXz8a1-Ro3FQxAnf7OT4BeE9LUwPmpwyQhaZhWIsCIk9CFPY5VZI
+category: House & Home
+country: US
+id: _VYWUofzmDHq
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '236313'
+publisher_name: Apartment List
+rank: '16'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

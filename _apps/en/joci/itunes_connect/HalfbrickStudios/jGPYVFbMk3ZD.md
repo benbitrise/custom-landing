@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/46/49/4e46495d-08f5-39c6-198f-6cde10bcd6c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '403858572'
+app_name: Fruit Ninja®
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/04/9a/49/049a4906-81eb-d810-6822-70998a34679e/4152d64f-93af-4abd-ba0b-ecf21644af58_4_APP_IPHONE_65_4.png/2688x1242bb.png
+category: Games
+country: US
+id: jGPYVFbMk3ZD
+language: en
+most_recent_release: '2024-01-28T00:00:00'
+publisher_id: '356994313'
+publisher_name: Halfbrick Studios
+rank: '160'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

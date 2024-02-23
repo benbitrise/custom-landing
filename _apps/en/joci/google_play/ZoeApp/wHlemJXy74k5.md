@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ETDDOvy0AtBPXoLFlHJ6vjt-n0m2ufKRSRV-v568ityBlA7EXfSc1uJKLAWNIRM1Z-Eb
+app_id: com.surgeapp.zoe
+app_name: 'Zoe: Lesbian Dating & Chat App'
+app_screenshot: https://play-lh.googleusercontent.com/ltavZVkkgEj490Rn36vRpuKvGOsoE7hA87VpmGZwpTXPm5MVNlx6BDKaHeNrqUaUgCA
+category: Social
+country: US
+id: wHlemJXy74k5
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1786265'
+publisher_name: Zoe App
+rank: '169'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 54
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

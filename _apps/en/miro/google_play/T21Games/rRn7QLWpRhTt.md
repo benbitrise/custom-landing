@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/V_CZ04NnrDYbY0FUGBm6lGft_dmhjDvmQHbGqzFaKFF4DVmmlp36c-SVC7HsijeArjFL
+app_id: com.photogallery.managealbum.photovault.pixagallery.cloudbackup
+app_name: Cloud Gallery - Photo Editor
+app_screenshot: https://play-lh.googleusercontent.com/Mkuk6RjvkEspPoFPAvTBgbdm-62pz8i1yVwPVlTXzXYCTwsLePpaStvrRG7Mbk90-d4
+category: Social
+country: US
+id: rRn7QLWpRhTt
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2541483'
+publisher_name: T21 Games
+rank: '174'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 54
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

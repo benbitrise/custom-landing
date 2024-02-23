@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7c/8e/20/7c8e207e-327a-70cb-fc2e-301778f3e94b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '310723182'
+app_name: 95.5 WSB
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/30/76/2a/30762a86-f81b-558f-07af-7b74200dca51/30f98eaa-ce10-478c-b2b8-d6761c7ad131_IMG_0150__U00281_U0029.png/1242x2688bb.png
+category: News
+country: US
+id: _USgWCId35Vr
+language: en
+most_recent_release: '2023-11-13T00:00:00'
+publisher_id: '365102482'
+publisher_name: Cox Media Group
+rank: '555'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

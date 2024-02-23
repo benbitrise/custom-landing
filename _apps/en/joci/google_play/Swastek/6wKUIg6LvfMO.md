@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gVnwC4O9Gm4ld0R1S9LDaPvGrO_rkKiDXpr3NKLstPpgaH1wLvoCY4XjlVH4QsHetG8
+app_id: com.toxic.apps.chrome
+app_name: All Screen Cast to TV Roku
+app_screenshot: https://play-lh.googleusercontent.com/iAAK1XEXKGpIdoJrAx8MMBrw3btjmJWlVCcOeAnoc1HoxKy8KqjGgoXLk7lKcGGmYNo
+category: Video Players & Editors
+country: US
+id: 6wKUIg6LvfMO
+language: en
+most_recent_release: '2024-02-18T00:00:00'
+publisher_id: '3073077'
+publisher_name: Swastek
+rank: '207'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 40
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

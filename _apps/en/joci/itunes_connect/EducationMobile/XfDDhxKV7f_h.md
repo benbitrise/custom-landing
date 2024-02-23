@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/a3/ce/33a3ce70-9d5a-7a9e-cb6b-9f8307af5df2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '697065866'
+app_name: 3D Bones and Muscles (Anatomy)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/94/1b/04941b01-2b92-8b17-5286-f9ff3e1074dd/2bf0e379-ec2b-4c60-95a2-5814cd86978b_muscle145.jpg/1284x2778bb.png
+category: Medical
+country: US
+id: XfDDhxKV7f_h
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '519530928'
+publisher_name: Education Mobile
+rank: '379'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

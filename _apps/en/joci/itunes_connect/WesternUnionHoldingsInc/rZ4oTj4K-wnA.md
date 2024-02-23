@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/2c/0c/292c0c7c-ac63-cffb-0c48-9dd67f56cacd/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '424716908'
+app_name: Western Union Send Money Now
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/c6/aa/25c6aa26-06f3-56c9-169f-562229bba68e/47fe3fba-b826-4961-8ffb-8feeab609030_1101341552-WU_App_Screenshots-Awareness-6-1284x2778-EN.jpg/1284x2778bb.png
+category: Finance
+country: US
+id: rZ4oTj4K-wnA
+language: en
+most_recent_release: '2024-01-18T00:00:00'
+publisher_id: '424716911'
+publisher_name: Western Union Holdings, Inc.
+rank: '37'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

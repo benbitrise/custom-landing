@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA
+app_id: com.valvesoftware.android.steam.community
+app_name: Steam
+app_screenshot: https://play-lh.googleusercontent.com/JndRj_Ez6SPXo_OGwXIhkgzxCVsSIPisQgRopoQLFshxKq7w6YlGNqa19xjLPZolQA
+category: Entertainment
+country: US
+id: jDiJ1y4bxJYr
+language: en
+most_recent_release: '2023-12-16T00:00:00'
+publisher_id: '17701'
+publisher_name: Valve Corporation
+rank: '35'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

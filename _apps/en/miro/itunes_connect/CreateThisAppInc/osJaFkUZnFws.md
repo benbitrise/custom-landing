@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/63/d5/dd63d506-271d-46e5-50d4-d06ee714998f/AppIcon-1x_U007ephone-0-85-220.png/1024x1024bb.png
+app_id: '1641039750'
+app_name: Spark Creative Play
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9e/51/15/9e5115ae-f3cb-09b5-0a7a-acbce7068279/c1945484-da2c-4b06-b6b1-25868df1a05d_1-1242x2688.png/1242x2688bb.png
+category: Graphics & Design
+country: US
+id: osJaFkUZnFws
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1578836615'
+publisher_name: Create This App, Inc.
+rank: '110'
+release_count_in_past_year: '33'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 37
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

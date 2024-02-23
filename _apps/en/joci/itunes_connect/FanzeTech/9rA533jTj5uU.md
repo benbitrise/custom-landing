@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c9/25/e9/c925e9ba-6efc-c927-fa92-14bf744b4cf8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1372025642'
+app_name: HOLY QURAN - القرآن الكريم‎
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/45/58/5c/45585cfb-71e2-5802-fb92-7aecaaaaaf99/pr_source.png/1242x2688bb.png
+category: Book
+country: US
+id: 9rA533jTj5uU
+language: en
+most_recent_release: '2021-05-03T00:00:00'
+publisher_id: '1372022931'
+publisher_name: FanzeTech
+rank: '490'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

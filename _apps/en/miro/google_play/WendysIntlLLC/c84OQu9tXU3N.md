@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/vkbi0tuXCO6n_dk3djoGDGAdPMoxzDy6c7uOh3TwWn25pfUYHhOiAV9iw3t1CzHgvU6t
+app_id: com.wendys.nutritiontool
+app_name: Wendy’s
+app_screenshot: https://play-lh.googleusercontent.com/AO-q5DDoxCu7gJDh8L_K3zaMIu7kzTESGWTdmHclM4x815dl8cX24iFs_ngpphmQHg
+category: Food & Drink
+country: US
+id: c84OQu9tXU3N
+language: en
+most_recent_release: '2023-12-21T00:00:00'
+publisher_id: '522399'
+publisher_name: Wendy's Int'l., LLC
+rank: '15'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

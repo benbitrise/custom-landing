@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/f4/91/37f491cf-c37d-fcc3-90d5-93ddbd38a4e9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '6473000893'
+app_name: Nostal Solitaire Card Game
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/ec/a2/84eca209-ed40-7f01-abdc-83a3b7023a48/f486ccde-92eb-4ef0-8009-a07b2e86c181_1.jpg/1242x2208bb.png
+category: Games
+country: US
+id: LztaU8H6urOB
+language: en
+most_recent_release: ''
+publisher_id: '1679762187'
+publisher_name: Topsmart Mobile Ltd.
+rank: '461'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

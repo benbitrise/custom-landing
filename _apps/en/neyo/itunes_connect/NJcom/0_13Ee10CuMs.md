@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/56/ee/ec56ee72-6c83-4b19-781b-f1b4849979d3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '419202474'
+app_name: NJ.com
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/93/27/119327e5-1d1b-8493-d06f-eeda7e15a87f/0348b954-8832-4513-a7ac-46173496771f_NJ_1242x2688_iPhone6.5_display_1.png/1242x2688bb.png
+category: News
+country: US
+id: 0_13Ee10CuMs
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '419202477'
+publisher_name: NJ.com
+rank: '312'
+release_count_in_past_year: '28'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

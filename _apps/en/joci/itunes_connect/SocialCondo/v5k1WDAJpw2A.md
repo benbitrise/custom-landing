@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/36/cb/2636cb80-ca3c-b0a1-47a4-187f2a281bde/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '945419466'
+app_name: TownSq
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a5/a4/5b/a5a45b77-ba20-afbe-c722-21630f41dbd0/pr_source.png/1242x2688bb.png
+category: Lifestyle
+country: US
+id: v5k1WDAJpw2A
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '945419465'
+publisher_name: SocialCondo
+rank: '259'
+release_count_in_past_year: '31'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

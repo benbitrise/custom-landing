@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/42/2b/da422b45-42d4-c30a-d26d-1d867c972965/AppIcon-1-0-0-1x_U007ephone-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1671315416'
+app_name: Jagat - Friendship Map
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d2/83/f0/d283f081-8d17-7c2d-3509-7e8e5da7da4f/b2e8ab02-c7e4-4b98-b8cf-dcd6af7e6493_01.png/1242x2688bb.png
+category: Social Networking
+country: US
+id: KPJMmCFcwW5O
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '1649312168'
+publisher_name: JAGAT TECHNOLOGY
+rank: '483'
+release_count_in_past_year: '43'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

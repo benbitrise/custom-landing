@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/4f/f9/6f4ff961-e5ca-90f0-5aaa-75eeea1c115b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1583947369'
+app_name: 'Pepper: Social Cookbook'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4a/07/19/4a071941-8895-f317-8505-2fcb054b26d4/1cec7798-a4dc-4df1-9900-838481f3aac4_1.png/1242x2688bb.png
+category: Food & Drink
+country: US
+id: Ti6gn96UXa2p
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '1583947371'
+publisher_name: Pepper App Inc.
+rank: '368'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

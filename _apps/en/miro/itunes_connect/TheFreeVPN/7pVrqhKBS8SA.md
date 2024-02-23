@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/69/b4/da69b464-1b84-c166-5cbf-214f82f8e31a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1627670895'
+app_name: The Free VPN ™
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d0/8c/5b/d08c5b3e-fcab-19c1-8e1d-7c46cbee85d0/8a9cdc43-80a9-4911-bc28-75fdcf4ca918_01.png/1242x2688bb.png
+category: Utilities
+country: US
+id: 7pVrqhKBS8SA
+language: en
+most_recent_release: '2023-12-19T00:00:00'
+publisher_id: '1627670897'
+publisher_name: The Free VPN
+rank: '212'
+release_count_in_past_year: '28'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

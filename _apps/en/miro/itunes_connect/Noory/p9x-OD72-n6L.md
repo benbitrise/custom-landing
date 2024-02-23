@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/0d/d3/9d0dd3a1-734c-07e8-e7cc-c5e5969379cc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1362609527'
+app_name: مكتبة نوري - قصص عربية للأطفال
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/70/b3/4170b3cc-1223-cb34-7cb9-2449dfa545f7/ca1e57bd-9ab5-48a0-b15e-45a337f92c22_6.5_1.png/1284x2778bb.png
+category: Book
+country: US
+id: p9x-OD72-n6L
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1362609526'
+publisher_name: Noory
+rank: '507'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

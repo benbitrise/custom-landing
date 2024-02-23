@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/b5/ce/c6b5cea0-53c4-f327-bbd2-0a6147ee2860/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '337727153'
+app_name: YOOX
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/95/fe/ac95fe96-61aa-f9c3-92fa-8b61152c31a7/e34be78c-1590-40bb-b427-2f01e587134c_IOS_1284x2778_1_EN.jpg/1284x2778bb.png
+category: Shopping
+country: US
+id: k8LlpUwrtI1N
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '335574710'
+publisher_name: YOOX NET-A-PORTER Group S.p.A.
+rank: '473'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 57
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

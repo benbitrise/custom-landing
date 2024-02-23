@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cynb3Q_E4ExuIPRVhX-K7WSH6qhyOjgivzCtmafSk0EKH1yypJYdcnOfViT7s4O-133P
+app_id: com.km.cutpaste.util
+app_name: Cut Paste Photos
+app_screenshot: https://play-lh.googleusercontent.com/AUUj7AgXouQoAg5Q75X0BkKLxlL9tqZgDUyboltPhGVOOCWwjyB2xQXApCKlCYDtSIJg
+category: Photography
+country: US
+id: z5QzCIj0GGet
+language: en
+most_recent_release: '2023-10-31T00:00:00'
+publisher_id: '2172'
+publisher_name: Dexati
+rank: '130'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 33
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

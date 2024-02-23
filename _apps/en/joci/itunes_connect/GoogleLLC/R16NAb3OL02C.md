@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/57/45/265745f2-1880-3966-6761-5f055f79afe3/AppIconV2-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1193350206'
+app_name: YouTube TV
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/ac/c8/71acc8c4-746f-a03c-f50a-d1f6c854e909/6cf9dce1-92c7-4e7b-b89c-fa9222364d68_6.5-inch_1.png/1242x2688bb.png
+category: Entertainment
+country: US
+id: R16NAb3OL02C
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '281956209'
+publisher_name: Google LLC
+rank: '17'
+release_count_in_past_year: '38'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

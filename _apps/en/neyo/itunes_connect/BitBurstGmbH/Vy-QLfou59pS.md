@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/59/48/59594866-4bf4-10f3-87ce-4ba60e99a012/AppIcon-0-0-1x_U007epad-0-85-220.png/1024x1024bb.png
+app_id: '1462032423'
+app_name: 'Poll Pay: Earn Money & Cash'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/35/9c/d6359cc1-189b-99ad-8429-89ae48e9a9ac/ae99a659-edfb-4231-883f-3d9d9da4db5a_screenshot1.jpg/1242x2688bb.png
+category: Lifestyle
+country: US
+id: Vy-QLfou59pS
+language: en
+most_recent_release: '2023-12-04T00:00:00'
+publisher_id: '1207835511'
+publisher_name: BitBurst GmbH
+rank: '261'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

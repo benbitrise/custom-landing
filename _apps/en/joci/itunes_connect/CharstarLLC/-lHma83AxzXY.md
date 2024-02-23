@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/6b/c3/a76bc3b5-32e0-f2da-80ed-9a4829421907/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6466580676'
+app_name: 'Charstar: AI Character Chat'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5b/0f/87/5b0f8751-c12c-70ea-8e9a-a810cea75b93/16daa92c-f9ae-4dd5-b1a5-ad5fedca0a16_screenshot-1.jpg/1242x2208bb.png
+category: Entertainment
+country: US
+id: -lHma83AxzXY
+language: en
+most_recent_release: ''
+publisher_id: '1707494116'
+publisher_name: Charstar LLC
+rank: '505'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/9b/0c/6b9b0c12-044f-f716-f361-a1d73620ab7d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1132540381'
+app_name: La Biblia Reina Valera Español
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/4c/ab/f5/4cabf562-8551-850d-351e-c50489061a5b/b4a43229-0782-4267-8f8d-33bb2c395aa1_x-1.png/1242x2688bb.png
+category: Book
+country: US
+id: nBVavvEgbgs7
+language: en
+most_recent_release: '2022-02-17T00:00:00'
+publisher_id: '947049002'
+publisher_name: Oleg Shukalovich
+rank: '46'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

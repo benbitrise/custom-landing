@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/c7/db/e3c7dbb9-5051-ce2d-31ed-373fb60d299e/appicons-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1662506724'
+app_name: FlashPicks Sports Betting App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/91/63/62/91636226-154b-6d18-41c1-d0c361144b50/adec8a82-f44b-47fa-99ba-219046d85aa5_1_Discover.png/1242x2688bb.png
+category: Sports
+country: US
+id: D08wCkx9n8Qa
+language: en
+most_recent_release: '2024-01-17T00:00:00'
+publisher_id: '673141594'
+publisher_name: Football Accumulators
+rank: '337'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 34
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

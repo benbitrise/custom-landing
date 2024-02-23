@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8UHtM-5Gku6FMVkbm8unlU-dADqrMeG69W-xL-5O9oHpvSudUW4ngKQtBfy-aS7MMbXb
+app_id: com.edmtrain.edmtracks
+app_name: Edmtrain Concerts & Raves
+app_screenshot: https://play-lh.googleusercontent.com/YjYtKKrThnPDAH-1tr4wQ7hkxswTc88zuqJhrBIGkRJBSP6JMObQ7f9bLSbwApy-Rg
+category: Events
+country: US
+id: a2WMIIR96jSM
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '1574426'
+publisher_name: EDM Train LLC
+rank: '34'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

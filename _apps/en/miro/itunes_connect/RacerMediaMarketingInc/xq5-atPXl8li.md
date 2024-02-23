@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/76/90/0e76903d-57d9-c63e-fc16-6050dd7effb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '563015548'
+app_name: RACER Magazine
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/0f/c4/86/0fc4860c-9946-2880-33fe-9b0be7b1e4a8/b940b16b-6e18-4ace-a6f9-a1a69e82c14d_itemfall_20224061672_1242x2688.png/1242x2688bb.png
+category: Magazine & Newspapers
+country: US
+id: xq5-atPXl8li
+language: en
+most_recent_release: '2023-01-14T00:00:00'
+publisher_id: '563015691'
+publisher_name: Racer Media & Marketing, Inc.
+rank: '537'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

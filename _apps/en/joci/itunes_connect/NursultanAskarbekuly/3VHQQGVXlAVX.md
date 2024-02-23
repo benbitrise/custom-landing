@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/96/32/4c9632f6-d1e2-26d6-1c7d-3f74b90f423c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '1447056625'
+app_name: 'Namaz App: Learn Salah Prayer'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/65/9e/d4/659ed40b-5db4-832a-8571-de6ea4dc684b/pr_source.png/1242x2688bb.png
+category: Reference
+country: US
+id: 3VHQQGVXlAVX
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '1173748806'
+publisher_name: Nursultan Askarbekuly
+rank: '131'
+release_count_in_past_year: '53'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

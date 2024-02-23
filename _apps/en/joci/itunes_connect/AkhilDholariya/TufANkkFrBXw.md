@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/af/1a/a9af1a0e-75c0-66c2-1784-bf61d6042c03/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1024x1024bb.png
+app_id: '1628290410'
+app_name: GBWhats Version 2022
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/ff/18/82ff18b0-9d35-16a2-0c91-2da9f0d95f96/000d23a5-66e2-4d8b-be42-a7b4521fd9c8_66.png/1284x2778bb.png
+category: Social Networking
+country: US
+id: TufANkkFrBXw
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1608148398'
+publisher_name: Akhil Dholariya
+rank: '373'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

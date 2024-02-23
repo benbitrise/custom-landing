@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/d8/1c/84d81cda-46e6-eff7-1a65-3d62713449a0/app_icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '942571931'
+app_name: 'EveryDollar: Personal Budget'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/4c/38/e14c38b3-06da-ac79-db17-a82ea127d61f/2309f710-73ae-42c1-acd3-5ac363e1e3ad_everydollar-ios-6.5-screen-1_opaque.png/1242x2688bb.png
+category: Finance
+country: US
+id: XmfibH0zlqZJ
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '380709890'
+publisher_name: The Lampo Group Incorporated
+rank: '61'
+release_count_in_past_year: '50'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

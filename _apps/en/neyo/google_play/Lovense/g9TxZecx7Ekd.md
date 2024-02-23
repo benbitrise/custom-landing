@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-Y1OfHFwxZbn1M6EbRu_RQuTQ2AZzKs-HIDh4zP9WqLd8vQIsWtyT2rnG_2oLKLpYA
+app_id: com.lovense.wear
+app_name: Lovense Remote
+app_screenshot: https://play-lh.googleusercontent.com/2Nu310z_Y6uqovnWif9vS11dhNQIWecaE1-1HCHV7Tz8RTV1J89qJ_EEZOTBjWv2iG4
+category: Health & Fitness
+country: US
+id: g9TxZecx7Ekd
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '2361474'
+publisher_name: Lovense
+rank: '87'
+release_count_in_past_year: '47'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 21
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

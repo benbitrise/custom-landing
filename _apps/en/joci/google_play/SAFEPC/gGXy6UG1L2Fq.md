@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jEqEIfSnpZbZ_ce5sW5ZsElLVbSyGRAdRyj7mZ05wXFMOMaxI_Ap64FlEXdJAvaYTM6w
+app_id: com.safepc.taw3ia
+app_name: توعية مرورية - غرامات العراق
+app_screenshot: https://play-lh.googleusercontent.com/5Jk50Qs6BH0P07ZCUJycnFgY5B0p-qAffkd3xZxARNooubt00dsf1xInjkWaIVsTBtM
+category: Auto & Vehicles
+country: US
+id: gGXy6UG1L2Fq
+language: en
+most_recent_release: '2023-10-28T00:00:00'
+publisher_id: '1884662'
+publisher_name: SAFE  PC
+rank: '75'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/a9/ce/bca9ce83-06e3-a5a3-1ff7-7cec6205fa22/AppIcon-0-0-1x_U007ephone-0-85-220.png/1024x1024bb.png
+app_id: '6476862683'
+app_name: Dub AI - AI Video Translator
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/18/03/89/18038978-7cb1-ec74-ee64-bdb72485b7ea/9849a830-22b8-4417-bb9c-5bc7bf1a2d1b_ss1.png/1242x2688bb.png
+category: Photo & Video
+country: US
+id: eSF2ewNniyXn
+language: en
+most_recent_release: ''
+publisher_id: '1690136064'
+publisher_name: Feraset Yazılım ve Danışmanlık Anonim Şirketi
+rank: '443'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 50
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

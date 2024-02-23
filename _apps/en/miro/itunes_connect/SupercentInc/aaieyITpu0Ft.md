@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/6e/a4/0c6ea4a1-3308-5232-1212-08c2f025352a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6450917563'
+app_name: Pizza Ready!
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9a/c6/73/9ac673b1-7de5-90f4-1ebc-50f8b4ff4410/f04c50b3-892e-44fb-b802-6d8a2bb529a2_1242x2688bb-4.png/1242x2688bb.png
+category: Games
+country: US
+id: aaieyITpu0Ft
+language: en
+most_recent_release: ''
+publisher_id: '1571435385'
+publisher_name: Supercent, Inc.
+rank: '15'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

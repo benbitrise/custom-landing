@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/bb/24/13bb2488-c6b8-9735-c843-76a857363204/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1625845634'
+app_name: PUMA´s Employee App CATch Up
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/92/0a/dd920a82-3596-c4b2-357a-878e367662c5/47fe44ad-70fb-48cd-a635-919ef38fb8ca_6.5inch-phones-01.jpg/1242x2688bb.png
+category: Magazine & Newspapers
+country: US
+id: Wh3c1RKWuug3
+language: en
+most_recent_release: '2023-11-02T00:00:00'
+publisher_id: '329202415'
+publisher_name: PUMA SE
+rank: '601'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

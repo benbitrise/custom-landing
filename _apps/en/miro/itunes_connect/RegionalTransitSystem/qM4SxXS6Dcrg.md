@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9b/dd/ad/9bddad1c-00f3-44bc-f346-9c49ea11e909/AppIconGoRTS-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1580456940'
+app_name: GNV RideRTS
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/2f/95/c4/2f95c43d-8eeb-1684-ec60-934c35696107/920efa98-0d90-4e1f-b6d8-7e0dba319acd_6_5inchRoutes.jpg/1284x2778bb.png
+category: Navigation
+country: US
+id: qM4SxXS6Dcrg
+language: en
+most_recent_release: '2021-09-05T00:00:00'
+publisher_id: '1580443939'
+publisher_name: Regional Transit System
+rank: '501'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

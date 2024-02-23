@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/3b/25/f93b2542-a847-dca8-007d-cc871f8d87b4/AppIconNew-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1024x1024bb.png
+app_id: '386802729'
+app_name: HolyBible K.J.V
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/12/82/39128280-4416-2ef1-9763-e12a0514827b/pr_source.png/1242x2688bb.png
+category: Book
+country: US
+id: 3bHE8fJeJmND
+language: en
+most_recent_release: '2023-11-08T00:00:00'
+publisher_id: '598149179'
+publisher_name: BO LIU
+rank: '99'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

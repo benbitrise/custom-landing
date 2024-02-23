@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/b7/33/6db7333b-efb0-bd5c-0f7a-729f35f88256/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1643527602'
+app_name: 'Fade Master 3D: Barber Shop'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/09/ff/8409ff22-c3a2-d5c2-f115-fd616e9747d0/cff679cd-5fa9-400f-9104-14b2bafbee41_FadeMaster3D_1242x2688__U00281_U0029.png/1242x2688bb.png
+category: Games
+country: US
+id: E9ZrNBpfqFlu
+language: en
+most_recent_release: '2023-11-16T00:00:00'
+publisher_id: '892399717'
+publisher_name: ALICTUS YAZILIM A.S.
+rank: '319'
+release_count_in_past_year: '35'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

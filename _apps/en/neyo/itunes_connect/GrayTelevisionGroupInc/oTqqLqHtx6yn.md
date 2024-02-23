@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/0d/17/e50d17b0-12a9-108a-5060-75c0b41d735d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '420974761'
+app_name: WVLT News
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/ec/94/01ec941a-3423-e11c-6040-da88dd1dafed/pr_source.jpg/1242x2688bb.png
+category: News
+country: US
+id: oTqqLqHtx6yn
+language: en
+most_recent_release: '2023-11-09T00:00:00'
+publisher_id: '416888140'
+publisher_name: Gray Television Group, Inc.
+rank: '209'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/xgls-YeP2tpfu6YHy9lD8jw5iDELjcTMgv_5-jgWVZGhj2th9HffQRmRX0gxYsPEPBs
+app_id: de.apuri.free.games
+app_name: PC Games Radar for Epic Games,
+app_screenshot: https://play-lh.googleusercontent.com/Ke81kaG5JPYcNn3VOI20cLJ_Y9E4VZp6ENED7RWXJaym_DWZt7JGAOp4IzTs6etyxA
+category: Events
+country: US
+id: tFMD0nmS21yI
+language: en
+most_recent_release: '2023-06-27T00:00:00'
+publisher_id: '2375550'
+publisher_name: Yuber Apps
+rank: '105'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 21
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

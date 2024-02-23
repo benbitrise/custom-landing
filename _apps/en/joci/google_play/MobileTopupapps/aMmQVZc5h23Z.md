@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/YBu3h42o59P21DbD2k3oAacXSFAjqaVHuGThYOFSAxe_gYXlU9LtREzN_g3p57QKWRI
+app_id: com.topup.apps.translate.all.language.translator
+app_name: Translate All Languages
+app_screenshot: https://play-lh.googleusercontent.com/P5K28M9ZcclDYAOxFN0gDLLlmvnNHlwq6YJ1gYkBoMLA20i_fD9nrL_AtR7qh3tY19fS
+category: Productivity
+country: US
+id: aMmQVZc5h23Z
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '2327643'
+publisher_name: Mobile Topup apps
+rank: '62'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

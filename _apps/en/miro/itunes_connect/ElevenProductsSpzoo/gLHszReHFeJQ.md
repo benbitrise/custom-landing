@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/16/cc/3016cc8e-3a9f-1875-43fa-247ff1dc8fe6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1639547822'
+app_name: Unsolved Case
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2d/f8/10/2df81097-c07e-d288-a474-2be0bb6b06b2/2a46df11-a951-4b19-8652-478f71550e74_iPhone_6.5__U00281_U0029.jpg/2688x1242bb.png
+category: Games
+country: US
+id: gLHszReHFeJQ
+language: en
+most_recent_release: '2023-08-02T00:00:00'
+publisher_id: '1040907730'
+publisher_name: Eleven Products Sp. z o.o.
+rank: '265'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

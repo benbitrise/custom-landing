@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/11/61/42/116142d2-29b2-456b-fe95-e1e342154fb6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '443848537'
+app_name: Sorcerer Radio
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/81/bc/aa81bccc-56d0-b58b-45dc-bea2a3cbf414/pr_source.png/1242x2688bb.png
+category: Music
+country: US
+id: Nrh_sbRtrqmL
+language: en
+most_recent_release: '2021-06-03T00:00:00'
+publisher_id: '331770589'
+publisher_name: WormyFarm
+rank: '500'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

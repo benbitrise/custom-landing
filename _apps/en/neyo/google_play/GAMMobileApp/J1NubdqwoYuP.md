@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/42iY5cFMYjxTL9D8r11ZSx0ZjbqhKMCF_cBH6HH6VByBUdRNCJbMqYH8YmdbFnIFzAI
+app_id: com.entertaiment.prank.app.pettranslator
+app_name: Dog & Cat Translator Prank App
+app_screenshot: https://play-lh.googleusercontent.com/CHT9Vr_tTMJI9jRQMluSiVMmOWI-zqwAqVAgGg3TmeFS2WOJ-WfqC_iPobmGjp3kfSw
+category: Entertainment
+country: US
+id: J1NubdqwoYuP
+language: en
+most_recent_release: '2023-12-25T00:00:00'
+publisher_id: '2802584'
+publisher_name: GAM Mobile App
+rank: '87'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

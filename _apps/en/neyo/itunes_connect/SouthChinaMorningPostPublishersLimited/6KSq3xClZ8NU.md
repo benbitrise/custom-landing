@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/36/f3/3b36f3ea-f873-70a2-2927-cf26f7088806/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '623201967'
+app_name: South China Morning Post
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/f1/6f/e2f16f63-ba5f-fce3-1f0a-3240eb2dfd91/6b909847-dabb-4876-b6f9-28b8c8643442_screen1.png/1242x2688bb.png
+category: News
+country: US
+id: 6KSq3xClZ8NU
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '382805036'
+publisher_name: South China Morning Post Publishers Limited
+rank: '372'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

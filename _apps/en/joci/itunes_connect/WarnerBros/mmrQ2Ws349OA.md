@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/0f/c2/af0fc2a8-7229-4884-e098-1af800285947/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '949701151'
+app_name: Mortal Kombat
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/26/0f/92/260f921c-98e6-f475-3623-87b1fe3f307b/82bddb77-0458-48fb-bf6f-8d025ae5b940_220807_MKM_DungeonCrawler_01_LA_2688x1242_En.jpg/2688x1242bb.png
+category: Games
+country: US
+id: mmrQ2Ws349OA
+language: en
+most_recent_release: '2023-12-13T00:00:00'
+publisher_id: '298372283'
+publisher_name: Warner Bros.
+rank: '383'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

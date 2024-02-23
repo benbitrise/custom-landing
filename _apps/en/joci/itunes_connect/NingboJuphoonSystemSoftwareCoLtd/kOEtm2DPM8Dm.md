@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/de/0f/f9de0f25-8459-fdcf-d49b-5f7e8b2d5cfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1574850767'
+app_name: Dual Video Chat + Phone Number
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d9/82/13/d98213fc-1597-9996-fe14-c1ba1d159b98/c16fa9b6-f195-488f-84dc-79d09be73b59_1.png/1242x2688bb.png
+category: Social Networking
+country: US
+id: kOEtm2DPM8Dm
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '792612356'
+publisher_name: Ningbo Juphoon System Software Co., Ltd.
+rank: '450'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

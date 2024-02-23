@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/7c/a7/7f7ca74f-1a55-7a82-978a-f00d078ee6ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1477171291'
+app_name: AiScore - Live Sports Scores
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ba/70/fc/ba70fced-e0e9-9c34-bc7e-48fb584f59ce/5a949699-3f99-4284-8692-a811f809dd02_00.png/1242x2688bb.png
+category: Sports
+country: US
+id: 3_aGkRs1YMHJ
+language: en
+most_recent_release: '2023-12-15T00:00:00'
+publisher_id: '1555200991'
+publisher_name: ALLSPORTS TECHNOLOGY PTE. LTD.
+rank: '243'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 34
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

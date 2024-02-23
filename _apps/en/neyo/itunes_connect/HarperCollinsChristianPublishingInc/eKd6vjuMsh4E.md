@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/f1/63/59f16381-7b6d-83e8-5fad-c099372293d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1024x1024bb.png
+app_id: '444553118'
+app_name: Jesus Calling Devotional
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c8/56/65/c85665ca-5e7a-2641-9fbb-6238f89cc24a/874ac1c6-1ebd-43fb-80b0-ae6f77931996_JC_App_-_Iphone_1284x2778_-_1_Intro.jpg/1284x2778bb.png
+category: Book
+country: US
+id: eKd6vjuMsh4E
+language: en
+most_recent_release: '2023-12-17T00:00:00'
+publisher_id: '444535393'
+publisher_name: HarperCollins Christian Publishing, Inc.
+rank: '65'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

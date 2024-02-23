@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/gmeBuJFIdRA4ECI_PvofbqdRJAXMmdfEGxog9JYL9hpyxmBlVRyyXllscsmSAft7OEPq
+app_id: com.solutran.otc
+app_name: Healthy Benefits+
+app_screenshot: https://play-lh.googleusercontent.com/Nn8VjgrcpAE-X8VlVUVMkNnf4KXQiDIpv23wZlQ85HlYnH0kIG3nYf9C8xacMUBnxBk
+category: Medical
+country: US
+id: iep1rjRSGjR2
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1437498'
+publisher_name: Solutran, Inc.
+rank: '11'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 11
+release_count_in_past_year_top_in_category: 16
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/eVWYq5LuNHiU3vLAeyMOTOPkB_xzBnUZP8SeyWYrRTp5TPrql-bdENldEJTQZsjNig
+app_id: com.rewardstyle.liketoknowit
+app_name: LTK
+app_screenshot: https://play-lh.googleusercontent.com/n0kacZmKD6SwMUv_y7EXktLyejqpEjbaPo6jOO1HN7rvw90aOZEsS9svkdTli2OBfrU
+category: Shopping
+country: US
+id: xk0cWqzkM8n9
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1064568'
+publisher_name: rewardStyle
+rank: '144'
+release_count_in_past_year: '46'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

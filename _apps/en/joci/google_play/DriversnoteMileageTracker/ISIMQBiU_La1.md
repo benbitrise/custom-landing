@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/jlOshA75sRqQVyAstJOur449aQTkFTCJhcUrNrbEmks5kDK0MzhM50J6OOuiINws9w
+app_id: com.driversnote.driversnote
+app_name: Mileage Tracker by Driversnote
+app_screenshot: https://play-lh.googleusercontent.com/IqT5neCv6c2JpdDiUAPk_Z7_Yj6ALsY9wDP3_u17id5uvNXXG_SvFEpAp2zzNsmRNlg
+category: Finance
+country: US
+id: ISIMQBiU_La1
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1609263'
+publisher_name: Driversnote Mileage Tracker
+rank: '213'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

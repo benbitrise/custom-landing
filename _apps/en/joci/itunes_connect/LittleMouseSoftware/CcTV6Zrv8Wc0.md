@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/11/9f/d7/119fd72b-6f9e-efa5-773d-19ef014f2d49/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1553721110'
+app_name: 'RadarAll: Speedcam detector'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/38/a9/7c38a941-d3cd-b297-13fb-0378ae6df25e/4c8918e0-891a-4336-8330-0dcad597991f_1.png/1284x2778bb.png
+category: Navigation
+country: US
+id: CcTV6Zrv8Wc0
+language: en
+most_recent_release: '2023-12-11T00:00:00'
+publisher_id: '429739400'
+publisher_name: Little Mouse Software
+rank: '547'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

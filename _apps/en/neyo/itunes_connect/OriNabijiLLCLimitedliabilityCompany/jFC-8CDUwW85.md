@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/48/bc/d648bc4e-c3d1-0344-5ac4-a8c7c51da8ab/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1024x1024bb.png
+app_id: '1635766103'
+app_name: 2 Nabiji
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/82/d3/ad/82d3ad8e-33f5-d8ba-203a-285eeb71b5a1/65620bef-2e48-471f-87ed-58ad365495dd_IOS_Screen_1.png/1284x2778bb.png
+category: Shopping
+country: US
+id: jFC-8CDUwW85
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1518758907'
+publisher_name: Ori Nabiji LLC(Limited liability Company)
+rank: '522'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 57
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

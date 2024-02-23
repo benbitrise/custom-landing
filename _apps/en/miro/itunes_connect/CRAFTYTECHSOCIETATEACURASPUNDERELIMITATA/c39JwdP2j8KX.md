@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/60/16/67601607-03f0-d6b1-922e-c69da08f8ed3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1608514533'
+app_name: Magic Voice Changer for Calls
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/08/66/17/086617fc-8f34-5c82-920d-a161ee1629a7/ade7df13-c459-4cc8-b6b2-05141be2552b_01-1.png/1242x2688bb.png
+category: Reference
+country: US
+id: c39JwdP2j8KX
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '1456469638'
+publisher_name: CRAFTY TECH, SOCIETATEA CU RASPUNDERE LIMITATA
+rank: '311'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 24
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

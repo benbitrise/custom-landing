@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/24/c5/9a24c538-777a-8bbc-65f3-c16ebe470b0c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1576588253'
+app_name: 'Bloom: Learn to Invest'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d4/5a/98/d45a9872-3bb2-dfa9-f0ac-a173a9c91499/145e2b46-d221-4038-b611-c24653033de8_34.jpg/1242x2688bb.png
+category: Finance
+country: US
+id: qNsN5wnjoBHC
+language: en
+most_recent_release: '2024-02-17T00:00:00'
+publisher_id: '1576588255'
+publisher_name: Contour Labs, Inc.
+rank: '226'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

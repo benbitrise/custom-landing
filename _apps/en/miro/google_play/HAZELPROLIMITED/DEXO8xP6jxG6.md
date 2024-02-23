@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y8GVaq7XV9FMC6oS4ilgVnEM662YKkdGP4_0023Vyvj8dQmV_RWPVgMfXQq5SUeFhew
+app_id: com.magnetappdate
+app_name: 'Magnet: Match & Mingle Game'
+app_screenshot: https://play-lh.googleusercontent.com/h7HzdK-z7VPikitWTO8Nyy4ISHE1e11kmnNWEhR6dV3UFdWNJZHrf0Dwl9d3wBVE25w
+category: Dating
+country: US
+id: DEXO8xP6jxG6
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '2646862'
+publisher_name: HAZELPRO LIMITED
+rank: '33'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

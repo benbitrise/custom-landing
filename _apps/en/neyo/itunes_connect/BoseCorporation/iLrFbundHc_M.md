@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/49/90/6749900a-6b95-17b7-69dd-938a77f15a02/ProdRelease-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/1024x1024bb.png
+app_id: '1364986984'
+app_name: Bose Music
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2f/ea/2f/2fea2ffe-4dc1-12b7-e958-c2702e27a5e8/7beb6bf1-220f-4196-a505-3343babc61cb_6.5_device-img-1@3x.png/1242x2688bb.png
+category: Music
+country: US
+id: iLrFbundHc_M
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '425230041'
+publisher_name: Bose Corporation
+rank: '12'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

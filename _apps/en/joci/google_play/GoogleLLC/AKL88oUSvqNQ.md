@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI
+app_id: com.google.android.gm
+app_name: Gmail
+app_screenshot: https://play-lh.googleusercontent.com/G140UYq0jxTZs16SoHY5YIiE1weXSK3hTdOFEav2_ChL1NQDSDkxggH_IhKwRcW2Kg
+category: Communication
+country: US
+id: AKL88oUSvqNQ
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '1428138'
+publisher_name: Google LLC
+rank: '66'
+release_count_in_past_year: '71'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 46
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

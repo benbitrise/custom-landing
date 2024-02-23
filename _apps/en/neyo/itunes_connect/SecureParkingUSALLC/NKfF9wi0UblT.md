@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/67/16/1b6716e5-da09-93d1-1443-08e798c323a9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1529947060'
+app_name: 'Secure-a-Spot: Find Parking'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/87/a1/d087a181-4907-26d8-cc26-00765690c6d0/90a1bb98-ff3f-49e6-b133-4ae0bafa5913_home-6.5.png/1242x2688bb.png
+category: Navigation
+country: US
+id: NKfF9wi0UblT
+language: en
+most_recent_release: '2022-12-19T00:00:00'
+publisher_id: '1529947062'
+publisher_name: Secure Parking USA LLC
+rank: '389'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

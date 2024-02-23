@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/95/a5/7295a5ca-e639-aed0-6969-2e13a25f82b8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1515533482'
+app_name: Bookmory - reading tracker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/e5/b0/6ae5b037-95a1-c049-974a-e8e7531cabe7/75af99ef-1711-4646-96e8-692cbe750913_1.png/1242x2688bb.png
+category: Book
+country: US
+id: iBwi4ViGDSXm
+language: en
+most_recent_release: '2023-12-04T00:00:00'
+publisher_id: '1515533481'
+publisher_name: Dong su Mun
+rank: '57'
+release_count_in_past_year: '29'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

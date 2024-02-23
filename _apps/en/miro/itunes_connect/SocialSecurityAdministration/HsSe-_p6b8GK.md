@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/3b/8a/0d3b8ac7-1ab0-3d99-f787-3a48b65ac8ac/AppIcon-1x_U007epad-85-220.png/1024x1024bb.png
+app_id: '563535561'
+app_name: SSA Mobile Wage Reporting
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/46/60/47/466047fd-0f43-d745-028a-f605b1c09226/f5757255-9f39-4a85-b904-a8d4ecf55370_1._iPhone_11_Pro_Max__U00286.5_in_U0029_-_Getting_Started__U0028Resized_U0029.png/1242x2688bb.png
+category: Finance
+country: US
+id: HsSe-_p6b8GK
+language: en
+most_recent_release: '2023-09-16T00:00:00'
+publisher_id: '436139766'
+publisher_name: Social Security Administration
+rank: '377'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

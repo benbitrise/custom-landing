@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/9d/e7/b29de744-559d-7e9b-6ae8-bffd69ad1048/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1155657778'
+app_name: 'Guitar Band: Rock Battle'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c8/36/ac/c836ac21-6874-f066-10ef-4356905fd4b6/a3244e7a-9a19-451b-a0dc-942c7c363eb1_20230405_GB_SS_iPhone65_01.jpg/1242x2688bb.png
+category: Games
+country: US
+id: md4p8uks2KBo
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '1627550674'
+publisher_name: Supercharge Mobile Corp
+rank: '386'
+release_count_in_past_year: '30'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/cb/80/afcb8000-a433-a953-7a9e-e0d4e40410f2/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1555389200'
+app_name: Truist Mobile
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/97/f1/7d97f110-6593-dc65-1e11-38f84bf88476/0c82d003-1513-4ca2-9daa-640a589030a5_iPhone_appstore_signin.png/1284x2778bb.png
+category: Finance
+country: US
+id: llj_JQwF2PUH
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '1529615982'
+publisher_name: Truist Financial Corporation
+rank: '73'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

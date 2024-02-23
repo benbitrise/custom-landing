@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/51/3f/1b513f4d-94e8-faa9-e0b7-589facb34370/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6446282107'
+app_name: Alpha Linker - Camera Transfer
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/81/91/9281916a-d8db-9ef7-730c-5888c081b9b6/7d96b195-aca0-40a9-82ee-0704ec79d352_EN_1.0.png/1242x2688bb.png
+category: Photo & Video
+country: US
+id: J92_huHrGuBj
+language: en
+most_recent_release: ''
+publisher_id: '1042542440'
+publisher_name: 恒茂 刘
+rank: '398'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 50
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/48wwD4kfFSStoxwuwCIu6RdM2IeZmZKfb1ZeQkga0qEf1JKsiD-hK3Qf8qvxHL09lQ
+app_id: com.amazon.kindle
+app_name: Amazon Kindle
+app_screenshot: https://play-lh.googleusercontent.com/Ndh73BS4q_NVq3y-Y7ojnLosdXLfM5gtOWbU8qdZF_CHBchYBT4jxlUSbjhw4Jx8ZiE
+category: Books & Reference
+country: US
+id: Ac1g24WqW2m7
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '371'
+publisher_name: Amazon Mobile LLC
+rank: '11'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

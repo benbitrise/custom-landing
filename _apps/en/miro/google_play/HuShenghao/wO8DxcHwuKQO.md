@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OIFXHcVgJDFQXORiPXst2-UulkuIdj1fA-cCV-5vdjHlCqLx54Ym2Z0WuPmXBTcehTM
+app_id: com.dede.android_eggs
+app_name: Easter Eggs
+app_screenshot: https://play-lh.googleusercontent.com/dYULrtWGDIiEHZu0MZvMzAJIEC1s_XSYXcyEfC93OIoM04_csDHoxN-WLXd4Ss8q9WE
+category: Libraries & Demo
+country: US
+id: wO8DxcHwuKQO
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '2446014'
+publisher_name: Hu Shenghao
+rank: '99'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

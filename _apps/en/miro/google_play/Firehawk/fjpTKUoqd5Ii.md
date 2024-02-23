@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/OrfJ439S3KKEverJmM02QCnEVrOb15-p7PEu9yxG2mC2pdSPPWEg3e6RRaZYIpHDMRQ
+app_id: com.jixit.qibladirection.salahtimes
+app_name: Qibla Finder - Qibla Direction
+app_screenshot: https://play-lh.googleusercontent.com/ueJYjfvKwcoANrEDfb5dj3GQP3cUHmox4N0Kxv7YUMyhotlSEm7JHN4DrJj58V-O8Dw
+category: Maps & Navigation
+country: US
+id: fjpTKUoqd5Ii
+language: en
+most_recent_release: '2023-07-24T00:00:00'
+publisher_id: '2805603'
+publisher_name: Firehawk
+rank: '178'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 27
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

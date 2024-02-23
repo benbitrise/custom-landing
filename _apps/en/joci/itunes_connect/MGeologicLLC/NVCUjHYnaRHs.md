@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/90/9a/0b909a72-3d0a-cfc5-1c45-01412275772c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6475877463'
+app_name: Great Lakes Rock Hunter Mag
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/50/f0/6550f0ea-748c-14eb-d966-0b716c1f9c2e/d37624dd-7b27-4a5a-b4f6-cf8f6cd6daec_1.png/1242x2208bb.png
+category: Magazine & Newspapers
+country: US
+id: NVCUjHYnaRHs
+language: en
+most_recent_release: ''
+publisher_id: '1725334928'
+publisher_name: M Geologic, LLC
+rank: '583'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

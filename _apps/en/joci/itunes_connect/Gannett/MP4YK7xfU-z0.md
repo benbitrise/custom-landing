@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/54/99/ff549991-c913-2c23-ebcf-9d6c76c549e2/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/1024x1024bb.png
+app_id: '682291652'
+app_name: South Bend Tribune
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/33/19/fc/3319fc59-5e38-5979-40c1-c174b5e8f638/f39dc835-d447-491e-86ed-361cbbca8ba8_Generic_iPhoneX_1.jpg/1242x2688bb.png
+category: Magazine & Newspapers
+country: US
+id: MP4YK7xfU-z0
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '404843797'
+publisher_name: Gannett
+rank: '248'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

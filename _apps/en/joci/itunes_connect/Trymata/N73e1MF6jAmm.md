@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/7b/a4/ef7ba481-9a25-7324-3985-c1805f9c9cc9/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/1024x1024bb.png
+app_id: '6466878964'
+app_name: Trymata Testing
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/33/fd/ef/33fdef6b-7856-63a3-201e-47413ff3b533/0935bcfc-44cc-4637-81ef-9f767c8ff7fd_6.5-inch_Screenshot_3.png/1284x2778bb.png
+category: Developer Tools
+country: US
+id: N73e1MF6jAmm
+language: en
+most_recent_release: ''
+publisher_id: '1707928327'
+publisher_name: Trymata
+rank: '62'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

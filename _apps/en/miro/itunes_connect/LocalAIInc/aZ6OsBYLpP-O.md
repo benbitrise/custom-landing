@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/f4/61/6ef461de-fcc4-9096-b9cf-86c2791b33df/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1024x1024bb.png
+app_id: '6449206831'
+app_name: 'Bloom: Fun, Real, Life Videos'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/39/ad/2939ad1f-3aa6-8c11-1cea-a7c9dcd3c9c3/4d338e73-cacd-459e-b54d-f0e53a05707e_21.jpg/1242x2688bb.png
+category: Entertainment
+country: US
+id: aZ6OsBYLpP-O
+language: en
+most_recent_release: ''
+publisher_id: '1688106841'
+publisher_name: Local AI, Inc.
+rank: '136'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

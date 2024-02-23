@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DRKqAbVEoSRTV3AqWqD0I1yTUajh086Mcth7wY-623hXWyq2VRe6H57s1mwseFWnEFE
+app_id: com.bloodpressure.bplog.bptracker
+app_name: 'Blood Pressure Tracker: Bp Log'
+app_screenshot: https://play-lh.googleusercontent.com/HP5DiHSy0fTbt40ThZf_mgvBqrjbS_whcyk-3udbsuK3BJHWdI1HeeewJRtheykJoU4
+category: Health & Fitness
+country: US
+id: YXiIx08XyNXV
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '2940863'
+publisher_name: Mady Global
+rank: '39'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/e8/fe/b8e8febf-e420-beb1-9510-9de891e49b8f/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1361264072'
+app_name: Labcorp | Patient
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/6c/65/5f6c658f-fb24-517a-8da5-cdaecbcaebe8/2663ad61-12ed-43e2-a805-bf28e94a47c9_View_Results_6.5.png/1242x2688bb.png
+category: Medical
+country: US
+id: fApMQKNoQvz1
+language: en
+most_recent_release: '2023-11-10T00:00:00'
+publisher_id: '1361264071'
+publisher_name: Laboratory Corporation of America
+rank: '25'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

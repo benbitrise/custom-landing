@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/bd/c9/65bdc935-2f3e-8153-ed1a-f4aeb0ce3e90/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1573544646'
+app_name: PODO 漫画 - 独家正版精品漫画
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/34/27/72/3427722a-2d3a-4958-489a-936cb1fb003c/0a37b1c2-f5e6-4fa9-905c-d51c11f57b3b_db955dbbb4a48f7512e11c40bfd0ad9b_60a1h15ht91702275923103.jpg/1242x2688bb.png
+category: Book
+country: US
+id: V1f9MsjAyfYN
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '292374531'
+publisher_name: Tencent Technology (Shenzhen) Company Limited
+rank: '400'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

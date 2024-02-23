@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/b3/89/55b38933-bc12-fce4-673c-509b186ba295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1127240206'
+app_name: 'Klondike Adventures: Farm Game'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/73/25/2c/73252cbb-19ab-bd2e-9f81-6adca5490eb0/0297d350-12a7-4b32-8fa3-cc2cfe397156_7_en-us_098_1242x2688.jpg/1242x2688bb.png
+category: Games
+country: US
+id: nojS5zlHWT5Z
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1568120076'
+publisher_name: VIZOR APPS LTD
+rank: '93'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

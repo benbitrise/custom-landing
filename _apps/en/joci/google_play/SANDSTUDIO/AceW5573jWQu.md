@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MfgBRv1ufMnJuF_5Az_a3v_Oqno8Odazx4nFzzGaD7zfis8OvMklqOlHRvbuDrDECuU
+app_id: com.sand.airdroidkidp
+app_name: AirDroid Parental Control
+app_screenshot: https://play-lh.googleusercontent.com/VGxaIcfyMI2diTc7eFoc4fQcLiNnrRc21x6S6_5wI3IIETc2dEhrTIRSNTcXKDegmFTw
+category: Parenting
+country: US
+id: AceW5573jWQu
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '11880'
+publisher_name: SAND STUDIO
+rank: '9'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

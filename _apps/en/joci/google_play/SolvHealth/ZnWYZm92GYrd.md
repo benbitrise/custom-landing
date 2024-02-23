@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/cr_AeCtgHNd0UOqGkPAO2KzO62QzctJVUvZJju_Mmp2OQcoZUmlSVHiG_sr9IgKj7A
+app_id: com.solv
+app_name: 'Solv: Find Quality Doctor Care'
+app_screenshot: https://play-lh.googleusercontent.com/nwwoyrcP9XnG879aluWMfAvj3kAi8GUE51UWl__NuESVw40xfAbT88UCLs0XxcGS_g
+category: Medical
+country: US
+id: ZnWYZm92GYrd
+language: en
+most_recent_release: '2023-09-07T00:00:00'
+publisher_id: '2234484'
+publisher_name: Solv Health
+rank: '38'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 11
+release_count_in_past_year_top_in_category: 16
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

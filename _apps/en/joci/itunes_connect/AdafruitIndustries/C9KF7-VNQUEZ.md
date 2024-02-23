@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a7/af/29/a7af29c5-5b6c-1acf-6561-5603c4380ac3/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/1024x1024bb.png
+app_id: '1525850620'
+app_name: Geocaching Datalogger
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/96/82/6f/96826f7f-c5f7-4f47-4131-ef98e2ce6c34/0c463098-8566-4eec-be2b-c801ea17af49_5.png/1242x2688bb.png
+category: Developer Tools
+country: US
+id: C9KF7-VNQUEZ
+language: en
+most_recent_release: '2020-08-13T00:00:00'
+publisher_id: '492487674'
+publisher_name: Adafruit Industries
+rank: '405'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

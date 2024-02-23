@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/43/c0/4943c0cc-b760-5584-249b-96aa976f20a5/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/1024x1024bb.png
+app_id: '1480383173'
+app_name: 'Fonts Art: Keyboard for iPhone'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/c8/1d/cac81dfa-de69-c571-630b-b2faa2d94e13/7aaf8246-8af7-44b7-a119-806161e37b36_1.png/1242x2688bb.png
+category: Utilities
+country: US
+id: 98-_yYb-hbTo
+language: en
+most_recent_release: '2024-01-16T00:00:00'
+publisher_id: '1458102137'
+publisher_name: AIBY
+rank: '28'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

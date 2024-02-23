@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/5d/dc/f25ddc68-68f0-9f1b-3a5f-295760a9a8b0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6450759207'
+app_name: PhotoSolve - Photo and Solve
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/57/c0/ee57c065-3be3-9b71-1959-056d8d358b01/c6f0a88c-f904-4bdf-b2a3-a5e3d866c47f_Iphone_-_Longer_6.png/1242x2688bb.png
+category: Education
+country: US
+id: Bm4kHGD-tr_C
+language: en
+most_recent_release: ''
+publisher_id: '1694830526'
+publisher_name: Photosolve LLC
+rank: '440'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

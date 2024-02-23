@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/f4/5d/61f45deb-ab81-9eee-d643-2ca594f5d555/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '976084396'
+app_name: Bíblia Sagrada Evangélica
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/7e/c0/887ec04b-fc89-442f-3cd9-e3e471a7c10f/9e862f47-0d91-449a-916c-3ae6ad2b3d9c_55-1.png/1242x2208bb.png
+category: Book
+country: US
+id: NiS-_zgejY6s
+language: en
+most_recent_release: '2023-03-21T00:00:00'
+publisher_id: '947049002'
+publisher_name: Oleg Shukalovich
+rank: '448'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

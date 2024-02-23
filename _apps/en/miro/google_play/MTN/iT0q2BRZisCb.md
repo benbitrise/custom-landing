@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rqGzKfvfgLEOzap1p7HLk_S3ZTgLqyvNCV-zo0URAcu5ywmWeR0zRi6SomHr2b80gg
+app_id: com.consumerug
+app_name: MoMo
+app_screenshot: https://play-lh.googleusercontent.com/bXAt7xweLMrsxXXsnqTGmP2uh8M7OSGPTypHrp5W9efOKurm54_jl9rB3LAUwTtf85x6
+category: Finance
+country: US
+id: iT0q2BRZisCb
+language: en
+most_recent_release: '2023-11-09T00:00:00'
+publisher_id: '145301'
+publisher_name: MTN
+rank: '172'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

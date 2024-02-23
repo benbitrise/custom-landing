@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/obQijRiypmlq0FWdPPOgl8pNDivOhpUeUOu07sPEvq9GXWI_M4xNlKtnObU-Ki-uv139
+app_id: com.iherb
+app_name: iHerb
+app_screenshot: https://play-lh.googleusercontent.com/iRy2gtzYMf91XfKgh_SXSqexngE1sZgUP05UkxTg34WzN27mZmPmoGQSwl9Agi6XPw
+category: Shopping
+country: US
+id: hovoKKluqIqQ
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '637931'
+publisher_name: iHerb
+rank: '176'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/99/51/e299511c-f573-1286-07b5-31533ea0b333/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1024x1024bb.png
+app_id: '514363426'
+app_name: Music Tutor (Sight-reading)
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/08/ac/d108ac9e-1af4-3a87-babb-ef191b52d5f3/mzl.moielflq.png/1242x2688bb.png
+category: Music
+country: US
+id: ovb81Aa3DGWJ
+language: en
+most_recent_release: '2024-02-11T00:00:00'
+publisher_id: '453056920'
+publisher_name: JSplash Apps
+rank: '331'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

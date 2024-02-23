@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/8e4_oZqTz-L1xdz-eYfDp58LN4Z77kbTwKnvmWUI0Cg5s3mmEOtQ4et0f4sDqHzhHkF9
+app_id: com.medibang.android.paint.tablet
+app_name: MediBang Paint - Make Art !
+app_screenshot: https://play-lh.googleusercontent.com/-WDe7ZKCJFHEc_sflhbekKpsCtR3WBmZkUguQAWTKMdZB0NaHO9WG9W5EC7q18TxR7Tt
+category: Art & Design
+country: US
+id: BT3JPtOYMbGG
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '663961'
+publisher_name: MediBang Inc.
+rank: '121'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 26
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/2cyS3v3tA85Ik0KYwoc17aqKtpfPI0yIfJtugvloJmrg8uj0d3v0yJGWwzjri0_rFqA
+app_id: com.gianteagle.apps.perksapp
+app_name: GetGo
+app_screenshot: https://play-lh.googleusercontent.com/0ceVNk3pDqaYutdQUV4Nepp0ppRlBNYfIqjy2IFxJBhPzi2u_q4wqjJv0qGab1EFgA
+category: Food & Drink
+country: US
+id: u1-MbWCnaAem
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '15006'
+publisher_name: Giant Eagle
+rank: '146'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

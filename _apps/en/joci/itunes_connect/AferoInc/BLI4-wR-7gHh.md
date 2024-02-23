@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/5d/aa/ba5daae8-0896-0fc9-1f2e-b93e096e9f0a/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1506042235'
+app_name: Hubspace
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/26/ee/ca/26eeca0f-3304-a596-38e8-f0b68e89200e/e21311e8-86c9-437a-8060-3ed2615d1b71_iPhone_X-EN-01-Hero-L.jpg/1242x2688bb.png
+category: Lifestyle
+country: US
+id: BLI4-wR-7gHh
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1065087420'
+publisher_name: Afero, Inc.
+rank: '156'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

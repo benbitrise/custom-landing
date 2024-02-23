@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4a/99/0c/4a990ca1-28c2-61f5-42d1-51b7cc249f45/AppIcon-0-0-1x_U007epad-0-10-0-0-sRGB-85-220.png/1024x1024bb.png
+app_id: '441457218'
+app_name: 'Photo Lab Editor: AI Filter'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0f/aa/7e/0faa7e59-3740-c5ab-c8fe-6d87a5588477/2f64fd0f-6263-4871-abf1-e2546a8c734a_Variant-35.png/1284x2778bb.png
+category: Photo & Video
+country: US
+id: MHEzygha8j6A
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '441457221'
+publisher_name: VicMan LLC
+rank: '105'
+release_count_in_past_year: '51'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 50
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

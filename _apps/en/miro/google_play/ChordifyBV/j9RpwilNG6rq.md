@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lD82eS0Dbg2crpThHsvS7SIyKpTEkXatx-vZGeRVq_VYtwpA42JXo3cyX9iLZdrVNA
+app_id: net.chordify.chordify
+app_name: 'Chordify: Song Chords & Tuner'
+app_screenshot: https://play-lh.googleusercontent.com/EOF7bkdZbrgbt71AHNV6oxqiy_SqfhqUDtCjnrwxb9pUQFaoCneZtE7nqvEKs0v66w
+category: Music & Audio
+country: US
+id: j9RpwilNG6rq
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1587848'
+publisher_name: Chordify B.V.
+rank: '137'
+release_count_in_past_year: '64'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

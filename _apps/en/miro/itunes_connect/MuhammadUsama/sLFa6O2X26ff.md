@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/41/fb/0841fb3c-dd65-f9b4-8edc-355d39cabf21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1661625675'
+app_name: 9Goal - Football Live TV
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/2a/1a/76/2a1a7640-e010-6c51-b8bf-932bd082b328/329cf0e1-54a3-404d-ba82-9f60ae174f57_1.png/1242x2688bb.png
+category: Sports
+country: US
+id: sLFa6O2X26ff
+language: en
+most_recent_release: '2023-09-04T00:00:00'
+publisher_id: '1716322075'
+publisher_name: Muhammad Usama
+rank: '361'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 34
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

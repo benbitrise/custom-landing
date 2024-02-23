@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/48eZ1oeqC4rV8eB-mybbNJXrCzEob5PV7V_6ojfkq9e5YSVqgySytS_Q0D1C2p9zlWY
+app_id: pandamonium.noaaweather
+app_name: NOAA Weather & Tides
+app_screenshot: https://play-lh.googleusercontent.com/M28bAMoavCvaOffIAEkFf4TB6i-Wd3RfQhQdEtoHfHLQhqXobQEVQ-GiNr6OqPKA-g
+category: Weather
+country: US
+id: 8skky8mDWtq8
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1948'
+publisher_name: Pandamonium Software
+rank: '159'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 11
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

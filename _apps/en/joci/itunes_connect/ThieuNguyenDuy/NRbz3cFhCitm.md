@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/42/75/52427513-1859-59ae-3da0-7774e11a6709/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1634161490'
+app_name: Tunes Player Online
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/57/1b/b6/571bb6e2-b9f1-6c1d-4c41-b37bd6152ba1/0a09d490-2422-40db-82b0-2c08c34a0776_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2022-12-01_at_18.58.36.png/1242x2688bb.png
+category: Music
+country: US
+id: NRbz3cFhCitm
+language: en
+most_recent_release: '2023-09-24T00:00:00'
+publisher_id: '1435465566'
+publisher_name: Thieu Nguyen Duy
+rank: '309'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

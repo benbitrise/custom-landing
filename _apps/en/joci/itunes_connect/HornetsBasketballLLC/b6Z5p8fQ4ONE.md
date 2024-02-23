@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/70/bf/ab70bf38-fb89-ea68-686c-0c517059e607/AppIcon-1x_U007epad-0-85-220.png/1024x1024bb.png
+app_id: '411553578'
+app_name: Hornets + Spectrum Center
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c4/d7/52/c4d752ba-17b1-8059-e1c6-1d8fce40a0fa/32314497-910a-438b-b174-573a03f433d7_iPhone_6.5__1.jpg/1242x2688bb.png
+category: Sports
+country: US
+id: b6Z5p8fQ4ONE
+language: en
+most_recent_release: '2023-12-19T00:00:00'
+publisher_id: '725633949'
+publisher_name: Hornets Basketball, LLC
+rank: '411'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 34
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

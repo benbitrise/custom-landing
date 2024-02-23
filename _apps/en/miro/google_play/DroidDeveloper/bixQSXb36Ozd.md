@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/sflyYeQsS0O1G8cuH9WSbGZ1CaULFx_7EABVuuzLus8XfqW4Ggl6Qra3rKsQ-PrZsw
+app_id: com.voice.navigation.driving.voicegps.map.directions
+app_name: 'GPS Voice Navigation: Live Map'
+app_screenshot: https://play-lh.googleusercontent.com/BBOnZmvixPI73uh6RjxBXIu62NESXIWS3r99TM12Iy3uaB8ztxlr1N_0pyd5oTlASA
+category: Maps & Navigation
+country: US
+id: bixQSXb36Ozd
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '746582'
+publisher_name: Droid-Developer
+rank: '27'
+release_count_in_past_year: '20'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 27
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

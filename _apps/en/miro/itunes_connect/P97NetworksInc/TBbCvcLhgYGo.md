@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/e5/8f/d9e58f91-03f9-59cd-52e4-06c4f619b4c2/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '445248886'
+app_name: DINOPAY - Sinclair Oil
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/2b/90/112b908b-e731-09fa-b8bc-69bf1ac8f2e0/f48da61e-cdaa-421c-9b24-354578883cd6_1@3x.png/1242x2688bb.png
+category: Navigation
+country: US
+id: TBbCvcLhgYGo
+language: en
+most_recent_release: '2023-01-10T00:00:00'
+publisher_id: '924164868'
+publisher_name: P97 Networks, Inc.
+rank: '121'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

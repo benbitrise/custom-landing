@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5b/5f/62/5b5f62a3-cac5-1b29-fc7f-8a9b8ea0b2c7/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '479295290'
+app_name: File Manager & Browser
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/35/46/d2/3546d2f9-94ba-b3b5-4473-2f9b8978ba3c/pr_source.jpg/1242x2688bb.png
+category: Utilities
+country: US
+id: Yxu7t2ACTtfs
+language: en
+most_recent_release: '2021-04-20T00:00:00'
+publisher_id: '359632753'
+publisher_name: TapMedia Ltd
+rank: '438'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

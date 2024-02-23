@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/O8A0yONWSafn8LIYROmP9tjTV2hptlIkUhqZOkEK7Z9XePXIttJEaRfCbcFtnzrICbg
+app_id: com.remind101
+app_name: 'Remind: School Communication'
+app_screenshot: https://play-lh.googleusercontent.com/eoWBg25OJVAKbG1U6RycOQgiaX-VdZ2r4to7VO_vpojJoA45M4Eqpwsi3xJdEfrFdrNo
+category: Education
+country: US
+id: 6p6g-M7j5lms
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '17463'
+publisher_name: Remind101
+rank: '20'
+release_count_in_past_year: '30'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 25
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

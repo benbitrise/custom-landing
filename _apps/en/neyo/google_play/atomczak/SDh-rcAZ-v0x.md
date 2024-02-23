@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/EQ8s_EFKWDgDQxwE_eseKUq-jCsYiR9gOVzV1RSpJBFgmkqSgSH4-w8IyTW-FuYliQ
+app_id: com.atomczak.notepat
+app_name: Notepad - simple notes
+app_screenshot: https://play-lh.googleusercontent.com/P-4FGRYk_wsBvLlAzV0wGBz3LhaMv3bzFvElzE4l8JFs9VICTW9-OvPDiF0BW6u00v2g
+category: Productivity
+country: US
+id: SDh-rcAZ-v0x
+language: en
+most_recent_release: '2023-10-23T00:00:00'
+publisher_id: '1194198'
+publisher_name: atomczak
+rank: '58'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 20
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

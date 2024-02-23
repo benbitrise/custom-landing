@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/79/94/177994c2-9c3b-754c-be7b-0aaf954b8c5f/AppIcon-0-0-1x_U007epad-0-85-220.png/1024x1024bb.png
+app_id: '1612933742'
+app_name: Symbols Explorer
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/79/aa/0e79aab1-3e35-9486-3bb2-bfc5d50d2414/7ac43d52-de4f-45db-b749-5b2ebfd0587c_Frame_33.png/1242x2688bb.png
+category: Developer Tools
+country: US
+id: 0o5ZimssYSq0
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '1610459325'
+publisher_name: Shota Abe
+rank: '306'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

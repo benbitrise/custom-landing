@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/D2E-uvGQytan_UuhI8BfBWSb1bDGyBehApnntALhOchEPgRPU88vl_1McyER0ZwcHQ
+app_id: com.ezremote.remoteroku
+app_name: Remote Control for RokuTV
+app_screenshot: https://play-lh.googleusercontent.com/jtIGUuuo3MTVuqPWcGPpth9G5V-GSe-FWcuSAUIZsi6hG4hKvS6Z0ol79bK-o-cwdoM
+category: Tools
+country: US
+id: upgugqjWuYzT
+language: en
+most_recent_release: '2023-11-14T00:00:00'
+publisher_id: '1709401'
+publisher_name: Launcher Dev
+rank: '161'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

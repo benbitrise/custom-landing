@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dYAF42EhNGgGhC7nLHNSZkWs11W5Dv0mRWZBv6IgLDTh3l8eolsjeAVGg-HVHt9YWyA
+app_id: com.storymatrix.drama
+app_name: DramaBox - movies and drama
+app_screenshot: https://play-lh.googleusercontent.com/yXvPA6ggU_r17R8R0CNR01NeR576qzcU79zeqjy-t2v02FGqMEiEWqU3dKuswZit3Q
+category: Entertainment
+country: US
+id: J9RcVoz-w4hl
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '2690432'
+publisher_name: STORYMATRIX
+rank: '22'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/82/a8/b682a839-796c-602b-b60a-878ce4f5e2cd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '472672814'
+app_name: KRON4 News - San Francisco
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b9/5a/de/b95ade87-fa6a-f3d2-3e15-46a155f19f33/dd4f0f5c-3db5-4998-a903-5e19c86a8cb2_iOS_KRON_iPhone6.5_1242x2688_01.jpg/1242x2688bb.png
+category: News
+country: US
+id: I0njt-7etQyo
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '488222083'
+publisher_name: LIN Television Corporation
+rank: '554'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

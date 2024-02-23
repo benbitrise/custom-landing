@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/f5/69/97f569b1-99fc-de8d-f0c0-674fa043b61f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1024x1024bb.png
+app_id: '1399085077'
+app_name: DailyPay On-Demand Pay
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/76/0e/b1760eb9-684d-7674-b3a5-82dd5d1a03ca/10a0549a-76f9-42b8-8609-99c22104ba8c_Screen_12_-_6.5.png/1284x2778bb.png
+category: Finance
+country: US
+id: V-Uwzy4I5C3s
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '1399085076'
+publisher_name: Daily Pay Inc.
+rank: '54'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

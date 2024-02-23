@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/WWviQxIEoRtPycY3aI0AetX7KnqSnOnDiOeA5VsryvccdAfyg-6u5DGVXpVHGkyTABI
+app_id: com.mealime
+app_name: Mealime Meal Plans & Recipes
+app_screenshot: https://play-lh.googleusercontent.com/p8eAoNvsHfvSk4cok9mL9qyhfOLPcyhiG_y-gXqumsViUZyh6eIp2guBYLlo9gegoUM
+category: Food & Drink
+country: US
+id: hW4n0TRb6YOU
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '950646'
+publisher_name: Mealime Meal Plans Inc
+rank: '122'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

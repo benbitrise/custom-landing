@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/52/42/9352422b-9e6b-7a79-653a-62819bd909c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1069361548'
+app_name: Live Wallpapers for Me
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0d/2e/6e/0d2e6e1d-7042-a028-cf99-97d7edd3154a/82631fa3-2be4-4431-9ac4-e0a2c8b67ba2_iphone6.5_s1_.jpg/1242x2688bb.png
+category: Entertainment
+country: US
+id: z8g61ufMkK3v
+language: en
+most_recent_release: '2023-11-13T00:00:00'
+publisher_id: '1512477424'
+publisher_name: CUSTOMLY LLC
+rank: '485'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

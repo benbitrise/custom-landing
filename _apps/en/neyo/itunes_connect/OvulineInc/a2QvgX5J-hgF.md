@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/d6/1a/dcd61a94-7a83-7a95-b879-2e6c496ca8c5/AppIcon-1x_U007emarketing-0-4-0-85-220-0.png/1024x1024bb.png
+app_id: '1106614359'
+app_name: Ovia Parenting & Baby Tracker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/25/fb/fb25fb6d-3df6-f128-391d-8ab610361083/30fb3ce9-6b9f-4c23-90ea-4ca72195ef2c_Parenting_iOSX_1.jpg/1242x2688bb.png
+category: Medical
+country: US
+id: a2QvgX5J-hgF
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '570244392'
+publisher_name: Ovuline, Inc.
+rank: '212'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

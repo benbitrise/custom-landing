@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rjX8LZCV-MaY3o927R59GkEwDOIRLGCXFphaOTeFFzNiYY6SQ4a-B_5t7eUPlGANrcw
+app_id: com.digidust.elokence.akinator.freemium
+app_name: Akinator
+app_screenshot: https://play-lh.googleusercontent.com/AJYOXBC4HJj0szRbjkUMDA2vDD6dpSgh-mTdR6Oya7RR_G_dQu5K40xkujHwKVDnT0HA
+category: Entertainment
+country: US
+id: txY0VO-JH1AX
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '2407897'
+publisher_name: Elokence SAS
+rank: '63'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/e1/a1/dce1a1e6-1d02-1edf-dc31-2b29338cd405/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1035268144'
+app_name: 'Строки: Манга, Комиксы, Книги'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/73/be/a373beec-f6de-bfe9-f8a6-a1c3da0f3252/c73fec05-d7f4-4600-b2a1-dadb7766367f_1.__U0421_U0442_U0430_U0440_U0442.jpg/1242x2688bb.png
+category: Book
+country: US
+id: cOET_ONugyyJ
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '406999351'
+publisher_name: Mobile TeleSystems Public Joint Stock Company
+rank: '532'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

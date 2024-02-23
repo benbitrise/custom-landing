@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/y9q9yjfwVI704i70nmf6xqBzwuM_5RrZAkK0KIoA4xWdqZNN3OT0QnMdBJpaBeuNLw
+app_id: com.roku.tv.remote.control
+app_name: Remote Control for Roku TV
+app_screenshot: https://play-lh.googleusercontent.com/gJ67nTxKjPrUOApBJGJgUPBErE6q_hFBY-DNccIC4W1iq1HnPZuqZ8oAWOZ2opQVKA
+category: House & Home
+country: US
+id: gVITWs8OGyz2
+language: en
+most_recent_release: '2024-01-15T00:00:00'
+publisher_id: '2185760'
+publisher_name: SoulApps Studio
+rank: '41'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

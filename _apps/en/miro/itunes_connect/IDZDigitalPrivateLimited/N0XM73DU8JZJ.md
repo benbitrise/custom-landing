@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/c0/bf/6cc0bf8b-8a87-9552-f8dc-f8a4a25e766a/AppIcon01-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1489907833'
+app_name: 'Tizi Town: My City Life Games'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/fb/00/23fb0042-40c0-31f7-27a7-4878b9726903/35769f13-13ea-4774-91ca-0d71b6c4c526_City_Screenshots_2688x12420001.png/2688x1242bb.png
+category: Kids
+country: US
+id: N0XM73DU8JZJ
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '352738525'
+publisher_name: IDZ Digital Private Limited
+rank: '168'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

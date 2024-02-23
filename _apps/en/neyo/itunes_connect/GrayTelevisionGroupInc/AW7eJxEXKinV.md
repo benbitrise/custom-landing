@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/5b/05/795b052e-124a-6f8c-9016-102730e0dde8/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/1024x1024bb.png
+app_id: '1109027065'
+app_name: KOTA Mobile Weather
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4b/19/3a/4b193abf-8bba-c581-b6d4-70ed31b139e0/mzl.gvoshveq.png/1242x2688bb.png
+category: Weather
+country: US
+id: AW7eJxEXKinV
+language: en
+most_recent_release: '2023-10-23T00:00:00'
+publisher_id: '416888140'
+publisher_name: Gray Television Group, Inc.
+rank: '477'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 23
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

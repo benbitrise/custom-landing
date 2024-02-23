@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/6O1G0SbqgQEp40o4cpX1DQhD8WSVQWk2ih7qe-7NnrnzSGuE_hUMGVDq_sQLIrmkJZs
+app_id: com.piupiuapps.makeup
+app_name: Makeup Tutorial step by step
+app_screenshot: https://play-lh.googleusercontent.com/JV0YjMET5gVFAXjchQ_Fx6ikkhGZ4m9vVRhGuFgklRmSP2-9nRc2eqR6d9NV-Z6LqLQ
+category: Beauty
+country: US
+id: NczOCjBBhqUo
+language: en
+most_recent_release: '2023-10-20T00:00:00'
+publisher_id: '1638209'
+publisher_name: Piu Piu Apps
+rank: '129'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

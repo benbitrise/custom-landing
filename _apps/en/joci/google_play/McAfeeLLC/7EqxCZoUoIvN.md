@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/g5TgtCP1qhuMgH9IAtBCL0aiQ33cFAxmIEf1npp7Ez61e6wtxKG-Bpu4Wql_r0y9DBc
+app_id: com.wsandroid.suite
+app_name: 'McAfee Security: VPN Antivirus'
+app_screenshot: https://play-lh.googleusercontent.com/oNuR-IICdsjIv88QF6UK1jOVoltW8VurlSH7v7zpG1VoP_MayfivKkHz3W20Ds6Xxw
+category: Tools
+country: US
+id: 7EqxCZoUoIvN
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '1239323'
+publisher_name: McAfee LLC
+rank: '129'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

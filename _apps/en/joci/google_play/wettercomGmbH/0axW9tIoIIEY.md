@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/1AVbsrDLjNliOM5VWeEcoJM8f8gxiXVwDnORmvmppnhmxsvZG0kiNKlGo0cJdTfaBjI
+app_id: com.wetter.androidclient
+app_name: 'weather24: Forecast & Radar'
+app_screenshot: https://play-lh.googleusercontent.com/0cFTEZNPAmqnzny6Nal40LRqR9bWG3QBqkDmqOv3GgT1VXznPyc1Kq-ne5uAyOrXF7s
+category: Weather
+country: US
+id: 0axW9tIoIIEY
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '481378'
+publisher_name: wetter.com GmbH
+rank: '45'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 11
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

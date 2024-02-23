@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/mrFOgUmLuErxaJ-_6tOl_Ac0CnCV-cjGniI3SJ5YGN-xJqwHDQ2WpDoJiS2Hd_MAEYI
+app_id: com.authenticvision.android
+app_name: CheckIfReal
+app_screenshot: https://play-lh.googleusercontent.com/FxIYy56MIyunlS5OLpkkfm8q3n6aaVxBJuEfOrJxa2iwajuG4XQbqpZ7PxLYCYPK31ux
+category: Libraries & Demo
+country: US
+id: dXGVacEQfHVn
+language: en
+most_recent_release: '2024-02-10T00:00:00'
+publisher_id: '448774'
+publisher_name: AuthenticVision GmbH
+rank: '183'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

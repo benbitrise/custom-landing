@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/e0/84/3de084eb-2846-60a2-16e8-cce37f7986b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1613292039'
+app_name: SUGARGOO"From China to Global"
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/c1/9b/ebc19b05-f60c-3251-c12b-8a2a2acfb47d/dcb457f7-5a91-4c40-b1c4-8a71baec8512_1242x2688_01.png/1242x2688bb.png
+category: Shopping
+country: US
+id: oOrpdMJI6JcS
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '1613292041'
+publisher_name: Shenzhen Sugargoo Technology Co., Ltd
+rank: '528'
+release_count_in_past_year: '38'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 57
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

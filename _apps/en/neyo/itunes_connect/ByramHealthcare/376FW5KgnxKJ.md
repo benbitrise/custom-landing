@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/a4/a5/84a4a51a-feaa-0c27-ff82-11b94f39df2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '1536604601'
+app_name: mybyram Order Medical Supplies
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/50/f0/4650f085-4213-245d-76be-60ad040d3374/053ce743-01d9-4c07-b817-8069e95965bf_1-dashboard-1242.png/1242x2208bb.png
+category: Medical
+country: US
+id: 376FW5KgnxKJ
+language: en
+most_recent_release: '2023-12-08T00:00:00'
+publisher_id: '1536604603'
+publisher_name: Byram Healthcare
+rank: '336'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

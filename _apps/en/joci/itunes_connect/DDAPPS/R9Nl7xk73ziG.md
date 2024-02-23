@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/e4/ba/2ee4ba47-7359-5049-f18d-16e0744394e5/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1024x1024bb.png
+app_id: '1478264564'
+app_name: 'Mature : Hookup Dating & flirt'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/e9/a6/07e9a6ed-f303-2e3e-e397-2aeb5eb3f9ed/fd21b3c2-dca4-4bd5-89e0-4deb2891eef2_Layer_42.png/1242x2688bb.png
+category: Lifestyle
+country: US
+id: R9Nl7xk73ziG
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '1478264563'
+publisher_name: D & D APPS
+rank: '169'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

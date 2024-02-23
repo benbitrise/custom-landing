@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/7e/81/6f7e81d4-7a07-9701-17d3-e55ef9670eb0/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/1024x1024bb.png
+app_id: '1370293473'
+app_name: VPN - Super Unlimited Proxy
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bf/90/5a/bf905a91-b59e-2165-c361-82b52352b0fe/dbd531ff-a0d0-48df-951e-2bd738bf5852_iphoneX_U622a_U56fe1.png/1242x2688bb.png
+category: Productivity
+country: US
+id: 1qxZDEYekQU0
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '1484585154'
+publisher_name: Mobile Jump Pte Ltd
+rank: '9'
+release_count_in_past_year: '26'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 25
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

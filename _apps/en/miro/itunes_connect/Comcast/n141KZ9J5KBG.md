@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/8d/5a/6c8d5a79-2cdb-681d-f053-a40b8e0ff9e7/AppIcon-AppStore-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '418965252'
+app_name: Xfinity Home
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/33/4e/92334e96-bf94-c136-7c2d-517aced7c894/mzl.hqryvqlo.jpg/1242x2688bb.png
+category: Lifestyle
+country: US
+id: n141KZ9J5KBG
+language: en
+most_recent_release: '2024-02-01T00:00:00'
+publisher_id: '298960160'
+publisher_name: Comcast
+rank: '349'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

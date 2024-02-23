@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/th7fueuEjKVqip7PpjWM3VcSVWAeUJivRRomfuI7B-XRQQPhJI6R0tpMq7bo3DhzFRs
+app_id: com.gogomath.app
+app_name: Gogomath - Fun Math Game
+app_screenshot: https://play-lh.googleusercontent.com/Ie7iR3t5eBGfFXYFQojgB4_0VSAxLU_FkDgzV_g3M-UTtk7P0RXRTzDuEkPMONS1dw
+category: Education
+country: US
+id: wTTzy9XhA5Rw
+language: en
+most_recent_release: '2024-02-04T00:00:00'
+publisher_id: '2236842'
+publisher_name: Learn For Fun
+rank: '84'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 25
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

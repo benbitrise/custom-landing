@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/bf/b1/82bfb136-783b-e4e7-97b0-51fa09fde203/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/1024x1024bb.png
+app_id: '1050870627'
+app_name: 'Papaya: Pay Any Bill'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bc/79/db/bc79dbe2-d037-c399-e766-feef73fc6d23/95896163-be15-467d-959b-c8b86bc7848f_6.5_-_screen_1.jpg/1284x2778bb.png
+category: Finance
+country: US
+id: gWUNwSFY1uaN
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '1136491084'
+publisher_name: SnapPays Mobile, Inc
+rank: '282'
+release_count_in_past_year: '59'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

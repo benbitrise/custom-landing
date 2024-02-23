@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/b4/81/4fb481d8-13cb-58a3-0dfb-b2210a08064b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '388389451'
+app_name: 'Muslim Pro: Quran Athan Prayer'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/45/51/62/455162c9-b4a5-cc97-7547-20371c1c8d20/bd64865d-1d0d-4cfc-b26a-785f5337748b_EN_B_9.png/1284x2778bb.png
+category: Reference
+country: US
+id: HlYoxWvZfxsd
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '317697610'
+publisher_name: Bitsmedia Pte Ltd
+rank: '32'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 24
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

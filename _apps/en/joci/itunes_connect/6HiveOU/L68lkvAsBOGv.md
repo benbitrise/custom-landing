@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/d5/6f/26d56f3f-716d-45f9-3794-2d3eff92d19a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1024x1024bb.png
+app_id: '1594145104'
+app_name: NFT Creator - Art Maker & Mint
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/db/62/35db62d3-fe7e-02ad-f222-b6d54b6b6840/88449719-b223-4379-a0e5-e10b32fa801c_nft_pro_1.png/1242x2688bb.png
+category: Graphics & Design
+country: US
+id: L68lkvAsBOGv
+language: en
+most_recent_release: '2024-01-04T00:00:00'
+publisher_id: '1537357804'
+publisher_name: 6Hive OU
+rank: '517'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 37
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/92f3HfE75UargLJW2zCemtUUEsjXE7XSQXA76X-xGitBmFi_VI-xSWF9fatzHUuDP8o
+app_id: com.classpass.classpass
+app_name: 'ClassPass: Fitness, Spa, Salon'
+app_screenshot: https://play-lh.googleusercontent.com/LPUxuIfAbck1x5uZOVO-4enmDB2Beiut1wXpYObcWPhGV1YV0_JPdR2jE_pg-VjeWn0
+category: Health & Fitness
+country: US
+id: D2FjNZYRTs3M
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '2816731'
+publisher_name: ClassPass, LLC
+rank: '157'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 21
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

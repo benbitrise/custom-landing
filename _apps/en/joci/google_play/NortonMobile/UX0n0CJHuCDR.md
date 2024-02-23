@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Dc0kPsTGsYj-HwaRaMMWN8mrxHIkJPbnGVscMrvtMXtnAeOKXT-gGloOxSsbccWrcL0
+app_id: com.symantec.familysafety
+app_name: Norton Family Parental Control
+app_screenshot: https://play-lh.googleusercontent.com/OS-bAACMkCfJ7w-OR6fhywypfcngS0jWdqVi1HHsSEZa_d5GE7ZNf3RIl6iXNUWAww
+category: Parenting
+country: US
+id: UX0n0CJHuCDR
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '2199'
+publisher_name: NortonMobile
+rank: '120'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

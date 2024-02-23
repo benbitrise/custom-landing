@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/05/2f/eb/052feb91-ea1b-4f99-0718-90863c017556/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1060198991'
+app_name: تعلم الانجليزية بسهولة
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ab/01/f9ab0181-1fea-c316-7800-3c9e88fa2b4a/d7c68ffa-571a-4c3c-9ee2-b44d39d06249_Simulator_Screenshot_-_iPhone_14_Plus_-_2023-07-20_at_18.09.41.png/1284x2778bb.png
+category: Book
+country: US
+id: zlWPdOgnNmcW
+language: en
+most_recent_release: '2023-12-04T00:00:00'
+publisher_id: '597494184'
+publisher_name: Mohammad Daoud
+rank: '537'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

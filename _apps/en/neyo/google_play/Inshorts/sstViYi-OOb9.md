@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/lvAGNNFIBMC3ZgS-JJcSwDzpSjOGMg7FGY14FrffJobLOed9-H2DiuZwknsIwVwKwTjo
+app_id: com.nis.app
+app_name: Inshorts - News in 60 words
+app_screenshot: https://play-lh.googleusercontent.com/kFkYT-lUdWTAa993yr6NpNhmnzxEJK4X-vL1HFS-ymR6GO8YInQBMDRM4d6Hqi1jdA
+category: News & Magazines
+country: US
+id: sstViYi-OOb9
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '720644'
+publisher_name: Inshorts
+rank: '209'
+release_count_in_past_year: '17'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 17
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

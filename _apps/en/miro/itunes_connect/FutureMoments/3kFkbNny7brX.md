@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/ef/34/0def347c-68fc-f72b-5ac0-365ed9c8657f/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1024x1024bb.png
+app_id: '1091734833'
+app_name: 'AudioMaster: Audio Mastering'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f0/a6/41/f0a64104-4e20-16a0-225f-7a804f72dd99/5cd57fb8-4ae5-4dd2-a52b-dadf5f2339a6_iPhone_X_AudioMaster_Sc1.png/1242x2688bb.png
+category: Music
+country: US
+id: 3kFkbNny7brX
+language: en
+most_recent_release: '2023-07-25T00:00:00'
+publisher_id: '895157892'
+publisher_name: Future Moments
+rank: '302'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

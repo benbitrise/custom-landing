@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/12/74/17/12741709-a114-2045-8650-152ba7cd2d1f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1479649251'
+app_name: DJI Fly
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/98/a6/cc/98a6ccba-7c9a-717d-21d0-f22fd27f00b8/0b266ec5-8c7b-4ba0-b8f3-40aa669bd170_apple_1_5.5_en.jpg/1242x2208bb.png
+category: Photo & Video
+country: US
+id: Dj4-wIn0CeBd
+language: en
+most_recent_release: '2024-01-24T00:00:00'
+publisher_id: '599957686'
+publisher_name: DJI
+rank: '91'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 50
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

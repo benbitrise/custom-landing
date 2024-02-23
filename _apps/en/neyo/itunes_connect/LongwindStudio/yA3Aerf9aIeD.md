@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/0e/b1/4e0eb1f5-3491-43f5-3195-365adb75c857/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/1024x1024bb.png
+app_id: '1486315142'
+app_name: Find My Phone, Friends&Family
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5c/f8/21/5cf82141-9835-0da3-5cdd-fbe5bc1a48d3/e60974a3-c813-48e6-bb6d-032db15c87fa_1.png/1242x2688bb.png
+category: Social Networking
+country: US
+id: yA3Aerf9aIeD
+language: en
+most_recent_release: '2023-12-07T00:00:00'
+publisher_id: '1486315141'
+publisher_name: Longwind Studio
+rank: '141'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

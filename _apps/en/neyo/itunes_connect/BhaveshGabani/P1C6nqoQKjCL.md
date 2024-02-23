@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/52/0f/b1520f54-a14a-6d91-836b-a8125b7fb480/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1337666644'
+app_name: Flyer Maker + Poster Maker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/ac/39/03ac394e-739f-ccaf-2ca4-c43ff5226294/95866e89-b90d-47cc-91b9-17a91f0ecb52_1.png/1284x2778bb.png
+category: Graphics & Design
+country: US
+id: P1C6nqoQKjCL
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '1229134874'
+publisher_name: Bhavesh Gabani
+rank: '70'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 37
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

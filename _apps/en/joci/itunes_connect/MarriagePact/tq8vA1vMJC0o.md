@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/8e/f4/5b8ef432-3719-6819-f5c7-9025b559531e/AppIcon-1x_U007ephone-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1597673978'
+app_name: Wavelength—compatible matches
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/76/0a/2f/760a2f0c-0850-0e8e-c2cd-07c932cd97dd/79798dd6-1dc7-4c64-a913-13fb89e9bb5d_tall10.png/1242x2688bb.png
+category: Social Networking
+country: US
+id: tq8vA1vMJC0o
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '1597673980'
+publisher_name: Marriage Pact
+rank: '241'
+release_count_in_past_year: '58'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

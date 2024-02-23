@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/85/8c/98858c12-e0e3-2db2-742b-11a2e5168fe0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '475976577'
+app_name: Perfect365 Makeup Photo Editor
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/5a/c4/045ac41e-a2b7-ca00-4189-83450f1d8c71/12859fa5-5098-4eb6-9ba6-7c0397558283_1242X2688_C_en1.jpg/1242x2688bb.png
+category: Lifestyle
+country: US
+id: _CiujgF8SG_j
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '325361929'
+publisher_name: Perfect365, Inc.
+rank: '208'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

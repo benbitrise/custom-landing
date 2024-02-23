@@ -1,0 +1,26 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/33/c5/3933c5c5-eb17-95fc-31b3-89810f2fdefb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '6469478654'
+app_name: 'Phone Locator 360: Find Family'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/e8/58/cfe85809-6470-19bc-587d-24497e2629c8/0c16a106-9588-4933-bdad-f6628cb3a3ab_d.jpg/1284x2778bb.png
+category: Navigation
+country: US
+id: vgWe9mY9xiWF
+language: en
+most_recent_release: ''
+publisher_id: '1695876149'
+publisher_name: BFK ARASTIRMA GELISTIRME YAZILIM BILGISAYAR SANAYI VE TICARET ANONIM
+  SIRKETI
+rank: '106'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/68/ec/de68eca3-ec95-8f05-32a1-81e7578c72d5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1074049192'
+app_name: EoS Fitness
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/0e/36/500e360d-58a1-236e-d3e1-acd2b2199683/8a7adc55-9180-4850-9488-0e0711989810_iPhone_11_Pro_Max_9.png/1242x2688bb.png
+category: Health & Fitness
+country: US
+id: zfp3kLipsETu
+language: en
+most_recent_release: '2024-01-13T00:00:00'
+publisher_id: '811368859'
+publisher_name: Netpulse Inc.
+rank: '100'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

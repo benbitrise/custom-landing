@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/e9/90/34e990d8-4d09-e5fe-658e-e68a835b65a7/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1005203380'
+app_name: Shirabe Jisho
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/72/94/31729497-1160-a4df-8e88-98f95272dca3/pr_source.png/1242x2688bb.png
+category: Reference
+country: US
+id: mFq2imLLB7N4
+language: en
+most_recent_release: '2023-07-31T00:00:00'
+publisher_id: '1005203379'
+publisher_name: Blazej Stanek
+rank: '329'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 24
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

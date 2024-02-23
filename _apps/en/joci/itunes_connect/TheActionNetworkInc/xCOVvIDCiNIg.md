@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/88/de/1788deb5-8a87-b4ee-dd47-b051c15546be/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1083677479'
+app_name: Action Network Sports Betting
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/91/aa/7a91aa7f-a52b-b58a-2790-cb2ab3c13d40/4306a6b3-bc4b-4ebc-a14f-7a2e1661abb1_Frame_55891.png/1284x2778bb.png
+category: Sports
+country: US
+id: xCOVvIDCiNIg
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '1083677478'
+publisher_name: The Action Network, Inc.
+rank: '80'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 34
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

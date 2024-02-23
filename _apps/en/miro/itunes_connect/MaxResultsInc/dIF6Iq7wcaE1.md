@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/0b/60/a60b6021-3c5e-3b34-b961-2e7b3cb34d1d/AppIcon-1-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '898121275'
+app_name: My Greek Study
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/0a/bd/010abda6-164a-ae35-2fad-72ffa498bb44/pr_source.jpg/1242x2688bb.png
+category: Education
+country: US
+id: dIF6Iq7wcaE1
+language: en
+most_recent_release: '2022-08-31T00:00:00'
+publisher_id: '1428955450'
+publisher_name: Max Results Inc
+rank: '542'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

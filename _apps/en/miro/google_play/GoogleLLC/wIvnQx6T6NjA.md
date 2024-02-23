@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ORzWxi-sIo_hCgSa6uzVvBUE4osKUqRVzHnniUUxA2WXD7BnZ95BNVpWFLUTKRyJRdU
+app_id: com.google.android.apps.googleassistant
+app_name: Google Assistant
+app_screenshot: https://play-lh.googleusercontent.com/hav8zpvJ4xpvK2s8oA5TWVgk_Iu2CAh4zaJYXrRSSWgUtZ7c22bluCOy-r1BpwLguEJs
+category: Productivity
+country: US
+id: wIvnQx6T6NjA
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '1428138'
+publisher_name: Google LLC
+rank: '24'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

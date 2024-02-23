@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/L1kelubJlcnnvf8HtP8vdAl5I3bFVIBBFOVWYLG0jVjOiVKB-YJhU_eo8x1N23odkg
+app_id: com.zikristudio.valentinedayphotoframe
+app_name: Valentine Day Photo Frame 2024
+app_screenshot: https://play-lh.googleusercontent.com/AhKZ7TYptEPIyFobC8T0K98ALAreEJs6GUif4_JWAEIwjJIOdHaAXd9NvDUNgcPVuFY
+category: Beauty
+country: US
+id: 2w7mVSx37sxV
+language: en
+most_recent_release: '2023-12-16T00:00:00'
+publisher_id: '2734952'
+publisher_name: Zikri Studio
+rank: '95'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

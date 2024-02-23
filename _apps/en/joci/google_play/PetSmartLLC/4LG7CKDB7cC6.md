@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/O8IrEsEah7v_F1CKE_lEvi66XxV81NK0J5jlasKd8xeJSNYucZB7SPq-AAgt0aoExDi3
+app_id: com.petsmart.consumermobile
+app_name: PetSmart
+app_screenshot: https://play-lh.googleusercontent.com/W00lzYkqZMghObq9L8qDxuKmP_M9A1Y0uLujXHb6T3n8dGX6ugiPPLB0NHhZ7Cp-odk
+category: Shopping
+country: US
+id: 4LG7CKDB7cC6
+language: en
+most_recent_release: '2024-02-09T00:00:00'
+publisher_id: '2699034'
+publisher_name: PetSmart LLC
+rank: '91'
+release_count_in_past_year: '31'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

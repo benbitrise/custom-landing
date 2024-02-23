@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/10/f8/01/10f80138-551f-b08f-0d40-5eb18ed1bfb3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1332796551'
+app_name: The Cat in the Hat Builds That
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/64/ce/e0/64cee07b-d334-9882-0d1e-672e08a7e99d/pr_source.png/1242x2688bb.png
+category: Kids
+country: US
+id: ePjeduGuX6TV
+language: en
+most_recent_release: '2021-03-03T00:00:00'
+publisher_id: '324323339'
+publisher_name: PBS KIDS
+rank: '450'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 23
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

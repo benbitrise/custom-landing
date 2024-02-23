@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/9g3CAC9kdC_Q_sZgnvLGBwpc_AZ4c7x6MNQRRs8w3C8OjfAA8Q5S0jMy7MsgDtChAOn4
+app_id: com.supervpn.vpn.free.proxy
+app_name: VPN Proxy Speed - Super VPN
+app_screenshot: https://play-lh.googleusercontent.com/jlipBR_ooT3kh-_LwYckc9mi3O0hx7FtmOudJy3lcTI9sZX6IY-chpR4aVTvk8a0eORR
+category: Productivity
+country: US
+id: 5urJKcNLIi1l
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2981787'
+publisher_name: VPN SUPER LAB
+rank: '108'
+release_count_in_past_year: '23'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

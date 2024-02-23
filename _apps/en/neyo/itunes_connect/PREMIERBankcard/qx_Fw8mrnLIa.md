@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/7a/67/f57a6708-2b57-f391-9f54-2327c81e7a1d/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1024x1024bb.png
+app_id: '1476775662'
+app_name: PREMIER Credit Card
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/39/9e/13399ed4-65d3-986b-15b6-62d061c6d94d/efeb7b45-02a7-4f81-b212-298f0fe56e7f_PS_6.5_Landing_Screen.png/1284x2778bb.png
+category: Finance
+country: US
+id: qx_Fw8mrnLIa
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '993262567'
+publisher_name: PREMIER Bankcard
+rank: '180'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

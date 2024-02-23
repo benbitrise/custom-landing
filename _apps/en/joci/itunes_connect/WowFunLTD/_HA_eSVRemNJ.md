@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/f4/bb/c6f4bbf9-9111-a261-7ec2-b9afa8717463/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '6444885689'
+app_name: Citas - Live Video Chat&Meet
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/31/ba/aa/31baaaef-35d2-1488-9460-6d0615ec1614/5e10c920-01ca-4c69-a80f-452ba679cf43_7.jpg/1242x2688bb.png
+category: Social Networking
+country: US
+id: _HA_eSVRemNJ
+language: en
+most_recent_release: ''
+publisher_id: '1657634733'
+publisher_name: WowFun.LTD.
+rank: '203'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

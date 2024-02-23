@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/08bY9GrB1UtfY8T6DGbJgea8NaDkF-XMOFvjLfjqYF-KhJphiNlwznohXyKhvfljdkk
+app_id: net.groceryshopping.SproutsFarmersMarket
+app_name: Sprouts
+app_screenshot: https://play-lh.googleusercontent.com/c-od9uBln3NEJTeip6Ip3kK5UhaDm3WtNZFE2zs2fxYQJQZTlQaSPVMmpfWLVFyPJ0V_
+category: Shopping
+country: US
+id: SPNSpLKGrhYd
+language: en
+most_recent_release: '2024-01-12T00:00:00'
+publisher_id: '870034'
+publisher_name: Sprouts Farmers Market
+rank: '183'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

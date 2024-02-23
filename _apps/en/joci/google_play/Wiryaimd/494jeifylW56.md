@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VC3shvJbcL863TbiZ6LKBD2bkZeByTrpKfOYJAbEBS37jzQcilyviLExfo0EcqOjHJI
+app_id: com.wiryaimd.mangatranslator
+app_name: Manga Translator
+app_screenshot: https://play-lh.googleusercontent.com/683fIRCPAs8FBSHHBEViKqPTQ_6rSuVv8C1qP0miVwb_ztFx1dESDq_pWWeExSFaJtw
+category: Comics
+country: US
+id: 494jeifylW56
+language: en
+most_recent_release: '2024-01-28T00:00:00'
+publisher_id: '2661157'
+publisher_name: Wiryaimd
+rank: '81'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

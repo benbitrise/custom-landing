@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/b0/c0/a6b0c04a-8baa-69a2-e277-cb3d9083fc86/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1024x1024bb.png
+app_id: '6477493108'
+app_name: PickShine Movie Box TV
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/1d/28/821d28a9-69b2-36be-3841-8a155c17b9ae/9c6b0ac6-f31b-46d4-ad2d-0b0f77e1d580_6.jpg/1242x2688bb.png
+category: Entertainment
+country: US
+id: a412VtRYgQpu
+language: en
+most_recent_release: ''
+publisher_id: '1729470045'
+publisher_name: Amal Zouaihar
+rank: '280'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

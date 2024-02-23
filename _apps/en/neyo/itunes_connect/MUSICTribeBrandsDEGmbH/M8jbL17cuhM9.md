@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/03/40/a8034032-a154-76ff-9600-58ea57756cc3/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/1024x1024bb.png
+app_id: '1471505954'
+app_name: MX-Q
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/e6/ec/71e6ec02-38ed-ee2c-7e86-28df801bf16b/pr_source.png/1242x2688bb.png
+category: Music
+country: US
+id: M8jbL17cuhM9
+language: en
+most_recent_release: '2019-11-04T00:00:00'
+publisher_id: '1447618711'
+publisher_name: MUSIC Tribe Brands DE GmbH
+rank: '457'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

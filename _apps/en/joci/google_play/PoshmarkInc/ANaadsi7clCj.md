@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/usX9zpURCN66gkUY0H9aCIHAfZ05dFtpp2YWdFgiiuPNebbZNi9ayYkQHM8Sa1kP_A0
+app_id: com.poshmark.app
+app_name: Poshmark - Sell & Shop Online
+app_screenshot: https://play-lh.googleusercontent.com/EfqfQvlYXIVMlfZSuQFxAYzeuYu7Bn7DkKFTfk8SFkxYkIK6vffQO3DS1zMh21mTNQ
+category: Shopping
+country: US
+id: ANaadsi7clCj
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '193944'
+publisher_name: Poshmark, Inc
+rank: '13'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

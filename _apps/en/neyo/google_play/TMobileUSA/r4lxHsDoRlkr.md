@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/61qxm6Bc6u3wOv9_ApJFgNEGi_i8E7itDjJrLKlKFFeJn72sRIEu9fUY7FA7iqEjodc
+app_id: com.tmobile.familycontrols
+app_name: T-Mobile® FamilyMode™
+app_screenshot: https://play-lh.googleusercontent.com/uUKIzc8SheK-_uj2TNFzx4hj49iBIqFoFyDjAP1VQbHKYr01_txI8KNraEqKA1WyvKIA
+category: Parenting
+country: US
+id: r4lxHsDoRlkr
+language: en
+most_recent_release: '2023-12-14T00:00:00'
+publisher_id: '475'
+publisher_name: T-Mobile USA
+rank: '29'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

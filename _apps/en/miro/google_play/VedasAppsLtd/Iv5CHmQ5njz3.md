@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/MHW1LwDSEwNTb1cSINe-SkBHX35MilYch9jTbaiTPDMtJZhO6dqS6nEJ2t9VoJxKo6KU
+app_id: com.vedasapps.flashcards
+app_name: 'Anki Pro: Study Flashcards'
+app_screenshot: https://play-lh.googleusercontent.com/nB0g2-N0dKVHaHAwmq0WYMDELi11alg6vr0UmEWajVnDau1kAhBlb3QgWp6wUsUdUfYR
+category: Education
+country: US
+id: Iv5CHmQ5njz3
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '2698836'
+publisher_name: Vedas Apps Ltd
+rank: '185'
+release_count_in_past_year: '21'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 25
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

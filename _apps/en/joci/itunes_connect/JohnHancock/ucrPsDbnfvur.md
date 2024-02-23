@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/ac/57/23ac5774-904c-e546-132a-a2b5a1bd11d5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '1558846059'
+app_name: John Hancock Retirement
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/99/54/b2/9954b276-17fd-d301-1867-3b0b9f3ca6a8/cc6b1ea7-36ef-4751-a310-57ad2ef7ed8e_Screen_1_copy.png/1284x2778bb.png
+category: Finance
+country: US
+id: ucrPsDbnfvur
+language: en
+most_recent_release: '2023-10-30T00:00:00'
+publisher_id: '404571273'
+publisher_name: John Hancock
+rank: '303'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/rV5ySn37t1uao9pSk9GeW3nTC4SvJYqBB-VX3m52oHM3KZlXPvfR_GW4SkizLg60XM4
+app_id: ai.aiart.aiartgenerator.creart
+app_name: CreArt - AI Art Generator
+app_screenshot: https://play-lh.googleusercontent.com/Il_y6cOej90bG_ZMf_8KQ4zWcekyoSOTqh85meF0bOWYCGAWeVqhRPEswJS5_kdzdQ
+category: Art & Design
+country: US
+id: 44YxQqFqVnSt
+language: en
+most_recent_release: '2023-12-09T00:00:00'
+publisher_id: '2579205'
+publisher_name: Waitos AI
+rank: '84'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 14
+release_count_in_past_year_top_in_category: 26
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

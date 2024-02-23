@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/f8/77/01f87753-116b-539f-1129-ff669ee30a81/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/1024x1024bb.png
+app_id: '994624624'
+app_name: 'Champs Sports: Kicks & Apparel'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1e/a6/c9/1ea6c925-e9c2-2112-e0de-0f512d0e00c0/8d1f1e5e-cf13-4cd5-85de-68e6e16e2285_211020-ch-app-store-iphone-13-1.jpg/1242x2688bb.png
+category: Shopping
+country: US
+id: zhq2NIGm9JNt
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '374954338'
+publisher_name: Foot Locker Retail, Inc.
+rank: '157'
+release_count_in_past_year: '19'
+release_count_in_past_year_category: 22
+release_count_in_past_year_top_in_category: 57
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

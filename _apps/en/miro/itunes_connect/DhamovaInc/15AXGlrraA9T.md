@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/ee/52/e3ee524f-7248-2b39-c718-285f0ca03fc0/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1024x1024bb.png
+app_id: '1443967643'
+app_name: Pineapple - Website Builder
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/b9/e0/66b9e0db-713a-a6b2-0dfa-9056eca7309b/pr_source.png/1242x2688bb.png
+category: Developer Tools
+country: US
+id: 15AXGlrraA9T
+language: en
+most_recent_release: '2023-03-15T00:00:00'
+publisher_id: '1443967642'
+publisher_name: Dhamova, Inc.
+rank: '167'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

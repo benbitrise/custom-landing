@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/53/b4/c953b404-8fc9-a861-9cd7-4ea6e7e9d261/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '738421938'
+app_name: Ally Auto Finance
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4a/e8/40/4ae840d9-c103-49b2-8be9-b2cde7b5f632/e4449ae3-ea98-419f-958e-83c1c6377730_iOS-6.5-1.png/1242x2688bb.png
+category: Finance
+country: US
+id: QPJ7bc2hky_e
+language: en
+most_recent_release: '2023-12-14T00:00:00'
+publisher_id: '513064664'
+publisher_name: Ally Financial Inc.
+rank: '96'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

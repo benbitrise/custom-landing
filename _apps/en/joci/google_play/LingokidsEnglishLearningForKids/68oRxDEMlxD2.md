@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/kawKEvCB0jvXKP7H3QSxkTZc0m2wHGSz5NOG16dXup1GYfYLxS5NaZryIUJ2JelVKXs
+app_id: es.monkimun.lingokids
+app_name: Lingokids - Play and Learn
+app_screenshot: https://play-lh.googleusercontent.com/VAYajxDH9v56itbczvGlZDpmz7l2YEvpK2FzGGCnAKPOA4MGs--bluEpshtXzKZoh8g
+category: Education
+country: US
+id: 68oRxDEMlxD2
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1558995'
+publisher_name: Lingokids - English Learning For Kids
+rank: '40'
+release_count_in_past_year: '51'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 25
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

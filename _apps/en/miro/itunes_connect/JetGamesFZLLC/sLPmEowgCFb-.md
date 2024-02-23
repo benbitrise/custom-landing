@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/b7/7b/d0b77b4a-4b16-81b9-242a-3fb48dbaf992/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6458189799'
+app_name: 'Drive Zone: Car Simulator'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/e0/bf/49e0bfa6-e338-1344-021c-b77657e3eb48/307bc987-3aa0-4223-ba1f-2418c7f838fd_screen_1.png/2778x1284bb.png
+category: Games
+country: US
+id: sLPmEowgCFb-
+language: en
+most_recent_release: ''
+publisher_id: '1701096788'
+publisher_name: Jet Games FZ-LLC
+rank: '342'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM
+app_id: com.tripit
+app_name: 'TripIt: Travel Planner'
+app_screenshot: https://play-lh.googleusercontent.com/kYYD-2uoOcXcHDZrb17uHUSJHFnIAVb8ju2IWo0tgJibJJqTgyWy5LKCaIUe49mREZLV
+category: Travel & Local
+country: US
+id: 4bXBDP0rUTia
+language: en
+most_recent_release: '2024-02-03T00:00:00'
+publisher_id: '11118'
+publisher_name: TripIt, Inc.
+rank: '97'
+release_count_in_past_year: '10'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 36
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

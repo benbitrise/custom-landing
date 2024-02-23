@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/35/94/02359413-580a-bec0-35a6-1f547b9a53c3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6461210467'
+app_name: Evlop app builder
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/24/5a/f0/245af013-e061-ed30-cf8f-642b670d788c/f41b7d73-0680-435d-a0f2-10ed137390b9_282893E0-626A-49CD-AF87-659263E01892__U0028iPhone_14_Plus_U0029_1.png/1284x2778bb.png
+category: Developer Tools
+country: US
+id: S5xf1nfqKS_t
+language: en
+most_recent_release: ''
+publisher_id: '1601792758'
+publisher_name: Rachindra Poudel
+rank: '416'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/2a/03/e92a03a2-a76c-b72c-5cf7-f68d38606eef/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '396885759'
+app_name: Corewell Health App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6b/2e/6e/6b2e6ea7-2032-5195-8d3f-730554f9ca10/76d58ce2-7fbf-43a4-891b-8372b49789c9_iOS-phone-screenshot-launch-screen.png/1242x2688bb.png
+category: Medical
+country: US
+id: e2k9h9Dex-iz
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '396885762'
+publisher_name: Spectrum Health
+rank: '267'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

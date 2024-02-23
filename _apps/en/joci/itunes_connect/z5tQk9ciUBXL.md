@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/58/86/ef58868b-6ebb-5810-8bfb-1b216e8ecf24/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1322234579'
+app_name: QR, Barcode Scanner for iPhone
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/19/e3/d119e37e-972f-789a-df2a-f69d03c5e5e8/f6055f07-a7da-4d2e-aad4-2383287bec12_6.5_1.png/1242x2688bb.png
+category: Utilities
+country: US
+id: z5tQk9ciUBXL
+language: en
+most_recent_release: '2024-01-19T00:00:00'
+publisher_id: '1097304866'
+publisher_name: 堃 汪
+rank: '310'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

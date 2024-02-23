@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Vd8nWYsoUSZfQMhs6P9iYHxlYq99L5lK9e9j-rAdnaMN395zwmUyry1INHcF-WNqiQM
+app_id: com.facebook.work
+app_name: Workplace from Meta
+app_screenshot: https://play-lh.googleusercontent.com/Imq14s2NIqMWNvuHyblrzosXgnEngDUWhSeCpNzeJPZfIHoPFaqDIMQhe-OJE5Tjng
+category: Business
+country: US
+id: oFQ32Y1M1hrx
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2661616'
+publisher_name: Meta Platforms, Inc.
+rank: '164'
+release_count_in_past_year: '44'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 37
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

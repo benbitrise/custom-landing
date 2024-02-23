@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/1f/7d/301f7d62-ca71-01d1-7928-47c07045ca35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1286538410'
+app_name: Offroad Outlaws
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/61/6a/97616ac0-5425-aefc-ea8f-1fe509413e8f/6f80ccc6-0567-4da0-8711-b15279011570_VehicleTypes_195_90.png/2688x1242bb.png
+category: Games
+country: US
+id: bEX066Sb1FKJ
+language: en
+most_recent_release: '2023-11-10T00:00:00'
+publisher_id: '504617842'
+publisher_name: Sycamore Valley Software LLC
+rank: '498'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

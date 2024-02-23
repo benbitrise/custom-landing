@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/38/74/d6387421-113d-a6d6-7b0c-2f68707db76b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '844091049'
+app_name: GET Mobile
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/82/e2/8e/82e28ebc-4f04-652d-73e1-85ae555ae9fe/5deb0e83-df33-4d3b-82dd-a66e59542a50_Phone_1_6.5__U00281_U0029.jpg/1242x2688bb.png
+category: Finance
+country: US
+id: tHj539JnZSpO
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '525072742'
+publisher_name: The CBORD Group, Inc
+rank: '254'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

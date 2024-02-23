@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/5d/13/7e5d1322-c980-c129-eef3-11585753d8bc/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1024x1024bb.png
+app_id: '936422955'
+app_name: 'Buddy: Budget Planner'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/cc/89/b9cc890f-2832-24ca-bf29-0098fbf1451f/05d19061-2f79-48bc-b4de-e3f1e4a492b6_buddy_appstore_01.png/1242x2688bb.png
+category: Finance
+country: US
+id: iFvNesgpiOrO
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '936422954'
+publisher_name: Buddy Budgeting AB
+rank: '267'
+release_count_in_past_year: '48'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

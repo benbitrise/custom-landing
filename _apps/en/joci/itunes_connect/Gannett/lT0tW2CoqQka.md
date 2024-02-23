@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/bd/10/5cbd10f7-41a6-b15b-cb0d-2f574e29b573/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/1024x1024bb.png
+app_id: '493262204'
+app_name: Argus Leader
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/7f/04/0f/7f040fff-0b42-2d71-150f-030dba4e01a6/30e970dc-2666-42d6-ac9a-e21758da4e2b_Generic_iPhoneX_1.jpg/1242x2688bb.png
+category: Magazine & Newspapers
+country: US
+id: lT0tW2CoqQka
+language: en
+most_recent_release: '2024-02-13T00:00:00'
+publisher_id: '404843797'
+publisher_name: Gannett
+rank: '502'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

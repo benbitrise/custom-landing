@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/73/f5/0273f50a-57cd-2ef2-10a0-f509d49ff3c1/AppIcon-1x_U007epad-0-10-0-85-220-0.png/1024x1024bb.png
+app_id: '704237014'
+app_name: Thermometer++ App
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5e/37/73/5e3773c3-08cc-de53-ec99-566d508c9240/5fb0ae86-035c-4b26-9108-07761dd1f934_0_APP_IPHONE_65_0.png/1242x2688bb.png
+category: Weather
+country: US
+id: usqsZzAG65N0
+language: en
+most_recent_release: '2024-01-08T00:00:00'
+publisher_id: '704237017'
+publisher_name: Viachaslau Tysianchuk
+rank: '98'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

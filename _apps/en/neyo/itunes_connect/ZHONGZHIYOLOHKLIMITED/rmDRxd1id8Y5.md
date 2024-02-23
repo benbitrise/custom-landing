@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/4f/e5/aa4fe542-0987-97c5-dbc3-22dc9a8ecc0f/AppIcon-1x_U007ephone-0-85-220.png/1024x1024bb.png
+app_id: '6448490167'
+app_name: Genius Chat by AIbot
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/63/74/fc/6374fc75-4df3-89eb-d59d-b0523bedcc88/793c510d-ea2c-4961-9aab-f8a96dcfd2ba_6.5-1.png/1242x2688bb.png
+category: Utilities
+country: US
+id: rmDRxd1id8Y5
+language: en
+most_recent_release: ''
+publisher_id: '1680837349'
+publisher_name: ZHONGZHI YOLO HK LIMITED
+rank: '399'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 29
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

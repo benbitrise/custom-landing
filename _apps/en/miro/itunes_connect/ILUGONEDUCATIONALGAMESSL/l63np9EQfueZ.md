@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/ce/08/c3ce08da-ba1b-d036-1e99-0017027e5843/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1481728810'
+app_name: Toddler games for 2 year kids
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1c/aa/f3/1caaf3d5-bbeb-200e-2dc7-51474fb18cc3/pr_source.jpg/2688x1242bb.png
+category: Kids
+country: US
+id: l63np9EQfueZ
+language: en
+most_recent_release: '2023-08-30T00:00:00'
+publisher_id: '1481717766'
+publisher_name: ILUGON EDUCATIONAL GAMES S.L.
+rank: '563'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 23
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

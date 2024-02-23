@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/b5/0e/2bb50efb-ffc9-89f7-123b-8727ccf913a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1506581586'
+app_name: FOREX.com Forex Trading Broker
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/17/9e/14179e0f-340f-7ca0-c619-7ee4da162e23/c27136ea-eeeb-4f7a-b98e-a64a1eaead36_FXUS_iOS_Screen_01-1284x2778.jpg/1284x2778bb.png
+category: Finance
+country: US
+id: SkqdExSE-ejn
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1393059787'
+publisher_name: GAIN Capital Group LLC
+rank: '379'
+release_count_in_past_year: '22'
+release_count_in_past_year_category: 19
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

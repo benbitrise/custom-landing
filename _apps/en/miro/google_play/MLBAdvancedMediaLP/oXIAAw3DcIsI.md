@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/fXx7D56dGOUu79OWDXfDzvnUBRFqguxqS0TEWcEtFbBbjXuKD9QeuMdjo4UThlqFo3g
+app_id: com.bamnetworks.mobile.android.gameday.atbat
+app_name: MLB
+app_screenshot: https://play-lh.googleusercontent.com/1noPEDPCq8n9lHVT9ieLlAY7gtrTjBYygFs624PU_X5SuwBLfbbYvMsBJNNxClO_VRxY
+category: Sports
+country: US
+id: oXIAAw3DcIsI
+language: en
+most_recent_release: '2024-02-16T00:00:00'
+publisher_id: '1074'
+publisher_name: MLB Advanced Media, L.P.
+rank: '67'
+release_count_in_past_year: '50'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

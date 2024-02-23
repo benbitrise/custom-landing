@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DdadbA0103ycBZF4sMfvT7Xn5dxR62KVp2qwJjn3NU276h_ynjcgkYnNhbQVXCgzVhmO
+app_id: com.arashivision.insta360akiko
+app_name: Insta360
+app_screenshot: https://play-lh.googleusercontent.com/mNgbbKm2CAtcuAI91yJ-1Kgjh2rMImwGf22CfHGXMNUyrRMQRSA5wmYXF102YfPjmKM
+category: Video Players & Editors
+country: US
+id: u-BRCwXaEyQn
+language: en
+most_recent_release: '2024-01-23T00:00:00'
+publisher_id: '1338556'
+publisher_name: Insta360
+rank: '143'
+release_count_in_past_year: '25'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 40
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

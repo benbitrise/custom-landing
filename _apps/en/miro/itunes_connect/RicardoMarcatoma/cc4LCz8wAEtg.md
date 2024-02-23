@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/ed/e7/d3ede777-57a7-37ad-5844-be941ddc0f47/AppIcon-1x_U007epad-0-0-85-220-0.png/1024x1024bb.png
+app_id: '6467449092'
+app_name: 'TikVid: Likes TikTok Followers'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/d7/ee/c3d7ee1a-73d5-10b2-bc90-fe77eed30688/1eacfb62-e17d-46be-a51b-abf3fd9f75a1_iPh_6.5.png/2688x1242bb.png
+category: Graphics & Design
+country: US
+id: cc4LCz8wAEtg
+language: en
+most_recent_release: ''
+publisher_id: '1708652160'
+publisher_name: Ricardo Marcatoma
+rank: '235'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 37
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

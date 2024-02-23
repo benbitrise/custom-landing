@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/d8/9d/7ad89d43-be1b-2abc-a498-d00a1b6936a2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1609649664'
+app_name: 2nd number for WhatsApp
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/30/ec/4030ec36-019a-b976-08ca-4bf028717c18/fc5017a7-55ea-47eb-9353-dbaca04ecfda_Screenshot_89.jpg/1242x2688bb.png
+category: Social Networking
+country: US
+id: YlzL3jneAQjM
+language: en
+most_recent_release: '2023-07-26T00:00:00'
+publisher_id: '1609649666'
+publisher_name: NGP DEVELOPMENT SERVICES LTD
+rank: '195'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

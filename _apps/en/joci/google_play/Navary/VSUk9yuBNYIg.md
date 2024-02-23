@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/09bzyfn_h0_8l0pUSjw5DEQYuB_NaTQ0ppGfHerjRlaMIjwiECFt34oKogaEcVDuIv8
+app_id: com.vibra.wallpaper
+app_name: InspireWalls
+app_screenshot: https://play-lh.googleusercontent.com/pZQnQkC50YiVOtEc8s0x9epeBKQiU2oXElUM1GrEFERbmsTIdwkRA-jCQPAuicsBqiM
+category: Personalization
+country: US
+id: VSUk9yuBNYIg
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '3049942'
+publisher_name: Navary
+rank: '193'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

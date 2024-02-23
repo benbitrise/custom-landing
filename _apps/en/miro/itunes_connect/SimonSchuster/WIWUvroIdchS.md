@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/0f/63/9d0f6390-b887-b845-a09f-860c656b604f/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1405735469'
+app_name: 'Pimsleur: Language Learning'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/20/f9/05/20f9058b-46e3-b1ba-45bf-f2ee82a92f2d/86992b8b-b318-4d59-8095-d3e24e81865b_Pimsleur_ios_6.5_f1.jpg/1242x2688bb.png
+category: Education
+country: US
+id: WIWUvroIdchS
+language: en
+most_recent_release: '2024-02-07T00:00:00'
+publisher_id: '305077328'
+publisher_name: Simon & Schuster
+rank: '58'
+release_count_in_past_year: '16'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 33
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

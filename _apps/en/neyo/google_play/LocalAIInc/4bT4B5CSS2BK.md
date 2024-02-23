@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/DFzLiVnp-_NZTBmMMZf9ngmdM9q8Wrey7hR_3wg698uSPPXDIdyL8n3HsTga8RtkNA
+app_id: com.localaiapp.bloom
+app_name: 'Bloom: Real Life, Real Videos'
+app_screenshot: https://play-lh.googleusercontent.com/Pte9Rtr7I_KRHo6XZWY1kNBZxBBljGcvyxH9aMWo5YVX_vrkebSYGqvJ7TkO7eSMgFc
+category: Entertainment
+country: US
+id: 4bT4B5CSS2BK
+language: en
+most_recent_release: '2024-02-06T00:00:00'
+publisher_id: '2986341'
+publisher_name: Local AI, Inc.
+rank: '42'
+release_count_in_past_year: '13'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

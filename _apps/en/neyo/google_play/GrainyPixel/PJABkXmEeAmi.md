@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/VreNaK5k2s_zgLyBAHcNoOtAHMWH5rOIa4z71-d5qRHMQWUd_vR_Oq2KKAGv77nLSA
+app_id: grainy.gmanga
+app_name: GMANGA
+app_screenshot: https://play-lh.googleusercontent.com/9BrNJjZmQ1sQBIoPTI_5rydCIZqLVNTBWmvP2IbqwRXvChA4KawjU313JRhhPjEv0qj2
+category: Comics
+country: US
+id: PJABkXmEeAmi
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '1367068'
+publisher_name: GrainyPixel
+rank: '22'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 7
+release_count_in_past_year_top_in_category: 12
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

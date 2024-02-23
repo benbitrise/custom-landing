@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/yw6h1YwdKiD0m24OCkCsUJuT4f2cnHR__icIicuEPDgFMPyasERC60LrXu1vUUkmkJ4_
+app_id: com.samsung.rms.retailagent.proxy
+app_name: SAMSUNG RM AGENT 2020
+app_screenshot: https://play-lh.googleusercontent.com/HbJnhiCqtzTBZSTh4z1kK3bFgwLUbxsXbRMx71mSPWgPWDZPgCMPxJkAogzQVtnuK1s
+category: Libraries & Demo
+country: US
+id: LIcXsgFOSpaV
+language: en
+most_recent_release: '2023-04-18T00:00:00'
+publisher_id: '1180836'
+publisher_name: Samsung Electronics America
+rank: '109'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

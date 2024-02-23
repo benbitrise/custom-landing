@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/06/02/a20602cc-ccd3-1421-e7da-b32ecf464a7d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1045901853'
+app_name: Geometry Dash Meltdown
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/96/d9/3396d91c-bf63-560e-8ab9-729484693cbe/7fb32bb1-2698-408a-a899-0f5bc11dc849_01.png/2778x1284bb.png
+category: Games
+country: US
+id: xs_qFBQ0yMXP
+language: en
+most_recent_release: '2022-06-26T00:00:00'
+publisher_id: '414027834'
+publisher_name: RobTop Games AB
+rank: '521'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

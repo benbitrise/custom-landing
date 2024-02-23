@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Bfvq1UGQZj-p3zP-W1eNkYb7Zl4drp9Sh4OZd11VoRhLhk6W6kdGY2fCDarjkxBBtgQ
+app_id: com.mp3juices.cc.mp3musicdownloader.app.com
+app_name: Mp3Juices Mp3 Juice Downloader
+app_screenshot: https://play-lh.googleusercontent.com/AfUvsTjbMO_gLHUvPCgHQ38i_UYwmnU-IC0tS__-0deoeltzzczKcSYs9A47NkpLbU4
+category: Music & Audio
+country: US
+id: OReQ25A9SFoE
+language: en
+most_recent_release: '2023-12-17T00:00:00'
+publisher_id: '2820515'
+publisher_name: Uniter Grow
+rank: '206'
+release_count_in_past_year: '1'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 32
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

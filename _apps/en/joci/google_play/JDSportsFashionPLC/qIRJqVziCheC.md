@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/-Z_kFAMl2T9pKbZZyasAJ9FFfC8Qr-P6thGVaWIl0ZH-XH9iFRATdfuNwXgHeuSqxQ
+app_id: com.jd.jdsportsusa
+app_name: 'JD Sports: Shoes & sneakers'
+app_screenshot: https://play-lh.googleusercontent.com/I-17x1-73nZ2AtbTHy7WF7rR07xt4fAzawSPTwBMCUTb9dJdF2EivQEMs-c6wMKAWw
+category: Shopping
+country: US
+id: qIRJqVziCheC
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '265737'
+publisher_name: JD Sports Fashion PLC
+rank: '83'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 23
+release_count_in_past_year_top_in_category: 48
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

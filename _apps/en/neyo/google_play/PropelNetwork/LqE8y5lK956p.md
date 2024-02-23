@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/uWpG_iO4nG5uQK6YmRZzOpACZ-60_5ND0PLT4HsKi5BbZtFARyRylN5_e68a2mza-8A
+app_id: com.tm.nurx
+app_name: Nurx - Healthcare & Rx at Home
+app_screenshot: https://play-lh.googleusercontent.com/ajM9HeHrgCKc3rdRGGjy5vdGumx3B3VPaRORUSFSuBBUbUb2mQUqFW2A9YiYcF1Vnvcc
+category: Medical
+country: US
+id: LqE8y5lK956p
+language: en
+most_recent_release: '2022-05-10T00:00:00'
+publisher_id: '2055565'
+publisher_name: Propel Network
+rank: '166'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 11
+release_count_in_past_year_top_in_category: 16
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: google_play
+---

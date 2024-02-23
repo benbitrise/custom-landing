@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/0s7-gmxxjglx5yIIF5-o1j3ybqZEHpXl9xpyZVsGNKXHmSFfN6zM0rVEtN2B9U6tZG4
+app_id: com.neighbfav.neighborfavor
+app_name: Favor - Local Delivery Service
+app_screenshot: https://play-lh.googleusercontent.com/pYvzBzwWgQWag25n_pRbu5fkCZWkoQYNIbWvTPk8u1AsHWW_y4XkF7VGYQik54baauCv
+category: Food & Drink
+country: US
+id: uD0C2HtkyRWF
+language: en
+most_recent_release: '2024-02-19T00:00:00'
+publisher_id: '365167'
+publisher_name: NeighborFavor, Inc.
+rank: '66'
+release_count_in_past_year: '24'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

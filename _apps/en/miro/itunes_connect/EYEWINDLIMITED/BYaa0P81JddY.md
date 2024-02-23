@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/9e/63/789e632e-c2a2-9eb8-e203-a771e8480d35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '1477841973'
+app_name: Brain Out -Tricky riddle games
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a0/ec/91/a0ec915d-e615-ebd6-fe9c-6b39d27f25eb/8cb7f962-ff8e-4b9b-ab79-51037c83a262_1.png/1242x2688bb.png
+category: Games
+country: US
+id: BYaa0P81JddY
+language: en
+most_recent_release: '2024-01-10T00:00:00'
+publisher_id: '1317690197'
+publisher_name: EYEWIND LIMITED
+rank: '449'
+release_count_in_past_year: '5'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

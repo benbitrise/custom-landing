@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zJRVpHXsXm8dvXfaEOGD_2Ic_3foSQCMEZ2dEGPk_FKN-_2MNBqXH2tKSd9hV0t7WBc
+app_id: fr.wemoms
+app_name: WeMoms Pregnancy Baby Tracker
+app_screenshot: https://play-lh.googleusercontent.com/R0TLu_kRe0uefQ9gDTkQGdb3rYrrGsS9RImouinT6XdtbAHSAPHy1QoiVhWeuDfJgBo
+category: Parenting
+country: US
+id: TP4-n34vxrNK
+language: en
+most_recent_release: '2024-02-15T00:00:00'
+publisher_id: '540172'
+publisher_name: WeMoms
+rank: '33'
+release_count_in_past_year: '77'
+release_count_in_past_year_category: 12
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

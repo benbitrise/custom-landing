@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/69/cd/f169cd0f-037a-7184-4e8a-bb34a0131a82/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1024x1024bb.png
+app_id: '498833085'
+app_name: DW - Breaking World News
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/31/c8/b131c8bb-ae8d-64ad-8614-e6a040aadf15/b27e1a94-cc66-483d-8128-1e561c0e665c_iPhone_11_Pro_Max-1.png/1242x2688bb.png
+category: News
+country: US
+id: rfNAaAMVZD_L
+language: en
+most_recent_release: '2024-02-05T00:00:00'
+publisher_id: '305630107'
+publisher_name: Deutsche Welle
+rank: '369'
+release_count_in_past_year: '14'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

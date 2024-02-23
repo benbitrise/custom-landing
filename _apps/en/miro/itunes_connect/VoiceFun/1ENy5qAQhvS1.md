@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/a7/cc/2ca7ccdc-e57c-e357-0f0b-ff197f8d9b5e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6461690849'
+app_name: VoiceFun - Voice Generator
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/20/39/a0/2039a08e-e4ca-b919-db98-67d103b83882/9abeff7e-fed0-4664-a468-50a93b3cc38f_1242_U00d72688.jpg/1242x2688bb.png
+category: Music
+country: US
+id: 1ENy5qAQhvS1
+language: en
+most_recent_release: ''
+publisher_id: '1702625571'
+publisher_name: VoiceFun
+rank: '287'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

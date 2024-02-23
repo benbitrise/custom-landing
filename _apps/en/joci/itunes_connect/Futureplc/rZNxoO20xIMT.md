@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/46/0a/c4/460ac43c-47e2-b4e1-e4e9-8a9df02a020c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '471265495'
+app_name: Digital Photographer Monthly
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/0d/f6/590df67b-9a8d-fa3c-6395-34aeb3b331b8/06029f9e-9bfc-48dc-b605-9e77385282e1_1.png/1242x2688bb.png
+category: Magazine & Newspapers
+country: US
+id: rZNxoO20xIMT
+language: en
+most_recent_release: '2023-08-09T00:00:00'
+publisher_id: '378460265'
+publisher_name: Future plc
+rank: '471'
+release_count_in_past_year: '2'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 28
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

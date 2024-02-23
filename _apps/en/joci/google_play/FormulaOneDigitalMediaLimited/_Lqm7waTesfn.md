@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/n23XmdE9mmi9HkLF4pfT1QgaIAxeLMzvIvvTSyq9YTyma6X9i-5HuE-8Fc31g55sSQ
+app_id: com.softpauer.f1timingapp2014.basic
+app_name: Formula 1®
+app_screenshot: https://play-lh.googleusercontent.com/K0H6eGy_36gdLQJjhDpB4YpsYzwmACewT4alNbZhn7KESHIJ8CiCzB0fmG6RNx3dFQ
+category: Sports
+country: US
+id: _Lqm7waTesfn
+language: en
+most_recent_release: '2024-02-20T00:00:00'
+publisher_id: '358622'
+publisher_name: Formula One Digital Media Limited
+rank: '119'
+release_count_in_past_year: '27'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 20
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

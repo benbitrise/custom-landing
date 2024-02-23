@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/dZsLjW2nTSLu9oMwSDQTQrItd--PgmXgoQez4Qh40C2kA6eIU6LwVZhzuwocJ_h62UYp
+app_id: com.cardfree.android.redlobster
+app_name: Red Lobster Dining Rewards App
+app_screenshot: https://play-lh.googleusercontent.com/3NtDElz201dBk_Q55xrztF_tNvUMAoWJf_KtAQGg9K0jn5lC0ISw62hTRttyR3_3WhIj
+category: Food & Drink
+country: US
+id: -qJBwMglBaeo
+language: en
+most_recent_release: '2023-10-30T00:00:00'
+publisher_id: '1026504'
+publisher_name: My Red Lobster Rewards
+rank: '50'
+release_count_in_past_year: '4'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 31
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

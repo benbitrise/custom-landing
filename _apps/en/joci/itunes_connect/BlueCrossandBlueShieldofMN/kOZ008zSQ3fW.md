@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/50/ef/2950ef11-26d7-f244-f16b-482fbb6c3bbb/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png
+app_id: '1418116475'
+app_name: BlueCrossMN Mobile
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/60/8d/83608d2d-6b2c-77bc-585e-6556617af393/14f40eae-65d9-4085-890d-36b583af4d40_iPhone_Overview.jpg/1242x2688bb.png
+category: Medical
+country: US
+id: kOZ008zSQ3fW
+language: en
+most_recent_release: '2023-08-30T00:00:00'
+publisher_id: '715873178'
+publisher_name: Blue Cross and Blue Shield of MN
+rank: '404'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

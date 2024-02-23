@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/22/97/5c229786-8d2d-a8a7-e438-4ddea4c1342f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1309909578'
+app_name: PushPress Members
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/2c/31/cd2c315a-bf02-e88d-710e-f6e4a61d8722/70d7a96b-2053-4e6b-becf-45e40628d18c_phone.6.5-1.jpg/1242x2688bb.png
+category: Health & Fitness
+country: US
+id: WmWOaqm_XOVR
+language: en
+most_recent_release: '2024-01-18T00:00:00'
+publisher_id: '688595778'
+publisher_name: PushPress
+rank: '390'
+release_count_in_past_year: '8'
+release_count_in_past_year_category: 18
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

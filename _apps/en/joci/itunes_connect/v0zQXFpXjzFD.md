@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/2c/3d/262c3d3e-2600-63bd-02ca-a05255e0029b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png
+app_id: '1493256837'
+app_name: Audio Editor - Music editor
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5e/94/d6/5e94d63b-70ce-5d86-8a7f-6161ff80c867/9098f0ca-8d1e-4ea2-be5e-807d7172b3fd_max_lp_en_home.png/1242x2688bb.png
+category: Music
+country: US
+id: v0zQXFpXjzFD
+language: en
+most_recent_release: '2024-01-22T00:00:00'
+publisher_id: '1327776332'
+publisher_name: 苏娟 陈
+rank: '89'
+release_count_in_past_year: '12'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 35
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

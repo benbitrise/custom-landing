@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/93/8e/64938e28-ca40-e2d6-bbd4-acb4e004aa43/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/1024x1024bb.png
+app_id: '1571919732'
+app_name: WIYAK - A Story in Every Ride
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/76/49/27/76492742-eeea-5d00-1381-58a88d66aeaa/e7c84bd6-6619-476c-8818-66fbd448c175_1.JPG/1242x2688bb.png
+category: Travel
+country: US
+id: beIhuJR-m30c
+language: en
+most_recent_release: '2024-01-19T00:00:00'
+publisher_id: '1571919734'
+publisher_name: Wiyak
+rank: '492'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 42
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

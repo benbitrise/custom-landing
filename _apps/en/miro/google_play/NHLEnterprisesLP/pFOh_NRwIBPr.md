@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA
+app_id: com.nhl.gc1112.free
+app_name: NHL
+app_screenshot: https://play-lh.googleusercontent.com/AoD6JnZEMsI0yOsC-T8bPGdKLk69QngY_FFiLNlWif_3DaCSyK6Z5lJkIQwlYKN1g1Y
+category: Sports
+country: US
+id: pFOh_NRwIBPr
+language: en
+most_recent_release: '2024-01-25T00:00:00'
+publisher_id: '2832744'
+publisher_name: NHL Enterprises, LP
+rank: '120'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 20
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

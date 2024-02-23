@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/91/f1/b891f115-9191-965c-c210-ce714d722c51/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png
+app_id: '1663532572'
+app_name: APTA CSM Events
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/42/55/5e425566-ae65-7085-85a2-656d4014f432/6edb6f70-35c6-4e22-8aac-6fe368586561_Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2024-01-30_at_16.20.45.png/1242x2688bb.png
+category: Business
+country: US
+id: pLbaHQKCJdry
+language: en
+most_recent_release: '2024-01-30T00:00:00'
+publisher_id: '1638351874'
+publisher_name: American Physical Therapy Association
+rank: '117'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 38
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

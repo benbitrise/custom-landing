@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/2b/d2/352bd2e5-72ac-fd31-a97d-d1e8c95d82d7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png
+app_id: '1478902583'
+app_name: Retro Bowl
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/db/0f/fedb0fe7-b57c-e12f-f66c-fb284d72e346/pr_source.png/2688x1242bb.png
+category: Games
+country: US
+id: J0Nhd_bBpb26
+language: en
+most_recent_release: '2024-02-08T00:00:00'
+publisher_id: '413849591'
+publisher_name: New Star Games
+rank: '67'
+release_count_in_past_year: '6'
+release_count_in_past_year_category: 15
+release_count_in_past_year_top_in_category: 22
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

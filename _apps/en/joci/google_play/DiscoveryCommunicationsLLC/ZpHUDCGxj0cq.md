@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/XOYXQfbkJA9HMEGryVjl3sJnCSgvHWb9J4VQCO5qhGRj0Ue8bgw0kzuXTCAWSA41cZE
+app_id: com.discovery.discoveryplus.mobile
+app_name: discovery+ | Stream TV Shows
+app_screenshot: https://play-lh.googleusercontent.com/8ruVllEvORHr8JXpkgmH3COoPmkNDPQ67iGTJXwIrg8JkzkOkQSOz0-G7XMDh85dww
+category: Entertainment
+country: US
+id: ZpHUDCGxj0cq
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '2164012'
+publisher_name: Discovery Communications LLC
+rank: '122'
+release_count_in_past_year: '7'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 29
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/45/03/64450380-4e5e-87d7-83ec-4d3034273f1f/AppIcon-1x_U007epad-0-0-85-220-0.png/1024x1024bb.png
+app_id: '602660809'
+app_name: Reuters News
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/4d/57/4a4d5762-b3fd-fd5e-5331-63ddcb6dbf4f/c7102510-c368-492b-82dc-7d793db20486_1st_screen.jpg/1242x2688bb.png
+category: News
+country: US
+id: S8tiJgmXQ9hK
+language: en
+most_recent_release: '2023-12-13T00:00:00'
+publisher_id: '314213170'
+publisher_name: Thomson Reuters
+rank: '57'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 9
+release_count_in_past_year_top_in_category: 38
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

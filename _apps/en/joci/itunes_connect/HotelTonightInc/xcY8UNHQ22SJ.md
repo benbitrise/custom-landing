@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/82/44/bb82444d-ff89-b42f-6b51-531f9cadbb90/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1024x1024bb.png
+app_id: '407690035'
+app_name: HotelTonight - Hotel Deals
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/db/a6/fe/dba6fe3b-2baa-aeff-60ae-836eea882976/1ec5afd0-28f8-4bdd-9ef2-c6d133f7d283_US_-_iPhone_XS_Max_-_01.jpg/1242x2688bb.png
+category: Travel
+country: US
+id: xcY8UNHQ22SJ
+language: en
+most_recent_release: '2024-02-02T00:00:00'
+publisher_id: '690289052'
+publisher_name: Hotel Tonight Inc
+rank: '119'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 17
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

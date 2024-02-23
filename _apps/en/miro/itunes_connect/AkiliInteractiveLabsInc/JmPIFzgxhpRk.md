@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/0f/64/930f646d-05ea-49f9-7813-0684ba6c6f45/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png
+app_id: '6447322997'
+app_name: 'EndeavorOTC®: Outplay ADHD'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/5e/63/f15e6352-1689-67e2-631d-d72af5aa61a3/bdb7e060-b47a-4988-a956-5301b4d81d44_1.png/2778x1284bb.png
+category: Medical
+country: US
+id: JmPIFzgxhpRk
+language: en
+most_recent_release: ''
+publisher_id: '1261469834'
+publisher_name: Akili Interactive Labs, Inc.
+rank: '106'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 10
+release_count_in_past_year_top_in_category: 19
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

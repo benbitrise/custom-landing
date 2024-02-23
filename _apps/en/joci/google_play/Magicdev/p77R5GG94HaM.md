@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/5lzgUhdi1cWXOEuXjytGStji6xK00w1Vug1hf8t9pPwPO0Rh8jUT1kqt8YE7SmTsMHg
+app_id: com.magicdev.mods.melon.playground
+app_name: Addon Mod for Melon Playground
+app_screenshot: https://play-lh.googleusercontent.com/fOqdErfFlrviJ5plfFwEWw6BVufxU6ZiuM45Or63kuk7bfVjWOswVHbCWG8GM_0uew
+category: Libraries & Demo
+country: US
+id: p77R5GG94HaM
+language: en
+most_recent_release: '2023-10-31T00:00:00'
+publisher_id: '2643310'
+publisher_name: Magicdev
+rank: '13'
+release_count_in_past_year: '11'
+release_count_in_past_year_category: 4
+release_count_in_past_year_top_in_category: 8
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

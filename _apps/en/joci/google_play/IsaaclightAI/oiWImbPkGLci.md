@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/nNBd-paqfBjN9vQF_NM3eq1Y4tFfHbL-w4jl4dEze08vR84mXj1AMPjXlbSXUKIeLg
+app_id: authenticator.app.otp.mfa.password.manager.private.browser
+app_name: 'Authenticator: 2FA & Password'
+app_screenshot: https://play-lh.googleusercontent.com/cDilZYdvzpz_mY2xeU1jqgFnXRswbM6ZS4kzXSCeYQNLcms3fxaDzhbhCRAx50MMg1U
+category: Tools
+country: US
+id: oiWImbPkGLci
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '3068936'
+publisher_name: Isaaclight AI
+rank: '179'
+release_count_in_past_year: '9'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

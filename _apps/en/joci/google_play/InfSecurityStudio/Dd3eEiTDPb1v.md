@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/ymhMvGKYAPsQBRWzpTt3WV7tGcEiCuIVsPyjzyvE1Wa9kB8c4jM7T9UG9NeeYUwuSUw
+app_id: co.infinitevpn.free.proxy
+app_name: VPN Inf - Security Fast VPN
+app_screenshot: https://play-lh.googleusercontent.com/_DTe2fBDZJEq3xSwkVnhQQvc0j24-v0K5U7rWQqGcN8VJwyyLOyfxcfkvN5YjuYHGSQ
+category: Tools
+country: US
+id: Dd3eEiTDPb1v
+language: en
+most_recent_release: '2024-02-14T00:00:00'
+publisher_id: '2050579'
+publisher_name: Inf Security Studio
+rank: '166'
+release_count_in_past_year: '40'
+release_count_in_past_year_category: 13
+release_count_in_past_year_top_in_category: 15
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: google_play
+---

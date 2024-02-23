@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/e6/57/96e657d8-0d03-41df-dd02-242cb2e0c113/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/1024x1024bb.png
+app_id: '706143974'
+app_name: WDIV 4Warn Weather
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/3e/1a/cd3e1a54-ae2a-4a81-3db5-325a4e97dbb9/pr_source.png/1242x2688bb.png
+category: Weather
+country: US
+id: -L8MK-P4tVZd
+language: en
+most_recent_release: '2023-10-24T00:00:00'
+publisher_id: '525605604'
+publisher_name: Graham Media Group, Inc
+rank: '130'
+release_count_in_past_year: '3'
+release_count_in_past_year_category: 8
+release_count_in_past_year_top_in_category: 23
+rep_email: nehemoyia.young@bitrise.io
+rep_first_name: Nehemoyiah
+rep_full_name: Nehemoyiah Young
+rep_linkedin: https://uk.linkedin.com/in/anna-magnussen-0977131b
+rep_phone: +1 512-577-4531
+rep_photo: nehemoyiah.jpg
+rep_title: Business Development Rep
+store: itunes_connect
+---

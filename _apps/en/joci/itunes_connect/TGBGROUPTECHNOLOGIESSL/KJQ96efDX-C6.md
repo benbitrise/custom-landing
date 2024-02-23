@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/88/e5/9f88e5ad-7e60-9eb5-2997-7e6b8ac23965/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6469090394'
+app_name: 'Dobi: Video Call, Live Chat'
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/45/eb/6c/45eb6c36-7018-04b6-497b-f4dd823a3d3f/1d32e00b-90d1-452b-a658-642cae0e70d1_1_Uff081242_2688_Uff09_U82f1_U8bed.jpg/1242x2688bb.png
+category: Social Networking
+country: US
+id: KJQ96efDX-C6
+language: en
+most_recent_release: ''
+publisher_id: '1711515056'
+publisher_name: TGB GROUP TECHNOLOGIES SL.
+rank: '158'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 42
+rep_email: joseph.cillis@bitrise.io
+rep_first_name: Joe
+rep_full_name: Joe Cillis
+rep_linkedin: https://www.linkedin.com/in/joecillis
+rep_phone: +1 518-258-1902
+rep_photo: joe.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

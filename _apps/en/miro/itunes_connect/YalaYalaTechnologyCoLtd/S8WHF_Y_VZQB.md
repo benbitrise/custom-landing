@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/4b/b4/854bb406-120c-d364-c4f1-a5d71cb7224e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '6446024523'
+app_name: Bofire - Dating for singles
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/aa/27/35/aa27356c-dde0-704a-d151-fe717784a04d/8e273329-5532-4bf0-a37a-54f2a8ba6fb9_1.jpg/1242x2688bb.png
+category: Lifestyle
+country: US
+id: S8WHF_Y_VZQB
+language: en
+most_recent_release: ''
+publisher_id: '1675478245'
+publisher_name: YalaYala Technology Co., Ltd.
+rank: '430'
+release_count_in_past_year: '0'
+release_count_in_past_year_category: 16
+release_count_in_past_year_top_in_category: 36
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---

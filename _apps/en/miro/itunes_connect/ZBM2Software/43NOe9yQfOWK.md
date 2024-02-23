@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/8e/ca/9d8ecaba-066e-edec-8035-60649b92ee9d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png
+app_id: '606820166'
+app_name: RepeaterBook
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/73/04/fa/7304fad3-ff4a-dee9-1d29-a46784d49921/pr_source.png/1242x2688bb.png
+category: Reference
+country: US
+id: 43NOe9yQfOWK
+language: en
+most_recent_release: '2024-01-26T00:00:00'
+publisher_id: '606820189'
+publisher_name: ZBM2 Software
+rank: '339'
+release_count_in_past_year: '15'
+release_count_in_past_year_category: 6
+release_count_in_past_year_top_in_category: 24
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---
