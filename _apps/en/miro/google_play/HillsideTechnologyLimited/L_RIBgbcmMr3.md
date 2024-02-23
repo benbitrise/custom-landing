@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/GGugNQQm9OOH2sNi-rrX4iGTq5LccZb6ixDGXYfzqPcOUfKJoe3qjIw2DxnTV_H60fc
+app_id: com.bet365SportsCA.Bet365_Application
+app_name: bet365 Sports Betting (CA)
+app_screenshot: https://play-lh.googleusercontent.com/a5j3g0uwahZJ8cOgdW-nMLOPmBJjgG3ptvnjVxTzdrihBUrYjLhruIp6LfgNshmP8DJJ
+category: Sports
+country: CA
+id: L_RIBgbcmMr3
+language: en
+most_recent_release: '2024-01-31T00:00:00'
+publisher_id: '540975'
+publisher_name: Hillside Technology Limited
+rank: '3'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 41
+release_count_in_past_year_top_in_category: 41
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

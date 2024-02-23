@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/zinq7l3nhQ_IovwEiAcfT7vfjJHvpQlaYbYFhm-oKsoxO5FaFEKEJ4uUqc6Xbk-bMRaP
+app_id: com.tickpickllc.ceobrien.tickpick
+app_name: TickPick - Live Event Tickets
+app_screenshot: https://play-lh.googleusercontent.com/xs73fBhpM_pAZksBijMegBEEhbuetBlbhkUHjUgrnRFFGcluwqimHI_PTlfduK6mJfo
+category: Events
+country: CA
+id: rMpZCxzDmtX9
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '507437'
+publisher_name: TickPick LLC
+rank: '2'
+release_count_in_past_year: '32'
+release_count_in_past_year_category: 27
+release_count_in_past_year_top_in_category: 27
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---

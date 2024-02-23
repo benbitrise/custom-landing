@@ -1,0 +1,25 @@
+---
+app_icon: https://play-lh.googleusercontent.com/Xy8NOV0EXdrbji891ShNk9HKqYWtC0__mQDrSA_SNlqcg-a0OarjX1Ny3kIxxYPoZkc
+app_id: com.tubitv
+app_name: 'Tubi: Movies & Live TV'
+app_screenshot: https://play-lh.googleusercontent.com/y_BpXbsnSc9MC4Ys9EwaiU7DI5sKEA0BOUr_pNYW2kDe9vRGFAnIAHgaFMhYlgKtHCE
+category: Entertainment
+country: CA
+id: 7DuEIJkqY1R4
+language: en
+most_recent_release: '2024-02-12T00:00:00'
+publisher_id: '483443'
+publisher_name: Tubi TV
+rank: '2'
+release_count_in_past_year: '42'
+release_count_in_past_year_category: 34
+release_count_in_past_year_top_in_category: 34
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: google_play
+---
