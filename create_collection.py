@@ -1,4 +1,5 @@
 import csv
+import argparse
 import os
 import shutil
 from collections import defaultdict
@@ -29,7 +30,8 @@ reps=[
         "first_name": "Lio",
         "photo": "lio.jpg",
         "ref": "lile",
-        "languages": ['en', 'fr']
+        "languages": ['en', 'fr'],
+        "countries": ['FR', 'AT', 'DE', 'IT', 'BE', 'ES', 'PT', 'ID', 'SG', 'QA', 'AE', 'JO', 'IL', 'PL', 'TR']
     },
     {
         "full_name": "Joe Cillis",
@@ -40,7 +42,8 @@ reps=[
         "first_name": "Joe",
         "photo": "joe.jpg",
         "ref": "joci",
-        "languages": ['en']
+        "languages": ['en'],
+        "countries": ['US', 'CA', 'MX', 'BR']
     },
     {
         "full_name": "Michael Roguly",
@@ -51,7 +54,8 @@ reps=[
         "first_name": "Michael",
         "photo": "michael.jpg",
         "ref": "miro",
-        "languages": ['en']
+        "languages": ['en'],
+        "countries": ['US', 'CA', 'MX', 'BR']
     },
     {
         "full_name": "Anna Magnussen",
@@ -62,7 +66,8 @@ reps=[
         "first_name": "Anna",
         "photo": "anna.jpg",
         "ref": "anma",
-        "languages": ['en']
+        "languages": ['en'],
+        "countries": ['UK', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ']
     },
     {
         "full_name": "Nehemoyiah Young",
@@ -73,7 +78,8 @@ reps=[
         "first_name": "Nehemoyiah",
         "photo": "nehemoyiah.jpg",
         "ref": "neyo",
-        "languages": ['en']
+        "languages": ['en'],
+        "countries": ['US', 'CA', 'MX', 'BR']
     },
     {
         "full_name": "Gonzalo Gomez-Ilera",
@@ -84,7 +90,8 @@ reps=[
         "first_name": "Gonzalo",
         "photo": "gonzalo.jpg",
         "ref": "gogo",
-        "languages": ['en', 'es']
+        "languages": ['en', 'es'],
+        "countries": ['UK', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ', 'FR', 'AT', 'DE', 'IT', 'BE', 'ES', 'PT', 'ID', 'SG', 'QA', 'AE', 'JO', 'IL', 'PL', 'TR']
     },
 ]
 
@@ -105,7 +112,7 @@ def hash(app_id, store):
     encoded_hash = base64.urlsafe_b64encode(hasher.digest()).decode('utf-8')
     return encoded_hash[:12]
 
-def list_file_info():
+def list_file_info(desired_country_code):
     subdir="app_data"
     for filename in os.listdir(subdir):
     # Check if the filename ends with ".csv"
@@ -115,8 +122,9 @@ def list_file_info():
 
             # Extract the country code and store from the filename parts
             country_code = parts[-1].split('.')[0]
-            store = f"{parts[-3]}_{parts[-2]}"
-            yield (country_code, store, f"{subdir}/{filename}")        
+            if country_code == desired_country_code:
+                store = f"{parts[-3]}_{parts[-2]}"
+                yield (store, f"{subdir}/{filename}")        
 
 def create_collections_dir(companies_dir):
     # Create the _companies directory if it doesn't exist
@@ -174,7 +182,7 @@ def create_page(rep, country_code, store, filename, average_releases, companies_
                 unique_id=hash(row['app_id'], store)
                 filename = f"{unique_id}.md"
                 subdir_name = sanitize_string_for_directory_name(row['publisher_name'])
-                subdir = os.path.join(companies_dir, language, rep['ref'], country_code, store, subdir_name)
+                subdir = os.path.join(companies_dir, language, rep['ref'], store, subdir_name)
                 os.makedirs(subdir, exist_ok=True)
                 filepath = os.path.join(subdir, filename)
 
@@ -219,7 +227,7 @@ def worker_task(rep, country_code, store, filename, averages, companies_dir):
     logging.info(f"FINISH: {rep['first_name']}, {country_code}, {store} from {filename}")
 
 
-def main():
+def main(country_code):
     companies_dir = '_apps'
     create_collections_dir(companies_dir)
     
@@ -228,7 +236,7 @@ def main():
 
     # Use ThreadPoolExecutor to handle file I/O-bound tasks
     with ThreadPoolExecutor(max_workers=8) as executor:  # Adjust the number of workers as needed
-        for (country_code, store, filename) in list_file_info():
+        for (store, filename) in list_file_info(country_code):
             averages = create_averages(country_code, store, filename)
             
             # Submit tasks to the executor
@@ -243,5 +251,11 @@ def main():
             except Exception as exc:
                 print(f'Generated an exception: {exc}')
 
+
+parser = argparse.ArgumentParser(description='create front matter for a country')
+parser.add_argument('--country', type=str, required=True, help='ISO country code')
+args = parser.parse_args()
+
 if __name__ == "__main__":
-    main()
+    country_code = args.country.upper() 
+    main(country_code)
