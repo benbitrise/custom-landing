@@ -1,0 +1,25 @@
+---
+app_icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/e1/6b/95e16be7-1c32-32fa-499f-5094219c5ed8/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1024x1024bb.png
+app_id: '429047995'
+app_name: Pinterest
+app_screenshot: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/5d/4f/425d4f1b-33aa-c4d8-968d-d6fba519aa3f/9658d9c0-75b8-4670-80af-e8c3b8bd92b7_230731_Q4_AppStore-H2_EN_iOSApp_Image-Designed_1284x2778_iPhone-6.5_Multivertical_1.png/1284x2778bb.png
+category: Lifestyle
+country: BR
+id: PAGUF37NQW9d
+language: en
+most_recent_release: '2024-02-21T00:00:00'
+publisher_id: '328135727'
+publisher_name: Pinterest
+rank: '1'
+release_count_in_past_year: '61'
+release_count_in_past_year_category: 36
+release_count_in_past_year_top_in_category: 36
+rep_email: michael.roguly@bitrise.io
+rep_first_name: Michael
+rep_full_name: Michael Roguly
+rep_linkedin: https://www.linkedin.com/in/michael-roguly-77376710
+rep_phone: +1 949-233-3404
+rep_photo: michael.jpg
+rep_title: Account Manager
+store: itunes_connect
+---
