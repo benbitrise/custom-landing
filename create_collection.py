@@ -235,7 +235,7 @@ def main(country_code):
     future_tasks = []
 
     # Use ThreadPoolExecutor to handle file I/O-bound tasks
-    with ThreadPoolExecutor(max_workers=8) as executor:  # Adjust the number of workers as needed
+    with ThreadPoolExecutor(max_workers=6) as executor:  # Adjust the number of workers as needed
         for (store, filename) in list_file_info(country_code):
             averages = create_averages(country_code, store, filename)
             
