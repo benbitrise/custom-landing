@@ -67,19 +67,7 @@ reps=[
         "photo": "anna.jpg",
         "ref": "anma",
         "languages": ['en'],
-        "countries": ['UK', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ']
-    },
-    {
-        "full_name": "Nehemoyiah Young",
-        "linkedin": "https://uk.linkedin.com/in/anna-magnussen-0977131b",
-        "phone": "+1 512-577-4531",
-        "email": "nehemoyia.young@bitrise.io",
-        "title": "Business Development Rep",
-        "first_name": "Nehemoyiah",
-        "photo": "nehemoyiah.jpg",
-        "ref": "neyo",
-        "languages": ['en'],
-        "countries": ['US', 'CA', 'MX', 'BR']
+        "countries": ['GB', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ']
     },
     {
         "full_name": "Gonzalo Gomez-Ilera",
@@ -91,7 +79,7 @@ reps=[
         "photo": "gonzalo.jpg",
         "ref": "gogo",
         "languages": ['en', 'es'],
-        "countries": ['UK', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ', 'FR', 'AT', 'DE', 'IT', 'BE', 'ES', 'PT', 'ID', 'SG', 'QA', 'AE', 'JO', 'IL', 'PL', 'TR']
+        "countries": ['GB', 'NL', 'SE', 'NO', 'DK', 'IN', 'JP', 'AU', 'NZ', 'FR', 'AT', 'DE', 'IT', 'BE', 'ES', 'PT', 'ID', 'SG', 'QA', 'AE', 'JO', 'IL', 'PL', 'TR']
     },
 ]
 
