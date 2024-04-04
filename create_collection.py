@@ -60,7 +60,7 @@ reps=[
     {
         "full_name": "Anna Magnussen",
         "linkedin": "https://uk.linkedin.com/in/anna-magnussen-0977131b",
-        "phone": "0044 73 918 00286",
+        "phone": "+44 772 2064781",
         "email": "anna.magnussen@bitrise.io",
         "title": "Account Manager",
         "first_name": "Anna",
